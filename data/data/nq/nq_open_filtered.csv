@@ -1,0 +1,1041 @@
+,question,answer,def_correct_predictions,poss_correct_predictions,def_incorrect_predictions,answer_and_def_correct_predictions,length
+1,how many 5 star generals are there in the us,Nine,[],[],['none'],['Nine'],1
+2,who killed natalie and ann in sharp objects,Amma,[],[],"['chucky', 'Camille Preaker', 'Luke']",['Amma'],1
+5,youngest current member of the house of representatives,Alexandria Ocasio-Cortez,[],"['elise stefanik', 'elise marie stefanik']","['Kevin McCarthy', '29']",['Alexandria Ocasio-Cortez'],1
+6,who wrote the miraculous journey of edward tulane,Kate DiCamillo,[],[],[],['Kate DiCamillo'],1
+9,who signed the sugauli treaty on behalf of nepal,Raj Guru Gajaraj Mishra,"['raj guru gajraj mishra', 'Chandra Sekher Upadhyaya']",[],"['Singha Durbar', 'Nepal']","['Raj Guru Gajaraj Mishra', 'raj guru gajraj mishra', 'Chandra Sekher Upadhyaya']",1
+10,how many players on an nfl active roster,53,[],[],"['eleven', '46']",['53'],1
+12,when did part 2 making a murderer come out,"October 19, 2018",[],[],[],"['October 19, 2018']",1
+13,who is the guy with arrows in avengers,Hawkeye,[],['Yondu'],"['trick shot', 'Golden Archer', 'Constantine Drakon', 'Thanos', 'Thor']",['Hawkeye'],1
+15,how many players can an nfl team have,53-member main roster,['53'],[],"['eleven', 'a maximum of 53', 'a maximum of eleven', '11']","['53-member main roster', '53']",1
+19,a fatty acid that has one double bond,oleic acid,['unsaturated fat'],[],"['monounsaturated fatty acids', 'monounsaturated', 'stearidonic acid', 'alkenes', 'monounsaturated fat']","['oleic acid', 'unsaturated fat']",1
+20,who wrote you're a grand ol flag,George M. Cohan,[],[],['Lee Thomas Miller'],['George M. Cohan'],1
+22,what vertebral level does the inferior vena cava pass through the diaphragm,the caval opening,['t8'],[],"['right atrium of the heart', 'T12']","['the caval opening', 't8']",1
+27,who played charlotte first husband on sex and the city,Trey MacDougal,['Kyle MacLachlan'],[],['evan handler'],"['Trey MacDougal', 'Kyle MacLachlan']",1
+29,how long can you hold the ball in hurling,not more than four steps,['four steps'],[],"['five-second', '80 minutes', 'three years', 'five seconds']","['not more than four steps', 'four steps']",1
+33,what is the full meaning of mips in computer,Microprocessor without Interlocked Pipelined Stages,"['microprocessor without interlocked pipeline stages', 'microprocessor']",[],"['instructions per second', 'instruction execution speed', 'MIPS architecture']","['Microprocessor without Interlocked Pipelined Stages', 'microprocessor without interlocked pipeline stages', 'microprocessor']",1
+34,who played al pacino's sister in scarface,Mary Elizabeth Mastrantonio,[],[],[],['Mary Elizabeth Mastrantonio'],1
+35,who won worst cooks in america season 17,Daniel Mar,[],[],"['tyler florence', 'Nick Slater', 'Michelle Tribble', 'lvaro lvarez', 'Hazell Mckenzie', 'Vivica']",['Daniel Mar'],1
+36,who played the title roll in the harry potter films,Daniel Radcliffe,['Daniel Jacob Radcliffe'],[],"['michael gambon', 'alan rickman', 'Matthew Broderick']","['Daniel Radcliffe', 'Daniel Jacob Radcliffe']",1
+38,how many movies are in the fast and furious franchise,8,[],"['seven', '10', '6', '7']","['furious 7', 'The Fast and the Furious']",['8'],1
+40,when does stranded deep come out for xbox,October 2018,[],[],"['august 22, 2017', '2018', 'March 14, 2017']",['October 2018'],1
+41,when is the hundredth episode of the flash,"December 4, 2018",[],[],"['October 8, 1998', 'March 27, 2018', 'January 27, 2018', '2019', 'may 22, 2018', 'October 10, 2017', 'April 10, 2019']","['December\xa04,\xa02018']",1
+46,who said it's not what your country can do for you but what you can do for your country,John F. Kennedy,['former President John F. Kennedy'],[],[],"['John F. Kennedy', 'former President John F. Kennedy']",1
+47,when does lil wayne new album drop 2018,"September 28, 2018",[],[],[],"['September 28, 2018']",1
+49,when does the regular nba basketball season start,"October 16, 2018",[],"['october 17, 2017']",[],"['October 16, 2018']",1
+50,terre haute north vigo high school terre haute in,Indiana,"['terre haute, indiana', 'Vigo County, Indiana']",[],"['Manarola', 'Indiana State University']","['Indiana', 'terre haute, indiana', 'Vigo County, Indiana']",1
+52,what is the symbolism of the ghost of christmas present,Father Christmas,"['peace on Earth and good will toward men', 'peace on earth']",['warmth'],['A Christmas Carol'],"['Father Christmas', 'peace on Earth and good will toward men', 'peace on earth']",1
+53,where was the third season of fargo filmed,"Calgary, Alberta",[],[],['St. Cloud'],"['Calgary, Alberta']",1
+54,comprehensive written version of the jewish oral law,Oral Torah,['talmud'],[],"['the Mishnah', 'The Mishnah or Mishna', 'Shulchan Aruch', 'Deuteronomy']","['Oral Torah', 'talmud']",1
+55,what time is it in the west coast of america,The Pacific standard time zone,"['pacific time zone', 'Pacific Standard Time']","['2:00 a.m.', '8 : 00 p. m.', '6:00 a.m.']","['01:00 LST', 'nine to twelve months']","['The Pacific standard time zone', 'pacific time zone', 'Pacific Standard Time']",1
+56,when do the nfl raiders move to las vegas,2020,[],[],['as soon as 2019'],['2020'],1
+57,what is an example of a file path,/,"['/ Payroll / Salaries / Managers', '/Payroll/Salaries/Managers']",[],"['file.txt', 'directory', 'filename', 'payroll', 'EPUB', 'URI']","['/', '/ Payroll / Salaries / Managers', '/Payroll/Salaries/Managers']",1
+58,who issued the declaration of the rights of man when was it written,France's National Constituent Assembly,['Thomas Jefferson'],['1789'],[],"[""France's National Constituent Assembly"", 'Thomas Jefferson']",1
+60,how long have they been doing the ball drop in new york,"December 31, 1907","['since 1907', '1907']",[],[],"['December 31, 1907', 'since 1907', '1907']",1
+62,who played guitar on run dmc king of rock,Eddie Martinez,['Eddie Paul Martinez'],[],['Steve Hunter'],"['Eddie Martinez', 'Eddie Paul Martinez']",1
+63,what was the rallying cry for the american revolution,No taxation without representation,[],[],"['declaration of independence', 'olive branch petition', 'Industrial Revolution', 'Battles of Lexington and Concord']",['No taxation without representation'],1
+65,who wrote the book the social contract theory,Jean-Jacques Rousseau,['Jean - Jacques Rousseau'],[],[],"['Jean-Jacques Rousseau', 'Jean - Jacques Rousseau']",1
+67,who commands the national guard in each state,the governor,[],"['state or territorial governor', 'the state adjutant general', 'adjutant general', 'the President']",['the Army National Guard'],['the governor'],1
+69,who is sent to rescue io from the monster argus,Hermes,[],[],"['Perseus', 'pele', 'Lou', 'Agenor']",['Hermes'],1
+70,who plays gilbert in anne with an e,Lucas Jade Zumann,[],[],"['Jonathan Crombie', 'James', 'Miranda de Pencier']",['Lucas Jade Zumann'],1
+72,what was the first black family tv show,Amos 'n Andy,[],[],"['good times', 'Generations', 'Harris and Company', 'The Jeffersons', 'the cosby show', 'ABC', 'The Partridge Family']","[""Amos 'n Andy""]",1
+73,how long have people been using the internet,1969,[],"['since the 1990s', 'the 1980s', 'january 1, 1983', '1960s', '1979']",['as early as 1849'],['1969'],1
+74,when were the books of the bible finalized,5th century,['by the 5th century'],[],"['c. 400 BCE', '132 bce', 'the second century CE']","['5th century', 'by the 5th century']",1
+75,who wrote the national anthem and what year,1814,[],"['francis scott key', '1931', 'rabindranath tagore']",[],['1814'],1
+77,how many episodes in game of theones season 8,six,[],[],['seven'],['six'],1
+78,when is devils line season 2 coming out,"July 26, 2016",[],[],"['2018', 'April 21, 2018', 'september 19, 2016', 'February 18, 2013', 'June 23, 2018']","['July 26, 2016']",1
+80,how much of the charlotte hornets does mj own,controlling interest,['largely owned'],[],"['89.5%', '$ 32. 5 million', '0', '100', 'a minority stake']","['controlling interest', 'largely owned']",1
+81,where did the name jack o lantern come from,East England,"['irish legend of stingy jack', 'Stingy Jack', 'Irish legend', 'Ireland']",[],"['english folklore', 'irish immigrants', 'Reverend John Russell']","['East England', 'irish legend of stingy jack', 'Stingy Jack', 'Irish legend', 'Ireland']",1
+83,who is the lead singer of 30 seconds to mars,Leto,['jared leto'],[],['Joywave'],"['Leto', 'jared leto']",1
+85,who is kate's husband on this is us,Toby Damon,[],[],"['jack pearson', 'Chris Sullivan', 'Kevin', 'Casey Hooper', 'Kevin Pearson', 'bradley whitford']",['Toby Damon'],1
+87,who sings this is me on the greatest showman,Keala Settle,[],[],[],['Keala Settle'],1
+88,where does insidious the last key take place,"Five Keys, New Mexico",[],[],"['Georgia', 'the United Kingdom']","['Five Keys, New Mexico']",1
+89,when did the houston astros become american league,2013,[],[],[],['2013'],1
+90,who plays lindsey salmon in the lovely bones,Rose McIver,[],[],['Stanley Tucci'],['Rose McIver'],1
+93,which intaglio printmaking process uses cutting tools called burins to create the image matrix,engraving,['engraved'],[],"['drypoint', 'Intaglio', 'gravure', 'aquatint']","['engraving', 'engraved']",1
+94,when was the last time wvu won a bowl game,"January 2, 2016",[],"['2012', '2016']","['2017', '2018']","['January 2, 2016']",1
+95,where was the tv series pie in the sky filmed,Marlow in Buckinghamshire,"['bray studios', 'Bisham in East Berkshire', 'Berkshire', 'bray studios at water oakley, near windsor in berkshire', 'Water Oakley', 'Oakley Court']",[],"['Vancouver, British Columbia']","['Marlow in Buckinghamshire', 'bray studios', 'Bisham in East Berkshire', 'Berkshire', 'bray studios at water oakley, near windsor in berkshire', 'Water Oakley', 'Oakley Court']",1
+98,who played the good witch of the south in the wiz,Lena Horne,[],[],"['Thelma Carpenter', 'Catherine Disher']",['Lena Horne'],1
+99,in the names of geologic eras what does the suffix zoic mean,life,[],['old life'],"['animal', 'Cenozoic', 'Paleozoic']",['life'],1
+100,who won the first game of 2018 world series,Boston Red Sox,[],[],"['los angeles dodgers', 'Dodgers']",['Boston Red Sox'],1
+101,who introduced the first actor to choral song to produce drama,"Somebody, presumably Thespis",['Thespis'],[],"['aeschylus', 'ancient greece', 'John Mitchell']","['Somebody, presumably Thespis', 'Thespis']",1
+102,where did the french east india company first established in india,1664,['Surat'],[],"['pondicherry', 'Pondich\\u00e9ry', 'chandernagore', 'the East Indies']","['1664', 'Surat']",1
+107,who plays mom on the haunting of hill house,Carla Gugino,[],[],[],['Carla Gugino'],1
+109,what is the scientific name for the shoulder bone,shoulder blade,['scapula'],[],"['humerus', 'femur']","['shoulder blade', 'scapula']",1
+110,who presides over the senate on a daily basis,a designated junior senator,[],"['vice president', 'President']",[],['a designated junior senator'],1
+112,who sang the theme song for dukes of hazzard,Waylon Jennings,[],[],[],['Waylon Jennings'],1
+116,who is considered the mother of modern dance,Martha Graham,[],"['Isadora Duncan', 'Dai Ailian']",['Kelly Clarkson'],['Martha Graham'],1
+118,what is the meaning of hindi word ji,a gender-neutral honorific,['honorific'],['respect'],"['my dear', 'sita ram ji', 'freedom or liberty', 'Sh\\u00f4rot']","['a gender-neutral honorific', 'honorific']",1
+120,who was the deaf dancer on dancing with the stars,Nyle DiMarco,[],[],"['shannon elizabeth', 'gerrard gosens', 'Jennie Finch Daigle']",['Nyle DiMarco'],1
+122,who is cursed by his father in mahabharat,Ashtavakra,[],[],"['arjuna', 'Yama', 'Bhishma', 'Yay\\u0101ti', 'Parashurama', 'Duryodhana', 'apsara', 'Abhimanyu', 'Samvarana', 'Krishna']",['Ashtavakra'],1
+124,who sings you ain't seen nothing yet,Bachman–Turner Overdrive,"['bachman -- turner overdrive', 'Randy Bachman']",[],"['Lisa Marie Presley', 'the blues magoos', 'Poison', 'Bachman\\\\u2013Turner Overdrive']","['Bachman–Turner Overdrive', 'bachman -- turner overdrive', 'Randy Bachman']",1
+125,who played scarecrow in the original wizard of oz,Raymond Wallace Bolger,"['Ray Bolger', 'ray bolger raymond wallace bolger']",[],[],"['Raymond Wallace Bolger', 'Ray Bolger', 'ray bolger raymond wallace bolger']",1
+126,who played the role of kilvish in shaktimaan,Surendra Pal,['mukesh khanna'],[],"['samaresh basu', 'Dulquer Salmaan']","['Surendra Pal', 'mukesh khanna']",1
+129,in which channel does koffee with karan comes,Star World India,['Star One'],[],['a Disney Channel India'],"['Star World India', 'Star One']",1
+130,when does the new season of greys anatomy start,"September 27, 2018",[],"['september 28, 2017']",[],"['September 27, 2018']",1
+131,when was the last time dallas went to the superbowl,1995,[],[],['2011'],['1995'],1
+133,who is the prime minister of india in 1974,Indira Gandhi,[],[],"['Morarji Desai', 'jawahar lal nehru', 'Jawaharlal Nehru']",['Indira Gandhi'],1
+134,calories in a whole piel de sapo melon,55 calories,['34 calories'],[],"['55', '355 calories', '375', '450', 'carbohydrate', '22', '13961316']","['55 calories', '34 calories']",1
+137,how does the narrator describe perverseness in the black cat,the spirit of perverseness,['alcoholism'],['the spirit'],"['fiend', 'The Imp of the Perverse', 'irritation', 'the impression of pluto', 'nervousness', 'Necromancer']","['the spirit of perverseness', 'alcoholism']",1
+138,what was the population of the world in 1939,"2,300,000,000",[],[],"['1.6 billion', '800 to 1000 million', '1.2 billion', '8, 615, 245', 'three billion', '6 billion', '16643120']","['2,300,000,000']",1
+140,when was the last time the seahawks played the steelers,2005,[],['2015'],"['february 5, 2006', '2016', '1988']",['2005'],1
+142,what is the area code for colombo sri lanka,036,[],[],"['123', '10600', '94', '838', 'ilankai', '672', 'Colombo', '6762033']",['036'],1
+143,when did the british first came to america,1607,[],[],[],['1607'],1
+144,trenton state psychiatric hospital what type of place it today,a state run mental hospital,[],[],"[""state men's prison"", 'Trenton, New Jersey', 'the New Jersey State Lunatic Asylum']",['a state run mental hospital'],1
+147,what type of community is brown's town,town,"['agricultural', 'agricultural region', 'a market and road center']",['rural'],"['city', 'metatheatrical', 'Midwestern', 'mining town']","['town', 'agricultural', 'agricultural region', 'a market and road center']",1
+150,when does the new tv show manifest come on,"September 24, 2018",['2018'],[],[],"['September 24, 2018', '2018']",1
+151,how many mss of the bible were discovered in the region of the dead sea,972,[],"['981', 'about 900', '981 different manuscripts']",[],['972'],1
+153,who made the robots in horizon zero dawn,the company Faro Automated Solutions,[],"['Faro Automated Solutions', 'GAIA']","['guerrilla games', 'Isaac Asimov']",['the company Faro Automated Solutions'],1
+155,when was the last time easter was on april 1,2018,[],[],"['2015', '2017', '2016', 'april 4, 2017']",['2018'],1
+156,who does the voice for hbo 24 7,Isaac Liev Schreiber,['Liev Schreiber'],[],"['josh robert thompson', 'brad williams', 'Kiefer Sutherland', 'Kiefer William Frederick Dempsey George Rufus Sutherland', 'Chris Rock', 'Larry Wilmore', 'Orlando Jones']","['Isaac Liev Schreiber', 'Liev Schreiber']",1
+157,who had the power to make laws in colonial governments,the legislature,[],"['The legislative body', 'the General Court', 'Parliament', 'elected rulers', 'congress']",['the proprietor'],['the legislature'],1
+158,who led the way in european exploration and why,the Portuguese,['Portugal'],[],"['henry the navigator', 'Christopher Columbus']","['the Portuguese', 'Portugal']",1
+161,who sings santa claus is comin to town in polar express,Frank Sinatra,[],[],"['josh groban', 'Haven Gillespie', 'Eddie Deezen', 'Tom Hanks', 'bing crosby', 'the Kringle family']",['Frank Sinatra'],1
+164,the central area of north africa and southwest asia is made up of,the Middle East,[],"['sahel', 'the Isthmus of Suez', 'Asia', 'desert']","['the Atlas Mountains', 'Central Asia', 'South Asia']",['the Middle East'],1
+165,when does bendy and the ink machine come out on xbox,"November 20, 2018",[],[],"['october 27, 2018', 'February 10, 2017']","['November 20, 2018']",1
+166,who is the girl singing in violent crimes,Nicki Minaj,[],[],"['Ty Dolla Sign', 'Rihanna', 'Danielle Balbuena']",['Nicki Minaj'],1
+168,who is hurting amabella in big little lies book,Max,[],[],"['Ziggy', 'madeline', 'Adam Scott', 'Perry']",['Max'],1
+172,what do stripes on the american flag represent,thirteen British colonies,[],[],[],['thirteen British colonies'],1
+173,how many stanley cups did the washington capitals win,1,[],[],"['6', '5', 'twice', '27', 'four']",['1'],1
+174,when did the first us astronauts land on the moon,20 July 1969,"['july 1969', 'July 20, 1969']",[],['13 September 1959'],"['20 July 1969', 'july 1969', 'July 20, 1969']",1
+177,when was the last time new england missed the playoffs,2008,[],[],"['2013', '2018', '2017', '2017\\u201318']",['2008'],1
+179,when did structural adjustment programs start in africa,the 1980s,['During the 1980s'],['1980'],"['mid - 1990s', '1933', '1994']","['the 1980s', 'During the 1980s']",1
+182,thomas and friends big world big adventures us release date,1989,['2018'],[],"['20th July 2018', 'January 12, 2018', 'Thomas & Friends', '20 July 2018']","['1989', '2018']",1
+183,who was the first woman appointed to the u.s. supreme court,Sandra Day O'Connor,[],[],[],"[""Sandra Day O'Connor""]",1
+184,who deals with the matters in concurrent list of the constitution of india,the Union Government,"['central and state government', 'both the central and state government']","['the state legislature', 'the President']",[],"['the Union Government', 'central and state government', 'both the central and state government']",1
+185,real name of atharva in tujhse hai raabta,Shagun Pandey,[],[],"['saif ali khan', 'Sushant Singh Rajput', 'Vikram Singh Chauhan', 'kriti sanon', 'Shivangi Joshi', 'Poorva Gokhale']",['Shagun Pandey'],1
+187,who is xibalba in the road to el dorado,the spirit world,[],[],"['Edward James Olmos', 'Rosie Perez', 'Miguel', 'Hern\\u00e1n Cort\\u00e9s']",['the spirit world'],1
+188,how many games do you need to play to get a stanley cup ring,best-of-seven,[],[],"['best - of - seven', 'four - of - seven - games']",['best-of-seven'],1
+189,in the constitution of india which article mention about the establishment of welfare state in india,Article 37,[],[],"['part iv', 'Article 41', 'Article 356', '43A']",['Article 37'],1
+191,who won the nba all star game 2018,Team LeBron,['LeBron James'],[],['Stephen Curry'],"['Team LeBron', 'LeBron James']",1
+192,who plays randall on the marvelous mrs maisel,Nate Corddry,[],[],"['joel johnstone', 'tony shalhoub', 'kevin pollak', 'Max Casella', 'Eltony Williams']",['Nate Corddry'],1
+194,who did ben weston killed on days of our lives,several victims,"['serena mason', 'Will Horton']",['Will'],"['marlena evans', 'Lizzie', 'Chad']","['several victims', 'serena mason', 'Will Horton']",1
+196,who does the raccoon voice in guardians of the galaxy,Bradley Cooper,[],[],[],['Bradley Cooper'],1
+198,nba teams to win 4 championships in a row,Boston Celtics,[],[],"['los angeles lakers', 'Chicago Bulls', 'Cleveland Cavaliers']",['Boston Celtics'],1
+200,who played marcus the pre-transition sophia on orange is the new black,M Lamar,['laverne cox'],[],[],"['M Lamar', 'laverne cox']",1
+201,where are the king pins on a truck,the steering mechanism,[],[],"['axle ends', 'the bed', 'suspension', 'loading bay', 'the United States', 'ten']",['the steering mechanism'],1
+203,when does miraculous lady bug season 3 come out,1 December 2018,[],[],"['early 2018', '26 October 2017', '2018', 'April 27, 2018', 'november 11, 2017', '19 October 2015', 'TBA', 'August 1, 2017']",['1 December 2018'],1
+204,where is the story of the talking donkey in the bible,Numbers 22:28,"['numbers 22 : 28', 'Book of Numbers']",[],"['Numbers 22:22', 'genesis 30 : 43', 'Numbers 22\\u201324']","['Numbers 22:28', 'numbers 22 : 28', 'Book of Numbers']",1
+205,when does the haves and the have nots come back on 2018,"January 9, 2018",[],"['May 1, 2018']","['november 6, 2018']","['January\xa09,\xa02018']",1
+207,movie about saving art during world war 2,The Monuments Men,[],[],"['Rescuing Da Vinci', 'belle epoque', '\\""Saving Private Ryan\\""', 'New York City']",['The Monuments Men'],1
+208,when's the last time the new england patriots won the superbowl,2016,[],"['2015', '2017']","['2014', 'february 5, 2017']",['2016'],1
+209,who plays gabby's mom in desperate housewives,María Conchita Alonso,"['mar\\u00eda conchita', 'Maria Conchita Alonso', 'Mara Conchita Alonso']",[],"['Lupe Ontiveros', 'melinda page hamilton', 'Lesley Ann Warren']","['María Conchita Alonso', 'mar\\u00eda conchita', 'Maria Conchita Alonso', 'Mara Conchita Alonso']",1
+211,who sang the smokey and the bandit song,Jerry Reed Hubbard,"['jerry reed', 'Burt Reynolds']",[],['jackie gleason'],"['Jerry Reed Hubbard', 'jerry reed', 'Burt Reynolds']",1
+212,when does a hockey player go to the penalty box,for all penalties,"['for a set number of minutes', 'an infringement of the rules', 'penalty']","['first stoppage of play', 'one minute']","['delay of game', '2020']","['for all penalties', 'for a set number of minutes', 'an infringement of the rules', 'penalty']",1
+214,where does the scent of vanilla come from,orchids of the genus Vanilla,[],['orchids'],"['vanillin', 'the seed pods', 'as it dries', 'the seeds']",['orchids of the genus Vanilla'],1
+216,twenty-two chemicals make up protein. what is this group of chemicals called,amino acid,['amino acids'],[],"['nucleic acids', 'Plant hormones', 'Vitamin C']","['amino acid', 'amino acids']",1
+218,who plays charlie on all dogs go to heaven,Burt Reynolds,[],[],[],['Burt Reynolds'],1
+220,where did the pilgrims land in the americas,"Plymouth, Massachusetts",[],"['plymouth rock', 'Cape Cod']","['Provincetown, Massachusetts', 'Provincetown Harbor', 'Plymouth Colony', 'plymouth, england', 'Colony of Virginia']","['Plymouth, Massachusetts']",1
+221,when is a new season of a series of unfortunate events coming out,"January 1, 2019",['early 2019'],"['March 30, 2018']",[],"['January 1, 2019', 'early 2019']",1
+222,how many schools are in the big 10,14,['fourteen'],[],['two'],"['14', 'fourteen']",1
+225,who is responsible for dividing india and pakistan,the British government,[],"['sir cyril radcliffe', 'parliament of the united kingdom', 'Indian Independence Act 1947', 'the labour government']",['Pakistan'],['the British government'],1
+227,this means that in dna cytosine is always paired with,guanine,[],[],[],['guanine'],1
+229,when is the last time the packers had a losing record,2018,[],[],"['1991', '2008', '2007', '2016', '1998', '2017']",['2018'],1
+230,when did newfoundland change to newfoundland and labrador,"December 6, 2001",['2001'],[],"['March 31, 1949', '1809']","['December 6, 2001', '2001']",1
+231,what is the population of muslim in the world 2017,1.8 billion,['around 1.8 billion'],"['around 1. 8 billion', '24%']",[],"['1.8 billion', 'around 1.8 billion']",1
+233,what channel does titans tv show come on,DC Universe,[],[],"['Cartoon Network', 'CBS']",['DC Universe'],1
+235,who did charlotte best play in home and away,Annie Campbell,[],[],"['charity fernbrook', 'Karen Boddington']",['Annie Campbell'],1
+236,who holds the keys to the gates of heaven,Saint Peter,[],[],[],['Saint Peter'],1
+237,who sang you don't own me originally,Lesley Gore,[],[],[],['Lesley Gore'],1
+239,when does the haunting of hill house come on netflix,"October 12, 2018",[],['2018'],[],"['October 12, 2018']",1
+240,if a company wants to open a new television station which agency must it contact for a license,The FCC,[],"['federal communications commission', 'their governments', 'PPL']","['uly 2, 1928,']",['The FCC'],1
+241,what is the organism that causes red tide,algae,['dinoflagellates'],['dinoflagellate'],"['karenia brevis', 'dinoflagellates and diatoms']","['algae', 'dinoflagellates']",1
+242,who voices ray in princess and the frog,Jim Cummings,[],[],['Keith David'],['Jim Cummings'],1
+244,when did they start playing national anthem at football games,after the year 2001,[],[],"['1931', 'the end of WWII', '2009', 'March 3, 1931']",['after the year 2001'],1
+246,which part of kerala is affected by floods,All 14 districts,[],"['south kerala', 'south Indian state', 'Chengannur', 'south', 'the south indian state of kerala', 'Palakkad', 'Thiruvananthapuram']",[],['All 14 districts'],1
+247,when is how to train your dragon 3 released in australia,"January 3, 2019",['2019'],[],"['february 22, 2019', 'March 1, 2019']","['January 3, 2019', '2019']",1
+248,when did the 9-1 gcse start,2017,[],[],"['January 3, 2018', '2010', '1975', '1988']",['2017'],1
+250,when did reader's digest condensed books start,1950,[],[],"['1982', 'between 1986 and 1995', '1998', '1922']",['1950'],1
+252,who played travis in raisin in the sun,Stephen Perry,[],[],"['sean combs', 'Justin Martin', 'Richard Parnell Habersham', 'Sidney Poitier', 'Ralph Carter']",['Stephen Perry'],1
+253,when did harley start using the 103 engine,2010,[],['2012'],"['2007 model year', '2009', '1980', '2007']",['2010'],1
+254,where did the beatles first perform i wanna hold your hand,EMI Studios,[],"['october 1963', 'EMI Studios in Studio 2', 'Abbey Road Studios']","['Beatles', 'the Ed Sullivan Show']",['EMI Studios'],1
+258,what do e. coli and e. histolytica have in common select all that apply,size,[],[],"['alkaline phosphatase', 'parasites', 'horizontal gene transfer', 'antibiotic resistance', 'a lectin', 'amino acid sequences', 'serotype', 'Chemotaxis', 'Entamoeba']",['size'],1
+260,who played the male lead in a star is born with barbra streisand,Kris Kristofferson,[],[],['bradley cooper'],['Kris Kristofferson'],1
+261,who was the little boy that played little ricky on i love lucy,Keith Thibodeaux,[],[],[],['Keith Thibodeaux'],1
+265,who played the dad in the parent trap,Brian Keith,[],"['Dennis Quaid', 'Tom Skerritt']",[],['Brian Keith'],1
+266,when was the first general election held in the bahamas,26 November 1962,[],[],"['september 1729', '1729', '29 september 1729', '1951\\u201352', '1832']",['26 November 1962'],1
+267,who did the packers play in the 1996 super bowl,New England Patriots,[],[],['Kansas City Chiefs'],['New England Patriots'],1
+269,how many cheyenne are there in the world,"22,970",[],"['approximately 10,840', 'approximately 8,000']","['about 1, 700', 'five', 'one', '63467']","['22,970']",1
+270,who does the killer's voice in scream,Roger Labon Jackson,['roger l. jackson'],[],"['Mike Vaughn', 'Stu Macher', 'Charles Butler']","['Roger Labon Jackson', 'roger l. jackson']",1
+273,who has the most wins army or navy,Navy,[],"['Army', 'united states navy']",[],['Navy'],1
+274,what season does allison find out about scott,"""Formality""",[],[],"['season 8', 'Teen Wolf', 'season 6', 'sixth season', 'eighth', 'season 2', '\\""Code Breaker\\""']","['""Formality""']",1
+278,who plays the judge in the movie peppermint,Jeff Harlan,[],[],"['john gallagher jr.', 'Jennifer Garner', 'tyson ritter']",['Jeff Harlan'],1
+279,who is the girl that plays in fbi,Missy Peregrym,[],"['connie nielsen', 'jeremy sisto', 'Zeeko Zaki']","['marsha lisa thomason', 'Daniela Sofia Korn Ruah', 'Margaret Denise Quigley', 'Annie Wersching']",['Missy Peregrym'],1
+282,when was the first version of a star is born made,1937,[],[],"['april 20, 1937']",['1937'],1
+283,who is the first country to leave the eu,French Algeria,"['united kingdom', 'the UK']",[],"['cyprus', 'Croatia']","['French Algeria', 'united kingdom', 'the UK']",1
+284,when does season 15 of greys anatomy end,"January 17, 2019",[],[],"['may 19, 2018', 'March 15, 2018', '2018', 'April 20, 2018', 'September 27, 2018', 'may 17, 2018', 'May 19, 2016']","['January\xa017,\xa02019']",1
+286,when did the game dont wake daddy come out,1992,[],[],"['1999', '2007']",['1992'],1
+288,where did they film the new sabrina the teenage witch,"Vancouver, British Columbia","['british columbia, canada']",[],"['Netflix', 'Glen Cove']","['Vancouver, British Columbia', 'british columbia, canada']",1
+290,who is responsible for requesting a disaster declaration,Governor,"['the governor of the state', 'state governor']",['governor ralph torres'],"['president', 'Congress', 'the World Health Organization']","['Governor', 'the governor of the state', 'state governor']",1
+293,sabzi mandi railway station near by metro station,Pratap Nagar Metro Station,[],[],"['rabindra sarobar', 'Partap Nagar', 'Dilshad Garden', 'Old Delhi Railway Station', 'New Delhi', 'netaji bhawan station', 'City Railway Station', 'Agra district']",['Pratap Nagar Metro Station'],1
+294,who was the top american ace in ww1,Eddie Rickenbacker,['Edward Vernon Rickenbacker'],[],[],"['Eddie Rickenbacker', 'Edward Vernon Rickenbacker']",1
+296,where was the second battle of saratoga fought,Bemis Heights,"['south of saratoga, new york', 'New York', 'Saratoga, New York']","['Stillwater, Saratoga County, New York', 'Schuylerville, New York']","['albany, new york']","['Bemis Heights', 'south of saratoga, new york', 'New York', 'Saratoga, New York']",1
+298,how many languages are printed in indian currency,17,[],[],['22'],['17'],1
+301,first bride in four weddings and a funeral,Laura,[],['Angus and Laura'],"['Sara Crowe', 'John Hannah', 'Tom']",['Laura'],1
+303,when did law & order go off the air,"May 24, 2010",[],[],"['June 26, 2011']","['May 24, 2010']",1
+304,what channel does the haves and have nots come on on directv,OWN,['Oprah Winfrey Network'],[],"['Channel 210', 'Channel 115', '8', 'nbc', 'Channel 265', 'Channel 363']","['OWN', 'Oprah Winfrey Network']",1
+306,the largest oil reserves of any arab nation are controlled by,Syria,[],['saudi arabia'],"['Venezuela', 'Libya']",['Syria'],1
+308,who protected the manor in the manor system,powerful local supporter,[],"['a lord', 'Lord of the Manor']","['parish constables', 'law lords', 'a higher lord']",['powerful local supporter'],1
+309,when did brewers last win the world series,None,[],[],"['1982', '1981']",['None'],1
+311,who sang the opening line to do they know it's christmas,David Bowie,[],['Chris Martin'],['paul young'],['David Bowie'],1
+312,what is the name of the russian intelligence agency,SVR RF,['svr'],[],"['Foreign Intelligence Service', 'Foreign Intelligence Service of the Russian Federation', 'FSB', 'novichok', 'MI6', 'Mossad']","['SVR RF', 'svr']",1
+315,which legislation was responsible for changing the voting age in the united states brainly,the Twenty-sixth Amendment,"['The Twenty - sixth Amendment', 'Voting Rights Act of 1965']",['the voting rights act'],['Congress'],"['the Twenty-sixth Amendment', 'The Twenty - sixth Amendment', 'Voting Rights Act of 1965']",1
+319,how many rick and morty seasons are out,3,[],[],"['third season', '5', 'ten']",['3'],1
+322,the military plan that called for an invasion of france through belgium was called,Schlieffen Plan,[],[],"['The Anaconda Plan', 'a \\""Labour Plan\\""']",['Schlieffen Plan'],1
+323,what is being charged with article 15 in the army,non-judicial punishment,[],[],"['discrimination', 'military personnel', 'violation of the UCMJ', 'conscientious objectors', 'Articles', 'Army']",['non-judicial punishment'],1
+328,who come first in the world hen or egg,egg,[],"['Chicken or the egg', 'hen']","['Jesus', 'Tsar Alexander III']",['egg'],1
+329,actress who plays marjorie in game of thrones,Natalie Dormer,[],['Dormer'],"['michelle fairley', 'Emilia Isabelle Euphemia Rose Clarke', 'Samantha Spiro', 'lena headey', 'Essie Davis']",['Natalie Dormer'],1
+330,who rang the bell to start the revolt,Miguel Hidalgo y Costilla,[],[],"['John Brown Bell', 'Dutty Boukman', 'John Brown', 'andrew mcnair', 'Wat Tyler', 'Ong Keo']",['Miguel Hidalgo y Costilla'],1
+338,who played caroline on little house on the prairie,Karen Trust Grassle,[],[],['Rachel Lindsay Rene Bush'],['Karen Trust Grassle'],1
+339,who is the host for wheel of fortune,Pat Sajak,['Vanna White'],['Chuck Woolery'],['Jim Thornton'],"['Pat Sajak', 'Vanna White']",1
+340,who dies in the hound of the baskervilles,Sir Charles Baskerville,[],[],[],['Sir Charles Baskerville'],1
+342,when were tomatoes brought to spain how did they end up in italy,1540s,[],"['the 16th century', '1548', '31 October 1548', 'the 1520s', '1521']",['18'],['1540s'],1
+345,who played ross on the patty duke show,Paul O'Keefe,[],[],"['Charles Herbert', 'Julie Deborah Kavner']","[""Paul O'Keefe""]",1
+346,is the stomach an organ organ system or tissue,organ,"['a muscular, hollow organ']",['epithelial tissues'],[],"['organ', 'a muscular, hollow organ']",1
+348,who sang vande mataram at congress session in 1896 for the first time,Rabindranath Tagore,[],[],[],['Rabindranath Tagore'],1
+352,where does attack on titan anime end in manga,"""Counterfeit""",[],[],"['shiganshina', 'May 9, 2016', ""Ilse's Notebook"", 'July 9, 2016', '25', ""ground's counterattack"", 'Mikasa', 'the 50th issue of 2016', 'Japan']","['""Counterfeit""']",1
+353,when does chitty chitty bang bang take place,1909,[],[],"['1907 through 1908', 'rural England', '1907', 'Florida', '1968']",['1909'],1
+355,who does the voice of marlin in finding nemo,Albert Lawrence Brooks,[],[],[],['Albert Lawrence Brooks'],1
+356,who was the last indian who receive nobel prize as of 2018,Kailash Satyarthi,[],[],"['mother teresa', 'Amartya Sen', 'Manjul Bhargava', 'A.P.J. Abdul Kalam', 'Subhash Khot', 'Rabindranath Tagore', 'Sachin Tendulkar']",['Kailash Satyarthi'],1
+360,what party favored a strong federal government and supported industry and trade,The Federalists,['the federalist party'],[],"['Congress', 'the Whigs']","['The Federalists', 'the federalist party']",1
+361,when is the last time a hurricane hit the florida panhandle,2018,[],"['2005', '1995']","['September 2017', 'August 30, 2017', 'September 10\\u201311', '1852']",['2018'],1
+362,what kind of steak has a round bone in it,a T-bone,[],"['round steak', 'beefsteak']","['t - bone steak', 'Steak']",['a T-bone'],1
+363,where did the anglo saxons arrived in britain,southern and east coasts,['Great Britain'],['England'],"['around the year 410', 'the 5th century']","['southern and east coasts', 'Great Britain']",1
+364,who gave permission to settle the 13 colonies,King James I of England,[],[],"['King Charles II', 'the continental congress', 'Britain']",['King James I of England'],1
+367,what do the first two letters of a dea number mean,Drug Enforcement,[],['registrant type'],"['vowels', 'Area Number', 'Belgium']",['Drug Enforcement'],1
+368,where is the baylor vanderbilt game being played,"Houston, Texas",[],[],"['vanderbilt stadium', 'Dudley Field', 'Texas Bowl', 'bridgestone arena', 'the United States', 'McLane Stadium']","['Houston, Texas']",1
+370,what is the name of saturns largest moon,Titan,[],[],['ganymede'],['Titan'],1
+372,when was the first series of big brother,18 July 2000,"['july 5, 2000']",[],[],"['18 July 2000', 'july 5, 2000']",1
+373,who became king of england in 1509 at the age of 17,Henry VIII,[],['Henry'],"['edward vi', 'George IV']",['Henry VIII'],1
+374,when does the new colorado governor take office,"January 8, 2019",[],"['the second tuesday of the january', 'January 11, 2011']","['2018', 'November 6, 2018', 'since 2 October 2017']","['January 8, 2019']",1
+376,what does the eight rays of the sun in the philippine flag mean,each representing a Philippine province,"['a Philippine province', 'eight provinces']",[],"['unity', 'sovereignty']","['each representing a Philippine province', 'a Philippine province', 'eight provinces']",1
+377,who plays diana in anne with an e,Dalila Bela,[],[],"['Amybeth McNulty', 'Nicollette Sheridan', 'Lucas Jade Zumann']",['Dalila Bela'],1
+378,where is the latest sunset in the us,"Fortuna, North Dakota",[],[],"['august 21, 2017', 'Peaked Island', 'Nome', 'California', 'cadillac mountain', 'the Bahamas', 'Arizona']","['Fortuna, North Dakota']",1
+380,who did baylor play in the bowl game,UCF Knights,[],"['washington huskies', 'UCLA Bruins', 'notre dame', 'New England Patriots', 'the Boise State Broncos']",[],['UCF Knights'],1
+381,the total number of chief ministers in india at present,thirty,[],[],"['40', 'Twenty nine', '14', '245', '11747034']",['thirty'],1
+382,who's the manager of the atlanta braves,Brian Gerald Snitker,[],['brian snitker'],"['John Y. Brown Jr.', 'Alex Anthopoulos']",['Brian Gerald Snitker'],1
+383,how do you call a person who cannot speak,sign language,"['mute', 'Muteness or mutism']","['Aphasia', 'mixed transcortical aphasia']","['esthetician', 'Porter']","['sign language', 'mute', 'Muteness or mutism']",1
+384,how deep is the trinity river in fort worth,"15,589 sq mi",[],['7 \\u2013 9 feet'],"['30 ft', '100 m', '13', '1.2', '1.8', 'Parker', 'a few miles', '0 to 6 feet']","['15,589\xa0sq\xa0mi']",1
+385,who is the actor that plays crowley on supernatural,Mark Andreas Sheppard,['mark a. sheppard'],[],['Mark Ross Pellegrino'],"['Mark Andreas Sheppard', 'mark a. sheppard']",1
+386,who is commander in chief of us military,President of the United States,['the President'],[],['Donald J. Trump'],"['President of the United States', 'the President']",1
+389,what is the name for mad cow disease,Bovine spongiform encephalopathy,[],['mad cow disease'],"['Mutual assured destruction', 'CSE']",['Bovine spongiform encephalopathy'],1
+390,when does gal gadot die in fast and furious,Fast & Furious 6,[],['2013'],"[""the last one ''"", 'Furious 7', 'November 30, 2013', '2015']",['Fast & Furious 6'],1
+392,1926 buffalo nickel where is the mint mark,on the reverse,['reverse'],[],"['denver', 'United States Mint', 'above monticello', 'the Denver Mint']","['on the reverse', 'reverse']",1
+394,which personality was the first to sing vande matram at a congress session in 1896,Rabindranath Tagore,[],[],[],['Rabindranath Tagore'],1
+397,where is the ground tissue located in plants,in regions of new growth,"['soft parts', 'cortex', 'the cortex of roots']",[],"['parenchyma', 'nervous system']","['in regions of new growth', 'soft parts', 'cortex', 'the cortex of roots']",1
+398,when did universal studios become a theme park,1965,"['july 15, 1964', '1964']",[],"['June 7, 1990', '1998', '31 March 2001']","['1965', 'july 15, 1964', '1964']",1
+399,what branch of the roman government controlled the military,the senate,[],['consuls'],"['oligarchy', 'Army']",['the senate'],1
+400,what city in america has the highest population,New York,['New York City'],[],[],"['New York', 'New York City']",1
+402,which team won the uefa champions league final held in kiev ukraine,Real Madrid,[],[],[],['Real Madrid'],1
+403,who does the voice at the beginning of law and order svu,Steven M. Zirnkilton,[],[],[],['Steven M. Zirnkilton'],1
+405,when does a star is born movie come out on dvd,February 19,[],[],"['january 15, 2019', 'June 22, 2010', 'february 6, 2013', 'February 19, 2018']",['February 19'],1
+406,who plays thanos on guardians of the galaxy,Josh Brolin,[],[],[],['Josh Brolin'],1
+407,when's the last time red sox won the world series,2018,[],['2013'],[],['2018'],1
+408,a person who risks money in order to make a large profit,arbitrageur,"['speculators', 'speculator']","['gambler', 'a trader', 'entrepreneur', 'the borrower']","['proletariat', 'Bull']","['arbitrageur', 'speculators', 'speculator']",1
+410,the set of elements that are members of set a or set b or of both sets,intersection,[],['union'],"['sequence', 'value', 'Fire']",['intersection'],1
+411,what was one of the main outcomes of the stono rebellion,the Negro Act of 1740,['enacted a harsh slave code'],"['executed', 'Most of the captured slaves were executed']","['slavery', 'killed', 'four', 'the Return of the Heracleidae']","['the Negro Act of 1740', 'enacted a harsh slave code']",1
+412,who takes his drum in pat a pan,Willie,[],[],"['shepherds', 'Art Blakey', 'Steve Moore', 'peter', 'Stephen Mangan', 'Lucas MacFadden']",['Willie'],1
+414,what is the book after the titans curse,The Battle of the Labyrinth,[],['the last olympian'],"['The Sea of Monsters', 'Leviticus', 'White Cat']",['The Battle of the Labyrinth'],1
+416,when does trick or treat start and end,evening of October 31,"['Halloween', 'Halloween night']",['october 31'],[],"['evening of October 31', 'Halloween', 'Halloween night']",1
+417,who described human development in eight stages over the lifespan,Erik Erikson,[],['erikson'],"['g. stanley hall', 'Sigmund Freud', 'the Marquis de Condorcet']",['Erik Erikson'],1
+418,when did wheaties get introduced to the market,1924,[],[],"['december 24, 1926', '1959']",['1924'],1
+421,who's leading the national league championship series,Los Angeles Dodgers,[],['Alabama Crimson Tide'],[],['Los Angeles Dodgers'],1
+422,kathak a famous classical dance form has originated from this state,Uttar Pradesh,[],[],['Kerala'],['Uttar Pradesh'],1
+423,who plays abe carver on days of our lives,James Reynolds,[],[],['Kyler Mackenzie Pettis'],['James Reynolds'],1
+425,rebat is the capital city of which country,Morocco,[],[],"['Russia', 'Ethiopia']",['Morocco'],1
+430,how many episodes does game of thrones season 2 have,10,[],[],[],['10'],1
+431,how many superbowl rings do the chiefs have,1,[],[],['5'],['1'],1
+432,in which us state is new york city located,New York,"['the state of new york', 'New York State']",[],"['southeastern new york state', 'the Northeastern United States']","['New York', 'the state of new york', 'New York State']",1
+437,who is the pope in medici masters of florence,Raul Bova,[],[],"['pope clement vii', 'Pope Eugene IV', 'dustin hoffman', 'Pope Francis', ""Richard Madden as Cosimo de' Medici"", 'clement vii', 'Francis', 'Stuart Martin']",['Raul Bova'],1
+438,who built the temple of dayr al bahri,Mentuhotep II,['Hatshepsut'],[],"['the Islamic prophet Muhammad', 'the Ptolemaic Kingdom', 'sant garib dass', 'Solomon', 'King Solomon']","['Mentuhotep II', 'Hatshepsut']",1
+439,who conceived the idea of the indira gandhi canel project,Kanwar Sain,[],[],"['indira gandhi', 'Sanjay Gandhi', 'jawaharlal nehru', 'IGCAR']",['Kanwar Sain'],1
+445,who sang the song god gave me you,Dave Barnes,[],[],['Beatles'],['Dave Barnes'],1
+447,who was james arthur's mentor on x factor,Nicole Scherzinger,[],[],"['Antoine Malick', 'little mix', 'Peter Dickson', 'Simon Cowell']",['Nicole Scherzinger'],1
+450,where was the the declaration of rights and sentiments signed,"Seneca Falls, New York",[],['Independence Hall'],['Tartu'],"['Seneca Falls, New York']",1
+451,who wrote most of the bill of rights,James Madison,[],[],[],['James Madison'],1
+452,gold woman in guardians of the galaxy 2,Ayesha,['Elizabeth Debicki'],[],"['kismet', 'Pom Klementieff', 'Michelle Yeoh', 'Zoe Saldana']","['Ayesha', 'Elizabeth Debicki']",1
+455,what does n mean on an irish stamp,the current domestic posting rate,['no-value indicator'],[],"['non-denominated', 'national', 'h\\u00c9ireann', 'butterwort', 'Nationality', 'pence', '\\""descendant\\""', 'non-denominated postage']","['the current domestic posting rate', 'no-value indicator']",1
+457,who plays chesney's girlfriend in coronation street,Georgia May Foote,[],[],"['Julie Foy', 'Jennie McAlpine']",['Georgia May Foote'],1
+458,who won the heisman two years in a row,Archie Griffin,"[""Ohio State's Archie Griffin""]","['Griffin', 'Ohio State']","['doak walker', 'cam newton']","['Archie Griffin', ""Ohio State's Archie Griffin""]",1
+459,who is the first governor in kwara state,David Bamigboye,[],[],"['alhaji adamu atta', 'Abdulfatah Ahmed', 'Alhaji Mohammed Alabi', 'Adamu Atta', 'Mohammed Lawal']",['David Bamigboye'],1
+460,who is the man in black the dark tower,Randall Flagg,['Walter Padick'],[],['matthew mcconaughey'],"['Randall Flagg', 'Walter Padick']",1
+461,what type of involuntary servitude is not considered illegal under the 13th amendment,punishment for a crime,[],[],"['peonage', 'psychological coercion', 'military conscription', 'chattel slavery', 'penal labor', 'contraction', 'two']",['punishment for a crime'],1
+462,when does season 9 hawaii five o start,"September 28, 2018",[],[],"['September 29, 2017']","['September 28, 2018']",1
+463,what is the population density of the himalayas,52.7 million people,[],"['52.7 million', '52. 7 million']",['1106'],['52.7 million people'],1
+466,when did drinking age in nj change to 21,1983,[],[],['1984'],['1983'],1
+468,when did the new hawaii 5 0 start,"September 20, 2010",[],[],"['september 29, 2017', 'September 23, 2016']","['September 20, 2010']",1
+470,who is the new us senator for arizona,Kyrsten Sinema,[],['Kyrsten Lea Sinema'],"['jon kyl', 'Jon Llewellyn Kyl', ""Beto O'Rourke"", 'Dianne Feinstein']",['Kyrsten Sinema'],1
+471,where are dopamine receptors found in the body,central nervous system,"['throughout the brain', 'vertebrate central nervous system']",[],"['reward pathway', 'hypothalamus']","['central nervous system', 'throughout the brain', 'vertebrate central nervous system']",1
+472,b-25 bomber accidentally flew into the empire state building,Old John Feather Merchant,"['1945', 'July 28, 1945']",[],[],"['Old John Feather Merchant', '1945', 'July 28, 1945']",1
+475,who played buford pusser in walking tall 1,Joe Don Baker,[],[],[],['Joe Don Baker'],1
+476,what is the second largest city in ethiopia,Gondar,[],[],"['addis ababa', 'Dire Dawa', 'Tripoli']",['Gondar'],1
+477,where was the movie every day is christmas filmed,"Ashland, Virginia",[],['united states'],"['Covent Garden', 'covent garden fruit, vegetable and flower market', 'Los Angeles', 'Toronto', 'Toronto, Ontario Canada', 'greenwood falls, virginia', 'British Columbia', 'Britain']","['Ashland, Virginia']",1
+480,who did the music for mary poppins returns,Marc Shaiman,[],[],[],['Marc Shaiman'],1
+481,who's leading in the american league championship series,Boston Red Sox,[],['Houston Astros'],"['new england patriots', 'Los Angeles Dodgers']",['Boston Red Sox'],1
+482,when do the 12 days of christmas start in 2017,25 December,[],[],"['5 January', 'christmas day']",['25 December'],1
+484,what season of the simpsons are we on,Season 30,[],"['twenty-ninth season', 'The twenty - ninth season', 'season 29', '29', 'twenty - eighth season']","['1989', 'FOX']",['Season 30'],1
+486,where is eminent domain located in the constitution,the Fifth Amendment,[],[],['bill of rights'],['the Fifth Amendment'],1
+487,what episode does pain die in naruto shippuden,"""The Two Students""",[],[],"['372', '478', '175', '413', 'ultimate ninja storm 2', '8', '377']","['""The Two Students""']",1
+491,what is the structure of russia's government,asymmetrical federalism,['federal semi-presidential republic'],['a multi - party representative democracy'],"['a constitutional monarchy', 'Konstitutsiya Rossiyskoy Federatsii', 'a multi-party representative democracy']","['asymmetrical federalism', 'federal semi-presidential republic']",1
+493,when did toto die from the wizard of oz,"September 1, 1945",['1945'],[],"['age 11', '1939', 'February 25, 2009']","['September 1, 1945', '1945']",1
+494,what stadium does the los angeles chargers play at,StubHub Center,[],[],[],['StubHub Center'],1
+495,india has got it's name from which river,Sindhu (Indus River),"['the indus river', 'Sindhu']",[],['ganges'],"['Sindhu (Indus River)', 'the indus river', 'Sindhu']",1
+496,what are the casualties of world war 2,70-85 million people,"['70-85 million', '70 - 85 million people']",['50 to 85 million'],"['50 to 55 million', 'approximately 27,000,000', '419400', '131028000']","['70-85 million people', '70-85 million', '70 - 85 million people']",1
+499,what percentage of us population has a bachelors degree,34.16%,[],"['33.4%', '33.04 %', '33. 4 %', '31.96%']",[],['34.16%'],1
+500,nearest metro station to majnu ka tila bus stand,Vidhan Sabha  Metro Station,[],[],"['kashmeri gate', 'Kashmeri Gate station', 'delhi railway station of delhi']",['Vidhan Sabha  Metro Station'],1
+501,who won premier league player of the month september 2018,Eden Hazard,[],[],"['raheem sterling', 'Harry Kane', 'Mohamed Salah', 'Lionel Messi', 'Matt Doherty']",['Eden Hazard'],1
+502,when does episode 9 of the rookie come out,"January 8, 2019",[],[],"['march 18, 2018', 'October 23, 2018', 'October 16, 2018', 'June 20, 2018', 'March 2, 2018']","['January\xa08,\xa02019']",1
+503,how many republican senators in the house now,51,[],['53'],"['54', '100']",['51'],1
+507,when did table tennis became an olympic sport,1988,[],[],[],['1988'],1
+508,who gave birth to damien in the omen,a jackal,[],"['katherine', 'robert thorn']","['Lee Remick', 'Harvey Spencer Stephens']",['a jackal'],1
+509,who are the nba all-time scoring leaders,Kareem Abdul-Jabbar,['kareem abdul - jabbar'],[],['Michael Jordan'],"['Kareem Abdul-Jabbar', 'kareem abdul - jabbar']",1
+511,when does cam find out who stole her identity,The Fury in the Jury,[],[],"['during the second series', ""The Net ''"", 'The Tyrant', 'season six', '\\""The Last One\\""', 'season 8', 'season 3', 'Chapter Eleven', '\\""The Last Walt\\""']",['The Fury in the Jury'],1
+512,the spanish feared that would acquire california if they didn't control it,the British,['Great Britain'],"['Mexico', 'incursion by russian fur traders']",[],"['the British', 'Great Britain']",1
+516,when is the a star is born soundtrack coming out,"October 5, 2018",[],[],[],"['October 5, 2018']",1
+520,when did the blue bombers last win the grey cup,1990,[],[],[],['1990'],1
+522,where does the last name tatum come from,Old English,"['english', 'Old English origin']",['English and Scottish origin'],"['German', 'French']","['Old English', 'english', 'Old English origin']",1
+524,a place to call home season 6 release date uk,19 August 2018,[],[],[],['19 August 2018'],1
+525,who has served as cm governer vice president and president in india,Shankar Dayal Sharma,[],[],"['sarvepalli radhakrishnan', 'Mohammad Hamid Ansari', 'Muppavarapu Venkaiah Naidu', 'Venkaiah Naidu', 'Pawan Kumar Chamling']",['Shankar Dayal Sharma'],1
+526,what is the dogs name from charlie brown,Snoopy,[],[],"[""Santa's Little Helper"", 'Woodstock']",['Snoopy'],1
+529,who is referred to as the greatest generation,the G.I. Generation,['the g. i. generation'],[],"['Homeland Generation', 'Tom Brokaw']","['the G.I. Generation', 'the g. i. generation']",1
+530,how many superbowl rings does mike vrabel have,3,['three'],[],"['2', 'five', '1', 'four']","['3', 'three']",1
+532,when did the first stranger things come out,"July 15, 2016",['July 2016'],[],"['October 27, 2017']","['July 15, 2016', 'July 2016']",1
+533,first indian batsman to hit six sixes in an over,Garfield Sobers,[],[],"['yuvraj singh', 'chris gayle', 'Ravi Shastri']",['Garfield Sobers'],1
+535,what is the last episode of dragon ball super,"March 25, 2018",[],"['131', 'Universe Survival Saga']",['Piccolo Jr. Saga'],"['March\xa025,\xa02018']",1
+536,which country is highest oil producer in the world,United States,[],[],"['russia', 'Venezuela']",['United States'],1
+538,who is marconi in we built this city,the father of the radio,['Italian inventor Guglielmo Marconi'],[],"['bernie taupin', 'a music industry executive', 'Les Garland', 'bologna', 'Starship']","['the father of the radio', 'Italian inventor Guglielmo Marconi']",1
+539,who plays sean's little brother in the good doctor,Dylan Kingwell,[],[],"['beau garrett', 'Will Yun Lee', 'Freddie Highmore', 'hill harper']",['Dylan Kingwell'],1
+540,in grimm what episode does nick get his powers back,"""Highway of Tears""",[],[],"['Oh Captain, My Captain', 'Blood Magic', 'the end']","['""Highway of Tears""']",1
+541,who is the issuing bank for american express,American Express Company,['American Express Co.'],['bank of america'],"['MBNA America', 'citibank', 'Houghton Mifflin', 'Bank of England', 'US Bancorp']","['American Express Company', 'American Express Co.']",1
+543,where did the republican contract with america enjoy its greatest support,the 104th Congress,"['united states house of representatives', 'Congress', 'the 1994 Congressional election campaign']",[],"['Mexico', 'France']","['the 104th Congress', 'united states house of representatives', 'Congress', 'the 1994 Congressional election campaign']",1
+545,which game is the oldest sport game in the world,Ulama,[],[],"['football', 'polo', 'hurling', 'mancala', 'Cricket']",['Ulama'],1
+546,when was the last time uk won eurovision,1997,[],[],"['1976', '2018']",['1997'],1
+550,where does rna polymerase occur in the cell,nucleus,[],['within the nucleus'],['cytosol'],['nucleus'],1
+555,6. what is the capital city of croatia,Zagreb,[],[],['Moscow'],['Zagreb'],1
+558,how many drops are in splash mountain disneyland,3,['three'],[],"['fifty - six foot', '50 ft', 'fifty-six', 'two', '10', 'seven', '50 feet']","['3', 'three']",1
+560,when do hook and emma first get together,While in the Dark Castle,[],['the fourth season'],"['firebird', 'season 2']",['While in the Dark Castle'],1
+561,is baja california part of california or mexico,Mexico,[],['Alta California'],[],['Mexico'],1
+562,who invented the byju's the learning app,Byju Raveendran,[],[],"['john b. watson', 'Warren Robinett']",['Byju Raveendran'],1
+563,what italian term for paste is used to describe thick applications of paint,impasto,[],[],[],['impasto'],1
+565,when did the song betty davis eyes come out,"March 10, 1981",['1981'],[],"['1974', '2011', 'April 1981']","['March\xa010,\xa01981', '1981']",1
+566,who holds the record for the most points in the nba,Kareem Abdul-Jabbar,['Kareem Abdul - Jabbar'],[],['wilt chamberlain'],"['Kareem Abdul-Jabbar', 'Kareem Abdul - Jabbar']",1
+574,where did bridge on the river kwai take place,Burma,[],['Sri Lanka'],['Ceylon'],['Burma'],1
+577,who did the eagles lose to in the super bowl,New England Patriots,[],[],[],['New England Patriots'],1
+578,how many runs in odi of sachin tendulkar,"18,426","['18, 426']",['10000'],[],"['18,426', '18, 426']",1
+579,where did zero appear as a mathematical sign,Ptolemy,[],[],"['at the end of a number', 'India', 'the bakhshali manuscript', 'on monuments', 'By 1770 BC', 'zero']",['Ptolemy'],1
+580,who is the longest serving current head of state,Elizabeth II,['Queen Elizabeth II'],[],"['donald trump', 'Hassanal Bolkiah', 'Teodoro Obiang', 'george washington', 'Franklin D. Roosevelt', 'George H.W. Bush']","['Elizabeth II', 'Queen Elizabeth II']",1
+581,how many seats on a delta md 88,155,[],[],"['114', '139', '197', 'eighty eight', 'one', 'two', '142']",['155'],1
+585,the printing of indian postage stamps are conducted at,"India Security Press, Nasik",['India Security Press'],[],"['federal government', 'Calcutta']","['India Security Press, Nasik', 'India Security Press']",1
+588,who sings i got to get up early in the morning,The Gap Band,[],[],"['sonny boy williamson i', 'Sharon, Lois & Bram', 'Maureen McGovern']",['The Gap Band'],1
+589,what is season 3 american horror story about,a Coven of Salem witches,[],[],['2013'],['a Coven of Salem witches'],1
+590,who played the warden in the count of monte cristo,Michael Wincott,[],[],"['richard harris', 'jim caviezel']",['Michael Wincott'],1
+591,when did del potro win the us open,2009,"['september 14, 2009']",[],['2016'],"['2009', 'september 14, 2009']",1
+593,that 70's show season 8 where is eric,Africa,['teaching in Africa'],[],"['chicago', 'Donna', 'Topher Grace']","['Africa', 'teaching in Africa']",1
+594,who played glen doherty in the movie 13 hours,Toby Stephens,[],[],"['mark wahlberg', 'James Stewart', 'Joan Bennett']",['Toby Stephens'],1
+595,who sang i've got you under my skin,Virginia Bruce,['Frank Sinatra'],[],['Cole Porter'],"['Virginia Bruce', 'Frank Sinatra']",1
+596,who was the last man killed in the civil war,John Jefferson Williams,[],[],['albert henry woolson'],['John Jefferson Williams'],1
+597,when did the orginal halloween movie come out,1978,"['October 25, 1978']",[],[],"['1978', 'October 25, 1978']",1
+599,first woman justice of the supreme court quizlet,Sandra Day O'Connor,[],[],[],"[""Sandra Day O'Connor""]",1
+600,where is the national championship played at this year,"Santa Clara, California",[],"['atlanta, georgia', 'mercedes-benz stadium', 'mercedes - benz stadium in atlanta, georgia']",[],"['Santa Clara, California']",1
+601,date of the charge of the light brigade,25 October 1854,[],[],[],['25 October 1854'],1
+603,what is the composition of plaster of paris,gypsum,[],['calcium sulfate'],"['fresco', 'Paris']",['gypsum'],1
+605,where is the game show family feud filmed,Universal Studios Hollywood,[],"['Atlanta', 'atlanta, georgia', 'Los Angeles']",[],['Universal Studios Hollywood'],1
+608,who has become chief minister governor vice president and president of india,Shankar Dayal Sharma,[],[],"['venkaiah naidu', 'Ram Nath Kovind', 'Muppavarapu Venkaiah Naidu']",['Shankar Dayal Sharma'],1
+612,who owns the rights to rubik's cube,Rubik's Brand Ltd.,[],['Ideal Toy Corp.'],[],"[""Rubik's Brand Ltd.""]",1
+613,who is the host of fantasy football now,Molly Qerim Rose,[],"['field yates', 'Matthew Berry']","['Erik Kuselias', 'Erin Michelle Coscarelli', 'Mike Tuggle', 'Adam Caplan', 'peyton manning', 'Chris Harrison', 'the United States']",['Molly Qerim Rose'],1
+614,who is the actress on law and order svu,Mariska Magdolna Hargitay,['Mariska Hargitay'],['brooke shields'],"['Jenna Louise Stern', 'Jillian Noel Hennessy']","['Mariska Magdolna Hargitay', 'Mariska Hargitay']",1
+615,how do you find the width of a diameter,using rotating calipers,['rotating calipers'],[],"['1/e2', 'the smallest such distance', '2:3', 'The Width of a Circle']","['using rotating calipers', 'rotating calipers']",1
+616,how many episodes in season 3 of better call saul,10,['ten'],[],[],"['10', 'ten']",1
+618,based on population what is the largest military base in the united states,"Ramstein AB, in Germany","['fort bragg', 'Fort Bragg, North Carolina']",['Fort Hood'],"['washington', 'California', 'Fort Lewis']","['Ramstein AB, in Germany', 'fort bragg', 'Fort Bragg, North Carolina']",1
+620,who plays yes in wreck-it ralph,Taraji P. Henson,[],[],"['sarah silverman', 'John C. Reilly', 'Jane Lynch', 'gal gadot']",['Taraji P. Henson'],1
+624,when did uber come to new york city,2011,[],[],"['july 2014', 'December 2014', '1994', ""new year's eve"", '1898', '1962']",['2011'],1
+625,what do they buy in breakfast at tiffany's,a typewriter ribbon,[],[],"['shoes', 'Cracker Jack', 'Cracker Jack ring', 'paper bag', 'Deep Blue Something', 'Home']",['a typewriter ribbon'],1
+626,who does bradley cooper play in the a team,"Templeton ""Face"" Peck",['templeton peck'],[],"['faceman \\"" peck', 'Special Forces', 'the Arizona Cardinals', 'Faceman']","['Templeton ""Face"" Peck', 'templeton peck']",1
+629,who built shaukat khanum memorial cancer hospital pakistan,Imran Khan,[],[],"['azim khan', 'Punjab']",['Imran Khan'],1
+630,who did rachel on friends have a baby with,Ross,[],[],[],['Ross'],1
+631,who is the only u s president to hold a phd,Woodrow Wilson,[],[],"['dwight d. eisenhower', 'Franklin D. Roosevelt', 'John F. Kennedy', 'Thomas Woodrow Wilson', 'Ronald Wilson Reagan']",['Woodrow Wilson'],1
+632,while the united states dealt with the depression it was also facing,Racial tensions,[],"['worldwide economic recession', 'Great Depression', 'economic downturns']","['world war ii', '1929']",['Racial tensions'],1
+635,how many season of game of thrones are there,8,[],"['7', 'eighth', 'Seven', 'six', '6']",['seventh'],['8'],1
+641,when did the bmw x3 body style change,With arrival in 2017,[],"['2007', 'June 2017', 'in 2007']","['september 2006', '2003']",['With arrival in 2017'],1
+642,where did the pearsons grow up in this is us,Pittsburgh,[],[],"['homestead, florida', 'Iowa']",['Pittsburgh'],1
+643,who's going to drive you home movie,50 First Dates,[],[],"['drive', 'Thom', 'Wild At Heart', 'Bonnie and Clyde', 'The Cars']",['50 First Dates'],1
+645,when did texas become the republic of texas,"March 2, 1836",[],[],['2003'],"['March 2, 1836']",1
+646,how many medals did simone win in rio,four,[],[],"['two gold', 'two gold and two silver medals', 'two', '13', '10']",['four'],1
+648,a wrinkle in time what is the it,main antagonist of the story,"['an evil disembodied brain', 'brain', 'a disembodied brain']",[],"['a dark shadow', 'tesseract', 'A Wrinkle in Time', 'Camazotz']","['main antagonist of the story', 'an evil disembodied brain', 'brain', 'a disembodied brain']",1
+649,who was the prime minister in the 1st world war,Prime Minister H. H. Asquith,[],"['david lloyd george', 'Herbert Henry Asquith', 'Georges Benjamin Clemenceau']","['clement attlee', 'Winston Churchill']",['Prime Minister H. H. Asquith'],1
+651,when does sam adams winter ale come out,November through December,[],['november'],['April'],['November through December'],1
+652,what's the zip code for carver mass,02330,[],[],"['1001', '128', '1906']",['02330'],1
+654,where was the last significant battle in the revolutionary war fought,Virginia,"['yorktown, virginia', 'The Siege of Yorktown']",[],['the South'],"['Virginia', 'yorktown, virginia', 'The Siege of Yorktown']",1
+655,what is the name of the president of cuba,Miguel DÃ­az-Canel,['miguel d\\u00edaz-canel'],"['Miguel Daz - Canel', 'miguel diaz - canel', 'Miguel Mario Daz-Canel']","['Donald Trump', 'Barack Obama']","['Miguel DÃ\xadaz-Canel', 'miguel d\\u00edaz-canel']",1
+656,who is woody's best friend in toy story,Buzz Lightyear,[],[],"['hamm the piggy bank', 'Randy Newman', 'Annie Hall']",['Buzz Lightyear'],1
+657,what connects the two hemispheres of the brian,the corpus callosum,[],[],"['temporoparietal junction', 'the Equator']",['the corpus callosum'],1
+659,the actor who died in fast and furious,Paul William Walker IV,[],[],[],['Paul William Walker IV'],1
+662,what is the function of the adrenal medulla hormones,increased metabolism,"['produces adrenaline and noradrenaline', 'release of adrenaline', 'release adrenaline', 'regulation of blood pressure and electrolyte balance', 'epinephrine', 'Adrenaline']","['secrete', 'affects available energy']",['dopamine'],"['increased metabolism', 'produces adrenaline and noradrenaline', 'release of adrenaline', 'release adrenaline', 'regulation of blood pressure and electrolyte balance', 'epinephrine', 'Adrenaline']",1
+663,who play role of bauua father in zero,Tigmanshu Dhulia,[],[],"['Shah Rukh Khan', 'Salman Khan', 'Raja Kumari']",['Tigmanshu Dhulia'],1
+664,how many digits is a mexican phone number,ten-digit,['ten'],[],['nine'],"['ten-digit', 'ten']",1
+665,what is the minimum hourly wage in dubai,None,[],[],"['dh 7.5', '$7.25', 'AED 6.5', 'hk $ 34. 50 per hour', '11.16', '15', '$15.00']",['None'],1
+666,where should such reflex arc connections be made between the input nerve and the output nerve,the spinal cord,[],[],['triceps tendon'],['the spinal cord'],1
+668,how many senatorial zone do we have in imo state,three,[],['3'],"['eleven', '12', '13', 'six', '11']",['three'],1
+670,the ancient civilization credited with the invention of paper around 105 c.e,China,['cai lun'],[],"['Chinese court official Cai Lun', 'Papyrus']","['China', 'cai lun']",1
+671,who sings the song papa was a rolling stone,The Undisputed Truth,['the temptations'],[],['Barrett Strong'],"['The Undisputed Truth', 'the temptations']",1
+673,where does the expression saved by the bell originate,boxing,[],[],['composer scott gayle'],['boxing'],1
+674,where is 2 3 of the world's eggplant grown,China,['United States'],[],['india'],"['China', 'United States']",1
+675,how cold is it in minnesota in the winter,below freezing,[],[],"['winter months', 'winter']",['below freezing'],1
+677,when is fantastic beasts the crimes of grindelwald releasing in india,16 November 2018,[],[],[],['16 November 2018'],1
+678,the valley of roses is located in this european country,Bulgaria,[],[],"['Spain', 'France', 'germany', 'England']",['Bulgaria'],1
+680,who said there are old pilots and there are bold pilots,E. Hamilton Lee,[],[],"['charles lindbergh', 'Barry Goldwater', 'James Harold Doolittle', 'the wright brothers', 'CBS', 'Oscar']",['E. Hamilton Lee'],1
+681,who wrote some kind of wonderful grand funk,John Ellison,[],[],"['Gerry Goffin', 'Jerry Bock']",['John Ellison'],1
+682,voice of donna tubbs on the cleveland show,Sanaa Lathan,['Sanaa McCoy Lathan'],[],['reagan gomez - preston reagan amyre gomez - preston'],"['Sanaa Lathan', 'Sanaa McCoy Lathan']",1
+684,who has the most yards passing in nfl history,Drew Brees,[],[],['peyton manning'],['Drew Brees'],1
+685,what is the lingua franca of west africa,English,[],[],"['hausa', 'West African Pidgin English', 'CFA franc', 'swahili', 'Torah', 'Portuguese']",['English'],1
+690,how did the dad in a christmas story win the leg lamp,a contest,[],[],"['santa line', 'accident', 'gun', 'Red Rider Leg Lamp Company', 'the film', 'Red Ryder gun', 'the down payment', 'two', '15']",['a contest'],1
+692,who did blake shelton wrote god gave me you for,Annie,[],"['his wife, annie']","['dave barnes', 'Miranda Lambert', 'Ross Copperman']",['Annie'],1
+693,what year did whitney houston record i will always love you,1992,"['june 13, 1973']",[],[],"['1992', 'june 13, 1973']",1
+699,who sings this is me in the greatest showman,Keala Settle,[],[],[],['Keala Settle'],1
+700,what is the most popular scale for diecast cars,1:43 scale,"['1 : 43', '1:43']",[],"['v8', 'C', 'four']","['1:43 scale', '1 : 43', '1:43']",1
+701,who does proverbs claim as its major author,Solomon,['King Solomon'],[],"['Egypt', 'Arthur S. Maxwell']","['Solomon', 'King Solomon']",1
+702,who was the girl in the veil in pretty little liars,Sara,['sara harvey'],[],"['Kira McLean', 'Samara Cook', 'Lucy Hale', 'Charlotte DiLaurentis', 'ashley benson', 'Mona Vanderwaal']","['Sara', 'sara harvey']",1
+703,who plays kate's father in american housewife,Patrick Duffy,[],[],"['diedrich bader', 'Michael J. Fox', 'Michael \\""Mike\\"" Johnson']",['Patrick Duffy'],1
+708,what are your rights in the first amendment,religion,"['freedom of speech', 'freedom of the press']",[],[],"['religion', 'freedom of speech', 'freedom of the press']",1
+709,who plays john wife in a million little things,Stéphanie Szostak,['stephanie szostak'],[],"['romany malco', 'Christina Moses', 'Grace Park', 'Allison Miller', 'lizzy greene', 'Odessa Young']","['Stéphanie Szostak', 'stephanie szostak']",1
+711,who sings riding shotgun underneath the hot sun,George Ezra,[],[],"['junior walker & the all stars', 'Ricochet', 'The Sundays', 'tim mcgraw', 'Snoop Dogg', 'Oh Land']",['George Ezra'],1
+712,where do the patches go on the army uniform,shoulder sleeve,['shoulder'],"['on each shoulder', 'on the upper left arm', 'on the collar', 'the upper left arm']","['khaki', 'United States Army']","['shoulder sleeve', 'shoulder']",1
+713,what golfer won the fedex cup in 2018,Justin Rose,[],[],"['Dustin Johnson', 'Bud Cauley', 'Justin Thomas']",['Justin Rose'],1
+714,who sang vande mataram at congress session in 1986,Rabindranath Tagore,[],[],"['Lata Mangeshkar', 'Bankim Chandra Chattopadhyay', 'Nusrat Fateh Ali Khan', 'dakhina charan sen', 'Omkarnath Thakur']",['Rabindranath Tagore'],1
+715,who played christopher's girlfriend on the sopranos,Andrea Donna de Matteo,['drea de matteo'],[],"['Denise Borino-Quinn', 'Edie Falco']","['Andrea Donna de Matteo', 'drea de matteo']",1
+717,who played the reporter in harry potter goblet of fire,Richardson,['miranda richardson'],[],"['rita skeeter', 'Michael Gambon', 'Danny Taylor']","['Richardson', 'miranda richardson']",1
+719,who plays jacks brother in when calls the heart,Max Lloyd-Jones,['daniel lissing'],[],"['Tom', 'Ethan Brooke', 'stephen amell', 'Erin Krakow', 'Grant Bowler']","['Max Lloyd-Jones', 'daniel lissing']",1
+720,who said i'll make mincemeat out of you,Klondike Kat,[],['Klondike'],"['shang', 'defeating', 'Rear Admiral John Godfrey', 'Candyman', 'ewen montagu', 'Donny Osmond', 'The J.M. Smucker Company', 'Savoir-Faire']",['Klondike Kat'],1
+721,what is the highest grossing fast and furious film,Furious 7,['Fast & Furious 7'],[],"['The Fate of the Furious', 'The Fast and the Furious', '\\""Fast Five\\""']","['Furious 7', 'Fast & Furious 7']",1
+722,who is playing grey cup 2018 halftime show,Alessia Cara,[],[],"['Imagine Dragons', 'Nickelback', 'Justin Timberlake']",['Alessia Cara'],1
+724,when did britishers establish the head quarter in bombay,1686,[],[],"['1687', '1668', '1618']",['1686'],1
+728,who does the news headlines on fox and friends,Jillian Mele,[],"['steve doocy', 'Lauren Susan Green', 'Patti Ann Browne', 'Brian Kilmeade', 'Lauren Green']","['Fox News Live', 'Fox News Channel']",['Jillian Mele'],1
+729,where will be held next fifa world cup,Qatar,[],[],[],['Qatar'],1
+732,who depends on water from the colorado river,40 million people,[],['between 36 and 40 million people'],"['Utah', 'the Metropolitan Water District of Southern California']",['40 million people'],1
+733,2006 high school girl murdered by two friends,Cassie Jo Stoddart,[],[],"['skylar annette neese', 'Jennifer Ann Crecente', 'Adrianne Leigh Reynolds', 'Rachel Scott', 'rachel joy scott', '2006', 'Gwen Adams', 'Jennifer Moore']",['Cassie Jo Stoddart'],1
+734,where is the sinner supposed to take place,Upstate New York,[],[],"['Austin, Texas', 'German', 'Germany']",['Upstate New York'],1
+738,how many united states presidents were born in illinois,One,[],[],"['three', 'Two']",['One'],1
+741,who sings you dont have to live like a refugee,Tom Petty and the Heartbreakers,[],[],"[""Sierra Leone's Refugee All Stars"", 'Aerosmith', 'Andr\\u00e9s Cantor']",['Tom Petty and the Heartbreakers'],1
+743,how many types of subatomic particles are there in an atom,two,['three'],[],"['protons', '98']","['two', 'three']",1
+744,the island of madagascar is located off which border of the main continent,southeastern,"['southeastern coast of Africa', 'Africa']",[],"['east africa', 'Indian Ocean', 'the coast of East Africa']","['southeastern', 'southeastern coast of Africa', 'Africa']",1
+745,when was take me home country roads written,1971,[],[],"['April 12, 1971', '1970']",['1971'],1
+747,when was the christ statue in rio built,between 1922 and 1931,[],[],['1965'],['between 1922 and 1931'],1
+749,how many casualties were there in the battle of new orleans 1862,none,[],[],"['115', '1521', '13 killed', '2459', '2084 men', '0', '105', '333']",['none'],1
+750,where does royal caribbean symphony of the seas sail from,Miami,[],"['Barcelona', 'Barcelona, Spain']",['Southampton'],['Miami'],1
+752,when did let me down slowly come out,2018,[],"['january 2018', '11 January 2018']","['February 5, 2016', '14 November 2014']",['2018'],1
+754,where does the tigris and euphrates river start,eastern Turkey,[],[],"['the mountains of eastern anatolia', 'Al-Qurnah', 'the Persian Gulf']",['eastern Turkey'],1
+756,when did sunday became the lord's day,the 1st century,['by the 2nd century'],[],"['by 361 AD', '361 AD', 'By the 4th century', '3 March 321,']","['the 1st century', 'by the 2nd century']",1
+757,when was the last time dallas cowboys won a superbowl,1995,[],[],"['1993, 1995']",['1995'],1
+760,who is piper chapman married to in real life,Larry Smith,[],[],"['Larry Bloom', 'Bridgette Doremus', 'Ian Mackley']",['Larry Smith'],1
+764,where did the term survival of the fittest come from,Darwinian evolutionary theory,['Charles Darwin'],[],"['Herbert Spencer', 'Principles of Biology']","['Darwinian evolutionary theory', 'Charles Darwin']",1
+766,when does the sympathetic nervous system be activated,constantly,"['fight - or - flight response', 'fight-or-flight response']",['epinephrine'],"['moments before waking', 'a basic level', 'the fourth week']","['constantly', 'fight - or - flight response', 'fight-or-flight response']",1
+767,who sings i'm still here treasure planet,John Rzeznik,[],['goo goo dolls'],"['Elton John', 'Carlotta Campion']",['John Rzeznik'],1
+768,who sings the national lampoon's christmas vacation song,Mavis Staples,[],[],['Lindsey Buckingham'],['Mavis Staples'],1
+769,how many levels are there on candy crush saga,many,[],"['over 2080', '2080', 'over 1100', 'over 200']","['65', 'four']",['many'],1
+772,who made the shield of achilles in greek mythology,Hephaestus,[],['the god hephaestus'],['Peleus'],['Hephaestus'],1
+773,who played neris in only fools and horses,Andrée Bernard,[],[],"['michael dunn', 'Lennard Pearce', 'Jennifer Lawrence', 'tefan avr', 'Vas Blackwood', 'tamzin outhwaite', 'Sarah Duncan', 'John Challis', 'Andr\\\\u00e9e Bernard']",['Andrée Bernard'],1
+774,10th day ceremony after death called in english,thirteenth,[],[],"['death anniversary', 'Daswan', 'babang luksa', 'Namakarana', 'gije', 'yahrzeit', 'reaping', 'Yom Kippur']",['thirteenth'],1
+775,who sings the italian song that's amore,Dean Martin,[],['Connie Francis'],[],['Dean Martin'],1
+780,when is the manchester united vs manchester city match,16 March 2019,[],"['10 December 2017', '11 november 2018', '2018', '7 April 2018']","['15 april 2018', 'July 25, 2018', '5 August 2018', 'Old Trafford']",['16 March 2019'],1
+781,worst case time complexity for insertion in bst,O(n),[],[],"['o( n )', 'O', '24 hours or less', 'O(log n)']",['O(n)'],1
+783,who played joey on all in the family,Jason and Justin Draeger,"['Jacobs', 'Christian Jacobs', 'casey siemaszko', 'twins Jason and Justin Draeger']",[],"['Sally Struthers', 'Rob Reiner']","['Jason and Justin Draeger', 'Jacobs', 'Christian Jacobs', 'casey siemaszko', 'twins Jason and Justin Draeger']",1
+784,who plays in the little mermaid on netflix,Poppy Drayton,[],[],"['jodi benson', 'Loreto Peralta', 'Jodi Marie Marzorati Benson', 'Merrin Dungey', 'patricia ann carroll', 'Gina Gershon']",['Poppy Drayton'],1
+786,when is the agents of shield season premiere,July 2019,"['december 1, 2017', 'September 20, 2016']",[],[],"['July 2019', 'december 1, 2017', 'September 20, 2016']",1
+787,when does the new season of dr who begin,7 October 2018,[],['october 2018'],[],['7 October 2018'],1
+788,who won the 2018 formula 1 french grand pix tournament,Sebastian Vettel,['lewis hamilton'],[],[],"['Sebastian Vettel', 'lewis hamilton']",1
+789,who does georgia play in the sugar bowl,Texas,[],[],"['clemson tigers', 'Pittsburgh', 'Hawaii Warriors', 'Hairy Dawg', 'alabama crimson tide', 'Western Kentucky', 'Clemson']",['Texas'],1
+790,trolls the beat goes on cast satin and chenille,Fryda Wolff,[],[],"['amanda leighton', 'Icona Pop', 'Hammy', 'skylar astin', 'Kevin Michael Richardson']",['Fryda Wolff'],1
+792,when were the three branches of government created,1787,[],[],['1748'],['1787'],1
+793,what is the number 1 sport in china,Football,[],"['Association football', 'Basketball']",[],['Football'],1
+794,when does lexi show up in grey's anatomy,season three,[],[],"['season eight', 'the eighth-season finale', 'season 9']",['season three'],1
+797,number of goals scored by ronaldo against barcelona,18,[],"['5', '2', '14']","['95', 'over 670', '22']",['18'],1
+798,this is a responsibility of every united states citizen,Jury duty,[],"['responsibility to protect', 'pay taxes', 'filial support', 'right to have rights', 'Voting for federal office']","['Jus soli', 'Individual shared responsibility provision', 'Congress', 'identity']",['Jury duty'],1
+799,who was the first king of england and what year,Canute the Great,['\\u00e6thelstan'],[],"['927', 'Egbert of Wessex', '12 July 927', 'Charles, Prince of Wales', 'Henry III', 'thelstan']","['Canute the Great', '\\u00e6thelstan']",1
+800,who is britain's longest serving prime minister,Sir Robert Walpole,['Robert Walpole'],[],[],"['Sir Robert Walpole', 'Robert Walpole']",1
+803,when did land rover discovery change body style,1990,['2017'],['1998'],['2015'],"['1990', '2017']",1
+804,who won the match between india and pakistan,India,[],['pakistan'],[],['India'],1
+807,tv series theme song hit the road jack,Unhappily Ever After,[],[],"['route 66', 'Hit the Road Jack', 'Ray Charles', 'The Killing Stones', 'rise up', 'Margie Hendrix']",['Unhappily Ever After'],1
+809,who sings the song go rest high on the mountain,Vince Gill,[],[],[],['Vince Gill'],1
+812,what time is assassin's creed origins set in,49–47 BCE,"['49 -- 47 BCE', '49 BCE']",[],"['ptolemaic period', 'near the end of the Ptolemaic period', '1509', '49\\\\u201347 BCE']","['49–47 BCE', '49 -- 47 BCE', '49 BCE']",1
+813,who played noah in the movie kissing booth,Jacob Elordi,[],[],[],['Jacob Elordi'],1
+815,who won the women's british open in 2018,Georgia Hall,[],[],['Naomi Osaka'],['Georgia Hall'],1
+817,who wrote birds do it bees do it,Cole Porter,[],[],"['John Burroughs', 'Barry Stuart', 'Gerald Fried', 'Jewel Akens', 'Fiona Shaw']",['Cole Porter'],1
+820,who did the jets play in super bowl 3,Baltimore Colts,[],[],['the New York Giants'],['Baltimore Colts'],1
+821,what is the value of a national merit scholarship,"$2,500",[],[],"['nearly $35 million', 'university scholarships', '$ 25, 000', '$1', '6']","['$2,500']",1
+822,who plays annie pearson on this is us,Faithe Herman,[],[],"['mandy moore', 'chrissy metz']",['Faithe Herman'],1
+823,the organization responsible for the conduct of monetary policy in the united states is the,Federal Reserve,[],[],[],['Federal Reserve'],1
+824,when does walking dead season 9 episode 7 air,"November 18, 2018",[],[],"['October 7, 2018', 'november 25, 2018', 'April 2, 2017', 'February 25, 2018', 'February 12, 2017']","['November\xa018,\xa02018']",1
+825,who played marty mcfly's girlfriend in back to the future,Claudia Grace Wells,[],[],['Michael J. Fox'],['Claudia Grace Wells'],1
+826,when did the star wars ride open at disney world,"July 12, 1989",[],['1987'],"['january 9, 1987', 'November 16, 2015', 'april 22, 1998']","['July 12, 1989']",1
+827,where do the wreaths across america come from,Worcester Wreath Company,[],[],"['evergreens', 'usually made from evergreens', 'German Lutherans', 'Illinois', 'Scotland']",['Worcester Wreath Company'],1
+828,what was the prediction for number of hurricanes in the atlantic ocean in 2017,10,[],['6'],"['7 hurricanes', '14\\u201319 named storms', '92 -- 198', '11', '14\\u201319', 'between 92 and 198', 'the Atlantic Ocean', 'over 3,300', '14\\\\u201319']",['10'],1
+829,what is the function of a growth plate,new bone growth,[],['new bone growth takes place'],"['to culture microorganisms', 'cell plate formation', 'translocation', 'four']",['new bone growth'],1
+833,who did sarah paulson play in bird box,Jessica,[],[],"['malorie shannon', 'Jessica Shannon', 'Malorie', 'trevante rhodes', 'Marcia Clark', 'Nurse Ratched', 'Shannon']",['Jessica'],1
+834,stratosphere is part of the atmosphere that absorbs ultraviolet,radiation,['ozone layer'],['ozone'],['stratosphere'],"['radiation', 'ozone layer']",1
+836,who beat the chiefs in the playoffs last year,Titans,[],"['pittsburgh steelers', 'Tennessee Titans']",['jacksonville jaguars'],['Titans'],1
+839,what is he on the periodic table of elements,He­lium,"['atomic number 2', 'Helium']",['He'],"['hydrogen', 'atomic number 30', 'dmitri mendeleev', 'Sulfur']","['He\xadlium', 'atomic number 2', 'Helium']",1
+840,who does tina from glee end up with,Artie,[],[],"['Mike Chang', 'Jesse St. James']",['Artie'],1
+841,when do the college bowl games get announced,"December 2, 2018",[],[],"['December 16, 2017', 'December 3, 2017', 'December 15, 2018', 'december 20, 2017', 'January 8, 2018', 'April 2, 2018', 'December 29, 2018']","['December 2, 2018']",1
+842,how many episodes does empire have in season 5,eighteen,['18'],[],[],"['eighteen', '18']",1
+845,who killed faith in the wolf among us,Georgie,[],[],"['snow white', 'Telltale', 'Bigby Wolf']",['Georgie'],1
+849,the study of biodiversity and classification of species is called,Taxonomy,[],[],"['systematics', 'Biological systematics', 'biogeography', 'Conservation biology', 'Phylogenetics']",['Taxonomy'],1
+850,who sings it's all about the bass lyrics,Meghan Trainor,[],[],[],['Meghan Trainor'],1
+853,where did they film light as a feather,"Los Angeles, California",[],[],"['diary of Samuel Pepys', 'Pinewood Studios']","['Los Angeles, California']",1
+855,where was life as we know it house,Buckhead area of Atlanta,[],[],"['Palos Verdes, California', 'The University of Manchester']",['Buckhead area of Atlanta'],1
+858,what are the largest respiratory branches of the trachea called,bronchi,"['two primary bronchi', 'primary bronchi']",[],['deliver oxygen'],"['bronchi', 'two primary bronchi', 'primary bronchi']",1
+859,in the story of cupid and psyche who is not a god,Psyche,[],['Ganymede'],"['cupid', 'Pan', 'Proserpina', 'Cooke']",['Psyche'],1
+860,who won oscar for movie whatever happened to baby jane,Norma Koch,['bette davis'],[],['best costume design'],"['Norma Koch', 'bette davis']",1
+863,who has coached the most afl/vfl games,Mick Malthouse,[],[],"['michael malthouse', 'Bill Belichick', 'Brent Harvey']",['Mick Malthouse'],1
+865,where does tri tip come from on a cow,the tensor fasciae latae muscle,"['the bottom sirloin sub primal cut', 'the bottom sirloin subprimal cut']",[],[],"['the tensor fasciae latae muscle', 'the bottom sirloin sub primal cut', 'the bottom sirloin subprimal cut']",1
+868,who played the joker in batman tv series,Cesar Romero,[],[],[],['Cesar Romero'],1
+869,how many seats in lok sabha in punjab,13,[],['117'],"['10', '545']",['13'],1
+871,which crude oil india imports wti or brent,Brent,['Brent Crude'],[],"['oil & natural gas', 'European Union']","['Brent', 'Brent Crude']",1
+872,when did lebron start playing in the nba,2003,[],[],[],['2003'],1
+874,who sang she got the best of me,Luke Albert Combs,['luke combs'],[],"[""Nicholas Sparks'""]","['Luke Albert Combs', 'luke combs']",1
+875,whi invented the first stock ticket in 1867,Edward A. Calahan,[],[],[],['Edward A. Calahan'],1
+876,who is leaving law and order svu 2018,Raúl Esparza,[],['ral esparza'],"['jesse l. martin', 'Steven M. Zirnkilton', 'UK']",['Raúl Esparza'],1
+880,where did the grimm brothers get their stories,German folktales,"['folklore', 'Germanic folklore', 'collected and published folklore']",[],"['peasants', '1812', 'German']","['German folktales', 'folklore', 'Germanic folklore', 'collected and published folklore']",1
+881,how many electrons can fit into the fourth energy level,32,[],[],"['two', '2', '18', 'up to two', 'eight', '8']",['32'],1
+882,who was the first ryan on last man standing,Nick Jonas,[],[],[],['Nick Jonas'],1
+883,what are the chicken nuggets at mcdonald's made of,processed boneless chicken meat,"['chicken meat', 'formed, white meat chicken']",[],['Chicken McNuggets'],"['processed boneless chicken meat', 'chicken meat', 'formed, white meat chicken']",1
+886,who won the second series of x factor,Tate Stevens,[],['shayne ward'],['Joe McElderry'],['Tate Stevens'],1
+889,who sang a heart needs a second chance,38 Special,['Max Carl Gronenthal'],[],"['Shinedown', 'Yardbirds', 'Barry Manilow']","['38 Special', 'Max Carl Gronenthal']",1
+890,when did the uk vote to join the eec,5 June 1975,[],[],['1 january 1973'],['5 June 1975'],1
+892,when were banded iron formations formed on the sea floor,of Precambrian,['Precambrian'],"['2,400 million years ago', 'some 1.85 billion years ago', 'Paleoproterozoic era', '2, 400 million years ago']","['2008', '2017']","['of Precambrian', 'Precambrian']",1
+893,who played the role of batman in batman v superman dawn of justice,Ben Affleck,[],[],[],['Ben Affleck'],1
+894,what kind of tree is on the belize flag,mahogany tree,['mahogany'],[],"['beech', 'Guanacaste']","['mahogany tree', 'mahogany']",1
+895,where did the idea of clowns come from,ancient Greek and Roman theatre,['Egypt'],[],"['the circus', 'uncertain', 'joseph grimaldi', 'China', 'England']","['ancient Greek and Roman theatre', 'Egypt']",1
+896,ac dc tnt other recordings of this song,Six Feet Under,[],[],"['rocker', 'High Voltage', 'sweet fanny adams', 'TNT', 'dirty deeds done dirt cheap', 'Shoot to Thrill']",['Six Feet Under'],1
+897,who decides how many electoral votes a state has,the United States Census,[],[],"['the legislature', 'the legislature of each state', 'state legislatures', 'the house of representatives', 'Congress', '270']",['the United States Census'],1
+900,who won golden boot in 2014 world cup,James Rodríguez,['james rodriguez'],['james rodrguez'],[],"['James Rodríguez', 'james rodriguez']",1
+901,america's funniest home videos tom bergeron last episode,"May 17, 2015",[],[],"['October 8, 2017', 'The Funny Things You Do']","['May 17, 2015']",1
+902,who played morticia in the addams family show,Carolyn Sue Jones,[],[],[],['Carolyn Sue Jones'],1
+903,the substance that is dissolved in the solution,solute,[],[],[],['solute'],1
+906,how many episodes of luther have there been,16,[],"['6', 'six', '5', '10']",['25'],['16'],1
+907,who wrote the words to the original pledge of allegiance,Captain George Thatcher Balch,"['Francis Julius Bellamy', 'Francis Bellamy']",[],[],"['Captain George Thatcher Balch', 'Francis Julius Bellamy', 'Francis Bellamy']",1
+908,who sings the song high on the mountain,Vince Gill,[],['ola belle reed'],"['Matt Walst', 'Mormon Tabernacle Choir', 'Johnny Keyes and the Magnificents']",['Vince Gill'],1
+909,new chairman of the press trust of india,N Ravi,[],[],"['Justice Balbir Singh Chauhan', 'Vishwanath', 'Justice Chandramauli Kumar Prasad']",['N Ravi'],1
+912,who is the secretary of agriculture 2018 philippines,Emmanuel Piñol,['emmanuel pinol'],[],"['emmanuel piol', 'Sonny Perdue']","['Emmanuel Piñol', 'emmanuel pinol']",1
+914,where is the world's largest temple located,"Central Java, Indonesia",['Cambodia'],[],"['Cholula, Puebla, Mexico', 'Srirangam', 'angkor wat', 'Jerusalem']","['Central Java, Indonesia', 'Cambodia']",1
+915,what organism has cellulose in their cell walls,land plants,"['green plants', 'plants']",[],"['Peptidoglycan', 'Oomycetes']","['land plants', 'green plants', 'plants']",1
+916,who sings i don't care anymore this is my life,Billy Joel,[],[],"['phil collins', 'English drummer Phil Collins']",['Billy Joel'],1
+917,a group of rocky rapids in ancient egypt,Cataracts of the Nile,[],['The 2nd Cataract'],"['philae', 'The Western Desert', 'The Nile', 'egyptian labyrinth', 'Nile River']",['Cataracts of the Nile'],1
+919,who does mark end up with in grey's anatomy,Lexie Grey,[],[],['Elizabeth'],['Lexie Grey'],1
+921,who played carmen in the george lopez show,Masiela Lusha,[],[],[],['Masiela Lusha'],1
+923,when was the last time the kansas city chiefs played in a superbowl,"January 11, 1970",[],[],['2017'],"['January 11, 1970']",1
+925,where is discovery in the star trek timeline,2256–2257,['2256'],[],"['alpha centauri', 'roughly a decade before', 'Prime Timeline', ""orbit around Saturn's moon Iapetus"", 'arclight hollywood', '2254']","['2256–2257', '2256']",1
+928,who played mrs banks in mary poppins movie,Glynis Johns,[],[],"['karen dotrice', 'Julie Andrews', 'Dick Van Dyke']",['Glynis Johns'],1
+929,what was the second president of the united states,John Adams,[],[],[],['John Adams'],1
+931,u.s. rescue attempt to save hostages in tehran fails,Operation Eagle Claw,[],[],"['Tehran', 'CIA']",['Operation Eagle Claw'],1
+935,who's got the worst record in nfl,Tampa Bay Buccaneers,[],"['Cleveland Browns', 'Detroit']","['miami dolphins', 'green bay packers']",['Tampa Bay Buccaneers'],1
+938,who does the voice over for forensic files,Peter Addenbrooke Thomas,['peter thomas'],[],[],"['Peter Addenbrooke Thomas', 'peter thomas']",1
+939,who accepted defeat on the british side at saratoga,Burgoyne,"['british general john burgoyne', 'General John Burgoyne', 'john burgoyne']",[],"['France', 'Horatio Gates']","['Burgoyne', 'british general john burgoyne', 'General John Burgoyne', 'john burgoyne']",1
+940,who declared a german republic on november 9 1918,Philipp Scheidemann,[],[],"['German sailors', 'kaiser wilhelm ii', 'Germany', 'Hitler']",['Philipp Scheidemann'],1
+943,when do new episodes of chicago pd air,"January 9, 2019",[],"['september 27, 2017', 'May 9, 2018']",[],"['January\xa09,\xa02019']",1
+944,how many platforms are there in sealdah station,20,[],[],"['8', '13', '23', '36', 'two']",['20'],1
+945,how many marvel movies is tony stark in,nine,[],"['four', 'three']",[],['nine'],1
+946,who was the bad guy on designated survivor,Terry Serpico,['Patrick Lloyd'],['mariana klaveno'],"['Paulo Costanzo', 'mars']","['Terry Serpico', 'Patrick Lloyd']",1
+948,who plays frankenstein in abbott and costello meet frankenstein,Glenn Strange,[],[],"['kenneth branagh', 'Gene Wilder']",['Glenn Strange'],1
+949,who is the lead singer of thin lizzy,Philip Parris Lynott,['phil lynott'],[],"['Ricky Warwick', 'Raul Malo']","['Philip Parris Lynott', 'phil lynott']",1
+953,what does mv mean in a ship's name,Motor Vessel,[],[],"['multi-purpose', 'MV Maersk Alabama', 'LOTI']",['Motor Vessel'],1
+958,nba record for points scored in a game,100,['wilt chamberlain'],[],[],"['100', 'wilt chamberlain']",1
+959,how many lanthanides are there in the periodic table,15,[],[],"['57 through 71', '118', 'two']",['15'],1
+962,who sings there ain't no rest for the wicked,Cage the Elephant,[],[],"['Lincoln Parish', 'Matt Shultz']",['Cage the Elephant'],1
+963,who plays higgins in the new magnum pi show,Perdita Weeks,[],[],"['jay hernandez', 'Tim Kang']",['Perdita Weeks'],1
+964,what is the enzyme that helps in atp synthesis,ATP synthase,[],[],['f - type atpase'],['ATP synthase'],1
+969,who has the most national championships in the sec football,Alabama,['alabama crimson tide'],[],[],"['Alabama', 'alabama crimson tide']",1
+970,who is the first chief minister who went on to become prime minister,Morarji Desai,[],[],"['indira gandhi', 'Sardar Gian Singh Rarewala', 'seewoosagur ramgoolam', 'Narendra Modi', 'Cheddi Berret Jagan', 'jawaharlal nehru', 'Robert Walpole']",['Morarji Desai'],1
+972,actress in the movie 2 fast 2 furious,Eva Mendes,['Eva de la Caridad M\\u00e9ndez'],[],"['Devon Edwenna Aoki', 'Tyrese Gibson']","['Eva Mendes', 'Eva de la Caridad M\\u00e9ndez']",1
+973,when did the united states send troops to vietnam,May 1950,"['1950', 'march 8, 1965']","['spring of 1950', '1 November 1955', 'November 1963']",[],"['May 1950', '1950', 'march 8, 1965']",1
+974,who does texas a m play in the bowl game,NC State,[],"['wake forest', 'Oklahoma Sooners', 'Western Michigan', 'kansas state wildcats', 'Houston Cougars', 'the Texas Longhorns']",[],['NC State'],1
+975,when was a scot in the arctic made,1948,['1995'],[],"['1983', 'ca. 1000 ce', '1925', '1968']","['1948', '1995']",1
+976,what is the passport issuing authority in india,the President of India,[],[],"['The Passport Seva', 'central passport organisation']",['the President of India'],1
+977,what's the easternmost point in the united states,"Sail Rock, Maine",[],[],"['point udall', 'West Quoddy Head Light', 'Semisopochnoi Island', 'cape flattery']","['Sail Rock, Maine']",1
+978,who sang you've got that magic touch,The Platters,[],[],"['robin thicke', 'Alabama', 'Rivers Cuomo']",['The Platters'],1
+980,who is the founder of the lord's chosen,Lazarus Muoka,[],[],"['Daniel Wilson', 'jesus', 'Lord Macaulay']",['Lazarus Muoka'],1
+983,who played caesar in war for the planet of the apes,Andy Serkis,[],[],['woody harrelson'],['Andy Serkis'],1
+984,how long can you get an abortion canada,at all stages of pregnancy,['all stages of pregnancy'],[],"['24 weeks', '20 weeks', 'two weeks', 'up to 24 weeks']","['at all stages of pregnancy', 'all stages of pregnancy']",1
+985,where does assassin's creed 4 take place,the 18th century Caribbean,['the caribbean'],[],"['ptolemaic egypt', 'Egypt', 'Spain']","['the 18th century Caribbean', 'the caribbean']",1
+986,the replacement of one party with a different party in a contract is called,novation,[],[],"['Delegation', 'quid pro quo', 'ius quaesitum tertio']",['novation'],1
+988,how many players on a major league team,up to 25 players,"['25', 'up to 25', '25 players']",[],['11'],"['up to 25 players', '25', 'up to 25', '25 players']",1
+990,who plays ghost in ant-man and wasp,Hannah John-Kamen,"['hannah john - kamen', 'hannah dominique e. john-kamen', 'hannah dominique e. john - kamen']",[],"['Evangeline Lilly', 'Bob Layton']","['Hannah John-Kamen', 'hannah john - kamen', 'hannah dominique e. john-kamen', 'hannah dominique e. john - kamen']",1
+991,when was the last time liverpool won the pl,1989–90,[],[],"['2017', '2005 -- 06', '2018', '1978', '2005', '1986', '1989\\\\u201390']",['1989–90'],1
+992,city belonging to mid west of united states,Des Moines,['kansas city'],"['Milwaukee', 'Chicago', 'Lebanon, Kansas']","['st. louis', 'Lebanon']","['Des Moines', 'kansas city']",1
+993,where did they film the cliffs of insanity,The Cliffs of Moher,[],[],"['The Princess Bride', 'united kingdom', 'England']",['The Cliffs of Moher'],1
+994,when is season 8 of suits coming out,"July 18, 2018",[],[],[],"['July 18, 2018']",1
+995,when does the next episode of the flash,"January 15, 2019",[],"['october 10, 2017', 'April 10, 2018', 'May 22, 2018', 'october 9, 2018']",[],"['January\xa015,\xa02019']",1
+997,who would have been the richest man in history,Jakob Fugger,[],"['john d. rockefeller', 'John Davison Rockefeller Sr.', 'Carlos Slim']",['Andrew Carnegie'],['Jakob Fugger'],1
+998,who plays sarah paulson's wife in ahs,Alison Pill,[],[],"['Chlo Sevigny', 'uma thurman', 'Rachel Griffiths', 'Laura Linney', 'Shelby Miller']",['Alison Pill'],1
+999,how many members are in the supreme court today,nine,[],[],[],['nine'],1
+1001,who sings the hook on thuggish ruggish bone,Shatasha Williams,[],[],['Greg Edwards'],['Shatasha Williams'],1
+1002,when did the roman emperors give free grain to the poor,second century AD,['22 ad'],[],"['62 and 58 bc', '73 BC', 'between 8 and 14 CE', 'December 4, 1967', '1982']","['second century AD', '22 ad']",1
+1003,who wrote i love you more than yesterday,Pat Upton,[],[],"['paul mccartney', 'Spiral Starecase']",['Pat Upton'],1
+1005,who plays the president on the haves and have nots,Nick Sager,[],[],"['tyler perry', 'Martin Sheen', 'Dana Thomas Carvey', 'Walter Lane Smith III', 'William Joseph Devane', 'humphrey bogart', 'Peter Parros', 'Tony Hightower as Frank']",['Nick Sager'],1
+1007,where does the last name floyd come from,the Welsh language name llwyd,['Welsh'],"['english origin', 'England', 'Scottish origins']","['English-language surname', 'English', 'The Andy Griffith Show']","['the Welsh language name llwyd', 'Welsh']",1
+1010,who was the first prime minister of our india,Jawaharlal Nehru,[],[],[],['Jawaharlal Nehru'],1
+1011,what was ryan's costume on the office,Justin Bieber,[],['Jesse Pinkman'],"['mallard', 'Kelly']",['Justin Bieber'],1
+1012,who wore number 24 for the montreal canadiens,Phillip Danault,['Chris Chelios'],[],"['jean b\\u00e9liveau', 'Toe Blake', 'Eric James Nattress', 'Antoine Griezmann', 'Terry Sawchuk', 'bob gainey', 'Jacques Cartier', 'Michael Jordan']","['Phillip Danault', 'Chris Chelios']",1
+1013,when did what a time to be alive drop,"September 20, 2015",['2015'],[],"['27 april 2018', '2007']","['September 20, 2015', '2015']",1
+1016,how many crayola colored pencil colors are there,more than two hundred,[],"['170', '120']",['three'],['more than two hundred'],1
+1017,who played shaggy in scooby doo the mystery begins,Nick Palatas,"['Nicholas Edward \\""Nick\\"" Palatas']",[],['Matthew Lyn Lillard'],"['Nick Palatas', 'Nicholas Edward \\""Nick\\"" Palatas']",1
+1018,when does the flash season 5 episode 6 air,"November 20, 2018",['2018'],[],"['march 1, 2018', 'October 23, 2018', 'October 9, 2018', 'November 14, 2017', 'August 5, 2018', 'March 2, 2018']","['November\xa020,\xa02018', '2018']",1
+1019,which form of government is characterized by military governance by independent warlords,Anocracy,[],[],"['warlordism', 'military dictatorship', 'sovereign state', 'oligarchy', 'democracy', 'republic', 'Ungoverned Warlordism']",['Anocracy'],1
+1020,which article in the constitution established the legislative branch of american government,Article One,[],[],[],['Article One'],1
+1021,who sings how long is this been going on,George and Ira Gershwin,['ace'],[],"['Sarah Vaughan', 'Charlie Puth', 'ella fitzgerald']","['George and Ira Gershwin', 'ace']",1
+1022,himalayan mountains are what kind of plate boundary,collision,[],['convergent boundary'],[],['collision'],1
+1025,what were the sustained winds of hurricane michael,155 mph,[],[],['175 mph'],['155 mph'],1
+1026,who was the actor that played the original macgyver,Richard Dean Anderson,[],[],[],['Richard Dean Anderson'],1
+1027,what was the population of earth in 1800ad,"978,000,000",[],['one billion'],"['320 million', '1000', '1.6 billion', '1.65 billion', 'around 7, 500, 000, 000', '1 million', 'two billion', '600 to 1000 million']","['978,000,000']",1
+1028,what do you call the boats in venice,gondola,[],[],[],['gondola'],1
+1029,who plays peter parker in the new spiderman movie,Thomas Stanley Holland,[],"['tom holland', 'Tobey Maguire']",[],['Thomas Stanley Holland'],1
+1030,what is the year on the jewish calendar,5779,[],[],"['5778', 'common year', 'AM', 'Tishrei', 'rosh hashanah', 'AM 5778', 'AM 5772']",['5779'],1
+1032,who played danielle in the girl next door,Elisha Ann Cuthbert,['Elisha Cuthbert'],[],['Fanny Ardant'],"['Elisha Ann Cuthbert', 'Elisha Cuthbert']",1
+1034,who plays madame de pompadour in doctor who,Sophia Myles,['sophia jane myles'],[],"['Phyllis Logan', 'Catherine Walker', 'dorothy gish']","['Sophia Myles', 'sophia jane myles']",1
+1035,when was in the hall of the mountain king written,1875,[],[],[],['1875'],1
+1037,who is the first woman teacher of india,Savitribai Jyotirao Phule,['Savitribai Phule'],[],"['Krishna', 'Sarojini Naidu']","['Savitribai Jyotirao Phule', 'Savitribai Phule']",1
+1039,who sings just around the riverbend in pocahontas,Judy Kuhn,[],['pocahontas'],['john smith'],['Judy Kuhn'],1
+1040,voice of luanne platter king of the hill,Murphy,"['brittany murphy', 'Brittany Murphy-Monjack']",[],[],"['Murphy', 'brittany murphy', 'Brittany Murphy-Monjack']",1
+1041,why is it written 21 on the bottle of smirnoff,Recipe No. 21,[],[],"['has performed well at spirit ratings competitions', 'world-class', 'no. 21 red label ) with the \\"" twist', '1972', 'Canal Street Confidential']",['Recipe No. 21'],1
+1042,what is the first largest religion in india,Hinduism,[],[],['Christianity'],['Hinduism'],1
+1044,what is the total number of letters in the greek alphabet,twenty-four,"['24', 'twenty - four', '24 letters']",[],[],"['twenty-four', '24', 'twenty - four', '24 letters']",1
+1046,2018 sxsw tabletop game of the year winner,"Gloomhaven, Cephalofair Games",[],[],"['splatoon 2', 'The Legend of Zelda', 'elder scrolls', 'The Last One', 'The Stanley Parable', 'rampage', 'RDC', 'Super Smash Bros Ultimate', 'The Legend of Zelda: Breath of the Wild']","['Gloomhaven, Cephalofair Games']",1
+1047,mount everest is located in which himalayan range,The Himalayan range,"['mahalangur himal sub-range', 'the himalayas', 'Mahalangur Himal', 'mahalangur himal sub - range']",[],[],"['The Himalayan range', 'mahalangur himal sub-range', 'the himalayas', 'Mahalangur Himal', 'mahalangur himal sub - range']",1
+1048,when did the first halloween movie cone out,1978,"['October 25, 1978']",[],[],"['1978', 'October 25, 1978']",1
+1049,according to the general theory of crime self-control must be instilled in the juvenile by age,ten,[],[],"['before the age of ten', '16', 'approximately 70,800 juveniles were incarcerated', '14']",['ten'],1
+1050,what is the latest edition of robert's rules of order,Eleventh,['Eleventh Edition'],['the 11th'],['newly revised'],"['Eleventh', 'Eleventh Edition']",1
+1051,the seven deadly sins season 2 number of episodes,4,['24'],[],"['13', '22']","['4', '24']",1
+1052,what type of engine does a f1 car have,V6 single hybrid turbocharger engine,[],"['rover v8 engines', 'V6', 'turbocharged 90 degree V6 reciprocating engines', '90 degree V6 reciprocating engines', 'V8', '1.6 litre four-stroke turbocharged V6 reciprocating engines']","['v8 - engine', 'Diesel']",['V6 single hybrid turbocharger engine'],1
+1053,who is the longest wwe women's champion,The Fabulous Moolah,[],[],"['charlotte', 'Charlotte Flair', 'alexa bliss']",['The Fabulous Moolah'],1
+1056,what was the armistice signed that ended ww1,Armistice of 11 November 1918,['11 November 1918'],[],['Warhouse'],"['Armistice of 11 November 1918', '11 November 1918']",1
+1058,when did naruto find out about jiraiya's death,"""Somber News""",[],"['February 23, 2013']","['2015', 'Part II', 'The sixth season', 'the epilogue', 'in part ii', 'December 6, 2009', 'March 23, 2017', '12600476']","['""Somber News""']",1
+1059,when does allison find out about scott being a werewolf,"""Formality""","['season one', 'Season 1']",[],"['13', ""Wolf Moon ''"", 'Teen Wolf', 'season 3 episode 13', '\\""Code Breaker\\""']","['""Formality""', 'season one', 'Season 1']",1
+1061,who was the mayor of memphis in 1968,Henry Loeb III,['henry loeb'],[],"['martin luther king, jr.', 'Tom T. Hall', 'Thornton']","['Henry Loeb III', 'henry loeb']",1
+1064,when was the first computer used in business,1951,[],['April 1951'],"['october 1947', '1947', '1975', '1833', '1939']",['1951'],1
+1068,what is the most popular language in canada,English,[],[],[],['English'],1
+1069,where was the 18th international balloon festival held,Albuquerque,"['albuquerque, new mexico']",[],"['Saga Prefecture, Japan', 'Bristol', 'Paris, France', 'champ - de - mars', 'New York', 'London']","['Albuquerque', 'albuquerque, new mexico']",1
+1070,what determines the clock speed of a processor,actual testing of each processor,[],"['the frequency of an oscillator crystal', 'actual testing']","['hertz', 'Computus', 'CU']",['actual testing of each processor'],1
+1072,when did andy warhol create the soup can,1962,[],[],"['november 23, 1961', '1968']",['1962'],1
+1073,who plays the alchemist in fantastic beasts 2,Brontis Jodorowsky,[],[],"['ezra miller', 'Jude Law', 'Claudia Kim', 'David Sakurai', 'johnny depp', 'Dean Fujioka']",['Brontis Jodorowsky'],1
+1074,what is the scientific name for marburg virus,Marburg marburgvirus,"['marburgvirus', 'Marburg virus']",[],"['lake victoria marburgvirus', 'zaire ebolavirus', 'Zika virus', 'DED']","['Marburg marburgvirus', 'marburgvirus', 'Marburg virus']",1
+1075,what was the name of boss tweeds political machine,Tammany Hall,['William Magear Tweed'],[],['Tammany Society'],"['Tammany Hall', 'William Magear Tweed']",1
+1076,most points scored by a team in a college football game,222,[],[],"['125', '136', '79', '100', '146', '102', '106', '72']",['222'],1
+1077,name of the plane that dropped the second atomic bomb,Bockscar,[],[],"['Enola Gay', 'Paul Warfield Tibbets Jr.']",['Bockscar'],1
+1080,how many mils in a jug of beer,1100ml,[],[],"['568', '64 and 128 U.S. fluid ounces', '1892.7', '1,892.7 ml', '10 millilitres', '64 and 128', '14', 'Two']",['1100ml'],1
+1081,who is credited for the idea of alternating current and its transmission,Michael Faraday,[],['Nikola Tesla'],['Guillaume Duchenne'],['Michael Faraday'],1
+1082,how many floors is the john hancock building boston,60,[],[],"['200', '40']",['60'],1
+1086,who wrote off we go into the wild blue yonder,Robert MacArthur Crawford,[],[],"['travis nichols', 'Chris Brigandi', 'John Berryman', 'Allan Dwan', 'jon krakauer', 'Jack London', 'Mark Rosman']",['Robert MacArthur Crawford'],1
+1087,who sang the song i want to thank you,Myers,['alicia myers'],[],"['Busta Rhymes', 'Dido', 'Led Zeppelin', 'Sam & Dave']","['Myers', 'alicia myers']",1
+1088,who is the us representative in the un,Nikki Haley,[],[],['u.s. president'],['Nikki Haley'],1
+1089,how many playoff wins do the eagles have,22,[],"['13', '10']","['1', '2', '5', 'four', '66']",['22'],1
+1090,when was the voting rights act passed brainly,1965,[],"['august 6, 1965']",[],['1965'],1
+1091,who voices the main character in red dead redemption,Robert Allen Wiethoff,['rob wiethoff'],[],['Arthur Morgan'],"['Robert Allen Wiethoff', 'rob wiethoff']",1
+1092,who played hillary on the fresh prince of bel air,Karyn Parsons,[],[],[],['Karyn Parsons'],1
+1093,where in australia is i'm a celebrity held,"near Tully, Queensland","['new south wales', 'Australia']",[],"['Kruger National Park, South Africa', 'Dungay near Murwillumbah', 'Melbourne', 'Kruger National Park']","['near Tully, Queensland', 'new south wales', 'Australia']",1
+1094,where does a widow's peak come from,mutations in the LRP2 gene,[],"['hair growth on the forehead', 'the center of the forehead', 'a bilateral pair of periorbital fields']","['an Irish village named Kilshannon', 'Donnai-Barrow syndrome', 'the belief', 'count dracula', 'Russian', 'Kilshannon']",['mutations in the LRP2 gene'],1
+1095,what does the symbol on paraguay flag mean,courage,[],['independence and liberty'],"['Paraguayan', '595']",['courage'],1
+1099,what does a yellow ribbon mean in the military,"""support our troops""",[],"['army service ribbon', 'a close family member is abroad', 'welcome home', 'support of troops in missions']","['solidarity', 'the official color of the armor branch', 'wisdom and intuition', 'Epilepsy awareness', 'thirteen British colonies']","['""support our troops""']",1
+1102,who is the little girl in sia move your body,Lilliana Ketchman,[],[],['Madison Nicole Ziegler'],['Lilliana Ketchman'],1
+1103,when was the last time green bay had a losing season,2018,[],[],"['1990', '2017', '2008', '1991', '2010']",['2018'],1
+1105,what do they call an umbrella in england,a brolly,[],[],"['parasol', 'biscuit', 'a defense against rain']",['a brolly'],1
+1106,number of deaths due to automobile accidents in the united states in 1992,"39,250",[],[],"['3613732', '61819', '37461', '3477', '63', '32999', '1063', '5', '17069592']","['39,250']",1
+1108,what is the message of jonathan livingston seagull,self-perfection,[],['self - perfection'],"['Message in a Bottle', 'Flying']",['self-perfection'],1
+1109,when were postcodes first introduced into the uk,11 October 1959,['between 11 October 1959 and 1974'],[],"['1911', '1967']","['11 October 1959', 'between 11 October 1959 and 1974']",1
+1111,which classic animated disney film features an excerpt from the nutcraker suite,Fantasia,[],[],"['mary poppins', 'Nutcracker']",['Fantasia'],1
+1112,who played doris in the good witch charm,Janet-Laine Green,['Janet - Laine Green'],[],"['Catherine Bell', 'alyssa milano', 'Catherine Disher']","['Janet-Laine Green', 'Janet - Laine Green']",1
+1114,who plays landon on the haves and the have nots,Kristian Kordula,[],[],"['nicholas james', 'John Richard Schneider', 'tefan avr', 'Gavin Alexander Houston', 'gavin houston']",['Kristian Kordula'],1
+1116,when did should have been a cowboy come out,"February 12, 1993",[],[],['1986'],"['February 12, 1993']",1
+1117,who played the guitar solo on doctor my eyes,Jesse Ed Davis,['Jesse Davis'],[],"['Gaye Delorme', 'George Harrison', 'Eric Clapton']","['Jesse Ed Davis', 'Jesse Davis']",1
+1119,who is the newly elected governor of maine,Janet Mills,[],['paul lepage'],[],['Janet Mills'],1
+1120,where does the food in toronto come from,The Ontario Food Terminal,[],"['st. lawrence market', 'Ontario', 'Chinatowns', 'Ontario farms']","['multicultural diversity', 'maize', 'English', 'Chinese']",['The Ontario Food Terminal'],1
+1121,when was the devil facial tumour first recognised,1996,[],[],"['15 B.C.', '1980', '1979']",['1996'],1
+1122,where is love it or list it season 7 filmed,North Carolina,[],[],['Vancouver'],['North Carolina'],1
+1123,who is winner of khatron ke khiladi 2018,Shantanu Maheshwari,[],[],"['rohit shetty', 'Aarti Chhabria', 'Aman Gandotra', 'Ajay', 'zainab sherin', 'Sunrisers Hyderabad', 'Karan Wahi', 'Meiyang Chang']",['Shantanu Maheshwari'],1
+1124,what is the original source of energy that fuels large storms such as hurricanes,warm ocean waters,[],"['solar energy', 'heat', 'heat from the evaporation of water', 'the high ocean temperature']","['Coal', 'differences in the atmospheric pressure']",['warm ocean waters'],1
+1125,examples of paradigm shifts in the natural sciences,The discovery of hyperbolic geometry,"['the copernican revolution', 'quantum mechanics']",['scientific revolution'],"['physics', 'Newtonian physics', 'molecular genetics', 'three', 'Two']","['The discovery of hyperbolic geometry', 'the copernican revolution', 'quantum mechanics']",1
+1126,when does the new bumblebee movie take place,1987,['the 1980s'],[],[],"['1987', 'the 1980s']",1
+1127,how many matches in champions league group stage,16,[],[],"['two', '12', '32', '32 teams']",['16'],1
+1130,who grows the most cotton in the world,China,[],[],[],['China'],1
+1131,when did the young and the restless premier,"March 26, 1973",[],[],[],"['March 26, 1973']",1
+1132,when does games of thrones season 8 come out,"April 14, 2019","['april 2019', '2019']",[],[],"['April 14, 2019', 'april 2019', '2019']",1
+1133,which is a technology used by early humans during the paleolithic age,stone tools,[],[],"['CGI', 'hunt']",['stone tools'],1
+1134,who plays role of naveen in kasauti zindagi ki,Sanjay Basu,['Sanjay Swaraj'],[],"['karanvir bohra', 'Naman Shaw', 'hiten tejwani', 'Vikas Sethi', 'Nikhil', 'Raja']","['Sanjay Basu', 'Sanjay Swaraj']",1
+1135,when did lean wit it rock wit it,"January 17, 2006",['2006'],[],"['April 2006', 'approximately 2. 97 billion years ago', 'June 1, 2006']","['January\xa017,\xa02006', '2006']",1
+1137,who was involved in the teapot dome scandal quizlet,Warren G. Harding,['United States President Warren G. Harding'],['albert bacon fall'],"['Nixon', 'pewdiepie', 'NASA']","['Warren G. Harding', 'United States President Warren G. Harding']",1
+1138,where do you find the mass number of an element,either after the element name,['after the element name'],[],"['atomic nucleus', 'the nucleus']","['either after the element name', 'after the element name']",1
+1141,do you need a license to tattoo in nj,no,['none specified'],[],"['18', '18 years or older', 'Oregon']","['no', 'none specified']",1
+1142,how many mcdonald's restaurants are there in belgium,74,[],"['67', '59', '100', '29']","['154027', '1800', 'approximately 36,900 outlets', 'two', 'three', '1400']",['74'],1
+1143,when was the last pure copper penny made,1857,[],"['October 22, 1982']",[],['1857'],1
+1147,where does the t-bone steak come from on a cow,short loin,[],[],['closer to the front'],['short loin'],1
+1148,guinness world record for being struck by lightning,Roy Cleveland Sullivan,[],[],[],['Roy Cleveland Sullivan'],1
+1150,who sang always in the kitchen at parties,Jona Lewie,[],[],[],['Jona Lewie'],1
+1151,who wrote the 1963 play barefoot in the park,Neil Simon,[],[],[],['Neil Simon'],1
+1154,when does heather get kicked off of total drama island,25,[],[],"['revenge of the island', '16', '26', 'The Last One', 'season four', 'the aftermath', '\\""The Last Day\\""']",['25'],1
+1158,when was the last time michigan has beat ohio state,2011,[],[],['2018'],['2011'],1
+1160,1998 volvo s70 front or rear wheel drive,front-wheel drive,['front - wheel drive'],[],"['awd', 'FWD']","['front-wheel drive', 'front - wheel drive']",1
+1162,what does rac stand for in rac arena,Royal Automobile Club,['Royal Automobile Club of Western Australia'],[],"['retriever activities center', 'Rutgers Athletic Center', 'Royal Agricultural College', ""ra's al ghul"", 'the National Basketball Association', 'Resource Access Control Facility']","['Royal Automobile Club', 'Royal Automobile Club of Western Australia']",1
+1163,when did boston college move to chestnut hill,1909,[],[],"['1907', '1913', 'June 1, 2008', '1875', '1915', '1800', '1870']",['1909'],1
+1164,when did the petrified forest became a national park,1962,[],[],['1971'],['1962'],1
+1167,when does stefan and elena get back together in season 3,in the season finale,[],['In the season three finale'],"['the turning point', 'The End of the Affair', ""my brother's keeper"", 'season 8', '\\""Disturbing Behavior\\""', 'The Hybrid']",['in the season finale'],1
+1168,where is st john us virgin islands located,Caribbean Sea,"['in the caribbean sea', 'Caribbean', 'in the Caribbean']",[],[],"['Caribbean Sea', 'in the caribbean sea', 'Caribbean', 'in the Caribbean']",1
+1169,how many members in congress party in india,20–40 million,[],[],"['543', '705', 'four', 'as many as a thousand', '149\\\\u2013155']",['20–40 million'],1
+1170,who was the first to state that the nucleus of a cell was essential for fertilization,Oscar Hertwig,[],[],"['august weismann', 'RNA', 'Ernest Rutherford', 'Robert Brown']",['Oscar Hertwig'],1
+1171,when was the southern christian leadership conference founded,"January 10, 1957",['1957'],[],['1942'],"['January 10, 1957', '1957']",1
+1172,best performance by an actor in a television series drama,Richard Madden,[],"['james reynolds', 'Sterling K. Brown', 'Matthew Rhys']","['Golden Globe Award', ""The Handmaid's Tale"", 'best lead actor', 'annual', 'The Alan Young Show']",['Richard Madden'],1
+1173,who played james on little house on the prairie,Jason Bateman,[],[],"['James Vincent McNichol III', 'Bateman', 'Dabbs Greer', 'victor french', 'Linwood Boomer', 'Michael Landon']",['Jason Bateman'],1
+1175,how many episodes in the durrells season 2,6,[],[],"['13', '10', '8']",['6'],1
+1179,weasel like animals of central and south america,coati,[],"['tayra', 'mustelid', 'Long-tailed weasel']","['Giant otter', 'eurasian badger', 'Fred Newman', 'Mustela']",['coati'],1
+1180,where did love you long time come from,Full Metal Jacket,[],[],"['High Valley', 'British', 'Carolina']",['Full Metal Jacket'],1
+1183,how long have dallas and detroit played on thanksgiving,Since 1978,[],"['several decades', '1934 and 1966']","['1978', '1966']",['Since 1978'],1
+1184,who has ruby married at the end of cold mountain,Georgia,[],[],"['Mr. Jim Gentry', 'doom', 'Fernando', 'Jono']",['Georgia'],1
+1185,who sings baby did a bad bad thing,Chris Isaak,[],[],[],['Chris Isaak'],1
+1187,when was the last time the braves won the national league east,2018,[],"['2005', '2013']","['1994', '2017']",['2018'],1
+1188,when was the last time hurricane michael hit,"October 16, 2018",['2018'],['October 10'],['2017'],"['October 16, 2018', '2018']",1
+1189,who is the us supreme court chief justice,John Roberts,[],['John Glover Roberts Jr.'],[],['John Roberts'],1
+1191,when did the medicare levy increase to 2,1 July 2014,[],[],['2017'],['1 July 2014'],1
+1195,where is the fast and the furious filmed,parts of southern California,[],"['los angeles', 'United States', 'Brazil', 'California', 'Atlanta, Georgia', 'across california', 'Tokyo', 'United Kingdom']",[],['parts of southern California'],1
+1199,how many sisters does joey have in friends,seven,[],[],"['three', 'one']",['seven'],1
+1200,how does atomic radii of the elements change in a group,increase,[],"['increase down each group', 'increase down']","['nucleosynthesis', 'isotope', 'two']",['increase'],1
+1201,how old do you have to be to buy cigarettes in alabama,19,[],['18 in 42 of the 50 states \\u2014 but 19'],['18'],['19'],1
+1202,what is the teachers name in freedom writers,Erin Gruwell,[],[],"['teacher', 'Richard LaGravenese', 'Emma Curtis Hopkins']",['Erin Gruwell'],1
+1203,when did english become the official language of america,never,[],[],"['1996', '1803', 'the late 17th century', '1776', '1835']",['never'],1
+1205,who observed that the quality defects are unequal in frequency,Joseph Juran,['Joseph M. Juran'],['Dorian Shainin'],['g. h. hardy'],"['Joseph Juran', 'Joseph M. Juran']",1
+1209,who won the golden globe for best actress in a movie,Glenn Close,[],"['frances mcdormand', 'Julie Andrews', 'Meryl Streep', 'jane fonda']",[],['Glenn Close'],1
+1210,which season of love and hip hop was cardi b on,season 6,"['season six', 'sixth season', 'Seasons 6\\u20137', 'sixth']",[],['season eight'],"['season\xa06', 'season six', 'sixth season', 'Seasons 6\\u20137', 'sixth']",1
+1211,when was the last time the houston astros were in the world series,2017,"['november 1, 2017']",[],[],"['2017', 'november 1, 2017']",1
+1214,where's the army-navy game being played at today,Lincoln Financial Field,[],['lincoln financial field in philadelphia'],[],['Lincoln Financial Field'],1
+1215,one day at a time song irish singer,Gloria Sherry,['gloria smyth'],[],"['Polly Cutter', 'Marilyn Sellars']","['Gloria Sherry', 'gloria smyth']",1
+1216,who is responsible for keeping the voters list up to date at all times,Registered persons,[],"['elections canada', 'the electoral agency', 'Each federal electoral district', 'national register of electors', 'local entity']","['returning officers', 'Dionysius Exiguus', 'AEC']",['Registered persons'],1
+1217,who sung vande matram for the first time in congress session in 1896,Rabindranath Tagore,[],[],[],['Rabindranath Tagore'],1
+1218,what does the e mean in scientific notation,exponent,[],[],"['expectation operator', 'summation']",['exponent'],1
+1219,who played dr pierce in miracle on 34th street,James Seay,[],[],"['Edmund Gwenn', 'john payne']",['James Seay'],1
+1220,when was the last time alabama beat georgia,"December 1, 2018",[],"['january 8, 2018', 'December 1, 2012', '2018']","['2002', '2017']","['December 1, 2018']",1
+1221,what type of study is a cohort study,longitudinal study,['longitudinal'],[],"['Kinetics', 'three']","['longitudinal study', 'longitudinal']",1
+1222,when did the brown paper bag test start,1900,"['in the 20th century', '20th century']",[],"['1982', '2002']","['1900', 'in the 20th century', '20th century']",1
+1223,who played zoey in how i met your mother,Jennifer Marie Morrison,[],[],[],['Jennifer Marie Morrison'],1
+1224,what is the age of consent in nigeria,18,[],[],"['13 years', '16']",['18'],1
+1225,who's the tallest person who ever lived,Robert Pershing Wadlow,[],[],[],['Robert Pershing Wadlow'],1
+1226,who is the lead singer of sister hazel,Ken Block,[],[],"['ryan newell', 'Cathy Connor', 'cathy lewis', 'Leslie Wilson', 'Shirley Booth']",['Ken Block'],1
+1227,who is holding the knife in the last supper,Peter,[],[],['jude'],['Peter'],1
+1228,only which type of crop is more popular than soybeans in the united states,Corn,[],[],['alfalfa'],['Corn'],1
+1229,where do most vegans live in the world,India,['Israel'],[],"['asia pacific', 'United States', 'mexico', 'Switzerland', 'Asia']","['India', 'Israel']",1
+1230,when is the next season of the arrow coming out,"October 15, 2018",[],"['October 12, 2017']",[],"['October 15, 2018']",1
+1231,what kind of government did the mongols establish in china,Monarchy,[],['mongolian - style democracy'],"['Yuan dynasty', 'patrimonial feudalism', 'communist', 'feudal system', 'Republic', 'Nationalist', 'a non-democratic, parliamentary-style central assembly']",['Monarchy'],1
+1232,ancient roman name for the area of europe centered on france,Gaul,[],[],"['gallia', 'Francia', 'Provincia Belgica']",['Gaul'],1
+1233,who wins asia's next top model 2018,Dana Slosar,[],[],"['Maureen Wroblewitz', 'Sheena Liam']",['Dana Slosar'],1
+1234,what city would be an example of a maritime climate,Prague,"['London', 'Amsterdam']","['dresden', 'charlottetown']","['desert', 'Nice', 'Harstad, Norway']","['Prague', 'London', 'Amsterdam']",1
+1235,the 1920s are often referred to as the jazz age. what is the source of this term,F. Scott Fitzgerald,['American author F. Scott Fitzgerald'],[],"['the roaring twenties', 'African and European music', 'green']","['F. Scott Fitzgerald', 'American author F. Scott Fitzgerald']",1
+1236,the outer part of the earth's crust,silicate solid crust,[],['lithosphere'],['Mantle'],['silicate solid crust'],1
+1237,where is area code 339 located in us,Boston suburbs,['Massachusetts'],[],"['maine', 'Boston', 'brevard county, florida', 'British Columbia', 'Maryland']","['Boston suburbs', 'Massachusetts']",1
+1238,when was 20000 leagues under the sea published,1870,[],[],"['November 1871', '1994']",['1870'],1
+1239,what is the strongest hurricane to make landfall in the us,The 1935Â Labor Day hurricane,[],['1935 Labor Day hurricane'],"['harvey', 'Michael', 'Hurricane Michael', 'Hurricane Charley', 'hurricane harvey', 'Great Galveston Hurricane', 'Wilma']",['The 1935Â\xa0Labor Day hurricane'],1
+1240,who did patrick swayze play in the outsiders,"Darrel ""Darry"" Curtis",['darrel curtis'],[],"['Steve Randle', 'older brother', 'Johnny Cade', 'ponyboy curtis', 'Wendy Fraser', 'Dallas \\""Dally\\"" Winston']","['Darrel ""Darry"" Curtis', 'darrel curtis']",1
+1242,german word for being happy at others misfortune,Schadenfreude,[],[],[],['Schadenfreude'],1
+1244,who was the pilot in the leicester helicopter crash,Eric Swaffer,[],[],"['Vichai Srivaddhanaprabha', 'Jack Lowden', 'Matthew Wood']",['Eric Swaffer'],1
+1245,how long is the average human s small intestine,3m-5m,[],['3m - 5m'],"['ileocolic orifice', 'two']",['3m-5m'],1
+1247,who is in charge of the us mint,David J. Ryder,[],[],['Treasurer of the United States'],['David J. Ryder'],1
+1249,how many episodes in the last kingdom season 1,8,['eight'],[],"['26', '13', '10']","['8', 'eight']",1
+1250,where was the center of the shang dynasty located,tu regions,[],['yellow river valley'],"['Beijing', 'Yin']",['tu regions'],1
+1251,when did green bay win their last super bowl,2010,"['february 6, 2011']",['1966'],[],"['2010', 'february 6, 2011']",1
+1253,where did the phrase groundhog day come from,Pennsylvania Dutch superstition,['Pennsylvania Dutch'],[],[],"['Pennsylvania Dutch superstition', 'Pennsylvania Dutch']",1
+1255,who is russell from almost famous based on,Duane Allman,[],['Gregg Allman'],"['FTSE Russell', 'William Miller', 'Stillwater']",['Duane Allman'],1
+1259,when does the good cop premiere on netflix,"September 21, 2018",[],[],[],"['September 21, 2018']",1
+1260,how many lotteries are there in the us,47,[],[],"['44 states', 'three']",['47'],1
+1261,where have saber tooth tiger remains been found,Brazil,['La Brea Tar Pits in Los Angeles'],"['Cueva del Medio', 'Americas']","['sri lanka', 'India', 'Cascade Caverns']","['Brazil', 'La Brea Tar Pits in Los Angeles']",1
+1262,what's it called when you are dyslexic with numbers,Dyscalculia,[],[],"['CF', 'Latin']",['Dyscalculia'],1
+1265,which term refers to the application of technology to public health practice research and learning,Health information technology,[],['public health informatics'],"['Biomedical sciences', 'pathophysiology', 'Europe', 'BLS']",['Health information technology'],1
+1267,there is a 5 percent average tax on imported goods in the united states. this tax is known as a(n),sales tax,[],"['customs duties', 'customs tariff']","['tariff', 'tariffs']",['sales tax'],1
+1269,how long is the movie solo a star wars story,135 minutes,[],[],"['29 minutes', '124 minutes', '113 minutes', '10', 'four - day frame', '152 minutes', 'approximately ten years', '129 minutes']",['135 minutes'],1
+1272,what is the state tree of new york,Sugar maple,[],[],"['acer saccharum', 'The Tree of Peace Society', 'oak', 'norway spruce', 'Rockefeller Center', 'New York', 'The sycamore']",['Sugar maple'],1
+1274,who has more world series nl or al,AL,['the AL winning 66'],[],[],"['AL', 'the AL winning 66']",1
+1276,who played the knave of hearts in alice in wonderland,Crispin Glover,[],[],"['Verna Felton', 'Helena Bonham Carter']",['Crispin Glover'],1
+1277,who is the first winner of who wants to be a millionaire,John Carpenter,[],[],[],['John Carpenter'],1
+1279,who said preamble is a key to the constitution of india,The Supreme Court of India,['b. r. ambedkar'],[],"['Supreme Court', 'Jawaharlal Nehru']","['The Supreme Court of India', 'b. r. ambedkar']",1
+1280,who sang all the ducks are swimming in the water,John Langstaff,[],[],"['jeff pescetto', 'The Exciters', 'The Cascades', 'Barnes & Barnes', 'the yankee wailers', 'the Texas Rangers', 'Mickey Thomas']",['John Langstaff'],1
+1281,what is the largest state in the south,Georgia,[],['texas'],"['South Carolina', 'Florida', 'North Carolina', 'alaska', 'Karnataka']",['Georgia'],1
+1282,when did the daughters of liberty take place,1765,[],[],['1886'],['1765'],1
+1283,who are the major parties issuing and investing in money market securities,banks,['financial institutions'],"['corporations and governments', 'Reserve Bank of India', 'the Securities and Exchange Commission']",[],"['banks', 'financial institutions']",1
+1284,who employed the term ecology for study plants,Ernst Haeckel,[],[],"['Eugenius Warming', 'Hans Reiter', 'Gregor Mendel']",['Ernst Haeckel'],1
+1286,who plays 11 in stranger things on netflix,Millie Bobby Brown,[],[],[],['Millie Bobby Brown'],1
+1287,right to petition the government supreme court cases,McDonald v. Smith,[],"['connick v. myers', 'Pickering v. Board of Education']","['Petition Clause', 'redress of grievances', 'judicial', 'the First Amendment']",['McDonald v. Smith'],1
+1291,when did lynchburg get wet again after prohibition,1937,[],[],"['March 16, 1936', '1966', '2001', '1980', '1874']",['1937'],1
+1293,what city is marina bay sands in singapore,Marina Bay in Singapore,"['singapore', 'Downtown Core', 'fronting Marina Bay in Singapore']",[],['changi'],"['Marina Bay in Singapore', 'singapore', 'Downtown Core', 'fronting Marina Bay in Singapore']",1
+1294,how many episodes does the walking dead season 8 have,16,[],[],[],['16'],1
+1295,who plays jack wilder in now you see me,Dave Franco,['David John Franco'],[],['Mark Ruffalo'],"['Dave Franco', 'David John Franco']",1
+1296,who crossed the atlantic in the santa maria,Christopher Columbus,[],[],['British aviators Alcock and Brown'],['Christopher Columbus'],1
+1298,how many people died from the spanish flu,50 to 100Â million,[],['50 to 100 million'],"['two', '50\\\\u2013100 million']",['50 to 100Â\xa0million'],1
+1300,when did gary lineker start hosting match of the day,1999,['the late 1990s'],[],"['22 august 1964', '2002', '1997']","['1999', 'the late 1990s']",1
+1301,what does it mean to hot rod a car,modified for faster speed,"['modifying it for greater performance', 'modified for greater performance']",[],"['a replacement engine', 'southern California', 'Mercury']","['modified for faster speed', 'modifying it for greater performance', 'modified for greater performance']",1
+1302,who plays kelly in ash vs evil dead,Dana DeLorenzo,['dana rose delorenzo'],[],[],"['Dana DeLorenzo', 'dana rose delorenzo']",1
+1303,how many episodes of my id is gangnam beauty,16,[],[],"['6', '11', '26', '13', '12', '8']",['16'],1
+1305,what is the measure of the clarity of an image,spatial resolution,['image resolution'],['visual acuity'],"['albedo', 'Gaussian blur']","['spatial resolution', 'image resolution']",1
+1307,when were the 66 books of the bible chosen,by the 5th century,[],[],"['382 ad', 'c. 400 BCE', 'in the second temple period', '393', '1546', '382']",['by the 5th century'],1
+1308,where does the last name guthrie come from,Scotland,['scottish'],['English'],"['not known', 'anglo - norman origin']","['Scotland', 'scottish']",1
+1309,who was the first woman engine driver in northern railway,Surekha Yadav,[],[],"['violet constance jessop', 'Karen Harrison', 'Lady', 'Sally Kristen Ride']",['Surekha Yadav'],1
+1311,where did the ooze come from in tmnt,TGRI,[],[],"['sebaceous glands', 'the fictional superhero team', 'Tokka', 'The Corporation', 'Siliceous ooze', 'diatomite', 'Zetox', 'Japan', 'alien technology']",['TGRI'],1
+1312,when did ronnie wood join the small faces,1969,[],[],"['1967', '2000', '1974']",['1969'],1
+1313,how many students does montclair state university have,"21,013",[],"['more than 20,000']","['41, 900', 'two']","['21,013']",1
+1314,who won the womens world cup in 2007,Germany,[],[],['United States'],['Germany'],1
+1315,who played johnse hatfield in hatfield and mccoys,Matthew Jerome Barr,['Matt Barr'],[],"['Michael Connors', 'Kevin Costner']","['Matthew Jerome Barr', 'Matt Barr']",1
+1317,who makes more money nfl or premier league,National Football League,['the nfl'],[],['premier league'],"['National Football League', 'the nfl']",1
+1318,who wrote first and second kings in the bible,Jeremiah,[],[],"['nehemiah', 'John the Evangelist']",['Jeremiah'],1
+1324,the girl next door film based on a true story,loosely,[],[],"['the girl next door', 'kendra']",['loosely'],1
+1325,who wears a red sash in the army,the West Point cadet officer,[],"['first sergeants and above', 'First Sergeant', 'sergeants']","['general officers', 'airborne (parachute) organizations']",['the West Point cadet officer'],1
+1326,who was the monarch during the american revolution,George III,['King George III'],[],['France'],"['George III', 'King George III']",1
+1327,how many points is an overtime win in the nhl,two,['two points'],[],[],"['two', 'two points']",1
+1330,what does it mean to cross over the rainbow bridge,Heaven,[],[],"['toll', 'footbridge', 'to be reunited with their owners', 'pedestrian bridge', 'to heaven', 'a world-famous tourist site', 'niagara river gorge', 'Bifr\\u00f6st', 'Rainbow Bridge', 'a rainbow']",['Heaven'],1
+1331,what is the name of the iphone charger,Lightning,[],[],"['pocketplug', 'USB to dock connector cable', 'Apple Battery Charger', 'wall charger', 'iPhone 4', 'ChargeBox']",['Lightning'],1
+1335,when does nhl season start 2018-19,"October 3, 2018",[],[],[],"['October 3, 2018']",1
+1336,common name of ch3 c o o n a,Sodium acetate,[],['acetate'],"['methoxide', 'cytochrome a', 'Chronic obstructive pulmonary disease', 'Complement component 3']",['Sodium acetate'],1
+1337,who holds the record for most points in a nba game,Wilt Chamberlain,[],[],[],['Wilt Chamberlain'],1
+1338,cast of once upon a time season 7 nick,Nathan Parsons,['Nathan Dean Parsons'],[],['Lana Parrilla'],"['Nathan Parsons', 'Nathan Dean Parsons']",1
+1339,when was the last time alabama played georgia,"December 1, 2018","['january 8, 2018', '2015', '2018']",[],[],"['December 1, 2018', 'january 8, 2018', '2015', '2018']",1
+1340,briefly explain any four types of void agreement,Has a material bilateral mistake,[],['mistake'],"['voidable contract', 'delay', 'illegal act', 'counteroffer', 'comma-shaped', 'Algol68', 'fraud']",['Has a material bilateral mistake'],1
+1346,who played little boy in close encounters of the third kind,Cary Guffey,[],[],['Barry Guiler'],['Cary Guffey'],1
+1348,who is the main character in incidents in the life of a slave girl,Harriet Ann Jacobs,['linda brent'],[],"['Cornelia Grinnel Willis', 'addy', 'Miranda Evans -']","['Harriet Ann Jacobs', 'linda brent']",1
+1349,when did the samsung galaxy a9 come out,16Â March 2018,[],[],"['2 december 2015', '21 April 2017', '19 April 2017', '20 September 2018']",['16Â\xa0March 2018'],1
+1351,where was rise by jack and jack filmed,"Lisbon, Portugal",['Lisbon'],[],"['Los Angeles', 'New York City']","['Lisbon, Portugal', 'Lisbon']",1
+1353,the secretary of state for environment food and rural affairs,Michael Gove,['Michael Andrew Gove'],"['margaret becket', 'Mike Pompeo']",['DEFRA'],"['Michael Gove', 'Michael Andrew Gove']",1
+1354,who discovered the source of the congo river,Portuguese explorer Diogo Cão,['Diogo C\\u00e3o'],['portuguese explorer diogo cao'],"['diogo co', 'Henry Morton Stanley', 'Jesuit Pedro P\\u00e1ez', 'Lewis Grant']","['Portuguese explorer Diogo Cão', 'Diogo C\\u00e3o']",1
+1357,where was the jimmy dean show filmed at,"New York City, US",['New York'],"['abc studio one in new york', 'Hollywood, California', 'nashville, tennessee', 'Los Angeles']","['miami, florida', 'Burbank']","['New York City, US', 'New York']",1
+1359,when was the last time dallas played the saints,1980,[],"['october 4, 2015', '2015', 'November 29, 2018']","['Super Bowl XLIV', '2017']",['1980'],1
+1360,is the primary source of the toxic chemicals that enter groundwater in the united states,Nitrate,[],"['industrial and household chemicals', 'sanitary landfills', 'improper disposal of wastes', 'careless industrial practices', 'fossil fuels']","['aquifers', 'Groundwater']",['Nitrate'],1
+1361,who played peter parker in the original spider man,Tobey Maguire,[],[],['Daniel John Gilvezan'],['Tobey Maguire'],1
+1363,who was indias president when it was first nuclear test were conducted,Dr. Abdul Kalam,[],"['Indira Gandhi', 'prime minister indira gandhi']",['Dr.Abdul Kalam'],['Dr. Abdul Kalam'],1
+1364,which monarch was on the english throne when east india company formed,Queen Elizabeth I,[],[],['queen victoria'],['Queen Elizabeth I'],1
+1365,german author of faust in which the main character makes a pact with the devil,Johann Wolfgang von Goethe,[],['Johann Georg Faust'],['Devil'],['Johann Wolfgang von Goethe'],1
+1368,who sings i wanna do bad things to you,Jace Everett,[],[],"['Machine Gun Kelly', 'leon haywood']",['Jace Everett'],1
+1369,why do global studies scholars prefer the use of the term global studies over international studies,broader focus,[],"['its broader focus', 'globalization', 'concept of connectedness']","['Italy', 'Daniel Yergin']",['broader focus'],1
+1372,identify the membranes that line the cavity surrounding the lungs,pleura,['pulmonary pleurae'],[],[],"['pleura', 'pulmonary pleurae']",1
+1375,who is the all-time leading score in the nfl,Adam Vinatieri,[],['Morten Andersen'],"['Jerry Rice', 'pittsburgh steelers', 'Janikowski']",['Adam Vinatieri'],1
+1377,when is the international labour day celebrated in india,1 May,['every 1 may'],[],['the third Sunday of June'],"['1 May', 'every 1 may']",1
+1380,name a non metal which is required for combustion,oxidant,['oxygen'],[],"['Boron', 'aluminiu', 'fluorine', 'metalloids']","['oxidant', 'oxygen']",1
+1383,what is the dog's name in the jetsons,Astro,[],[],[],['Astro'],1
+1384,who has the highest salary cap in mlb,Clayton Kershaw,[],['new york yankees'],"['Los Angeles Dodgers', 'alex rodriguez', 'Giancarlo Stanton']",['Clayton Kershaw'],1
+1385,who gets dealt the first card in heads up poker,The dealer,[],"['the player in the small blind', ""the dealer's hand""]","['the player to his or her left', 'community cards', 'Andy Morton']",['The dealer'],1
+1386,what are the rules of an isosceles triangle,two sides of equal length,['two equal sides'],[],"['betweenness', 'therefore', 'the third side']","['two sides of equal length', 'two equal sides']",1
+1388,national anthem at world series game 4 2018,Ryan Tedder,[],[],"['god bless america', 'Angelica Hale', 'america the beautiful', 'Pink', 'James Taylor']",['Ryan Tedder'],1
+1389,who is the lady of the lake in merlin,Miranda Richardson,['an enchantress'],[],['morgan le fay'],"['Miranda Richardson', 'an enchantress']",1
+1390,when did the eagles win the last super bowl,2017,"['february 4, 2018']",[],[],"['2017', 'february 4, 2018']",1
+1392,who plays the ex wife in the santa clause,Wendy Crewson,['Wendy Jane Crewson'],[],['aisha tyler'],"['Wendy Crewson', 'Wendy Jane Crewson']",1
+1394,what is the demographic share of india in the world,over 18%,[],"['17.5%', '17.32%']","['1.13%', 'nearly a fifth', '1. 13 %', '24.4%']",['over 18%'],1
+1395,when do the birds come back to capistrano,springtime,[],[],[],['springtime'],1
+1399,when did spider man join the fantastic four,May - August 2007,[],[],"['march 2011', 'March 1963', '2011', 'July 7, 2017', 'November 1963', '1963']",['May - August 2007'],1
+1401,when did they stop using silver in 50 cent pieces,1971,[],"['1970', '1969']",[],['1971'],1
+1402,macy s inc acquired may department stores company in the year,2005,[],"['august 30, 2005']",['2002'],['2005'],1
+1404,asia cup final who is the man of the match,Liton Das,[],"['Ajantha Mendis', 'shikhar dhawan']","['Lahiru Thirimanne', 'Rohit Sharma']",['Liton Das'],1
+1405,when does the next episode of rwby come out,"January 5, 2019",[],"['october 27, 2018', '2018', 'January 20, 2018', 'December 30, 2017', 'October 22, 2016']","['January 27, 2018', 'February 3, 2018']","['January\xa05,\xa02019']",1
+1406,what's the record for the most sacks in an nfl game,12,[],[],"['seven', '4.5', 'michael strahan']",['12'],1
+1407,what was the first pencil made out of,graphite,[],[],"['juniper wood', 'camel hair', 'Fluidlead']",['graphite'],1
+1411,who says open your eyes at the end of vanilla sky,A female voice,[],[],"['Sofia Serrano', 'cameron crowe', 'Keith Whitley', 'Flora Purim']",['A female voice'],1
+1412,medical term for the cause of a disease,etiology,[],[],"['pathogenesis', 'Cause', 'idiopathic', 'pathology', 'MD']",['etiology'],1
+1413,when does the nba basketball regular season start,"October 16, 2018",[],"['october 17, 2017']",[],"['October 16, 2018']",1
+1415,when did kevin durant get traded to the warriors,2016,[],[],"['July 4', 'march 2, 2017', '2007', 'July 7']",['2016'],1
+1417,what are the major concerns of new sociology of education,quantitative research methods,['public schooling systems'],"['social policy', 'achieving greater social equality', 'greater social equality', 'illiteracy', 'Social Learning Theory', 'how public institutions and individual experiences affect education and its outcomes']",['Christianity'],"['quantitative research methods', 'public schooling systems']",1
+1419,who was the first canadian born prime minister,Sir John Abbott,[],[],"['john a. macdonald', 'Sir John Thompson', 'Sir John Alexander Macdonald', 'Louis Botha', 'Sir John A. Macdonald']",['Sir John Abbott'],1
+1420,where does the mandibular nerve exit the skull,through the foramen ovale,['foramen ovale'],[],['internal auditory canal'],"['through the foramen ovale', 'foramen ovale']",1
+1421,who was buried in kochi before taking to purtgal,Vasco da Gama,[],[],['devasahayam pillai'],['Vasco da Gama'],1
+1422,when did the first x86 cpu come out,1978,"['june 8, 1978']",[],"['2009', 'June 23, 1999']","['1978', 'june 8, 1978']",1
+1423,who were the title sponsor of the icc cricket world cup first time,Prudential plc,[],['Prudential Assurance Company'],['Pakistan'],['Prudential plc'],1
+1427,some legally appointed to resolve the financial difficulties of an insolvent firm is called,professional insolvency and restructuring practitioners,[],"['administrator', 'administrators']","['liquidator', 'bailiffs', 'Positioning', 'Court']",['professional insolvency and restructuring practitioners'],1
+1428,what is the little boy's name in the cat and the hat,Conrad,[],[],"['norval', 'Spencer Breslin', 'Nick', 'lawrence quinn', 'Russell', 'Sally']",['Conrad'],1
+1430,how many university of houston campuses are there,four,[],[],['two'],['four'],1
+1432,minority leader of the house of representatives nigeria,Ogor Okuweh,[],[],"['Nancy Pelosi', 'Yakubu Dogara']",['Ogor Okuweh'],1
+1435,kevin durant career high points in a game,54,[],[],"['51', '50', 'Michael Jordan', '35']",['54'],1
+1436,who is credited with making the first paper money,China,[],[],"['song dynasty', 'Province of Massachusetts Bay', 'johan palmstruch', 'Cai Lun', 'Crane Currency', 'Marco Polo']",['China'],1
+1437,where is bedford falls located in it's a wonderful life,New York,['state of New York'],['Bedford Falls'],"['Westchester County of New York', 'pottersville', 'Seneca Falls']","['New York', 'state of New York']",1
+1438,when is marvel's daredevil season 3 coming out,"October 19, 2018",['2018'],[],[],"['October 19, 2018', '2018']",1
+1439,what is the crocodile called in punch and judy,The Crocodile,[],[],"['Mr. Punch', 'a hungry crocodile', 'Lockjaw', 'nile crocodile', 'Sobek', 'Lyle']",['The Crocodile'],1
+1441,what is the drink with the highest alcohol percentage,Rectified spirit,['vodka'],[],"['beer', 'tequila', 'swan light', 'alcohol by volume', '190 proof', 'Liquor']","['Rectified spirit', 'vodka']",1
+1442,who has the maximum number of wimbledon singles title,Roger Federer,[],[],[],['Roger Federer'],1
+1446,what is the name of galaxy we live in,Milky Way,[],[],[],['Milky Way'],1
+1450,how many times has nigeria won the african nations cup,three,[],[],"['four', 'five']",['three'],1
+1451,who did we fight in the spanish american war,Spain,[],[],[],['Spain'],1
+1452,who plays bonnie on days of our lives,Judi Evans,['judi evans luciano'],['Evans'],[],"['Judi Evans', 'judi evans luciano']",1
+1453,india's rank in global environmental performance index,155th,[],"['155', '123rd', '141', '100']",[],['155th'],1
+1456,who built jantar mantar of delhi and jaipur,Maharaja Jai Singh II,['Sawai Jai Singh II'],[],[],"['Maharaja Jai Singh II', 'Sawai Jai Singh II']",1
+1457,who decided the border of india and pakistan,Sir Cyril Radcliffe,[],[],['shimla agreement'],['Sir Cyril Radcliffe'],1
+1459,when did the african american civil rights movement begin,1954,['mid-1950s'],['from the mid - 1950s'],['Between 1955 and 1968'],"['1954', 'mid-1950s']",1
+1460,did athens or sparta win the peloponnesian war,Sparta,['Spartan'],[],['the Peloponnesian League'],"['Sparta', 'Spartan']",1
+1461,who has to approve the bill of rights before it became law,Congress,[],"['the states', 'the several States']",['James Madison'],['Congress'],1
+1463,which country would you find uluru or ayers rock,Australia,[],[],"['New Zealand', 'Ayers Rock']",['Australia'],1
+1467,what will be the makeup of the house of representatives in 2019,235 or 236,[],"['435', '435 congressional districts']","['Democratic', 'Democratic Party', 'Senate']",['235 or 236'],1
+1471,who plays brenda leigh johnson's mother on the closer,Frances Sternhagen,[],[],"['cleo king', 'Willie Rae Johnson', 'Mary McDonnell', 'natalie portman']",['Frances Sternhagen'],1
+1473,when was a star is born with judy garland made,1954,[],[],['1937'],['1954'],1
+1475,terms for the biceps brachii during elbow flexion,flexor,['flexion'],[],"['biceps curl', 'two - headed', 'supination', 'barbell curl', 'extends, adducts arm']","['flexor', 'flexion']",1
+1476,where is the setting of the song of roland,Spain,[],['roncevaux pass'],['Carolingian era'],['Spain'],1
+1477,who defeated venus williams in us open last month,Naomi Osaka,[],[],"['ashleigh barty', 'Oc\\u00e9ane Dodin', 'Sloane Stephens', 'Kim Clijsters', 'Serena Williams', 'Brooks Koepka', 'Maria Sakkari']",['Naomi Osaka'],1
+1478,who plays the leprechaun in the leprechaun returns,Linden Porco,[],[],"['Mark Holton', 'warwick davis']",['Linden Porco'],1
+1481,a ha sang the theme tune to which james bond film,The Living Daylights,[],[],"['Dr. No', 'Quantum of Solace', 'John Barry']",['The Living Daylights'],1
+1482,how many sales did nicki minaj queen have,"1,000,000",[],['185000'],"['20 million', '10']","['1,000,000']",1
+1483,who said the war began in my front yard and ended in my front parlor,McLean,['wilmer mclean'],[],"['Patrick Henry', 'William Butler Yeats', 'William Prescott', 'Julia Ward Howe', 'president woodrow wilson', 'John Marsden', 'Harry Turtledove']","['McLean', 'wilmer mclean']",1
+1485,what was wrong with daisy in girl interrupted,obsessive–compulsive disorder,"['obsessive -- compulsive disorder', 'obsessive \\u2013 compulsive disorder']",['committed suicide'],"['Jewish', 'amnesia', 'bulimia']","['obsessive–compulsive disorder', 'obsessive -- compulsive disorder', 'obsessive \\u2013 compulsive disorder']",1
+1486,who was the commander of the american expeditionary force in world war i,Gen. John J. Pershing,"[""John Joseph  Black Jack '' Pershing"", 'John J. Pershing']",[],[],"['Gen. John J. Pershing', ""John Joseph  Black Jack '' Pershing"", 'John J. Pershing']",1
+1488,what does the red star on houses mean,lucky,['considered lucky'],[],"['occupation symbols', 'communist ideology', 'occupation', 'the blood sacrifice']","['lucky', 'considered lucky']",1
+1490,who plays mrs dudley haunting of hill house 2018,Annabeth Gish,[],[],"['elizabeth reaser', 'Catherine Parker', 'carla gugino', 'Victoria Pedretti', 'Marian Seldes', 'kate siegel']",['Annabeth Gish'],1
+1491,how many episodes are there in season 2 of the last kingdom,8,['eight'],[],[],"['8', 'eight']",1
+1492,who played aunt penny on as time goes by,Moyra Fraser,[],[],['Geoffrey Palmer'],['Moyra Fraser'],1
+1493,which company is the largest manufacturer of tires,Lego,[],[],"['Bridgestone', 'Toyota']",['Lego'],1
+1495,when are the raiders relocating to las vegas,2020,[],['either 2019 or 2020'],"['March 27, 2017']",['2020'],1
+1499,who is the current chief justice in the philippines,Lucas Bersamin,[],['Teresita Leonardo-de Castro'],['Rodrigo Duterte'],['Lucas Bersamin'],1
+1500,who said why can't we get along,Rodney King,[],[],"['War', 'carly simon']",['Rodney King'],1
+1501,what do the letters in dea number represent,Drug Enforcement Administration,[],['registrant type'],"['controlled substances', 'Catholic Epistles', 'USN']",['Drug Enforcement Administration'],1
+1503,who played the title role in killing eve,Sandra Oh,[],[],"['jason bourne', 'Matthew Broderick', 'Sandra Miju Oh']",['Sandra Oh'],1
+1504,who got rid of the first national bank,the U.S. Senate,"['President Andrew Jackson', 'Andrew Jackson']",[],"['president george washington', 'Vice President George Clinton', 'Edge', 'the Greensboro Grasshoppers', 'President Madison']","['the U.S. Senate', 'President Andrew Jackson', 'Andrew Jackson']",1
+1505,who is the voice of transformers optimus prime,Peter Claver Cullen,[],[],[],['Peter Claver Cullen'],1
+1506,who won the first game of the world series for 2018,Boston Red Sox,[],[],['Los Angeles Dodgers'],['Boston Red Sox'],1
+1507,what is the sign for distance in physics,meter,[],[],"['r', 'metre', 'magnitude', 'positive', '\\u03c1', 'zero']",['meter'],1
+1508,what type of dog is itchy in all dogs go to heaven,Dachshund,[],[],"['german shepherd', 'Itchy Itchiford']",['Dachshund'],1
+1509,when was the song somewhere over the rainbow written,1939,[],['1938'],['1988'],['1939'],1
+1514,who did houston play in the world series in 2017,Los Angeles Dodgers,[],[],[],['Los Angeles Dodgers'],1
+1515,when did the tradition of new year resolutions begin,Babylonians,[],"['medieval era', '2000 BC', 'in the medieval era']","['1973', 'January 1']",['Babylonians'],1
+1516,who is the country singer in a star is born,"Jackson ""Jack"" Maine",['Jackson Maine'],['Bradley Cooper'],"['lukas nelson', 'Waylon Jennings']","['Jackson ""Jack"" Maine', 'Jackson Maine']",1
+1519,when is season 3 of free coming out,July 11,"['2018', 'between July 11 and September 26, 2018']",[],"['october 28, 2017', 'November 17, 2017']","['July 11', '2018', 'between July 11 and September 26, 2018']",1
+1520,who plays walker in dad's army film,Daniel Mays,[],['James Beck'],['John Talfryn Thomas'],['Daniel Mays'],1
+1522,how many episodes of hey duggee are there,104,[],"['12', '48', '10', 'two']",['1776447'],['104'],1
+1524,when did shawn mendes tour with taylor swift,2015,[],['May to October 2015'],"['1989', '2014', 'March 5, 2016']",['2015'],1
+1525,what season of supernatural is on tv right now,Season 14,[],"['the thirteenth season', 'season 13']",[],['Season 14'],1
+1526,who is the most paid sports player in the world,Floyd Mayweather Jr.,[],['cristiano ronaldo'],[],['Floyd Mayweather Jr.'],1
+1527,who sang the original song and i am telling you,Jennifer Holliday,[],[],[],['Jennifer Holliday'],1
+1528,who sang the theme tune to green green grass,John Sullivan,[],[],"['harry von tilzer', 'Porter Wagoner']",['John Sullivan'],1
+1531,who doesn't pass the boards on grey's,April,[],['April Kepner'],"['claire', 'reid', 'Kevin', 'Connor', 'Tritter', 'dr. meredith grey', 'Henry Gray', 'Lupo', 'Alex Karev']",['April'],1
+1532,when did the first kidz bop cd come out,"October 9, 2001","['October 2001', '2001', '10/09/2001']",[],"['march 31, 2017']","['October 9, 2001', 'October 2001', '2001', '10/09/2001']",1
+1533,when did a canadian team last won the stanley cup,1993,[],[],[],['1993'],1
+1534,when will the soundtrack for a star is born be released,"October 5, 2018",[],[],"['May 18, 2018']","['October 5, 2018']",1
+1535,who played the tow truck driver in harold & kumar go to white castle,Christopher Meloni,[],[],"['fred willard', 'Anthony Anderson', 'David Krumholtz', 'Bobby Lee']",['Christopher Meloni'],1
+1537,how many pictures can you save on google photos,up to 16Â megapixels,['unlimited'],[],"['over 1. 2 billion', 'one hundred zeroes', 'three']","['up to 16Â\xa0megapixels', 'unlimited']",1
+1538,where is the victoria falls located on a map,on the Zambezi River,['the Zambezi River'],"['southern africa', 'Livingstone, Zambia']",['Uganda'],"['on the Zambezi River', 'the Zambezi River']",1
+1541,when did the president of india give assent the central gst law,August 2016,['1 july 2017'],[],"['29 March 2017', '12 april 2017', '8 September 2016']","['August 2016', '1 july 2017']",1
+1543,who wrote baby it's cold outside original,Frank Loesser,[],[],[],['Frank Loesser'],1
+1544,what is a national insurance number in the uk,"""personal account number""",['The National Insurance number'],[],"['ab123456c', 'NINO']","['""personal account number""', 'The National Insurance number']",1
+1547,what is zeus's daughters name in percy jackson,Thalia Grace,['thalia'],[],"['aphrodite', 'Annabeth Chase', 'The Heroes of Olympus', 'Cleisidice']","['Thalia Grace', 'thalia']",1
+1550,the dominant trees of the mesozoic era are called,angiosperms,['conifers'],[],"['gymnosperms', 'Pangaea', 'Mammaliaformes']","['angiosperms', 'conifers']",1
+1555,where is the most populated place in america,New York,['New York City'],[],['California'],"['New York', 'New York City']",1
+1558,who said let slip the dogs of war,Mark Antony,[],[],[],['Mark Antony'],1
+1560,what happened to ned starks brother and father,executes,"['death', 'executed', 'execute', 'died']",[],"['disappeared', 'presumed treason', 'Jon Snow', 'fled']","['executes', 'death', 'executed', 'execute', 'died']",1
+1561,how far is kingston new york from new york city,91 miles,[],"['90 mile', '91 mi']","['north', '19 miles', '45 miles']",['91 miles'],1
+1563,who painted the roof of the sisten chapel,Michelangelo,[],[],['sandro botticelli'],['Michelangelo'],1
+1564,who played meg murry in a wrinkle in time 2018,Storm Reid,[],[],[],['Storm Reid'],1
+1566,where do i vote for the 2026 olympics,"Lausanne, Switzerland",[],[],"['Milan, Italy', 'Paris']","['Lausanne, Switzerland']",1
+1567,the term refers to a large amount of bleeding in a short time,massive hemorrhage,[],['blood squirt'],"['hemostasis', 'gastrointestinal bleeding', 'half-life', 'LGIB']",['massive hemorrhage'],1
+1568,what will happen to the groundwater reserves in an area where it rains heavily,naturally replenished,[],"['groundwater recharge', 'reduces groundwater recharge', 'recharge']","['soil will dry out', 'depleted', 'groundwater depletion', 'The Piney Woods', 'England']",['naturally replenished'],1
+1570,who holds more records peyton manning or tom brady,Peyton Manning,[],[],['tom brady'],['Peyton Manning'],1
+1571,fifa world cup 2018 who won golden boot,Harry Kane,[],[],[],['Harry Kane'],1
+1572,when did superman first appear in the comics,June 1938,[],"['april 18, 1938']",[],['June 1938'],1
+1577,where was the movie the dirty dozen filmed,the United Kingdom,[],[],['Cashiers'],['the United Kingdom'],1
+1579,south indian rebellion broke out in the year,1857,[],[],"['10 july 1806', 'between 1903 and 1915']",['1857'],1
+1580,who is set to win i'm a celeb,Harry Redknapp,[],[],"['Casey Donovan', ""Fiona O'Loughlin"", 'navin chawla', 'Georgia \\""Toff\\"" Toffolo', 'Danny Green']",['Harry Redknapp'],1
+1581,how many episodes are in the pokemon sun and moon anime,43,[],['26'],"['972', '36', '22', '12', '13', 'over 1000', '47', '96']",['43'],1
+1583,how many players can a mlb team have,25,['up to 25'],[],"['one', '35', '40']","['25', 'up to 25']",1
+1584,who's playing mary poppins in the new film,Emily Blunt,[],[],['julie andrews'],['Emily Blunt'],1
+1585,who killed the doctor in once upon a time,Regina,[],[],"['the master', 'Arthur']",['Regina'],1
+1589,who plays josh's sister on being human,Alison Louder,[],[],"['American', 'Ariel Kaplan']",['Alison Louder'],1
+1590,who played lumpy in the star wars holiday special,Patty Maloney,['patricia anne maloney'],[],['Frank Bank'],"['Patty Maloney', 'patricia anne maloney']",1
+1592,how do you know what cherokee clan you are,through the maternal line,[],"['hereditary', ""the mother's clan""]","[""the mother's"", 'ancestral enrollment', 'not clearly known', 'Bible', 'Cherokee Nation']",['through the maternal line'],1
+1595,number of english managers in the premier league,92,[],[],"['11', '108', 'five', 'eleven', '16', 'arsene wenger', 'Chelsea', 'four', '13']",['92'],1
+1598,meaning of the song little one by highly suspect,heartbreak song,['heartbreak'],"['lost love', 'love', 'an \\""anthemic love song\\""']","['\\""I\'m sorry\\""', 'Highly Suspect']","['heartbreak song', 'heartbreak']",1
+1599,how long does the cat in the hat show go for,82 minutes,['half - hour'],['half-hour'],"['40 half-hour episodes', '60 minutes', '40 half - hour', '20']","['82 minutes', 'half - hour']",1
+1600,who is the girl in high school musical,Vanessa Hudgens,['Vanessa Anne Hudgens'],"['adrienne monique jordan', 'Ashley Michelle Tisdale', 'Ashley Tisdale']",['known professionally as Monique Coleman'],"['Vanessa Hudgens', 'Vanessa Anne Hudgens']",1
+1601,who was the girl that played in poltergeist,Heather O'Rourke,"[""Heather Michele O'Rourke""]",[],"['dominique ellen dunne', 'Rosemarie DeWitt']","[""Heather O'Rourke"", ""Heather Michele O'Rourke""]",1
+1602,who was the first deaf president of gallaudet university,I.Â King Jordan,[],"['irving king jordan', 'I. King Jordan']",['Robert P. McGregor'],['I.Â\xa0King Jordan'],1
+1603,what is the name of element 110 in the periodic table,Darmstadtium,[],[],"['nihonium', 'Oganesson']",['Darmstadtium'],1
+1604,when is season 3 of worst witch coming out,January 2019,['2019'],[],"['8 january 2018', '2018', '22 July 2017']","['January 2019', '2019']",1
+1606,when is flash season 5 episode 3 coming out,"October 23, 2018",[],[],"['october 10, 2017', 'October 9, 2018', 'April 10, 2018', 'November 13, 2018']","['October\xa023,\xa02018']",1
+1607,when was the song baby it's cold outside first released,1949,[],['1944'],[],['1949'],1
+1608,who is the vice president who work under three different president,Bhairon Singh Shekhawat,[],"['john c. calhoun', 'George Clinton', 'Walter Mondale', 'Mohammad Hamid Ansari']",['gay clark jennings'],['Bhairon Singh Shekhawat'],1
+1609,in what environment did the zoroaster granite form,volcanic,[],[],"['grand canyon', 'Granite Gorge Metamorphic Suite', 'subduction zone', 'desert', 'deep within the Earth', 'Italy', 'a normally inaccessible mini-game']",['volcanic'],1
+1610,on the tenth day of christmas what did my true love sent to me,10 lords a-leaping,[],"['Partridge in a pear tree', 'five gold rings', '6 Geese a-Laying']","['chromium combination manicure', 'cigarette lighter', 'a lizard']",['10 lords a-leaping'],1
+1611,what is the total number of island present in the andaman and nicobar island group,572,[],[],[],['572'],1
+1614,who won the election for governor of alaska,Mike Dunleavy,[],"['Sarah Palin', 'Bill Walker', 'Mike J. Dunleavy']",['Tony Evers'],['Mike Dunleavy'],1
+1615,where does you'll never walk alone come from,Carousel.,[],[],['Into the Woods'],['Carousel.'],1
+1616,the westernmost of the two rivers that flow from turkey to the persian gulf,Euphrates,[],['tigris'],[],['Euphrates'],1
+1618,the first woman to climb mount everest of india,Bachendri Pal,[],[],[],['Bachendri Pal'],1
+1619,what is the song come on eileen about,Catholic repression,[],[],"['eileen collins', 'Come On Eileen', 'Tommy Boy']",['Catholic repression'],1
+1620,which is the official language of madhya pradesh,Hindi,[],[],['English'],['Hindi'],1
+1621,what type of branching is it called when leaves grow directly across from one another,Opposite,[],[],"['phyllotaxis', 'Sympodial', 'Decurrent', 'primary growth', '1', 'Trunk', 'decussate']",['Opposite'],1
+1622,who does stephanie beatriz play in the lego movie,General Sweet Mayhem,[],[],"['Princess Unikitty', 'Emmet', 'Phyllis', 'Rosa Diaz']",['General Sweet Mayhem'],1
+1623,who wrote ever fallen in love with someone,Pete Shelley,[],[],[],['Pete Shelley'],1
+1624,when does blue bloods season 9 start uk,"September 28, 2018",[],[],"['December 1, 2017']","['September 28, 2018']",1
+1627,who has covered the song crazy little thing called love,Dwight Yoakam,[],"['queen', 'Freddie Mercury']",['many artists'],['Dwight Yoakam'],1
+1629,who plays noah brooks father on the tv show star,Harold Perrineau,[],['Perrineau'],"['charles murray', 'Terrence J', 'tefan avr', 'ryan destiny', 'Jude Demorest', 'Jeffrey Walker']",['Harold Perrineau'],1
+1631,when did the modern period begin in india,1757,[],"['1526 -- 1858 CE', 'between 1848 and 1885', 'sometime between 1848 and 1885', 'the early 16th century', '1500', '1526']",[],['1757'],1
+1633,who was the first person that made a car,Nicolas-Joseph Cugnot,['Nicolas - Joseph Cugnot'],[],"['Ferdinand Verbiest', 'gottlieb daimler']","['Nicolas-Joseph Cugnot', 'Nicolas - Joseph Cugnot']",1
+1634,where is university of illinois urbana champaign located,Champaign–Urbana metropolitan area,"['Champaign-Urbana, Illinois']","['champaign', 'Champaign and Urbana', 'the University of Illinois at Urbana']",[],"['Champaign–Urbana metropolitan area', 'Champaign-Urbana, Illinois']",1
+1635,how many districts are there in the tennessee house of representatives,9,['99'],[],"['nine', 'four']","['9', '99']",1
+1636,when does the series of unfortunate events come out,"January 1, 2019",[],"['january 13, 2017']",[],"['January 1, 2019']",1
+1637,when does season 13 of it's always sunny start,"September 5, 2018",[],[],[],"['September 5, 2018']",1
+1642,how many big 12 titles does oklahoma have,12,[],"['11', 'two']",[],['12'],1
+1643,when was the california high speed rail proposed,2008,[],"['november 4, 2008']","['1996', '2015']",['2008'],1
+1644,what is the most current version of tls,TLS 1.3,"['version 1.3', 'version 1. 3']",[],"['TLS 1.1', 'macOS', 'Transport Layer Security']","['TLS 1.3', 'version 1.3', 'version 1. 3']",1
+1646,when does the ghost of hamlet's father appear,"Act III, Scene iv","['act i, scene i', 'act i']",[],['Marcellus'],"['Act III, Scene iv', 'act i, scene i', 'act i']",1
+1650,what is the dogs name in the grinch who stole christmas,Max,[],[],[],['Max'],1
+1651,how to say long live the revolution in french,Vive la révolution,[],[],"['vivre libre ou mourir', 'vive la diff\\u00e9rence', 'La Marseillaise', 'Vive la Charte', 'Vive la Nation', '13 vendemiaire', 'vivat']",['Vive la révolution'],1
+1652,how many wheels does the emirates a380 have,22,[],[],"['six', '32', 'four', '90']",['22'],1
+1654,question mark in a diamond copy and paste,ï¿½,[],[],"['hd - rosetta', 'white question mark', 'Ctrl-Insert', 'white', 'cut', 'the accent', 'C-2A']",['ï¿½'],1
+1655,who plays nate ruffin in we are marshall,Anthony Mackie,[],[],"['matthew chandler fox', 'Arlen Alexander Escarpeta', 'Kate Mara', 'lvaro Guzm\\u00e1n', 'Matthew McConaughey', 'Graham Phillips', 'Ricco Ross']",['Anthony Mackie'],1
+1656,what is the purpose of a chip in a debit card,control access to a resource,['security'],"['to increase transaction security', 'to make transactions', 'making purchases', 'to make purchases']","['RFID', 'VISA']","['control access to a resource', 'security']",1
+1658,what is the meaning of ppf in economics,production–possibility frontier,['production -- possibility frontier'],[],"['purchasing power parity', 'marginal utility', '7.6%', 'EQ']","['production–possibility frontier', 'production -- possibility frontier']",1
+1660,when were 1x3 'k' prefix callsigns first issued in the continental us,1921,[],[],"['1912', 'October 1, 1928', '1928', '1963', '1939', '1898']",['1921'],1
+1661,when did the grinch who stole christmas air,"December 18, 1966",['1966'],[],[],"['December 18, 1966', '1966']",1
+1662,el salvador's archbishop murdered as he celebrates mass,Óscar Arnulfo Romero y Galdámez,['\\u00d3scar Romero'],[],"['scar arnulfo romero', 'scar Romero', 'jose luis escobar alas', 'San Salvador', 'Chalatenango', 'March 24, 1980']","['Óscar Arnulfo Romero y Galdámez', '\\u00d3scar Romero']",1
+1665,when did uncle charlie join my three sons,1965,[],[],"['1964', '1967', 'the fourth season', '1971']",['1965'],1
+1666,who plays emily lightman in lie to me,Hayley McFarland,[],[],"['Joey King', 'Tim Roth']",['Hayley McFarland'],1
+1667,when does ima celebrity get me out of here start,25 August 2002,[],['18 November 2018'],"['january 2018', '28 January 2018']",['25 August 2002'],1
+1668,a classic example of a binding price floor is,minimum wage laws,['minimum wage'],"['agriculture', 'electrical equipment', 'an indie roguelike video game']",[],"['minimum wage laws', 'minimum wage']",1
+1673,who is the youngest formula 1 world champion,Sebastian Vettel,[],['Nico Rosberg'],[],['Sebastian Vettel'],1
+1676,how long did demarco murray play for dallas,2011–2014,[],[],"['seven seasons', '14 seasons', '2011']",['2011–2014'],1
+1677,where did the masque of the red death take place,abbey,"['at the castellated abbey', 'the castellated abbey']","['in his abbey', 'his abbey']","['medieval italy', 'Broadway Journal', 'Europe']","['abbey', 'at the castellated abbey', 'the castellated abbey']",1
+1678,welsh composer of keep the home fires burning,Ivor Novello,[],[],['Monty Norman'],['Ivor Novello'],1
+1681,when did green bay packers become a team,1919,[],[],"['1896', 'august 27, 1921']",['1919'],1
+1682,where did the classic heart shape come from,Heart shaped peepal leaves,[],['indus valley civilization'],"['europe', 'the early 14th century', 'in the early 14th century', 'the 1250s']",['Heart shaped peepal leaves'],1
+1683,what movie is bring it on the musical based off of,Bring It On,['2000 film of the same name'],[],['2000 film'],"['Bring It On', '2000 film of the same name']",1
+1684,who played wyatt earp in the movie ridiculous 6,Blake Shelton,[],[],"['vanilla ice', 'Terry Crews', 'Taylor Lautner']",['Blake Shelton'],1
+1685,the medulla of a hair is most useful for determining,the species of the subject,['species'],[],"['endosteum', 'The pons', 'pith or marrow']","['the species of the subject', 'species']",1
+1686,who do the washington huskies play in the rose bowl,Ohio State,['Ohio State Buckeyes'],"['Michigan Wolverines', 'Michigan']",['georgia bulldogs'],"['Ohio State', 'Ohio State Buckeyes']",1
+1687,what is the name of lord hanuman son,Macchanu,"['makardhwaja', 'Makaradhwaja']",[],[],"['Macchanu', 'makardhwaja', 'Makaradhwaja']",1
+1688,when was the last time green bay was in the superbowl,2010,[],"['February 6, 2011']",[],['2010'],1
+1689,when did the millennial generation start and end,1981 to 1996,[],"['early 1980s', '1982 -- 2000', '1981 to 1997']","['mid-1990s to early 2000s', 'mid-1990s', 'no precise dates', 'early 2000s', 'November 26, 2018']",['1981 to 1996'],1
+1691,when was rudolph the red nose reindeer produced,1964,[],[],"['1949', '1939']",['1964'],1
+1692,marasmus may be described as a form of malnutrition caused by,lack of protein and calories,[],"['energy deficiency', 'famine']","['Matilda Wormwood', 'pulmonary hypoplasia']",['lack of protein and calories'],1
+1693,when does beth die in the walking dead,"""Coda""",[],[],"['Forget', '18 Miles Out', 'April 15, 2018', 'Welcome to the Tombs']","['""Coda""']",1
+1696,what is the depth of the southern ocean,"7,236",[],"['between 4,000 and 5,000 m', '7, 235 meters']","['between', '600 m', 'Mariana Trench']","['7,236']",1
+1698,who is the father of zero based budget system,Peter Pyrrh,"['Peter Pyhrr', 'Pete Pyhrr']",[],"['peter pyrh', 'jimmy carter', 'tigmanshu dhulia']","['Peter Pyrrh', 'Peter Pyhrr', 'Pete Pyhrr']",1
+1699,who is the actor in i knew you were trouble,Reeve Jefferson Carney,['reeve carney'],[],"['max martin', 'Miranda Evans -']","['Reeve Jefferson Carney', 'reeve carney']",1
+1701,when was the right to bear arms amendment written,"December 15, 1791",['1791'],[],[],"['December 15, 1791', '1791']",1
+1702,who is hosting the people's choice awards 2018,E!,[],[],"['Ellen DeGeneres', 'Tracee Ellis Ross', 'Australia', 'Anthony Anderson', 'Joel McHale']",['E!'],1
+1703,who sings the song ain't no sunshine when she's gone,Bill Withers,[],[],[],['Bill Withers'],1
+1704,when was the last time india won in australia,2016–17,[],"['2011', '2010 -- 11', '2017', '2018', '2001']","['2007', '2011\\\\u201312']",['2016–17'],1
+1705,who plays teddy in grace and frankie season 4,Talia Shire,[],[],"['brooklyn decker', 'Ethan Embry', 'tefan avrn', 'baron vaughn', 'Tate Taylor']",['Talia Shire'],1
+1709,who is the most followed indian actor on instagram,Priyanka Chopra,[],[],"['aamir khan', 'Vin Diesel', 'Shahid Kapoor', 'Amitabh Bachchan', 'Ranveer Singh', 'selena gomez', 'Cristiano Ronaldo', 'Salman Khan']",['Priyanka Chopra'],1
+1710,who did the green bay packers tie this year,Minnesota Vikings,[],[],"['Chicago Bears', 'Detroit Lions', 'carolina panthers', 'Packers', 'the New York Giants']",['Minnesota Vikings'],1
+1713,when was the gatling gun invented and used,1862–1911,[],"['1861', 'during the American Civil War', 'november 4, 1862']",['1718'],['1862–1911'],1
+1720,where were the mcalister's going on vacation,Paris,[],[],"['Las Vegas', 'los angeles', 'Miami']",['Paris'],1
+1721,slip ring of an induction motor is usually made up of,graphite or metal,"['graphite', 'metal']",['copper'],"['permanent magnets', 'zinc', 'AC', 'a stationary graphite or metal contact']","['graphite or metal', 'graphite', 'metal']",1
+1722,what category was hurricane matthew when it made landfall in florida,Category 3,[],[],"['category 1', '3']",['Category\xa03'],1
+1724,when is pokemon let's go eevee released,"November 16, 2018",[],[],"['July 15, 2017', 'November 25, 2017']","['November 16, 2018']",1
+1725,lead actor in the rocky horror picture show,Tim Curry,[],"[""richard o'brien""]",['Peter Hinwood'],['Tim Curry'],1
+1726,how many episodes in greenhouse academy season 2,12,[],[],"['24', '8', '13', '10']",['12'],1
+1727,the islamic calendar(hijri) started in the year,622 AD/CE,[],['622 ce'],['the Hijra'],['622 AD/CE'],1
+1730,who invented the first stock ticker and 1867,Edward A. Calahan,[],[],[],['Edward A. Calahan'],1
+1731,who wrote how great the father's love for us,Stuart Townend,[],[],"['carl boberg', 'Steve Williams', 'Lee Greenwood', 'Aurelius Prudentius', 'Stephen Sondheim', 'Keith Getty', 'Chris Tomlin']",['Stuart Townend'],1
+1732,who was the former presidential candidate who became a leading spokesman against evolution,William Jennings Bryan,[],[],"['Henry Ross Perot', 'Sarah Palin']",['William Jennings Bryan'],1
+1733,where is today's army navy game played,Lincoln Financial Field,[],['lincoln financial field in philadelphia'],[],['Lincoln Financial Field'],1
+1735,who played bat masterson in the tv show,Gene Barry,[],[],[],['Gene Barry'],1
+1737,what is the longest bible verse in the bible,Esther 8:9,[],[],"['psalm 119', '1 Samuel 11', '119', 'Revelation', 'john 3 : 16', 'Matthew 7:12', 'John 3:16', 'Psalm 118']",['Esther 8:9'],1
+1738,when was the last time dc united was in the playoffs,2016,[],"['2014', '2018', '2017\\u201318']",['2017'],['2016'],1
+1739,when did tolkien write lord of the rings,between 1937 and 1949,[],[],[],['between 1937 and 1949'],1
+1740,when are the moments of silence for 9 11,8:46Â a.m.,['8:46 a.m.'],[],"['november 11', 'September 11', '6:55 pm', '11 : 00 am', '2017', 'April', '11:01']","['8:46Â\xa0a.m.', '8:46 a.m.']",1
+1742,where do red threads of saffron come from,Saffron,[],['the flower of crocus sativus'],"['stigmas and styles', 'Crocus sativus', 'the flower', 'insect', 'Southwest Asia', 'stigmas']",['Saffron'],1
+1745,who was the last king to live in versailles,Louis XVI,[],[],"['louis xv', 'Louis XIV']",['Louis XVI'],1
+1748,who won the match india vs west indies 2018,India,[],[],"['west indies', 'Pakistan']",['India'],1
+1749,who plays charlie brown in the peanuts movie 2015,Noah Schnapp,[],[],[],['Noah Schnapp'],1
+1750,when did peyton manning break the all time passing record,2015,[],['2014'],"['2004 season', '18', '2012']",['2015'],1
+1756,what is the highest peak of mountain kilimanjaro,Uhuru Peak,[],[],"['Kibo', 'Mount Everest']",['Uhuru Peak'],1
+1758,when is the next season of ibiza weekender,9 October 2018,[],"['2018', '7 January 2018', '2019', '5 February 2017']",[],['9 October 2018'],1
+1759,is baja california part of the us or mexico,Mexico,[],[],['Alta California'],['Mexico'],1
+1760,estate in eastern arabia occupying a peninsula in the persian gulf,Qatar,[],[],"['ras tanura', 'the arabian peninsula', 'Yemen', 'British']",['Qatar'],1
+1761,what does the black horse mean in the bible,Famine,['famines'],[],"['victory', 'Black Horse and the Cherry Tree', 'the Book of Revelation']","['Famine', 'famines']",1
+1763,who wins season 2 of rupauls drag race,Tyra Sanchez,[],[],[],['Tyra Sanchez'],1
+1765,who was the winner of rising star season 2,Hemant Brijwasi,[],[],[],['Hemant Brijwasi'],1
+1766,what is the real name of zara in ishq subhan allah,Eisha Singh,[],[],"['Adnan Khan', 'Zara']",['Eisha Singh'],1
+1767,where did the romans go when they left britain,Rome,[],['gaul'],"['Sub-Roman Britain', 'normandy', 'Egypt']",['Rome'],1
+1768,who claimed the mississippi river valley for france,Robert de La Salle,"['Ren\\u00e9-Robert Cavelier', 'rene - robert cavelier']",[],"['la salle', 'John Law', 'Ren\\\\u00e9-Robert Cavelier']","['Robert de La Salle', 'Ren\\u00e9-Robert Cavelier', 'rene - robert cavelier']",1
