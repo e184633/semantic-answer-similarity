@@ -1,0 +1,433 @@
+,answer1,answer2,label,berttrained
+0,rotiert,"schwingt bei vertikaler Polarisation der elektrische Feldvektor zwischen oben und unten, bei horizontaler Polarisation zwischen links und rechts",0.0,0.23049265146255493
+1,in Blautönen gehaltenen Außenwände,Blaues,1.0,0.5877379179000854
+2,'Anorthotiko Komma Ergazomenou Laou'',Fortschrittspartei des werktätigen Volkes,2.0,0.05804603546857834
+3,aus dem englischen,"von  ‚Geißel‘, ‚Seuche‘ und lat.  ‚töten‘",0.0,0.32742825150489807
+4,Ramadan-Monat,sind üblicherweise an den Rändern der Koranexemplare markiert,0.0,0.317895770072937
+5,"denn es ist eine beliebte Praxis, verteilt auf die dreißig Ramadan-Nächte, eine Chatma, also eine Komplettlesung des Korans, vorzunehmen",Sie finden vor allem in der Liturgie Verwendung und dienen als Maßeinheiten zur Festlegung von Gebetspensen,0.0,0.37556955218315125
+6,an den Rändern der Koranexemplare markiert,Die Grenzen zwischen den einzelnen Dschuzʾ- und Hizb-Abschnitten befinden sich meistens mitten in einer Sure.,0.0,0.31365862488746643
+7,bis etwa 1 MHz,niedriger,0.0,0.0657365694642067
+8,Nährgebiet,Akkumulationsgebiet,2.0,0.45084643363952637
+9,Zehrgebiet,Ablationsgebiet,2.0,0.4257916808128357
+10,Funktion eines Prädikativums,fast nur im gehobenen Stil verwendet,0.0,0.27468469738960266
+11,das lateinische Alphabet in Groß- und Kleinschreibung,ABCDEFGHIJKLMNOPQRSTUVWXYZ,1.0,0.14966034889221191
+12,"An der Gletschersohle sowie den Flanken eines Gletschers kann das Eis oft am anstehenden Gestein festfrieren, wodurch hier keine Bewegung möglich ist.",Auf molekularer Ebene besteht Eis aus übereinanderliegenden Molekülschichten mit relativ schwachen Bindungskräften zwischen den einzelnen Schichten,0.0,0.4644119143486023
+13,am Golf von Mexiko in der Golfküstenebene,Südküste,0.0,0.25329649448394775
+14,Johads,Johad,2.0,0.7682996988296509
+15,die alten traditionellen Methoden des Regenwassersammelns zu dokumentieren und Pilotprojekte aufzubauen,Die Menschen werden jetzt wieder verstärkt in die Wasserversorgung einbezogen,0.0,0.34777379035949707
+16,Sheffield United,Brian Deane,0.0,0.16137880086898804
+17,"USA, in Kanada und in Australien (hier nur umgangssprachlich)","in den USA vor allem zum American Football, in Kanada zum Canadian Football und in Australien zum Australian Football",1.0,0.6466575860977173
+18,Baktrien,Afghanistan und Pakistan,0.0,0.11299578100442886
+19,Die Anzahl der Einwohner wird in unterschiedlichen Quellen nicht einheitlich angegeben.,"Für das Jahr 2017 wird die Einwohnerzahl bei den Vereinten Nationen mit 5,1 Millionen, im CIA World Factbook mit 5,9 Millionen
+und bei Statista mit 6,7 Millionen angegeben",1.0,0.2429976463317871
+20,Im internationalen Vergleich ist die Versorgungsquote mit Verhütungsmitteln in Eritrea schlecht.,nur 7 % der verheirateten Frauen Zugang zu modernen Verhütungsmitteln,1.0,0.30639952421188354
+21,Das Betreten – außer zum Be- und Entladen – sowie die Mitfahrt sind verboten.,"Ein Güteraufzug ist nach der bisherigen deutschen Aufzugsverordnung eine Aufzugsanlage, die ausschließlich zum Transport von Gütern ohne die Begleitung von Personen gedacht ist.",1.0,0.46860271692276
+22,durch die jahrelange öffentliche Abwesenheit,"Für viele Untertanen wurde die „Witwe von Windsor“ („Widow of Windsor“) zu einer etwas wunderlichen Einsiedlerin im Witwenkleid, einer entrückten Gestalt, ehrfurchtgebietend und über ein weltumspannendes Imperium herrschend",0.0,0.06768769025802612
+23,-lijer,op,0.0,0.4232652485370636
+24,Neben Krankheiten basiert der pejorative Wortschatz vor allem auf Geschlechtsteilen und Sexualität.,Krankheiten,1.0,0.35675981640815735
+25,500 MB/s,5 Gbit/s,0.0,0.5662475228309631
+26,23 Uhr,23.00 Uhr,2.0,0.9038875699043274
+27,„Last Order“,eine Glocke,0.0,0.18803654611110687
+28,1897,23. September 1896,0.0,0.5227435231208801
+29,"Indianerstämmen der Muskogee, der Seminolen, der Cherokee, der Choctaw und der Chickasaw zu (den „Fünf zivilisierten Nationen“), die aus den östlichen Staaten vertrieben wurden. Etwa 50.000 Menschen wurden nach Oklahoma getrieben, wo sie auf bereits ansässige andere Indianerstämme trafen.",Umsiedlung,1.0,0.38446852564811707
+30,Großer Schneesturm,wegen eines Unwetters,1.0,0.32269081473350525
+31,Nationalstaatsidee,einem vereinten deutschen Staat,1.0,0.37319889664649963
+32,Pädagogen Friedrich Fröbel,Fröbel,2.0,0.6612229943275452
+33,Meyers Konversations-Lexikon,Brockhaus Enzyklopädie,0.0,0.26601213216781616
+34,für höhere Organismen nur relativ schwach giftig,"So kann ein Mensch täglich 0,04 Gramm Kupfer zu sich nehmen, ohne Schaden an seiner Gesundheit zu erleiden",1.0,0.21434922516345978
+35,unter 2 %,"nahe, aber unter 2 %",2.0,0.795020341873169
+36,vis viva,lebendigen Kräfte,2.0,0.4962734580039978
+37,Behandlung der elastischen Deformation,Lösung der Bewegungsgleichungen vor allem in der Himmelsmechanik,0.0,0.30972811579704285
+38,das Funktionsprinzip der Dampfmaschine,"Der Physiker Nicolas Carnot erkannte, dass beim Verrichten von mechanischer Arbeit eine Volumenänderung des Dampfs nötig ist. Außerdem fand er heraus, dass die Abkühlung des heißen Wassers in der Dampfmaschine nicht nur durch Wärmeleitung erfolgt",1.0,0.5493389964103699
+39,Thayendanegea,Joseph Brant,2.0,0.2214183211326599
+40,die junge weiße Frau Mayella vergewaltigt zu haben,Vergewaltigung,1.0,0.4469977915287018
+41,der Verurteilte wird kurz nach dem Prozess bei einem Fluchtversuch erschossen,Am Ende des Romans begleitet Scout ihren Nachbarn Boo wieder zurück in sein Haus,0.0,0.12330614775419235
+42,"veredelte, geschmückte und verzierte, oft aufwendig bearbeitete Papiererzeugnisse die von etwa 1820/1860 bis 1920/1930 hergestellt wurden, als es eine eigene Luxuspapierindustrie gab","Andachts- und Fleißbildchen, viele Ansichts- (Leporello), Gelegenheits- (Glückwunsch-, Weihnachts- und Neujahrskarten) und Bildpostkarten (Motivkarten), verzierte Briefbogen, Etiketten, allerlei Papierspielzeug (Papiertheater), Reklamemarken und Sammelbilder und vieles mehr",0.0,0.39048105478286743
+43,Die Partei der Demokratischen Revolution,Movimiento Progresista,1.0,0.48240888118743896
+44,"Die Sprachwahl war, neben den stilisierbaren Protagonisten des „Wettrennens ins All“, den „Helden“, einer der Gründe für die Popularität der Raumfahrt in den 60ern. Durch diese Sprachwahl konnte ein breiteres Publikum angesprochen werden, ein hochpolitisches Thema wurde für breite Massen dadurch „lesbar“, beziehungsweise damit aufbereitet.",Politik und Medien glorifizierten in den 1960ern das Ringen um kosmische Überlegenheit und allgemeine Begeisterung für den Schauplatz und seine Akteure,2.0,0.4760240316390991
+45,Das objektive Jagdrecht,Jagdrecht,2.0,0.7923817038536072
+46,Generell bilden Regelungen zum rechtlichen Status des Wildes und zum Inhaber des subjektiven Jagdrechts,Frankfurter Reichsverfassung vom 28. März 1849,0.0,0.1339714527130127
+47,weitergehende Regelungen,"z. B. Restriktionen zu den jagdbaren Wildarten, Jagd- und Schonzeiten für das jagdbare Wild, Verbote bestimmter Jagdwaffen und -methoden, Voraussetzungen für Ausstellung eines Jagdscheins, Meldepflichten für erlegtes Wild, Vorschriften zum Umgang mit Wildbret und zahlenmäßige oder qualitative Begrenzungen beim Erlegen von jagdbaren Wild",1.0,0.4064803719520569
+48,"Zum einen können die Genprodukte der Chromosomen direkt in den Zellen wirken, in denen sie exprimiert werden. Zum anderen bedingen die Gonosomen die Entwicklung der Gonaden, die die Geschlechtshormone bilden.","Geschlechtshormone, wie Testosteron und die Östrogene, wirken nicht nur auf die Keimdrüsen, sondern in vielfältiger Weise auf das gesamte Nervensystem: auf Nervenzellen, Synapsen, Genexpression",0.0,0.6587671637535095
+49,die NATO,syrischen Geheimdienst,0.0,0.3012556731700897
+50,Nintendo Advanced Video System,Famicom,0.0,0.15831048786640167
+51,"Bei Allergien, auch als Überempfindlichkeitsreaktion bezeichnet",so genannten Autoimmunerkrankungen,1.0,0.4293592870235443
+52,"Der Berstwiderstand gibt den benötigten Druck an, um ein Papier zum Bersten zu bringen.","Druck, der zum Durchstoßen des Papiers erforderlich ist",2.0,0.7093828320503235
+53,das Fehlen des vokalisierten «L»,die Übernahme einiger Wörter aus dem früheren Unterschichtsquartier Matte,0.0,0.19017565250396729
+54,am 24. November 1859,1859,1.0,0.7885786890983582
+55,derjenigen anderer früher indogermanischer Völker ähnlich,"In den Naturerscheinungen, besonders den Phänomenen des Himmels, sahen die Slawen wirkliche Wesen, die sie sich mit Denken und Empfinden ausgestattet vorstellten, einige wohltätig, andere zerstörend wirkend",0.0,0.26172634959220886
+56,bog,"Svarog (der ''Schöpfer''), als Urheber des Donners heißt er Perun (balt. ''Perkunas'')",0.0,0.218165785074234
+57,Erich Wolfgang Skwara,Raoul Schrott,0.0,0.4183610677719116
+58,"Friedrich II. die österreichische Provinz Schlesien erobert und versuchte, sie mittels eines Bündnissystems gegen eine mögliche Rückeroberung zu behaupten.
+* Österreich unter Mar",den preußischen König Friedrich II. (1712–1786) außenpolitisch zu isolieren,0.0,0.34961336851119995
+59,die zahlreichen Brunnen in der Stadt rund um den See,dieser künstliche See mit Namen Gadisar,0.0,0.4238658547401428
+60,"die Hauptgruppen sind: die Einsicht in die Lehre, ihre ethischen Grundlagen und die Schwerpunkte des geistigen Trainings (Meditation/Achtsamkeit)",dreigeteilt,1.0,0.13320550322532654
+61,"da im Gegensatz zu anderen Materialien bei Blei keine Wirkschwelle benannt werden kann, unter der die Aufnahme von Blei gesundheitlich unbedenklich ist.",aus Gründen des Umweltschutzes (siehe Bleibelastung der Umwelt) und gesundheitlichen Gründen (siehe Bleivergiftung),1.0,0.5261311531066895
+62,vorzugsweise bei Sendern hoher Leistung,bei großen hochfrequenten Strömen und Spannungen im Kilovolt-Bereich,0.0,0.547286331653595
+63,bei großen hochfrequenten Strömen und Spannungen im Kilovolt-Bereich,vorzugsweise bei Sendern hoher Leistung,0.0,0.547286331653595
+64,51. Bundesstaat,Democrats Abroad,0.0,0.15826188027858734
+65,"die dann unter der Bezeichnung „Rationalismus“ zusammengefasst werden. Diese Positionierung dient vor allem der Distanzierung des Empirismus von traditionellen, scholastisch-rationalistischen Auffassungen.
+Diese Auffassungen gehen davon aus, dass Weltwissen auch aus reinem Denken möglich ist oder dieses reine Denken sogar die primäre oder ausschließliche Erkenntnisquelle ausmache.",Rationalismus,1.0,0.42314615845680237
+66,"Unter Einhaltung dieser Bedingungen weicht sie möglichst wenig von der örtlichen Sonnenzeit ab. Die Differenz zwischen der örtlichen Sonnenzeit und der Zonenzeit eines Ortes ist östlich des Mittelmeridians negativ und westlich davon positiv, und sofern die Grenzen der Zeitzonen in etwa mit ihrer natürlichen Lage übereinstimmen – was heute oft nicht mehr zutrifft –, ist der Betrag dieser Differenz im Jahresmittel nirgends wesentlich größer als eine halbe Stunde.",Die Sommerzeit ist damit gleich der Zonenzeit der östlich benachbarten Zeitzone,1.0,0.550232470035553
+67,die Zonenzeit in der Mitteleuropäischen Zeitzone mit dem Bezugsmeridian der geographischen Länge 15° Ost,die Mitteleuropäische Zeit,2.0,0.4997098743915558
+68,"eingeschleppte Krankheiten, Strafexpeditionen, Umsiedlungen und Zwangsarbeit",Krankheiten,1.0,0.35379308462142944
+69,Downtown Houston,Houston,1.0,0.8604066371917725
+70,Gewaltenteilung,die fehlende Trennung zwischen Exekutive (ausübende) und Legislative (gesetzgebende Gewalt),2.0,0.49603015184402466
+71,Eine anhaltende erhöhte Zinkzufuhr kann zu Kupfermangel und Störungen in der Blutbildung führen.,"ab 200 mg können Symptome wie Übelkeit, Erbrechen oder auch Durchfall auftreten. Beim Menschen führt die Aufnahme von Zink ab etwa 2 g zu akuten Vergiftungserscheinungen",1.0,0.4980184733867645
+72,Außenrufe und Innenkommandos,Eingabe eines Fahrtwunsches über die Außentableaus (Ruf) oder vom Kabinentableau (Kommando),2.0,0.565843403339386
+73,einer ca. 200.000 Jahre alten Fundstelle aus der Zeit des Neandertalers an einem ehemaligen Seeufer bei Frankleben in Sachsen-Anhalt,Hinweis auf das Gerben von Tierhäuten,0.0,0.2835468053817749
+74,Die Effektivität als Kleidung wurde durch die Erfindung des Nähens erheblich gesteigert,da Kleidung nun geschlossen und dem menschlichen Körperbau angepasst werden konnte,0.0,0.4621036648750305
+75,Haus Oranien,von Oranien,2.0,0.7781075835227966
+76,"dass sich der Vater, als er bei der Meldung der Geburt zurückrechnete, eine Woche zu viel zählte und fälschlicherweise den 22. Februar als Geburtstag seines Sohnes eintragen ließ","Die beiden Urkunden verzeichnen als Geburtsdatum den 22. Februar 1810, aber sowohl Chopin als auch seine Mutter gaben als Geburtstag den 1. März 1810 an",0.0,0.5575963258743286
+77,durch Schlafmangel und Dehydrierung ausgelösten temporären Psychose,wegen eines Nervenzusammenbruchs,1.0,0.4611903131008148
+78,etwas über einer Million Einwohnern,659.433 Einwohnern (2009),0.0,0.1696346551179886
+79,acht,acht Stadtbezirke,2.0,0.6965606212615967
+80,Eklogen,''Eklogen'' oder ''Bucolica'',1.0,0.5479217171669006
+81,"nur bis eine Gigawattstunde pro Jahr die EEG-Umlage in voller Höhe berechnet. Für den Energieanteil zwischen einer und 10 Gigawattstunden sind 10 % der EEG-Umlage zu bezahlen, zwischen 10 und 100 Gigawattstunden nur noch 1 % der EEG-Umlage.","Die Deutsche Bahn AG sah sich bei deren Umsetzung mit Mehrausgaben von jährlich 500 Millionen Euro belastet, von denen 137 Millionen Euro durch den möglichen Entfall der geminderten EEG-Umlage entstehen würden und 350 Millionen Euro durch die mögliche Einführung der EEG-Umlage für selbsterzeugten Strom",0.0,0.4836786389350891
+82,"Männer, denen das Wahlrecht zustand, waren automatisch registriert, Frauen mussten einen besonderen Antrag stellen, um ihre politischen Rechte ausüben zu können","Für Männer bestand Wahlpflicht, für Frauen nicht",0.0,0.5469031929969788
+83,muslimische Gemeinden,"Kimbanguisten, sowie neuapostolische Christen",0.0,0.17771953344345093
+84,"Im Gegensatz zu den meisten anderen Religionen und zum Synkretismus führte der wachsende Ausschließlichkeitsanspruch des Christentums zur Verweigerung gegenüber dem Kaiserkult und damit der römischen Autorität,","Dies führte zu Maßnahmen gegen die beiden Religionen, die mit dem Polytheismus unvereinbar zu sein schienen",0.0,0.4786964952945709
+85,313 n. Chr.,311 n. Chr.,0.0,0.8492915034294128
+86,da diese immer nur einen Einzelfall repräsentierten,"Klassischerweise schränken viele Empiristen die intuitiv-deduktive Form des Wissens auf die Verhältnisse zwischen den Begriffen ein, die bestenfalls die Operationen des eigenen Verstandes repräsentieren",0.0,0.25494831800460815
+87,durch das Metrum,die Schwingung selbst und jede denkbare praktische Involvierung,0.0,0.30806809663772583
+88,als elementare Voraussetzung der Musik,Musik ist von den Künsten der Zeit am nächsten,0.0,0.5109453797340393
+89,besonders flüchtig,Medium in der Zeit,0.0,0.3129357695579529
+90,Goring House,Buckinghams Haus,2.0,0.36500659584999084
+91,1703,etwa 1633,0.0,0.4508378803730011
+92,nach seinem Kurzfilm ''Amblin'',Amblin Entertainment,0.0,0.5868730545043945
+93,16. Dezember 2015,1982,0.0,0.12315767258405685
+94,Anthony Porter,Porter,1.0,0.7328137755393982
+95,die klassische Periode der japanischen Literatur,"Am Hof von Heian wurden die japanische Kultur, Kunst und Sitten zu außerordentlicher Verfeinerung geführt",0.0,0.3718395531177521
+96,Hiragana,onna-de,0.0,0.28159064054489136
+97,Familie Fujiwara,Fujiwara-Familie,2.0,0.927122950553894
+98,durch ihre geschickte Heiratspolitik,der vier seiner Töchter an Kaiser verheiratete,1.0,0.3089427947998047
+99,die ''Genji'' (''Minamoto'') und die ''Heike'' (''Taira''),"als die Taira ihre Macht durch Einheirat in die kaiserliche Familie etabliert hatten, erhoben sich die Genji wieder und der ''Gempei-Krieg'' entbrannte",1.0,0.43420952558517456
+100,Klan der Taira,Taira,2.0,0.8055978417396545
+101,Point after Touchdown,Field Goal,1.0,0.3754170536994934
+102,ASPTT Strasbourg,Racing Straßburg,0.0,0.7692639231681824
+103,"Jung-, Spät- und Endneolithikum",Beginn der Metallverarbeitung im Schmelzverfahren,0.0,0.24213281273841858
+104,Der kanadische Premierminister,Brian Mulroney,1.0,0.1436314731836319
+105,den Nobelpreis für Physiologie oder Medizin,die Gewinnung monoklonaler Antikörper,0.0,0.28950217366218567
+106,Graphitrohr-AAS,Polarographie,0.0,0.15837867558002472
+107,Allen Welsh Dulles,"Dulles, der zwischen 1953 und 1961 als Direktor der CIA fungierte, war neben George Tenet am längsten an der Spitze der amerikanischen Auslandsspionage",1.0,0.2886900007724762
+108,von Parlamentariern,Einflussreiche Bürger,1.0,0.31336185336112976
+109,Ramon Llull,Grafen von Barcelona und des nachfolgenden katalanisch-aragonesischen Staatenbunds,0.0,0.09723909199237823
+110,"Weitere beliebte Insekten der Terrarianer sind Stabheuschrecken, Fangschrecken und verschiedene Käfer- und Schabenarten, außerdem werden Mehlkäferlarven (Mehlwürmer), Grillen und andere Insekten als Futtertiere für Reptilien und andere Heimtiere sowie als Angelköder gezüchtet. Eine Entwicklung der letzten Jahrzehnte ist die Haltung von Schmetterlingen in großen Gewächshäusern, die als Schmetterlingshäuser für Besucher geöffnet werden und an manchen Orten zu den Sehenswürdigkeiten der Region werden.","die Ameisen,",0.0,0.3895516097545624
+111,„Reflexionen“,Reflections on the Revolution in France,1.0,0.4368436634540558
+112,"eine scharfe Kritik an den damals in Frankreich nach der Revolution von 1789 herrschenden Zuständen und Entwicklungen, die schließlich in der Terrorherrschaft der Jakobiner 1793/1794 mündeten.",Revolution in Frankreich,1.0,0.48823127150535583
+113,Milladoiro oder Fuxan os Ventos,Milladoiro,1.0,0.503153383731842
+114,Jonas Bronck,"Nachfolgende niederländische und englische Siedler bezeichneten den von ihm in der Gegend erworbenen Grund bald als „Bronck’s Land“ und um einen dortigen Besuch anzukündigen, sagte man damals: „We are going to ''the Bronck’s''“",0.0,0.5025404095649719
+115,durch wachsende Arbeitsmigration seit den 1950er-Jahren,Nicht alle Einwohner Deutschlands sind deutsche Staatsangehörige und nicht alle deutschen Staatsangehörigen sind ethnische Deutsche,0.0,0.06376752257347107
+116,im Landesinneren,Südosten,0.0,0.25313347578048706
+117,18 Kilometer,"201,7 Kilometern",0.0,0.26932355761528015
+118,Hayek erweiterte seine Sozialismuskritik um eine Theorie der „kulturellen Evolution“ und des menschlichen Zusammenlebens in arbeitsteiligen Gesellschaften,wesentlich beeinflusst,,0.1092902421951294
+119,Hindi,Pahari,0.0,0.15573018789291382
+120,"einen der Dialekte, die unter dem Oberbegriff Pahari zusammengefasst werden",Hindi,0.0,0.20752358436584473
+121,Während der Zeit des Nationalsozialismus verfolgte der NS-Staat die Bevölkerungsminderheit mit rassistischer Zielsetzung und führte ab 1933 eine fortlaufend verschärfte Gesetzgebung ein: die Nürnberger Gesetze und ähnliche Bestimmungen.,"Verfolgung und Beraubung – zum Teil mittels Arisierung, Ghettoisierung und Inhaftierungen, Deportation – und als Grundlage für die systematischen und über Jahre fortgeführten Massenmorde während der Schoah / des Holocausts",1.0,0.46151113510131836
+122,Reichsbürgergesetz – Erste Verordnung vom 14. November 1935,die Nürnberger Gesetze,1.0,0.28325173258781433
+123,"An einem praktischen Beispiel erklärt bedeutet dies, dass ein Geheimdienst nicht erst mit einem Kommando Kontakt aufnehmen muss, welches dann über mehrere Soldaten in der Hierarchie eine Ausschaltung eines Ziels anordnet, sondern dass alle Aufklärungseinheiten alle verfügbaren Informationen in eine von mehreren Stellen abrufbare Datenbank eingeben, worauf Einheiten eigenständig reagieren können. Faktisch bedeutet dies eine Annäherung an die Auftragstaktik",die totale Vernetzung aller am Kampf beteiligten Elemente,0.0,0.30681928992271423
+124,am 7. Juli 1837,7. Juli 1837,2.0,0.9833431839942932
+125,Die aktuelle tatsächliche Netzfrequenz ist unter anderem von der aktuellen Nachfrage und dem aktuellen Angebot an elektrischer Energie abhängig und daher schwankend.,"99,5 % eines Jahres und 15,67 Hertz bis 17,33 Hertz während der restlichen 0,5 % eines Jahres",0.0,0.16573424637317657
+126,dass Gott die Welt mit allen Naturgesetzen geschaffen habe und nun ihrer gesetzlichen Bewegung überlasse,Schöpfer,1.0,0.30439549684524536
+127,"Unter ''Kommunikation'' wird dann ein soziales Handeln verstanden, das durch ''Kommunikationsziele'' und ''Kommunikationszwecke'' bestimmt ist.","nicht nur etwas zu zeigen, sondern auch zu zeigen, dass man etwas zeigt",0.0,0.2100139558315277
+128,"über Mitgliederbeiträge, Spenden, Zuschüsse, Preise oder Gebühren","zu 53 % über Entschädigungen für Dienstleistungen, zu 35 % über Staatsbeiträge und nur zu 12 % über Spendeneinnahmen",1.0,0.3901531994342804
+129,neun Jahren,1986–1995,1.0,0.15548419952392578
+130,direkt an einem Verbrennungsmotor bei Temperaturen bis zu 600 °C,Hochtemperaturanwendungen,1.0,0.226422518491745
+131,Ordre de la Libération,"„Fluctuat nec mergitur“ (etwa: „Sie verändert sich, geht aber nicht unter“ oder „Sie schwankt, aber sie geht nicht unter“)",0.0,0.06337913870811462
+132,in Stuttgart mit der internationalen Juniorenmeisterschaft ''„Bestgebauter Athlet“'',in der Juniorenklasse Österreichischer Staatsmeister,0.0,0.46367108821868896
+133,Mr. Olympia,der Titel des ''Mr. Olympia'',2.0,0.8292191028594971
+134,Sergio Oliva,Oliva,1.0,0.7669839859008789
+135,Detroit Tigers,Die Detroit Tigers,2.0,0.9831956624984741
+136,"Wichtig ist, dass jeder gegnerische, passempfangsberechtigte Spieler gedeckt ist","beinhaltet alle Spieler, die die gegnerischen Spieler decken, die einen Pass fangen dürfen",1.0,0.7162450551986694
+137,"Zusammenschluss des City and Guilds College, der Royal School of Mines sowie des Royal College of Science.",1907,0.0,0.08358980715274811
+138,"Im engeren Sinn bezeichnet man als Haushund die Hunde, die überwiegend im Haus gehalten werden, und kennzeichnet damit also eine Haltungsform. Historisch wurde ein Hund, der zur Bewachung des Hauses gehalten wird, als Haushund bezeichnet. Eine weitere Verwendung des Begriffs ist die Einschränkung auf sozialisierte (Haus-)Hunde, also Hunde, die an das Zusammenleben mit Menschen in der menschlichen Gesellschaft gewöhnt und an dieses angepasst sind.",ein Haustier und wird als Heim- und Nutztier,0.0,0.5684613585472107
+139,"Während der heftigen Kämpfe, bei denen die Chinesen die weit aufgefächerte Front der Japaner am Fluss Xinqiang erfolgreich von Norden und Süden attackierten, setzten die Japaner auch Giftgas ein.",Schlacht um Changsha,0.0,0.2304971069097519
+140,Humphrey Gilbert,Gilbert,1.0,0.7272161245346069
+141,am Markt und der Angemessenheit,üblicherweise nach der angemessenen Lizenzvergütung,0.0,0.4648852050304413
+142,34 %,"9,2 Mtoe",0.0,0.0814753994345665
+143,"Fehlender Nachschub, Krankheiten sowie ständige Angriffe der russischen Kosaken setzten den französischen Truppen schwer zu.","litten unter Hunger, Krankheiten, Schnee und Kälte",0.0,0.42612844705581665
+144,eher seltenes,"In der Periode von 1999 bis 2002 hagelte es im Emmental, im Laufental und im Toggenburg am im Jahresdurchschnitt bis zu 60 Minuten, in den anderen Regionen waren es unter 30 Minuten",0.0,0.22984938323497772
+145,521 Millimetern,545 Millimeter im Jahr (beide Werte Normperiode 1981–2010),0.0,0.5636394023895264
+146,Purismus,"Suprematismus, Konstruktivismus",0.0,0.34641748666763306
+147,in vielen Bereichen des täglichen Lebens,"Bauindustrie, Ernährungs- und Getränkeindustrie, Kraftfahrzeugindustrie, Elektro(nik)industrie, Haushalt und Gastronomie, Medizin, Forschung und Wissenschaft, Chemie, Pharmazie, Kosmetik, Möbelindustrie und Innenausbau, Kunststoff- und Textilindustrie",1.0,0.29075613617897034
+148,"Allerdings befinden sich Schulen und besonders Hochschulen in außerordentlich schlechtem Zustand. Hinzu kommt, bedingt durch ausbleibende Gehaltszahlungen, die geringe Motivation der Lehrkräfte und die enorme Zahl an Streiks, weswegen der Unterricht zuweilen vollständig unterbleibt.","Betrug der Bildungsetat 1985 noch 12,2 Prozent des Bruttoinlandsprodukts, so sanken die Ausgaben 2003 auf 4,6 Prozent",0.0,0.33725136518478394
+149,zwei Stunden,drei Stunden,0.0,0.6165284514427185
+150,46. Tag vor dem Ostersonntag,Mittwoch nach dem 7. Sonntag vor Ostern,2.0,0.29152658581733704
+151,als finster und barbarisch wahrgenommenen,"Wortführer der humanistischen Bewegung grenzten sich von der Vergangenheit der vorhergehenden Jahrhunderte, die man „Mittelalter“ (mittleres Zeitalter) zu nennen begann, scharf und verächtlich ab",0.0,0.2852254807949066
+152,antike Kultur,Cicero sowie Quintilian,0.0,0.17369213700294495
+153,"USA weitere in Japan, Korea, Europa sowie auf Guam und Samoa",weltweit,1.0,0.23852887749671936
+154,Niederschläge fallen ganzjährig mit einem Schwerpunkt in den Frühjahrsmonaten.,Hohe Regenmengen sind insbesondere in den Sommermonaten zu erwarten,0.0,0.6026782989501953
+155,1667,19. Februar 1674,0.0,0.39340850710868835
+156,Niederländischen Westindien-Kompanie (WIC),die WIC von der Republik der Sieben Vereinigten Provinzen,2.0,0.4319092929363251
+157,Central League,„Central League“,2.0,0.9250543713569641
+158,Judengemeinden,Aschkenasim,1.0,0.17506000399589539
+159,2013,6. November 2013,1.0,0.5837445855140686
+160,Gouverneure,Der Präsident,0.0,0.432924747467041
+161,Tantalglühfäden,Glühfäden aus Osmium,0.0,0.49403443932533264
+162,Spanier Juan Ponce de León,Ponce de León,2.0,0.7724380493164062
+163,Expedition durch den Südosten der heutigen USA,Expedition,1.0,0.5095147490501404
+164,die drei Diaspora-Gruppen,"viele Gene von einer ursprünglichen jüdischen Bevölkerungsgruppe geerbt haben, die vor rund 3000 Jahren in dem als Levante bezeichneten östlichen Mittelmeerraum lebte",0.0,0.34083619713783264
+165,entsprechende Vereinbarung zwischen Ausbildungsbetrieb und Auszubildendem sowie die Zustimmung der zuständigen Kammer,berechtigtem Interesse,0.0,0.28457626700401306
+166,Adoleszenz,Pubertät,1.0,0.5435188412666321
+167,Tigran Petrosjan,Armenier,1.0,0.26562830805778503
+168,Khoren Gevor,Europameister,0.0,0.2626221776008606
+169,Oranien-Nassau,Niederlande,0.0,0.3065686821937561
+170,Wilhelm III.,Wilhelm von Oranien,1.0,0.4466695189476013
+171,Peter Reid,Reid,1.0,0.770853579044342
+172,Art Zeitungsverlag,in den Comics über die Marvel-Superhelden,0.0,0.23510479927062988
+173,Der Head Linesman und der Line Judge,Der Side und Back Judge,0.0,0.5398616790771484
+174,Seestreitmacht der Vereinigten Staaten,Prieble begann eine Blockade der Häfen der Babareskenstaaten. Am 14. Juli 1804 griff er Tripolis direkt an.,0.0,0.0822536051273346
+175,Schutz für amerikanische Schiffe durch die britische Royal Navy nach der Unabhängigkeit der Vereinigten Staaten 1783 entfallen war,Die Piraterie der Barbareskenstaaten im Mittelmeer auch gegen amerikanische Schiffe führte zur Begründung einer Seestreitmacht der Vereinigten Staaten,0.0,0.43090301752090454
+176,Tributzahlungen,Tribut- und Lösegeldzahlungen,1.0,0.7932015657424927
+177,18. September 1988,Bis 2010,0.0,0.1863946169614792
+178,Den ersten dieser Freundschaftsverträge,"die Verpflichtung zur gegenseitigen Hilfeleistung unterzeichnet, um alle gewaltsamen militärischen Handlungen, die sich gegen die territoriale Integrität und Souveränität einer Vertragspartei richteten, zu verhindern.",0.0,0.2769704759120941
+179,ab 1966 sowjetische Truppenstationierungen,Beobachterstatus,0.0,0.10048634558916092
+180,1.021.000 Mann,"1,4 Millionen",0.0,0.2433946281671524
+181,Offensive,Die Dislozierung der aufmarschierenden französischen Truppen war jedoch ganz auf diese Offensivbewegung ausgerichtet,1.0,0.37742289900779724
+182,weit überlegene Infanteriebewaffnung,"Die französischen Chassepotgewehre waren deutlich effizienter und sorgten mit ihrer großen Reichweite und der hohen Schussfrequenz dafür, dass Frontalangriffe der deutschen Truppen für diese meistens mit enormen Verlusten verbunden waren",1.0,0.4697025716304779
+183,elektrischen Stuhls,Erhängen,0.0,0.15834593772888184
+184,Die Landwirtschaft,Landwirtschaft,2.0,0.9838138818740845
+185,Verbesserung der Wärmeleitfähigkeit,''Thermal Vias'' verbessern den Wärmetransport senkrecht zur Leiterplatte.,2.0,0.5965895056724548
+186,Wilhelm I.,König Wilhelm III.,0.0,0.6666328310966492
+187,niederländischen König,Wilhelm III.,1.0,0.4314557611942291
+188,Unabhängigkeitskrieg,Israelische Unabhängigkeitskrieg (Erster Arabisch-Israelischer-Krieg),1.0,0.5887052416801453
+189,Während des Krieges flohen rund 850.000 Araber aus Palästina,"Zum Teil wurden diese Flüchtlinge durch israelische Streitkräfte vertrieben, zum Teil wurden sie von den arabischen Streitkräften aus strategischen Gründen evakuiert.",0.0,0.48126107454299927
+190,großes Industriegebiet,zahlreiche Industriebetriebe und mehrere Arbeiterviertel,1.0,0.7343952655792236
+191,Kopernikus,Nikolaus Kopernikus,1.0,0.8666917085647583
+192,Rebekah Wade,Wade,1.0,0.6322693824768066
+193,problemlos,"Es existiert keine gesetzliche Bestimmung, die das einschränkt",1.0,0.24748806655406952
+194,des zweiten buddhistischen Konzils,auf die Mahasanghika („große Gemeinde“),0.0,0.32447534799575806
+195,eine Vielzahl von Mechanismen,"Ein Weg ist die Steuerung über die Rate ihrer Transkription in hnRNA. Ein anderer Weg ist der Abbau der mRNA, bevor sie beispielsweise über siRNA translatiert wird. Kurzfristig erfolgt die Genregulation durch Bindung und Ablösung von Proteinen, sogenannten Transkriptionsfaktoren, an spezifische Bereiche der DNA, die sogenannten „regulatorischen Elemente“. Langfristig wird dies über Methylierung oder das „Verpacken“ von DNA-Abschnitten in Histon­komplexe erreicht",1.0,0.2986728250980377
+196,sowjetischen Generalstabes,fast vollständig dem Vereinten Oberkommando,0.0,0.2633293569087982
+197,J. Edgar Hoover Building,J. Edgar Hoover Building,2.0,1.0
+198,"Washington, D.C.",Washington D.C.,2.0,0.9718718528747559
+199,Abschiebungsverbot,"Das Gesetz erlaubt die automatische Ausweisung ausländischer Staatsangehöriger, die als Sicherheitsbedrohung gelten, ohne dass die Betroffenen Rechtsmittel einlegen können",0.0,0.2957698702812195
+200,Aschraf Marwan,Der Ehemann von Nassers Tochter Mona,2.0,0.14570944011211395
+201,"Die göttliche und die menschliche Welt der antiken Römer waren nicht fundamental getrennt – wie in einer monotheistischen Religion mit einem transzendenten Gott – stattdessen sah die römische Bevölkerung ihre Götter an als in der Umgebung real existierend, sie konnten gedacht werden als „vergöttlichtes Naturphänomen“","Die Welt der Römer war geprägt sowohl von großen Göttern wie Jupiter oder Mars, dem in Krieg und Frieden mächtigen Beschützer des Volkes und des Reiches, als auch von kleinen Göttern, die in Bäumen, Bächen oder Quellen lebten oder vielleicht besser: mit ihnen eins waren",1.0,0.5956628322601318
+202,Die beiden Staaten pflegen deshalb auch derzeit keine diplomatischen Beziehungen und befinden sich heute noch im Kriegszustand.,belastet,1.0,-0.01433395966887474
+203,1023 kB/s,bis zu 1023 Byte je isochronem Endpunkt,1.0,0.6342580318450928
+204,24576 kB/s,drei Übertragungen je Micro-Frame (125 µs) mit bis zu 1024 Byte ausführen,2.0,0.24006995558738708
+205,von der USB-Audio-Class,bei externen USB-Soundkarten,0.0,0.7127024531364441
+206,"dass sie das Geld an die Wohltätigkeitsorganisation ''Clinton Bush Haiti Fund'' gespendet habe, um den Opfern des Erdbebens von Haiti zu helfen",an Wohltätigkeitsorganisationen gespendet,1.0,0.6000414490699768
+207,Problemstellung und Problemlösung,Kommunikationsziel und Kommunikationszweck,0.0,0.39592888951301575
+208,Verständigung,eine in der Situation ausreichende Kompatibilität von Erfahrungen bezüglich eines Themas herzustellen,0.0,0.30389922857284546
+209,Im Osten liegt der Atlantische Ozean und im Westen der Pazifik,Atlantischen und dem Pazifischen Ozean,1.0,0.812673032283783
+210,"die Spanier, Savoyer und Österreicher",Giuseppe Garibaldi,0.0,0.2183152586221695
+211,Neapels,Neapel,2.0,0.9570465087890625
+212,auf einer der winzigen Seal Islands (auf 60° 56′ 5″ S),"23 km nordwestlich der Hope Bay im Norden der Antarktischen Halbinsel, auf 61° 0′ 3,6″ S",0.0,0.22783716022968292
+213,"Es stellte den Versuch dar, im Sinne des logizistischen Programmes alle wahren mathematischen Aussagen und Beweise auf eine symbolische Logik zurückzuführen.",über Logik,1.0,0.574458658695221
+214,orthodoxe Kirche,griechisch-orthodoxen Konfession,1.0,0.6938065886497498
+215,"ausser der Bundesfeier nur noch drei weitere Tage, die ebenfalls in der gesamten Schweiz anerkannt sind: Neujahr, Auffahrt und der erste Weihnachtsfeiertag.",auf Bundesebene nur der 1. August,0.0,0.4138667583465576
+216,Sechste Generation,6. Generation,2.0,0.8380258083343506
+217,2009,am 17. Juni 2005,0.0,0.14912529289722443
+218,die Wahl des konservativen Mahmud Ahmadineschād zum Präsidenten,"Insbesondere seine Wiederwahl im Jahr 2009, die von zahlreichen Manipulationsvorwürfen begleitet wurde",1.0,0.28534135222435
+219,in Oberflächenwassern und in Lebewesen,in der oberen Erdatmosphäre,0.0,0.31635957956314087
+220,Guinea,bei Bafoulabé,0.0,0.12135732918977737
+221,Indus-Kultur,die vedische Kultur,0.0,0.4047180414199829
+222,mindestens 5000 Jahre zurück,Seit etwa 1500 v. Chr.,0.0,0.386646568775177
+223,,,,1.0
+224,,,,1.0
+225,An der RWTH Aachen im Institut für Elektrische Maschinen,An der RWTH Aachen,1.0,0.7554521560668945
+226,wird die Signalübertragung stark gedämpft.,die Signalübertragung stark gedämpft,2.0,0.9710339903831482
+227,Der international renommierte französische Herzchirurg Théodore Tuffier,Théodore Tuffier,2.0,0.7405925989151001
+228,Casa Museo Estudio de Diego Rivera y Frida Kahlo,„Casa Museo Estudio de Diego Rivera y Frida Kahlo“,2.0,0.9329603314399719
+229,kolonialen Stil,Im typischen kolonialen Stil,2.0,0.8563686609268188
+230,10 %,10 % der Landesfläche,1.0,0.8222242593765259
+231,Einwanderer oder deren Nachkommen aus den afrikanischen und karibischen Kolonien Frankreichs,Die meisten von ihnen sind Einwanderer oder deren Nachkommen aus den afrikanischen und karibischen Kolonien Frankreichs,2.0,0.8587058186531067
+232,STBern Leichtathletik,Der STBern,1.0,0.7186998724937439
+233,1974,seit 1974,1.0,0.868077278137207
+234,'Anorthotiko Komma Ergazomenou Laou'',Fortschrittspartei des werktätigen Volkes ''Anorthotiko Komma Ergazomenou Laou'',2.0,0.769680917263031
+235,56 Mandate auf Zyperngriechen und 24 auf Zyperntürken,56 Mandate auf Zyperngriechen und 24 auf Zyperntürken entfallen (diese Mandate bleiben seit 1974 vakant),1.0,0.8414198756217957
+236,Die mitteleuropäische Sommerzeit beginnt am letzten Sonntag im März um 2:00 Uhr MEZ,am letzten Sonntag im März um 2:00 Uhr MEZ,1.0,0.7193104028701782
+237,britische,durch die britische Kultur,1.0,0.687412440776825
+238,"Ein durchschnittlicher Erwachsener trinkt in der Woche etwa einen Liter Whisky,",etwa einen Liter Whisky,1.0,0.765496551990509
+239,in Deutschland,im Wesentlichen in Deutschland,1.0,0.7555123567581177
+240,in Afrika,vor allem in Afrika,1.0,0.6930317878723145
+241,Eine Halbierung der Betriebsspannung,Eine Halbierung der Betriebsspannung (zum Beispiel durch Reihenschaltung zweier gleichartiger Glühlampen),1.0,0.6775085926055908
+242,die über 12.000 gelben Taxis („Yellow Cabs“),gelben Taxis,1.0,0.6832566857337952
+243,bis etwa 1 MHz,im Bereich niedriger Frequenzen bis etwa 1 MHz,1.0,0.8514431715011597
+244,Equilibrium Line Altitude,''Equilibrium Line Altitude'' (ELA),2.0,0.773202121257782
+245,Höhengrenze,eine Höhengrenze der Glaziologie,1.0,0.5659309029579163
+246,im sogenannten Zehrgebiet (Ablationsgebiet) des Gletschers ist der Massenverlust durch Ablation größer als der Zuwachs an Gletschereis,ist der Massenverlust durch Ablation größer als der Zuwachs an Gletschereis,1.0,0.8178916573524475
+247,Deportationsgesetz von 1915,das Deportationsgesetz,1.0,0.6886799931526184
+248,"Wie im Lateinischen und den meisten slawischen Sprachen gibt es in der Schriftsprache weder bestimmte noch unbestimmte Artikel. In der Umgangssprache können die Demonstrativpronomen ''ten'', ''ta'', ''to'' (wörtlich ''dieser'', ''diese'', ''dieses'') jedoch in Artikelfunktion verwendet werden,","in der Schriftsprache weder bestimmte noch unbestimmte Artikel. In der Umgangssprache können die Demonstrativpronomen ''ten'', ''ta'', ''to'' (wörtlich ''dieser'', ''diese'', ''dieses'') jedoch in Artikelfunktion verwendet werden, z. B.: ''(Ten) pán se podíval na (toho) psa'' (Der Herr schaute auf den Hund)",1.0,0.7392498254776001
+249,"Der Auftrag der ''Army'', wie sie im offiziellen Sprachgebrauch genannt wird, ist die Wahrung US-amerikanischer Interessen im Ausland, aber auch die militärische Verteidigung der Vereinigten Staaten gegenüber anderen Staaten. Dazu unterhält sie Stützpunkte auf der gesamten Welt.","die Wahrung US-amerikanischer Interessen im Ausland, aber auch die militärische Verteidigung der Vereinigten Staaten gegenüber anderen Staaten",1.0,0.7876010537147522
+250,an Jiangsu und Shanghai,Jiangsu und Shanghai,2.0,0.934482216835022
+251,1929 Metern,1929,1.0,0.871239423751831
+252,Auf molekularer Ebene besteht Eis aus übereinanderliegenden Molekülschichten mit relativ schwachen Bindungskräften zwischen den einzelnen Schichten.,Auf molekularer Ebene besteht Eis aus übereinanderliegenden Molekülschichten,1.0,0.8730121850967407
+253,am Golf von Mexiko in der Golfküstenebene,an der Südküste der Vereinigten Staaten und im Osten des Bundesstaates Texas direkt am Golf von Mexiko in der Golfküstenebene,1.0,0.7548078298568726
+254,Harris County,im Harris County,2.0,0.9407678246498108
+255,Der Bayou selbst geht im östlichen Stadtgebiet in den bereits erwähnten Kanal über und mündet dann im Golf.,im Golf,1.0,0.3724842965602875
+256,seit August 2009,August 2009,1.0,0.9005599617958069
+257,"Atari MiNT unterstützt standardmäßig kein USB, es sind jedoch für MiNT verschiedene Treiber in Entwicklung, die Add-on-Karten (wie EtherNAT, eine Kombination aus USB- und Ethernet Erweiterung für den Atari Falcon) unterstützen",Atari MiNT unterstützt standardmäßig kein USB,1.0,0.7786983847618103
+258,"Windows 10 unterstützt USB 1.0, 1.1, 2.0, 3.0, 3.1","USB 1.0, 1.1, 2.0, 3.0, 3.1",1.0,0.666944682598114
+259,"MS-DOS und kompatible unterstützen USB standardmäßig nicht. USB-Tastaturen und USB-Massenspeicher sind über die Legacy-Emulation vieler moderner PC-BIOS-Versionen dennoch verwendbar, aber meist nicht Hotplug-fähig. Auch USB-Mäuse funktionieren meist mit für PS/2-Mäuse vorgesehenen Treibern, wenn der Legacy-Mode aktiviert ist. Für FreeDOS gibt es den „motto hairu“-Treiber, der USB 2.0 zur Verfügung stellt. Andere Hersteller bieten Spezialtreiber an, die aber viel konventionellen Speicher belegen und deshalb mit vielen DOS-Programmen nicht kompatibel sind."," MS-DOS und kompatible unterstützen USB standardmäßig nicht. USB-Tastaturen und USB-Massenspeicher sind über die Legacy-Emulation vieler moderner PC-BIOS-Versionen dennoch verwendbar, aber meist nicht Hotplug-fähig. Auch USB-Mäuse funktionieren meist mit für PS/2-Mäuse vorgesehenen Treibern, wenn der Legacy-Mode aktiviert ist",1.0,0.9339138865470886
+260,eine weitere Verkleinerung auf 18 Klubs,eine weitere Verkleinerung auf 18 Klubs zu Beginn der Saison 2007/08,1.0,0.8456519842147827
+261,FA Premier League,„FA Premier League“,2.0,0.9187958836555481
+262,Umgangssprache eine Sondersprache,Umgangssprache,1.0,0.7273315787315369
+263,Ausländische Gäste machen etwa 59 Prozent der Übernachtungen,etwa 59 Prozent,1.0,0.6449946165084839
+264,Deutschland,aus Deutschland,2.0,0.7805915474891663
+265,in der feucht-subtropischen Klimazone (Cfa),in der feucht-subtropischen Klimazone,2.0,0.8437708020210266
+266,1. Januar 2008,Am 1. Januar 2008,2.0,0.9765279293060303
+267,Die Türkei lehnt eine Ausweitung der mit der EU geschlossenen Zollunion auf das EU-Mitglied Republik Zypern ab und öffnet ihre Häfen und Flughäfen nicht für das Anlaufen von griechisch-zypriotischen Schiffen und Flugzeugen.,öffnet ihre Häfen und Flughäfen nicht für das Anlaufen von griechisch-zypriotischen Schiffen und Flugzeugen,1.0,0.7970312833786011
+268,Juni 2012,2012,1.0,0.7833679914474487
+269,etwa 10 Milliarden Euro (also 11.300 Euro pro Einwohner),etwa 10 Milliarden Euro,1.0,0.7865724563598633
+270,"Die Ehe wurde heilig gehalten, es herrschte ursprünglich Monogamie.",Die Ehe wurde heilig gehalten,1.0,0.7943113446235657
+271,Nordindien,In Nordindien,2.0,0.8379607200622559
+272,Brahmanismus,den Brahmanismus,2.0,0.9515378475189209
+273,Die Anzahl der Einwohner wird in unterschiedlichen Quellen nicht einheitlich angegeben.,"Die Anzahl der Einwohner wird in unterschiedlichen Quellen nicht einheitlich angegeben.
+Für das Jahr 2017 wird die Einwohnerzahl bei den Vereinten Nationen mit 5,1 Millionen, im CIA World Factbook mit 5,9 Millionen
+und bei Statista mit 6,7 Millionen angegeben",1.0,0.5464691519737244
+274,"von 6,8 Mio. im Jahr 2015 auf ca. 14 Mio. im Jahr 2050",auf ca. 14 Mio.,1.0,0.5669931769371033
+275,"Bei der Rangliste der Pressefreiheit 2017, welche von Reporter ohne Grenzen herausgegeben wird, belegte Griechenland Platz 88 von 180 Ländern",Platz 88 von 180 Ländern. Bei der Situation der Pressefreiheit im Land gibt es laut der Nichtregierungsorganisation „erkennbare Probleme“.,1.0,0.605143129825592
+276,"nach der bisherigen deutschen Aufzugsverordnung eine Aufzugsanlage, die ausschließlich zum Transport von Gütern ohne die Begleitung von Personen gedacht ist","eine Aufzugsanlage, die ausschließlich zum Transport von Gütern ohne die Begleitung von Personen gedacht ist",1.0,0.8710532784461975
+277,"für den Transport von Mobiliar bei Umzügen, vorzugsweise aus höheren Etagen","für den Transport von Mobiliar bei Umzügen,",1.0,0.8420298099517822
+278,14. Dezember 1861,am 14. Dezember 1861 gegen 22:50 Uhr,1.0,0.8360224962234497
+279,Typhuserkrankung,eine Typhuserkrankung,2.0,0.9036465287208557
+280,16. März 1861,am 16. März 1861,2.0,0.9833454489707947
+281,zu der irischen Schauspielerin Nellie Clifden,Nellie Clifden,2.0,0.72699373960495
+282,Witwentracht,ausschließlich Witwentracht,1.0,0.8176615238189697
+283,doppelte Zeilen- sowie Spaltenanzahl,Die doppelte Zeilen- sowie Spaltenanzahl erleichtert das Hochskalieren von HDTV,1.0,0.6294161081314087
+284,"Es kann bei ungenügender Abschirmung der USB-3.0-Kabel zu Störungen im Rahmen der elektromagnetischen Verträglichkeit (EMV) kommen, welche sich unter anderem im von Wireless Local Area Network (WLAN) oder Bluetooth genutzten 2,4-GHz-Bereich auswirken. Dabei kommt es in der Nähe von USB-3.0-Geräten zu einer reduzierten Reichweite und zu vermehrten Übertragungsfehlern.",einer reduzierten Reichweite und zu vermehrten Übertragungsfehlern,1.0,0.6296661496162415
+285,November 2008,Im November 2008,2.0,0.9766638278961182
+286,"HP, Microsoft und Intel","unter anderem die Unternehmen HP, Microsoft und Intel",2.0,0.9079214334487915
+287,23 Uhr,23.00 Uhr,2.0,0.9038875699043274
+288,"Indianerstämmen der Muskogee, der Seminolen, der Cherokee, der Choctaw und der Chickasaw zu (den „Fünf zivilisierten Nationen“), die aus den östlichen Staaten vertrieben wurden. Etwa 50.000 Menschen wurden nach Oklahoma getrieben, wo sie auf bereits ansässige andere Indianerstämme trafen.","Etwa 50.000 Menschen wurden nach Oklahoma getrieben, wo sie auf bereits ansässige andere Indianerstämme trafen",1.0,0.8038493394851685
+289,Erdöl- und Erdgasfunde,die Entdeckung reicher Erdöl- und Erdgasfunde,1.0,0.8636508584022522
+290,Cyrus Avery,der Geschäftsmann Cyrus Avery,2.0,0.8496454358100891
+291,16. November 1907,Am 16. November 1907,2.0,0.9477760195732117
+292,einen indianisch geprägten Bundesstaat „Sequoyah“ ins Leben zu rufen,im Osten des Landes einen indianisch geprägten Bundesstaat „Sequoyah“ ins Leben zu rufen,1.0,0.9296723008155823
+293,Dürreperioden und Sandstürmen,wurde Oklahoma wiederholt von Dürreperioden und Sandstürmen heimgesucht,1.0,0.691363513469696
+294,"Victoria, South Australia, Tasmania und Western Australia","für die Bundesstaaten Victoria, South Australia, Tasmania und Western Australia",2.0,0.9283227324485779
+295,"Local Government Areas (LGA, lokale Verwaltungsgebiete),","Sie besteht aus der City of Melbourne und 30 weiteren Local Government Areas (LGA, lokale Verwaltungsgebiete)",1.0,0.6730747222900391
+296,sechs Toten,sechs,1.0,0.8285134434700012
+297,"aus mehreren Wasserbassins, einem gepflasterten Steinfeld und verschiedenen Baumgruppen","Die Gedenkstätte wird aus mehreren Wasserbassins, einem gepflasterten Steinfeld und verschiedenen Baumgruppen bestehen, die das weitergehende Leben nach der Zerstörung des WTCs symbolisieren sollen. Unterirdisch wird ein Museum eingerichtet werden, das an die Opfer und die Zerstörung erinnern soll",1.0,0.5710941553115845
+298,Romantik,Jenaer Romantik,1.0,0.7395744919776917
+299,Eisenach,in Eisenach,2.0,0.7904578447341919
+300,Sachsen-Meiningen und Reuß älterer Linie waren mit Österreich verbündet,"Im Preußisch-Österreichischen Krieg von 1866 standen die meisten Thüringer Staaten auf Seiten Preußens, lediglich Sachsen-Meiningen und Reuß älterer Linie waren mit Österreich verbündet",1.0,0.7241604924201965
+301,Johann Wolfgang von Goethe oder Friedrich Schiller,Dichter wie Johann Wolfgang von Goethe oder Friedrich Schiller,2.0,0.8556388020515442
+302,relativ kurz und intensiv,zeitlich relativ kurz und intensiv,1.0,0.9051377773284912
+303,kommen bei Emotionen die jeweiligen Auslöser stärker zum Zuge,"Während Stimmungen vielfach unbemerkt auf Bedürfnissen beruhen, kommen bei Emotionen die jeweiligen Auslöser stärker zum Zuge",1.0,0.8491584658622742
+304,meist nach außen gerichtet,Im Gegensatz zum Gefühl sind Emotionen als ein Affekt – vom agierenden Individuum aus gesehen – meist nach außen gerichtet,1.0,0.582432746887207
+305,"n freier, nicht an Proteine gebundener Form","In freier, nicht an Proteine gebundener Form",2.0,0.934065043926239
+306,"Eine Verpflichtung zu bestimmten Impfungen (Tollwut) gibt es in den meisten Bundesländern nicht, sie ist jedoch nötig, wenn innerhalb der EU Ländergrenzen passiert werden",Eine Verpflichtung zu bestimmten Impfungen (Tollwut) gibt es in den meisten Bundesländern nicht,1.0,0.8137027025222778
+307,in einer zugelassenen Rettungshundestaffel,nur in einer zugelassenen Rettungshundestaffel,1.0,0.8585622310638428
+308,Die Radioprogramme sind durch Rundfunkgebühren finanziert. Radiowerbung ist der SRG SSR nicht gestattet.,durch Rundfunkgebühren,1.0,0.6326557993888855
+309,1983,Seit 1983,1.0,0.8694391846656799
+310,"eine grosse Gruppe von nichtkommerziellen Regionalsendern, die komplementäre Programme abseits des Einheitsbreis produzieren. Sie haben sich in der Gruppe Union nicht-kommerzorientierter Lokalradios (UNIKOM) zusammengeschlossen","eine grosse Gruppe von nichtkommerziellen Regionalsendern, die komplementäre Programme abseits des Einheitsbreis produzieren",1.0,0.8659604787826538
+311,"über UKW, sondern auch über DAB+","nicht nur über UKW, sondern auch über DAB+",2.0,0.9157751202583313
+312,"Dieses definiert sie selbst als ein Wachstum des harmonisierten Verbraucherpreisindexes HVPI im Euro-Raum, das unter, aber nahe bei zwei Prozent pro Jahr liegen sollte. Das heißt, dass die Inflation unter 2 % gehalten werden soll.","ein Wachstum des harmonisierten Verbraucherpreisindexes HVPI im Euro-Raum, das unter, aber nahe bei zwei Prozent pro Jahr liegen sollte",1.0,0.8704077005386353
+313,auf die Diskothek La Belle im Jahr 1986,Für den Bombenanschlag auf die Diskothek La Belle im Jahr 1986,1.0,0.8525527715682983
+314,"Verbrechen gegen die Menschlichkeit sind breit angelegte oder systematische Übergriffe auf die Zivilbevölkerung. Im Völkerrecht stellen sie einen Oberbegriff dar, unter den sowohl „Kriegsverbrechen“, „Verbrechen gegen den Frieden“, als auch „Völkermord“ fallen.",breit angelegte oder systematische Übergriffe auf die Zivilbevölkerung,1.0,0.5632663369178772
+315,Theorie der multiplen Intelligenzen,der Theorie der multiplen Intelligenzen von Howard Gardner,1.0,0.794456422328949
+316,"einen schwarzen, nach heraldisch rechts aufwärts schreitenden Bären auf silbernem Hintergrund","Das erste Wappen Berns soll gemäss Justingerchronik einen schwarzen, nach heraldisch rechts aufwärts schreitenden Bären auf silbernem Hintergrund gezeigt haben",1.0,0.7903880476951599
+317,vis viva,vis viva („lebendige Kraft“),2.0,0.4645233452320099
+318,Kraft mal Weg,Kraft mal Weg“,2.0,0.960756778717041
+319,Erster Hauptsatz,Erster Hauptsatz der Thermodynamik,1.0,0.564298152923584
+320,dass Wärme eigenständig von einem kälteren auf einen wärmeren Körper übergeht.,"Nach dem zweiten Hauptsatz ist es unmöglich, dass Wärme eigenständig von einem kälteren auf einen wärmeren Körper übergeht",1.0,0.8006793856620789
+321,in 50 New Gower Street in der Innenstadt,50 New Gower Street,2.0,0.8661420345306396
+322,1972,seit 1972,1.0,0.8579573035240173
+323,dürfen nur in bestimmten rituellen Zusammenhängen erzählt werden,Zudem sind zahlreiche Geschichten im Besitz von Abstammungslinien und dürfen nur in bestimmten rituellen Zusammenhängen erzählt werden. Der überwiegende Teil von ihnen ist weder öffentlich zugänglich noch übersetzt,1.0,0.7046095132827759
+324,"in den Tropen, genauer gesagt in den Kalttropen",in den Tropen,1.0,0.6897093057632446
+325,verarmte Kleinadelige,Viele verarmte Kleinadelige,1.0,0.9144896268844604
+326,Galizien,ins österreichisch regierte Galizien,1.0,0.638211190700531
+327,2003,Seit 2003,1.0,0.8708623051643372
+328,von 1933 bis 1935,1933 bis 1935,2.0,0.94967120885849
+329,"Jean Louise, genannt „Scout“","aufgeweckten kleinen Mädchens Jean Louise, genannt „Scout“",2.0,0.8409568071365356
+330,Anwalt,Abgeordneten und Anwalt,1.0,0.6693834066390991
+331,ihr Nachbar Boo Radley,Boo Radley,2.0,0.8406476378440857
+332,Vom Geist der Gesetze,Vom Geist der Gesetze ''(De l’esprit des lois)'',2.0,0.8951440453529358
+333,"Halifax, Montreal, Ottawa und Toronto und andere Ziele"," Halifax, Montreal, Ottawa und Toronto",1.0,0.9040073156356812
+334,"veredelte, geschmückte und verzierte, oft aufwendig bearbeitete Papiererzeugnisse die von etwa 1820/1860 bis 1920/1930 hergestellt wurden, als es eine eigene Luxuspapierindustrie gab","Dies ist die Bezeichnung für veredelte, geschmückte und verzierte, oft aufwendig bearbeitete Papiererzeugnisse die von etwa 1820/1860 bis 1920/1930 hergestellt wurden",2.0,0.8762207627296448
+335,"46,37","46,37 Prozent",1.0,0.9559922814369202
+336,"46,37"," 46,37 Prozent ",1.0,0.9559922814369202
+337,16 Verwaltungsbezirken „Delegaciones“,16 Verwaltungsbezirken,2.0,0.8160787224769592
+338,"Für Amateure finden jährlich die von der NCAS veranstalteten, multidisziplinären Wettbewerbe im Rahmen der ''State Games of North Carolina'' statt. Außerdem finden verschiedene allgemeine Fitness- und Radwettbewerbe, wie beispielsweise die ''Cycle North Carolina'', statt.","die von der NCAS veranstalteten, multidisziplinären Wettbewerbe im Rahmen der ''State Games of North Carolina'' ",1.0,0.8549255132675171
+339,"So wurde die Fortführung des Vorrechts orthodoxer Christen an den heiligen Stätten des Christentums und die Ausbesserung der Kuppel über dem Christusgrab verlangt, ohne Mitwirkung der Katholiken. Der Sultan war zunächst bereit, einen Teil dieser Forderungen zu erfüllen. Doch Menschikow hatte noch eine zweite, sehr weitreichende Forderung überbracht: Das Osmanische Reich solle durch einen Vertrag Russlands Schirmherrschaft über die orthodoxen Christen im Osmanischen Reich anerkennen, die ein Drittel seiner Bevölkerung darstellten.",die Fortführung des Vorrechts orthodoxer Christen an den heiligen Stätten des Christentums und die Ausbesserung der Kuppel über dem Christusgrab,1.0,0.5630956292152405
+340,am 21. Mai 1853,21. Mai 1853,2.0,0.9788217544555664
+341,FIFA- und AFC,FIFA- und AFC-Mitglied,1.0,0.8707419633865356
+342,am 11. Juni 2015,11. Juni 2015,2.0,0.9768961071968079
+343,"Ihr zufolge sind die kleinsten gesellschaftlichen Gebilde (Gruppen, Gemeinden) autonom","Ihr zufolge sind die kleinsten gesellschaftlichen Gebilde (Gruppen, Gemeinden) autonom. Sie gehen aus eigenem Antrieb Zweckbündnisse ein, geben jedoch nur diejenigen Aufgaben an ihre Vereinigungen ab, die sie selbst nicht wahrnehmen können",1.0,0.7741376161575317
+344,für das Lernen und die Erinnerungen zuständig,für das Lernen und die Erinnerungen,2.0,0.9000464677810669
+345,bei Männern tendenziell asymmetrischer organisiert,"bei Männern tendenziell asymmetrischer organisiert, d. h. die Lateralisation des Gehirns ist ausgeprägter als bei Frauen, die wiederum größere Frontallappen haben",1.0,0.7338572144508362
+346,"Zum einen kommt alternatives Spleißen von mRNA in Frage. Zum Beispiel das Spleißen von Kanalproteinen, sodass deren Durchlässigkeit für Ionen verändert ist. Zum anderen sind epigenetische Kontrollmechanismen relevant. Hierzu zählen unter anderem die genomische Prägung und die Histonmodifikation. Zudem wird immer wieder die Frage gestellt, inwiefern die Umwelt Einfluss auf den Dimorphismus hat.
+Ein anderer Erklärungsansatz ist folgender: Geschlechtshormone, wie Testosteron und die Östrogene, wirken nicht nur auf die Keimdrüsen, sondern in vielfältiger Weise auf das gesamte Nervensystem: auf Nervenzellen, Synapsen, Genexpression. Dies gilt für die Zeit der Embryonalentwicklung und während der Kindheit, der Pubertät und im Erwachsenenalter. So bewirken die Geschlechtshormone eine typische männliche beziehungsweise weibliche Entwicklung des Nervensystems.","Zum einen kommt alternatives Spleißen von mRNA in Frage. Zum Beispiel das Spleißen von Kanalproteinen, sodass deren Durchlässigkeit für Ionen verändert ist. Zum anderen sind epigenetische Kontrollmechanismen relevant. Hierzu zählen unter anderem die genomische Prägung und die Histonmodifikation. ",1.0,0.7781887650489807
+347,Colonel James Moore,"der britische Kolonialgouverneur von South Carolina, Colonel James Moore,",2.0,0.7270302176475525
+348,im Westen von Westafrika und Oberguinea,im Westen von Westafrika und Oberguinea zwischen 13° und 17° westlicher Länge und 11° und 12° nördlicher Breite,1.0,0.6065271496772766
+349,Privatuniversität,eine Privatuniversität,2.0,0.9480029344558716
+350,4.000.000,4.000.000 Soldaten,1.0,0.8226708769798279
+351,1.200.000,1.200.000 Soldaten,1.0,0.8394168019294739
+352,"Das Rettungsfachpersonal des Rettungsdienstes konzentriert sich zunächst auf eine möglichst rasche Erkennung von Akutgefährdung und Komplikationen. Dazu gehört eine zügige klinische Untersuchung mit Blutdruckmessung und Auskultation (Abhören) von Herz und Lunge. Nur ein schnell angefertigtes Zwölf-Kanal-EKG lässt den ST-Hebungsinfarkt erkennen und erlaubt die Einleitung der dann dringlichen Lysetherapie oder Katheterbehandlung. Um Herzrhythmusstörungen sofort erkennen zu können, wird eine kontinuierliche EKG-Überwachung (Rhythmusmonitoring) begonnen und zur Medikamentengabe eine periphere Verweilkanüle angelegt.",konzentriert sich zunächst auf eine möglichst rasche Erkennung von Akutgefährdung und Komplikationen,1.0,0.6590954661369324
+353,"eine möglichst optimale Sauerstoffversorgung des Herzens, die Schmerzbekämpfung und eine Vermeidung weiterer Blutgerinnselbildung","zielt in der Akutsituation auf eine möglichst optimale Sauerstoffversorgung des Herzens, die Schmerzbekämpfung und eine Vermeidung weiterer Blutgerinnselbildung",1.0,0.9479292035102844
+354,im 7. Jahrhundert,spätestens mit der Einführung der tibetischen Schrift im 7. Jahrhundert,1.0,0.6474153399467468
+355,"konnten sich moderne wissenschaftliche, politische und literarische Genres etablieren.","die seit über 800 Jahren statisch festgeschriebene Tradition aufgebrochen und konnten sich moderne wissenschaftliche, politische und literarische Genres etablieren",1.0,0.6670456528663635
+356,"Während unter dem Stichwort „tibetische Literatur“ meist der große Schatz religiöser Texte verstanden wird, treten Drama, Lyrik, erzählende Literatur sowie die reiche mündliche Überlieferung oft in den Hintergrund.",meist der große Schatz religiöser Texte,1.0,0.6406996250152588
+357,"gegen pflanzliche Pollen, Tierhaare, Lebensmittelbestandteile und Medikamente","besonders häufig gegen pflanzliche Pollen, Tierhaare, Lebensmittelbestandteile und Medikamente",2.0,0.9319157004356384
+358,"Insbesondere bei Tests, die häufig wiederholt werden, ist deren Automatisierung angeraten. Dies ist vor allem bei Regressionstests und bei testgetriebener Entwicklung der Fall. Darüber hinaus kommt Testautomatisierung bei manuell nicht oder nur schwer durchführbaren Tests zum Einsatz (z. B. Lasttests).","Insbesondere bei Tests, die häufig wiederholt werden",1.0,0.7169589400291443
+359,vorwiegend von der flächenbezogenen Masse,von der flächenbezogenen Masse,1.0,0.7745757102966309
+360,"wie leicht ein Papier, das bereits eingerissen ist, weiterreißt","gibt an, wie leicht ein Papier, das bereits eingerissen ist, weiterreißt",2.0,0.9447388052940369
+361,"Dazu wird das Normblatt in den Prüfapparat eingespannt und eine Membran mit genormter Fläche drückt mit ansteigender Kraft gegen das Papier. Der Druck, der zum Durchstoßen des Papiers erforderlich ist, wird Berstwiderstand genannt.",Dazu wird das Normblatt in den Prüfapparat eingespannt und eine Membran mit genormter Fläche drückt mit ansteigender Kraft gegen das Papier,1.0,0.9025583267211914
+362,81,gut 81 Prozent,1.0,0.7941199541091919
+363,"Berndeutsch, ein hochalemannischer Dialekt",Berndeutsch,2.0,0.7455242872238159
+364,durch eine Doppelmembran,durch eine Doppelmembran aus und enthalten eine eigene zirkuläre DNA,1.0,0.7276245951652527
+365,"an einem künstlichen Hafenbecken an der Südspitze Kaliforniens, etwa zweieinhalb Autostunden südlich von Los Angeles und etwa eine halbe Stunde nördlich von Tijuana, Mexiko.",an einem künstlichen Hafenbecken an der Südspitze Kaliforniens,1.0,0.6559900641441345
+366,zwei,in zwei Teile,1.0,0.500967800617218
+367,der Cowles Mountain () im Mission Trails Regional Park,der Cowles Mountain,2.0,0.7651353478431702
+368,der San Diego River,Diego River,1.0,0.7973425388336182
+369,"Darwin legte in diesem Werk zahlreiche Belege für seine Theorie vor, dass sich Tier- und Pflanzenarten durch natürliche Selektion im Laufe langer Zeiträume verändern und dass alle heute existierenden Lebewesen von gemeinsamen Vorfahren abstammen. ",dass sich Tier- und Pflanzenarten durch natürliche Selektion im Laufe langer Zeiträume verändern und dass alle heute existierenden Lebewesen von gemeinsamen Vorfahren abstammen,1.0,0.8161967992782593
+370,auf seiner Weltreise mit der HMS Beagle (1831–1836),auf seiner Weltreise,1.0,0.5561213493347168
+371,"Letztere bestanden im Verbrennen von Rindern und Schafen auf Bergen und in Hainen, wo sich auch Götterbilder befanden. Menschenopfer kamen nur vereinzelt vor.",Rindern und Schafen,1.0,0.5181360244750977
+372,"Großbritannien schloss darum am 30. September mit Zarin Elisabeth von Russland den Vertrag von Sankt Petersburg, in dem sich Russland verpflichtete, vier Jahre lang 50.000 Mann entlang der Grenzen zu Ostpreußen zu positionieren. Dafür sollte das Zarenreich eine jährliche Zahlung von 100.000 Pfund Sterling erhalten, sowie weitere 400.000 Pfund, falls das russische Kontingent aufgestockt würde. Militärisch eingreifen durften die russischen Truppen laut Vertrag aber erst nach dem Ausbruch von Kampfhandlungen auf deutschem Boden. Mit diesem Schachzug sollte Preußen von einem Angriff auf Hannover abgehalten werden.","in dem sich Russland verpflichtete, vier Jahre lang 50.000 Mann entlang der Grenzen zu Ostpreußen zu positionieren. Dafür sollte das Zarenreich eine jährliche Zahlung von 100.000 Pfund Sterling erhalten, sowie weitere 400.000 Pfund, falls das russische Kontingent aufgestockt würde",1.0,0.6879860758781433
+373,Norddeutschland vor fremden Truppen zu schützen,"vereinbarten beide Mächte, Norddeutschland vor fremden Truppen zu schützen",1.0,0.8456810712814331
+374,am 17. Mai,am 17. Mai 1756,1.0,0.7294642329216003
+375,"USB erlaubt es einem Gerät, Daten mit 1,5 Mbit/s (Low Speed), 12 Mbit/s (Full Speed), 480 Mbit/s (Hi-Speed), 4 Gbit/s (SuperSpeed) oder 9,7 Gbit/s (Superspeed+) zu übertragen.","mit 1,5 Mbit/s (Low Speed), 12 Mbit/s (Full Speed), 480 Mbit/s (Hi-Speed), 4 Gbit/s (SuperSpeed) oder 9,7 Gbit/s (Superspeed+) ",1.0,0.8290358185768127
+376,"Das System der Bonyāds bestand bereits unter dem Schah und erfüllte schon damals karitative Aufgaben, wie sie auch schwarze Kassen für die herrschende Elite darstellten. Auch heute werden den Bonyāds Vorwürfe wegen mangelnder Transparenz, Korruption und Vetternwirtschaft gemacht.","wegen mangelnder Transparenz, Korruption und Vetternwirtschaft ",1.0,0.5690613389015198
+377,"Die Bonyāds agieren in Form von Holdings und sind in großen Teilen der Wirtschaft marktbeherrschend, so z. B. im Bereich des Exports, beim Baumaterial (Beton), Reedereien und Petrochemie, außerdem betreiben sie Hotels, Universitäten und Banken."," z. B. im Bereich des Exports, beim Baumaterial (Beton), Reedereien und Petrochemie, außerdem betreiben sie Hotels, Universitäten und Banken",1.0,0.8158558011054993
+378,"''Vier Edlen Wahrheiten'', aus der vierten der Wahrheiten folgt als Weg aus dem Leiden der ''Achtfache Pfad''",von ihm benannten ''Vier Edlen Wahrheiten'',1.0,0.6633681654930115
+379,ökotoxische,eine ökotoxische Wirkung,1.0,0.7199179530143738
+380,vorzugsweise bei Sendern hoher Leistung,bei Sendern hoher Leistung,2.0,0.9001544117927551
+381,"Ein Kurzschluss ist eine Verbindung zwischen zwei Punkten, die entsprechend der Schaltung nicht bestehen darf","eine Verbindung zwischen zwei Punkten, die entsprechend der Schaltung nicht bestehen darf",1.0,0.9087067246437073
+382,"Kurzschlüsse sind Verbindungen, die z. B. durch Zinnfäden, schlechtes Ätzen oder mechanische Beschädigung der Isolationsschicht zwischen den Lagen hervorgerufen werden","z. B. durch Zinnfäden, schlechtes Ätzen oder mechanische Beschädigung der Isolationsschicht zwischen den Lagen",1.0,0.8612173795700073
+383,sieben Millionen,rund sieben Millionen,1.0,0.9279988408088684
+384,n New Haven (Connecticut),New Haven,2.0,0.8505138158798218
+385,"nach einem ihrer ersten Förderer, dem Kaufmann Elihu Yale",Elihu Yale,1.0,0.6981462836265564
+386,1900,seit 1900,1.0,0.8473709225654602
+387,"über 12,5 Millionen","über 12,5 Millionen Bücher ",1.0,0.8907572031021118
+388,"Die 12-cm-Version wird häufig als ''CD-Video'' bezeichnet, hat aber nichts mit dem DVD-Vorläufer Video-CD zu tun. Es können 6 min Bild und Ton und weitere 20 min nur Ton aufgezeichnet werden. Ein zusätzlicher Nur-Ton-Anteil kann von jedem CD-Spieler wiedergegeben werden. Die reguläre Videospur ist jedoch völlig inkompatibel zu CD- oder DVD-Formaten und kann von entsprechenden Laufwerken nicht gelesen werden.",Ein zusätzlicher Nur-Ton-Anteil kann von jedem CD-Spieler wiedergegeben werden. Die reguläre Videospur ist jedoch völlig inkompatibel zu CD- oder DVD-Formaten und kann von entsprechenden Laufwerken nicht gelesen werden.,1.0,0.8337978720664978
+389," ein Wissen aus reiner Vernunft (a priori) gegenüber der Empirie von höherer Gewissheit sei. Dieses apriorische Wissen sei auch Voraussetzung der empirischen Welterfahrung, d. h. zugrunde liegendes Wissen bzw. epistemische Rechtfertigung aus reiner Vernunft für jede Art von Empirie"," behaupten, dass ein Wissen aus reiner Vernunft (a priori) gegenüber der Empirie von höherer Gewissheit sei.",1.0,0.7227844595909119
+390,dass Wissen vor allem durch direkte Intuition und Deduktion gebildet wird,durch direkte Intuition und Deduktion,1.0,0.829626202583313
+391,zur Energieeinsparung am Morgen,zur Energieeinsparung,1.0,0.8095394372940063
+392,"örtliche Sonnenzeit, die durch den Stundenwinkel der Sonne definiert ist","die örtliche Sonnenzeit, die durch den Stundenwinkel der Sonne definiert ist. Damit ist es am Mittag (Zeitpunkt des höchsten Sonnenstandes) 12:00 Uhr und um Mitternacht 0:00 Uhr",1.0,0.7553079128265381
+393,"Jeder Zeitzone wurde eine Zonenzeit zugeordnet, die (nach damaliger Definition) gleich der mittleren Sonnenzeit des Mittelmeridians der Zone mit den geographischen Längen 0°, 15°, 30°, … östlich und westlich von Greenwich war. ","gleich der mittleren Sonnenzeit des Mittelmeridians der Zone mit den geographischen Längen 0°, 15°, 30°, … östlich und westlich von Greenwich war",1.0,0.8460261225700378
+394,eine Stunde,Die Zonenzeiten zweier benachbarter Zonen unterscheiden sich um genau eine Stunde,1.0,0.40929073095321655
+395,Wölfen,den Wölfen,2.0,0.9212675094604492
+396,"Hunde, die schnell laufen konnten","Hunde, die schnell laufen konnten, während kleine Hunde (Dackel oder ''Dachshund'', Terrier) leicht in Fuchs- oder Dachsbaue eindringen konnten.",1.0,0.7475025057792664
+397,n Fuchs- oder Dachsbaue eindringen,"während kleine Hunde (Dackel oder ''Dachshund'', Terrier) leicht in Fuchs- oder Dachsbaue eindringen konnten",1.0,0.6118504405021667
+398,"Seitdem wurden immer neue, extrem abweichende Schätzungen auf unterschiedlichster methodologischer Grundlage erstellt. Sie reichen von kaum mehr als 8 Millionen bis zu über 110 Millionen. Jüngere Schätzungen gehen von einem sehr groben Näherungswert von 50 Millionen Einwohnern aus, von denen etwa die Hälfte in Mesoamerika, ein Viertel im Inkareich lebte.",Sie reichen von kaum mehr als 8 Millionen bis zu über 110 Millionen. Jüngere Schätzungen gehen von einem sehr groben Näherungswert von 50 Millionen Einwohnern aus,1.0,0.738795280456543
+399,ca. 500,ca. 500 Soldaten,1.0,0.7611475586891174
+400,von etwa 1640 bis 1701,1640 bis 1701,2.0,0.9522081017494202
+401,Transkriptionsfaktoren,die wichtige Transkriptionsfaktoren sind,1.0,0.7622952461242676
+402,an Albumin gebunden,überwiegend an Albumin gebunden,2.0,0.8092011213302612
+403,RNA-Polymerase und der Carboanhydrase,beispielsweise der RNA-Polymerase und der Carboanhydrase,2.0,0.934676468372345
+404,"ink erfüllt im Körper viele verschiedene Funktionen. So nimmt es Schlüsselrollen im Zucker-, Fett- und Eiweißstoffwechsel ein und ist beteiligt am Aufbau der Erbsubstanz und beim Zellwachstum. Sowohl das Immunsystem als auch viele Hormone benötigen Zink für ihre Funktion.","Schlüsselrollen im Zucker-, Fett- und Eiweißstoffwechsel ein und ist beteiligt am Aufbau der Erbsubstanz und beim Zellwachstum",1.0,0.8152029514312744
+405,"diejenigen, ''die ihren Lebensunterhalt aus produktiver und gesellschaftlich nützlicher Arbeit'' bestritten. Wer Lohnarbeiter beschäftigte oder von Renten und Wertpapieren lebte, war ausgeschlossen; Kaufleute und Priester entmündigte man per definitionem","diejenigen, ''die ihren Lebensunterhalt aus produktiver und gesellschaftlich nützlicher Arbeit'' bestritten",1.0,0.6732595562934875
+406,Dabei entwickelt der Vergiftete grippeähnliche Symptome mit zum Teil starken Fieberanfällen,grippeähnliche Symptome mit zum Teil starken Fieberanfällen,1.0,0.9176024794578552
+407,"Eine Zufuhr von mehr als 100 mg pro Tag ist nicht empfehlenswert, ab 200 mg können Symptome wie Übelkeit, Erbrechen oder auch Durchfall auftreten.","ab 200 mg können Symptome wie Übelkeit, Erbrechen oder auch Durchfall auftreten",1.0,0.8357192873954773
+408,Kehldeckel,Ein Kehldeckel,2.0,0.839012861251831
+409,"Ein Kehldeckel (''Epiglottis'') verschließt beim Schlucken den Kehlkopf, um das Eindringen von Nahrung in die Luftröhre zu verhindern.","verschließt beim Schlucken den Kehlkopf, um das Eindringen von Nahrung in die Luftröhre zu verhindern",1.0,0.887592077255249
+410,"Ein weiteres Exklusivmerkmal der Säugetiere ist das Säugen der Jungtiere mit Milch, Näheres siehe im Abschnitt Fortpflanzung.
+* Säugetiere besitzen als einzige Tiergruppe ein Zwerchfell, einen flächigen Muskel, der Brust- und Bauchhöhle voneinander trennt.",das Säugen der Jungtiere mit Milch,1.0,0.6026182770729065
+411,"in deren Nieren sich Henle’sche Schleifen (''Ansae nephricae'') befinden, wodurch sie zur Rückresorption von Wasser aus dem Primärharn fähig sind."," Neben den Vögeln sind die Säugetiere die einzige Tiergruppe, in deren Nieren sich Henle’sche Schleifen (''Ansae nephricae'') befinden, wodurch sie zur Rückresorption von Wasser aus dem Primärharn fähig sind",1.0,0.8507862687110901
+412,die Kantone,In der Schweiz sind die Kantone Träger der Universitäten und Hochschulen,1.0,0.5635049939155579
+413,Die verschiedenen Arten von Lehrenden werden unter dem Oberbegriff Dozenten (oder Dozierende) zusammengefasst,Dozenten (oder Dozierende),1.0,0.5839844942092896
+414,Der Verlust von Fell in der menschlichen Evolution ermöglichte dem Menschen in seinen damaligen warmen Lebensräumen die Körpertemperatur besser zu regulieren (Schwitzen). Dies erhöhte seine Ausdauer zur Nahrungsbeschaffung bei der Hetzjagd.,die Körpertemperatur besser zu regulieren (Schwitzen),1.0,0.5645834803581238
+415,Die Effektivität als Kleidung wurde durch die Erfindung des Nähens erheblich gesteigert,"Die Effektivität als Kleidung wurde durch die Erfindung des Nähens erheblich gesteigert, da Kleidung nun geschlossen und dem menschlichen Körperbau angepasst werden konnte",1.0,0.8717834949493408
+416,"Gewand-Nadeln, später Fibeln und Schnallen, noch später durch Knöpfe","neben dem Vernähen als ständigem Verschluss nun auch bei Gebrauch durch Gewand-Nadeln, später Fibeln und Schnallen, noch später durch Knöpfe erfolgen",1.0,0.8645917177200317
+417,36.000 bis 31.000 Jahre,z. B. bei Leinen auf einen Zeitraum von 36.000 bis 31.000 Jahre datiert.,1.0,0.8239789605140686
+418,Energie mal Zeit',die physikalische Dimension ''Energie mal Zeit'' der Konstante,2.0,0.5768564343452454
+419,die mittelalterliche Altstadt auf der Grande-Île und die Neustadt,"Teile der Innenstadt, die mittelalterliche Altstadt auf der Grande-Île und die Neustadt",1.0,0.9228518009185791
+420,die Landesverteidigung oder die Außenpolitik,nur bestimmte Angelegenheiten – etwa die Landesverteidigung oder die Außenpolitik –,1.0,0.7700191140174866
+421,"kein Zentralstaat, sondern eine Konföderation von Provinzen",Die Republik war kein Zentralstaat,1.0,0.5798094868659973
+422,Holland,Wichtigste Provinz der Union war die Provinz Holland,1.0,0.5442195534706116
+423,"Chopin wurde in Żelazowa Wola geboren, einem Dorf in der Gemeinde Brochów, Departement Warschau, im damaligen Herzogtum Warschau.",in Żelazowa Wola,1.0,0.4833337366580963
+424,23. April 1810,am 23. April 1810,2.0,0.9754939079284668

@@ -1,0 +1,943 @@
+answer1,answer2,label
+Seine,Epte,0.0
+Norman mercenary,an Italo-Norman named Raoul,1.0
+1018,1064,0.0
+Isaac Komnenos,Isaac,1.0
+dukes,the dukes,2.0
+computational problems,A computational problem,2.0
+the problem,a problem,2.0
+concrete,abstract,0.0
+instances,the instance,2.0
+solution,the solution,2.0
+decision problems,as decision problems,2.0
+set of triples,triple,1.0
+the instance,the size of the instance,1.0
+mathematical models,branching,0.0
+Complexity measures,complexity measures,2.0
+Complexity measures,complexity measures,2.0
+lower bounds,lower,1.0
+upper bound,upper and lower bounds,1.0
+the bound on the complexity of reductions,types of reductions,1.0
+if every problem in C can be reduced to X,problem in C is harder than X,0.0
+NP,P,1.0
+graph isomorphism problem,the discrete logarithm problem,0.0
+modern cryptographic systems,RSA algorithm,1.0
+the general number field sieve,RSA,0.0
+Los Angeles,Riverside,0.0
+United States,Los Angeles,1.0
+counties,five most populous in the state,0.0
+15,Riverside,0.0
+counties,Riverside,0.0
+music,major record companies,0.0
+southern,the desert,0.0
+northern,the Tehachapi Mountains,0.0
+the Missouri Compromise,the Compromise of 1850,1.0
+Imperial,1999,0.0
+regional tourism groups,AAA Auto Clubs,0.0
+Inland Empire,Temecula and Murrieta,0.0
+varied,natural ecosystem,0.0
+1.3 million,San Diego,0.0
+Los Angeles Area,major business,0.0
+Riverside,Downtown Riverside,1.0
+Hospitality Business/Financial Centre,Downtown Riverside,0.0
+Port of San Diego,Port of Long Beach,0.0
+NFL,Professional,0.0
+Chivas USA,Chivas,2.0
+Sky plc,British Sky Broadcasting Group plc,2.0
+£1.3bn,£4.2bn,0.0
+Freeview,ITV Digital,0.0
+September 2007,March 2008,0.0
+monthly fee,SkyHD box,0.0
+January 2010,February 2011,0.0
+Sky+,PVR,0.0
+BSkyB,British Sky Broadcasting,2.0
+DVB-S2,DVB-compliant MPEG-2,0.0
+Thomson,STB,0.0
+free-to-view,free-to-air,1.0
+Ku band,9.75/10.600 GHz,0.0
+no,Third-party channels,0.0
+Sky Active,Open,0.0
+Video On Demand,(HDTV),0.0
+25m,36% of households,0.0
+36%,2.4m customers,0.0
+Sky TV bills,claimants,0.0
+a man's presence,mother is wrongly claiming to be living alone,0.0
+Liberal Party,Liberals,1.0
+National Party,Nationals,1.0
+The Greens,Australian Greens,1.0
+Labor,Australian Labor Party,1.0
+"270,000","121,200",0.0
+warmest regions,semi-deserts,0.0
+2009,7 February 2009,1.0
+major car brands,car,1.0
+October 2016,2013,0.0
+government-owned,several private and public railway operators,0.0
+sevenfold,"76,000 to 540,000",1.0
+Premier,Premier of Victoria,1.0
+$8.7 billion,24%,0.0
+tourism,big,0.0
+regional cities,Phillip Island,0.0
+the southern and central parts of France,about one-eighth,0.0
+some of the Huguenots were nobles trying to establish separate centers of power in southern France,political reasons,0.0
+economic separation,worked as weavers,0.0
+surnames,names,1.0
+Prussia,Great Elector Frederick William,0.0
+Parris Island,Southeastern U.S.,1.0
+1562,1564,0.0
+William the Silent,Pierre L'Oyseleur,0.0
+Calvinist,Walloon,0.0
+1530,1523,0.0
+Corliss,patent valve,0.0
+increase in the land available for cultivation,farm tractors,0.0
+steam turbines,internal combustion engines,0.0
+Reciprocating piston,steam turbines,0.0
+turbine,electric motors,0.0
+water pump,vacuum,0.0
+cotton spinning,operations requiring constant speed,0.0
+Advanced Steam,cogeneration processes,0.0
+pollution,Advanced Steam movement,0.0
+injector,condensers,0.0
+stoking,Mechanical stoker,1.0
+electrical generator,a turbo generator set with propulsion provided by electric motors,2.0
+liquid,gaseous,0.0
+oxides,oxide compounds,1.0
+dioxygen,diatomic gas,1.0
+high-altitude ozone layer,ozone,1.0
+water,organic molecules,0.0
+photosynthesis,living organisms,0.0
+nitroaereus,spiritus nitroaereus,1.0
+Joseph Priestley,Priestley,2.0
+Philo of Byzantium,Philo,1.0
+heat or a spark,oxygen,0.0
+compounds of oxygen,"peroxides, chlorates, nitrates, perchlorates, and dichromates",1.0
+storage vessels,fire,0.0
+Earth's crustal rock,Earth's crust,2.0
+Avogadro's law,the correct interpretation of water's composition,0.0
+non-combustible,wood,0.0
+Air,a substance like wood gains overall weight in burning,0.0
+chemically,a covalent double bond,0.0
+triplet oxygen,O,1.0
+weight,that increase was the same as the weight of the air that rushed back in,0.0
+ozone,Trioxygen,2.0
+UV,ultraviolet,2.0
+seawater,sea water,2.0
+twice,50% more,0.0
+world's oceans,"in the Earth's biosphere, air, sea and land",0.0
+compressing and cooling,cascade method,0.0
+climate,temperatures,0.0
+oxygen-18,oxygen-16,0.0
+lower global temperatures,lower temperatures,2.0
+carbon cycle,plant health status,0.0
+satellite platform,satellites,2.0
+Liquid oxygen,liquid oxygen,2.0
+magnetic field,magnetic,2.0
+dangerous by-products,the immune system,0.0
+major method,increasingly,0.0
+oxygen and hydrogen,Oxygen gas,1.0
+Chemical,chemical oxygen generators or oxygen candles,1.0
+Hyperbaric (high-pressure) medicine,special oxygen chambers,1.0
+Decompression sickness,"bubbles of inert gas, mostly nitrogen and helium, forming in their blood",2.0
+oxygen supplementation,Oxygen therapy,2.0
+organic compounds,solvents,0.0
+Acute oxygen toxicity,seizures,0.0
+mechanical ventilators,oxygen masks,0.0
+first oil shock,shock,1.0
+members of the Organization of Arab Petroleum Exporting Countries,OAPEC,2.0
+They arranged for Israel to pull back from the Sinai Peninsula and the Golan Heights.,multilateral,0.0
+After 1971,1973–1974,1.0
+ten times more,a hundred,0.0
+renewal of hostilities in the Arab–Israeli conflict,.,0.0
+until their economic and political objectives were met,In response to American aid to Israel,0.0
+American aid to Israel,Nixon requested Congress to appropriate $2.2 billion in emergency aid to Israel,1.0
+shrinking Western demand,economies had been caught between higher oil prices and lower prices for their own export commodities,0.0
+distribution and price disruptions,reduced productivity,0.0
+Germany,Italy,0.0
+encourage investment,"The system limited the price of ""old oil""",0.0
+Price controls,promote oil exploration,0.0
+"last week of February 1974,",20%,0.0
+British Prime Minister Edward Heath,British,1.0
+5% production cut,"declared Japan a ""nonfriendly"" country",0.0
+USSR's invasion,Afghanistan,0.0
+January 1979,1979,1.0
+Japanese imports,Japanese,1.0
+Japan,Japanese,1.0
+A decade after the 1973,1981,1.0
+power steering,air conditioning,0.0
+Lexus,Acura,0.0
+"Lincoln Continental,",Cadillac DeVille,0.0
+Chevrolet Bel Air,lower price models,0.0
+Treaties establishing the European Union,"primary law, secondary law and supplementary law",0.0
+European Parliament and the Council of the European Union,the Treaties establishing the European Union,0.0
+international law,case law by the Court of Justice,0.0
+Following the Nice Treaty,2004,0.0
+the Commission,The European Commission,1.0
+Federica Mogherini,Jean-Claude Juncker,0.0
+at least 55 per cent of the Council members (not votes) representing 65 per cent of the population of the EU,"74 per cent, or 260 of the 352 votes",0.0
+a majority,a Commission proposal,0.0
+qualified majority,a majority,2.0
+"legislation can be blocked by a majority in Parliament, a minority in the Council, and a majority in the Commission",unanimity,0.0
+"by assuming the task of interpreting the treaties, and accelerating economic and political integration",has the ability to expand and develop the law according to the principles it deems to be appropriate,0.0
+the Court of Justice,The Italian Constitutional Court,0.0
+article 30,TFEU article 30,1.0
+Treaty provisions,they are ‘directly applicable in all Member States’,0.0
+"a citizen or company can invoke a Directive, not just in a dispute with a public authority, but in a dispute with another citizen or company","a citizen may rely on the Directive in such an action (so called ""vertical"" direct effect)",1.0
+in Article 5,the lawfulness of an action depends on whether it was appropriate and necessary to achieve the objectives legitimately pursued,0.0
+member states,the European Convention on Human Rights,0.0
+the Charter of Fundamental Rights of the European Union,the Charter of Fundamental Rights of the European Union of 7,2.0
+to enable people to pursue their life goals in any country through free movement,Since its foundation,0.0
+Jean-Marc Bosman,the Belgian Football Association v Bosman,1.0
+if they were non-discriminatory,"participate in economic life ""on a stable and continuous basis""",0.0
+shipping toxic waste,toxic waste,1.0
+the Daily Mail,Daily Mail,2.0
+"creditor protection, labour rights to participate in work, or the public interest in collecting taxes",Denmark's minimum capital law,0.0
+moist broadleaf forest,tropical,1.0
+Cretaceous–Paleogene extinction event,dinosaurs,0.0
+the Atlantic,Atlantic,2.0
+Amazonas Basin,Andes Mountains,0.0
+Purus Arch,along the middle,0.0
+explanations are reasonably well supported,by the available data,0.0
+the Last Glacial Maximum (LGM) and subsequent deglaciation,rainfall in the basin during the LGM was lower than for the present,0.0
+data sampling is biased away from the center of the Amazon basin,practical limitations of working in the rainforest,1.0
+one in five,"2,200",0.0
+"40,000",tens of thousands,1.0
+One in five,"1,294",0.0
+62 acres,quarter square,1.0
+10% of the carbon stores,10%,1.0
+to help strengthen their territorial claims,map out their ancestral lands,0.0
+phylum of animals that live in marine waters,comb jellies,1.0
+‘combs’ – groups of cilia,cilia,1.0
+water flow through the body cavity,κτείς kteis 'comb' and φέρω pherō 'carry',0.0
+colloblasts,retractable tentacles fringed with tentilla,2.0
+sequential,simultaneous,0.0
+planktonic plants,a vital part of marine food chains,1.0
+66 million years ago,515 million years ago,0.0
+515 million years,66 million years ago,0.0
+515 million years,66 million years,0.0
+cnidarians,Ctenophores,1.0
+diploblastic,ctenophores,0.0
+"sponges and cnidarians, ctenophores",cnidarians and ctenophores,1.0
+comb-bearing,"""comb"" and the Greek suffix -φορος meaning ""carrying""",2.0
+"a mouth that can usually be closed by muscles; a pharynx (""throat""); a wider area in the center that acts as a stomach; and a system of internal canals.",the gastrodermis,1.0
+osmotic pressure,It is uncertain,0.0
+pump water out of the mesoglea,pump,1.0
+more or less rounded,egg-shaped,2.0
+"""zip"" the mouth shut",streamlines the front of the animal,0.0
+large pharynx,large cilia,0.0
+Cestum veneris,up to 1.5 meters (4.9 ft) long,0.0
+cling to and creep on surfaces,"as a muscular ""foot""",0.0
+Vendobionta,ctenophores,0.0
+all other animals,Bilateria,0.0
+The isolated subdivision,Dogg Pound,0.0
+1885,July 1982 to June 1983,0.0
+"8,525","62,528",0.0
+99,State Route 99,1.0
+Davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks in Europe,Donald Davies,1.0
+circuit switching is characterized by a fee per unit of connection time,a method which pre-allocates dedicated network bandwidth specifically for each communication session,0.0
+survivable communications networks,the concept of distributed adaptive message block switching,0.0
+"use of a decentralized network with multiple paths between any two points, dividing user messages into message blocks",ideas,0.0
+delivery of these messages by store and forward switching,decentralized network with multiple paths between any two points,0.0
+"a general architecture for a large-scale, distributed, survivable communications network",briefing B-265,0.0
+"use of a decentralized network with multiple paths between any two points, dividing user messages into message blocks, later called packets","large-scale, distributed, survivable communications network",1.0
+by store and forward switching,packets,0.0
+"connection-oriented operations. But X.25 does it at the network layer of the OSI Model. Frame Relay does it at level two, the data link layer",a handshake between the communicating parties before any user packets are transmitted,0.0
+"Frame Relay was used to interconnect LANs across wide area networks. However, X.25 and well as Frame Relay have been supplanted",provide connection-oriented operations,0.0
+User Datagram Protocol,the datagram model,0.0
+as a means to help the state's educational and economic development,to explore computer networking between three of Michigan's public universities,1.0
+an interactive host to host connection was made between the IBM mainframe computer systems at the University of Michigan in Ann Arbor and Wayne State,the CDC mainframe at Michigan State University in East Lansing,1.0
+"Ethernet attached hosts, and eventually TCP/IP and additional public universities in Michigan join the network",the network was enhanced,1.0
+host interface to X.25 and the terminal interface to X.29,ARPANET,0.0
+A user or host could call a host on a foreign network by including the DNIC of the remote network as part of the destination address,the interconnection of national X.25 networks,0.0
+use of the name was incorrect all these services were managed by the same people within one department of KPN contributed to the confusion,Dutch PTT Telecom,0.0
+The Computer Science Network,a computer network funded by the U.S. National Science Foundation (NSF),1.0
+"role in spreading awareness of, and access to, national networking and was a major milestone on the path to development of the global Internet",not be directly connected to ARPANET,0.0
+a partnership with Level 3 Communications to launch a brand new nationwide network,Qwest,0.0
+The network was engineered and operated by MCI Telecommunications under a cooperative agreement with the NSF,National Science Foundation,1.0
+merchant ships.,Silk Road,0.0
+That the plague was caused by bad air,great pestilence in the air,1.0
+100–106 °F,38–41 °C,2.0
+from the tooth sockets in human skeletons,"mass graves in northern, central and southern Europe",0.0
+Y. p. orientalis and Y. p. medievalis,Y. pestis,1.0
+East Smithfield,England,1.0
+new magma,igneous,0.0
+the convecting mantle,convection of the mantle,2.0
+crust,lithosphere,0.0
+second scale shows the most recent eon with an expanded scale,compresses the most recent era,1.0
+younger than the fault,younger,1.0
+older than the fault,younger,0.0
+absolute ages,rock units,0.0
+anticlines and synclines,overturned anticline,1.0
+pressure physical experiments,fluid inclusion data,0.0
+provide better absolute bounds on the timing and rates of deposition,gain information about past climate,0.0
+regulates the practice of pharmacists and pharmacy technicians,governing body for pharmacy health care professionals,1.0
+health care professional,pharmacy health care,1.0
+the pre-Heian Imperial court,Taihō Code,0.0
+status superior to all others in health-related fields such as physicians and acupuncturists,Ranked positions,0.0
+within the dispensary compounding/dispensing medications,communicating with patients,0.0
+pharmacists practicing in hospitals,clinical pharmacists,2.0
+patient care rounds drug product selection,interdisciplinary approach,0.0
+all health care settings,drug product selection,0.0
+creating a comprehensive drug therapy plan for patient-specific problems,identifying goals of therapy,1.0
+another customer might overhear about the drugs that they take,homebound,0.0
+dispensing substandard products,potentially dangerous,0.0
+"cancer, hepatitis, and rheumatoid arthritis",chronic and complex disease states,1.0
+In some rural areas in the United Kingdom,prescribe and dispense prescription-only medicines to their patients from within their practices,0.0
+in obtaining cost-effective medication and avoiding the unnecessary use of medication that may have side-effects,"the physician has a financial self-interest in ""diagnosing"" as many conditions as possible",0.0
+exaggerating their seriousness,avoiding the unnecessary use of medication that may have side-effects,0.0
+expected to become more integral within the health care system,patient care skills,0.0
+apartheid,Singing Revolution to bring independence to the Baltic countries,0.0
+Egyptians,India,0.0
+the British,communist governments,0.0
+nonviolent resistance,unfair laws,0.0
+former King of Thebes,Oedipus,1.0
+Oedipus,Antigone,0.0
+obey her conscience rather than human law,She gives a stirring speech,0.0
+nonviolent,political poem,0.0
+Henry David Thoreau,Gandhi,0.0
+free India,protest and political action,0.0
+unjust forms of authority,Peterloo massacre,0.0
+doctrine of Satyagraha,Satyagraha,1.0
+"muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins",civil disobedience,1.0
+ambiguity,debased,0.0
+utterly debased,everything from bringing a test-case in the federal courts to taking aim at a federal official,0.0
+Marshall Cohen,President Agnew,0.0
+"code-word describing the activities of muggers, arsonists, draft evaders",utterly debased,0.0
+Vice President Agnew,Marshall Cohen,0.0
+impossible,a maze of semantical problems and grammatical niceties,0.0
+specific,civil disobedience,0.0
+constitutional impasse,her or his capacity as public official,0.0
+citizen's,head of government,0.0
+the head of government would be acting in her or his capacity as public official,"two public agencies, especially two equally sovereign branches of government, conflict",0.0
+refuse to enforce a decision,constitutional impasse,0.0
+head of government,public official,1.0
+sovereign branches of government,public official,1.0
+not necessarily right,the will of elite politicians,0.0
+Resign,refusal to pay,0.0
+elite politicians,individuals,0.0
+The individual,individuals,2.0
+"trade unions, banks, and private universities",non-governmental agencies,1.0
+legal system,foreign,0.0
+international organizations and foreign governments,a larger challenge to the legal system that permits those decisions to be taken,0.0
+civil disobedience,lawbreaking,1.0
+(Exodus 1: 15-19),Book of Exodus,1.0
+must be publicly announced,civil disobedience,0.0
+fabricating evidence or committing perjury,covert lawbreaking,0.0
+non-violence,non-violent,2.0
+civil rebellion,rebellion,1.0
+violence,non-violent,0.0
+destructive,use of force and violence and refusal to submit to arrest,0.0
+help preserve society's tolerance of civil disobedience,rebellion is much more destructive,0.0
+"cultural traditions, social customs, religious beliefs",revolutionary civil disobedience,0.0
+disobedience of laws,Non-revolutionary civil disobedience,1.0
+"judged ""wrong"" by an individual conscience",to cause their repeal,0.0
+refuse to sign bail,jail solidarity,0.0
+jail solidarity,solitary civil disobedience,0.0
+until after the end of the Mexican War,months,0.0
+propaganda,just a harassment,0.0
+illegal acts,symbolic illegal protests,1.0
+trespassing at a nuclear-missile installation,symbolic illegal protests,0.0
+entirely symbolic,harassment,0.0
+social goal,protests toward public policy,1.0
+criminalized behavior,forbidden speech,0.0
+pure speech,forbidden speech,0.0
+broadcasting,engaging in the forbidden speech,0.0
+Threatening government officials,forbidden speech,1.0
+sending an email,Supreme Court case,0.0
+limited coercion,civil disobedience,0.0
+coercive,civil disobedience,0.0
+refusals to pay taxes,civil disobedience,1.0
+coercion,make it more difficult for a system to function,0.0
+engage in moral dialogue,get their issue onto the table,1.0
+padlocking the gates,"illegal boycotts, refusals to pay taxes, draft dodging, distributed denial-of-service attacks, and sit-ins",0.0
+criminal investigations,grant a consent search,0.0
+not to grant a consent search,not to talk to police officers,0.0
+suspect's talking to criminal investigators,responding to investigators' questions,1.0
+"lack of understanding of the legal ramifications,",a suspect's talking to criminal investigators,0.0
+use the arrest as an opportunity,civil disobedience,0.0
+legitimacy of a particular law,laws,1.0
+does not infringe the rights of others,don't believe in the legitimacy of any government,0.0
+I feel I did the right thing by violating this particular law,proud of it,1.0
+Guilt implies wrong-doing,guilty of doing no wrong,0.0
+creative plea,no contest,0.0
+tempted to enter the test site,protest,0.0
+arrested,arrest,2.0
+accept jail penitently,is to switch suddenly to a spirit of subservience,0.0
+plea bargain,plead guilty to one misdemeanor count and receive no jail time,1.0
+defiant speech,allocution,2.0
+lack of remorse,the judge increased her sentence,0.0
+likelihood of repeating,a lack of remorse,0.0
+mistreatment from government officials,sentence,0.0
+acquittal and avoid imprisonment,to use the proceedings as a forum,0.0
+use the proceedings as a forum,win an acquittal and avoid imprisonment,0.0
+inform the jury and the public of the political circumstances,plead not guilty,0.0
+general disobedience,great amount of it,0.0
+neither conscientious nor of social benefit,any great amount of it would undermine the law,0.0
+breaking the law for self-gratification,it would undermine the law by encouraging general disobedience,0.0
+not being a civil disobedient,conscientious lawbreakers must be punished,0.0
+avoiding attribution,viewed as not being a civil disobedient,0.0
+competing harms defense,necessity defense,1.0
+incapacitation,achieving crime control,0.0
+would do more harm than good,it focuses attention on the threat of punishment and not the moral reasons to follow this law,0.0
+the state,judges,0.0
+moral reasons to follow this law,whether it would do more harm than good,0.0
+Industrial,heavy civil or heavy engineering,0.0
+ENR,Engineering News-Record (ENR),2.0
+Working versions of 3D-printing building technology are already printing,2014,0.0
+the project coordinator,the architect or engineer,0.0
+Orthodox Christians,Roman Catholic,0.0
+religious,the usual academic subjects,0.0
+expulsion,offer a higher quality of education,0.0
+0.5,6.1,0.0
+vocational,secondary or post-secondary,0.0
+National School,National Type,0.0
+60,all,0.0
+Society of St Pius X,Catholic schismatic,0.0
+government schools formerly reserved for white children,semi-private,1.0
+voucher,pupils are free to choose a private school,0.0
+white,African-American,0.0
+"identify, recruit",Conant devised programs,0.0
+Allston,on a 358-acre (145 ha) campus,0.0
+30% loss,$12 billion,0.0
+Benjamin Netanyahu,Benazir Bhutto,0.0
+Timucua,Mocama,0.0
+Battle of Cedar Creek,1864,0.0
+Gilded Age,Reconstruction,0.0
+Spanish moss,kitchen fire,0.0
+voters approved the plan,governments merged to create the Consolidated City of Jacksonville,0.0
+"""Bold New City of the South""",Consolidated City of Jacksonville,1.0
+tallest building in Downtown Jacksonville,"tallest precast, post-tensioned concrete structure",1.0
+28,42,0.0
+mild,mild and sunny.,1.0
+2008,Fay,0.0
+about 3.5 billion people,50%,0.0
+the methodology used,"""silly argument"" and ""a non-issue . . . a diversion.""",0.0
+a diversion,the basis of the methodology used,0.0
+Institute for Policy Studies,PolitiFact,1.0
+"differences in value added by labor, capital and land",differences in value added by different classifications of workers,1.0
+marginal value added of each economic actor,differences in value,0.0
+value added by different classifications of workers,"value added by labor, capital and land",1.0
+reduce costs and maximize profits,substitution of capital equipment for labor,0.0
+less workers are required,"raises the productivity of each worker,",1.0
+rising levels of property income,downward pressure on wages,0.0
+reduce costs and maximize profits,raises the productivity of each worker,1.0
+substitute capital equipment,pressure to reduce costs and maximize profits,0.0
+productivity,organic composition of capital,0.0
+workers wages,wages,2.0
+prices,function of market price of skill,0.0
+unfair,high levels of inequality,1.0
+Competition amongst workers,high demand,0.0
+low demand,high supply,0.0
+low wage,competition,0.0
+expendable nature of the worker,(high supply) competing for a job that few require (low demand),0.0
+top tax rate,progressive tax,0.0
+tax system,progressive tax system,1.0
+steeper tax,social spending,0.0
+the Gini index,Gini,2.0
+access to education,Education,1.0
+optional education,education,1.0
+savings and investment,"education,",0.0
+gender inequality in education,education,1.0
+period of compression,decrease in wages,0.0
+gender inequality in education,low economic growth,0.0
+unions,union membership,1.0
+technological changes and globalization,decline of organized labor,0.0
+less willing to travel or relocate,women not taking jobs due to marriage or pregnancy,0.0
+Gender,ranges from 53% in Botswana to -40% in Bahrain,0.0
+relatively equal,low,0.0
+greater return of capital,wealth condensation,0.0
+larger fortunes,wealth condensation,0.0
+human capital is neglected,a lower level of economic utility in society,0.0
+among states in the US with larger income inequalities,countries with bigger income inequalities,1.0
+a great deal of utility,basic necessities,0.0
+higher aggregate utility,population-wide satisfaction and happiness,0.0
+evidence,prevent growth,0.0
+redistributive taxation,fertility,0.0
+reduction,halve poverty,0.0
+residents willing to pay higher market rate for housing,gentrification of older neighbourhoods,1.0
+emissions per person,this multiplier,0.0
+environmental degradation,this as well,0.0
+"5,000","around 15,000",0.0
+various academic disciplines,"the world's first man-made, self-sustaining nuclear reaction",0.0
+several regional colleges and universities,"Des Moines College, Kalamazoo College, Butler University, and Stetson University",0.0
+passed,Several University of Chicago professors,0.0
+1910,Several University of Chicago professors,0.0
+after their second year,early 1950s,0.0
+"Cobb, Shepley, Rutan and Coolidge, Holabird & Roche,",Henry Ives Cobb,1.0
+a board of trustees,The Board of Trustees,2.0
+Robert Zimmer,Daniel Diermeier,0.0
+Miller–Urey experiment,Chicago Pile-1,0.0
+Alpha Phi Omega,Four,0.0
+Arthur H. Compton,Robert A. Millikan,0.0
+Yuan T. Lee,Glenn T. Seaborg,0.0
+David Bevington,John Mearsheimer and Robert Pape,0.0
+Yuán Cháo,元朝,0.0
+Song dynasty,Mongol Empire,0.0
+3,three,2.0
+south,the western frontier,0.0
+Yangzi River basin,the Song dynasty,0.0
+26 seconds off the modern Gregorian calendar,365.2425 days of the year,0.0
+a period of foreign domination,continuation of the Mongol Empire,0.0
+"Tang, Song, as well as Khitan Liao and Jurchen Jin dynasties",native Chinese dynasties,1.0
+western,Yuan dynasty,0.0
+Shoushi Li,授時暦,0.0
+four,Four,2.0
+Chinese physicians were brought along military campaigns by the Mongols,to other parts of the empire,0.0
+Ilkhanate,reaching the highest-post in the government,0.0
+"Besh Baliq, Almaliq, and Samarqand",Bukhara,0.0
+a Qara-Khitay (Khitan,Ahai,0.0
+Zhu Yuanzhang,thanks,0.0
+Southern,southern,2.0
+"blood–brain barrier, blood–cerebrospinal fluid barrier",fluid–brain barriers,2.0
+pattern recognition receptors,cells,0.0
+pH or available iron,balance of microbial populations,0.0
+adaptive,strong response,0.0
+cytotoxic or immunosuppressive drugs,Cytotoxic drugs,1.0
+adaptive immune system,the adaptive immune system,2.0
+bacteriophages,viral,0.0
+protein A,G,0.0
+Korean,onomist,0.0
+World Meteorological Organization,WMO,2.0
+United Nations Environment Programme,UNEP,2.0
+available information about climate change based on published sources,peer-reviewed sources,0.0
+"""business as usual"" (BAU)",enhanced greenhouse effect,0.0
+does not faithfully summarize the full WGI report,understates the uncertainty associated with climate models,0.0
+"fuel consumption, industrial production and so on",Greenhouse Gas Inventories,1.0
+"""Variations of Snow and Ice in the past and at present on a Global and Regional Scale""",the IPCC from the WWF report,0.0
+"Jones et al. 1998, Pollack, Huang & Shen 1998, Crowley & Lowery 2000 and Briffa 2000",Jones et al. and Briffa reconstructions,1.0
+18 July 2000,May 2000,0.0
+14,Ten,0.0
+Ten,14,0.0
+9–88 cm,0.5–1.4 m,0.0
+50–140 cm,9–88 cm,0.0
+regional burden sharing conflicts,varying regional cost-benefit analysis and burden-sharing conflicts with regard to the distribution of emission reductions,1.0
+other scientific bodies,scientific papers and independently documented results,1.0
+IPCC,the IPCC,2.0
+composite number,primes,0.0
+the statistical behaviour,distribution,0.0
+prime ideals,prime elements,0.0
+Christian Goldbach,mathematicians,0.0
+the sum of divisors function,relationship of the number to its corresponding value of Euler's totient function,0.0
+Euler's totient function,sum of divisors function,0.0
+only the single number 1,eliminate all multiples of 1,0.0
+the Rhind papyrus,Egyptian fraction,0.0
+only three divisions,only for those m that are prime,0.0
+Solovay-Strassen tests,Miller-Rabin,0.0
+primorial primes,Fermat,0.0
+Fermat primes,Mersenne,0.0
+The Electronic Frontier Foundation,"$150,000",0.0
+n < p < 2n − 2,A or μ,0.0
+diverges,exceeds any given number,0.0
+identity,algebraic,0.0
+twin prime conjecture,Polignac's,0.0
+indecomposability,minimality,0.0
+the smallest subfield,Q or the finite field with p elements,0.0
+4k + 3,Z,0.0
+Europe,Germany,0.0
+Netherlands,Germany,0.0
+1st century BC,Roman-era,0.0
+Gaulish name Rēnos,Rhenus,2.0
+Hoek van Holland,(1036.20 km),0.0
+"Rhine-kilometers""",kilometres,1.0
+Austria,Liechtenstein,0.0
+Switzerland,Liechtenstein,0.0
+Lake Constance,West by the Alter Rhein,0.0
+parallel to the canalized Rhine,into the lake,0.0
+Lake Rhine,Seerhein,2.0
+Rheinbrech,Upper Lake,0.0
+Rheinbrech,Upper Lake,0.0
+Lindau,Mainau,0.0
+Moselle,Neckar,0.0
+plants and factories,industry,1.0
+Switzerland,Lower Rhine,0.0
+Switzerland,Duisburg,0.0
+Sankt Goarshausen,Lorelei,0.0
+Duisport,Duisburg,2.0
+Noord River,Nieuwe Maas,0.0
+Old Rhine,Oude Rijn,2.0
+Merwede-Oude Maas,North Sea,0.0
+tear huge areas of land into the sea.,tidal currents,0.0
+Mesozoic Era,Triassic Period,0.0
+Ice Ages,geological period,1.0
+increased flooding and sedimentation,Bronze Age agriculture,0.0
+southern,between the modern Baden and Württemberg,0.0
+5th century,Migration period,0.0
+1935,1930,0.0
+Seven Days to the River Rhine,plan for an invasion of Western Europe,0.0
+Following a referendum in 1997,1998,0.0
+in which it can make laws,"powers that are ""reserved"" to the Parliament of the United Kingdom",0.0
+Parliament of the United Kingdom,The British Parliament,2.0
+majority,40%,0.0
+blueprint,the Convention,0.0
+Scottish Parliament Building,Edinburgh,0.0
+the Parliamentary Bureau,Presiding Officer,0.0
+debating chamber,Wednesday afternoons,0.0
+Gaelic,"Scots, Gaelic, or any other language with the agreement of the Presiding Officer",1.0
+votes,outcome,0.0
+not a Scottish minister,may be of interest to a particular area such as a member's own constituency,0.0
+no revising chamber,"take evidence from witnesses, conduct inquiries and scrutinise legislation",0.0
+Scottish Government.,Committees,0.0
+Scottish Parliament,Parliament,1.0
+automatically devolved,not specifically reserved,0.0
+UK Government ministers,Westminster,0.0
+in the relevant committee or committees,the whole Parliament,0.0
+Decision Time,After a general debate on the final form of the bill,0.0
+supplant it.,"reverts to the first Thursday in May, a multiple of four years after 1999",0.0
+MSPs,leaders of the opposition parties and other MSPs,1.0
+legislative programme for the forthcoming year,a statement,0.0
+any member of the Scottish Government,ministers in departments that are selected for questioning that sitting day,0.0
+issues under their jurisdiction,the First Minister,0.0
+constituency seats,second,0.0
+a number of qualifications,qualifications,2.0
+Edinburgh Pentlands,former party leader,0.0
+"able to vote on domestic legislation that applies only to England, Wales and Northern Ireland",procedural consequence,0.0
+its supporters,Scholars and observers,0.0
+a historical fluke,political Islam,0.0
+considerable impact,"experience, ideology, and weapons",0.0
+political support,making peace with Israel,0.0
+assassinated,Islamists came to completely dominate university student unions,0.0
+gradual,Islamic revolution,0.0
+conspiracy,Westernizing Muslims,0.0
+promoted Western/foreign ideas and practices into Islamic societies,secular leanings,0.0
+al-Gama'a al-Islamiyya,Islamic Group,1.0
+Algeria,Afghanistan,0.0
+vicious and destructive,civil,0.0
+Sharia,an idealized and systematized version of conservative tribal village customs,0.0
+a different view,Islam's pivotal turning point as occurring not with the death of Ali,0.0
+ended the true Islamic system,working through Turkish modernist Mustafa Kemal Atatürk,0.0
+elites,government,1.0
+Christian Whiton,George W. Bush,0.0
+military force,colonization,1.0
+"""Formal imperialism""",formal,1.0
+"""informal"" imperialism",Informal rule,1.0
+informal,Informal rule is generally less costly,1.0
+ownership of private industries,technological superiority,0.0
+seaborne,land,0.0
+political focus,ideological,0.0
+ideological,commercial,0.0
+taking physical control of another,a conquest over an area,1.0
+conquering the other state's lands,political and monetary dominance,1.0
+theory of races,Social Darwinism,1.0
+geographical societies in Europe,necessary for a state’s survival,0.0
+uncivilized,fully human,0.0
+the British Empire,Terra nullius,0.0
+irrational and backward,them,0.0
+inferior,irrational and backward,0.0
+Orientalism,inferior,0.0
+blank spaces on contemporary maps,maps,1.0
+nineteenth-century cartographic techniques,nineteenth-century maps,2.0
+European,Europe,2.0
+taxation,removing its economic foundation,0.0
+assimilation,Full citizenship rights,0.0
+800 CE,in late antiquity,0.0
+Eastern Europe,1919–20,0.0
+Mao Zedong,Sultan Galiev and Vasyl Shakhrai,0.0
+The British Empire,The British,1.0
+pseudo-sciences,British Empire,0.0
+Middle East,Africa,0.0
+The British spirit of imperialism,Social Darwinism,0.0
+the Monroe Doctrine,through policies,0.0
+interventionism,.,0.0
+"""internal colonialism""",internal,0.0
+During the 16th and 17th centuries,17th century,1.0
+World War I,creation of modern Balkan and Middle Eastern states,0.0
+wide variety of industries,"FMCG manufacturing, metal processing, steel and electronic manufacturing and food processing",1.0
+12th/13th-century nobleman,shortened form of the masculine name of Slavic origin Warcisław,0.0
+August 1944,the Red Army was nearing the city,0.0
+Victory Square,1979,0.0
+452.8 ft,115.7 metres,0.0
+at the right bank of the Vistula,by the eastern border,0.0
+Vistula Valley,geomorphologic,0.0
+former flooded terraces,peat swamps or small ponds,0.0
+plain Vistula terraces,highest terrace,0.0
+Masovian gothic,Gothic architecture,1.0
+1688–1692,1677–1683,0.0
+1775–1795,1696,0.0
+Pole Mokotowskie,Mokotów,1.0
+city,Demographically,0.0
+56.20%,35.7,0.0
+Polonez,125p,0.0
+Chevrolet Aveo,Aveo,1.0
+Medical University of Warsaw,National Defence University,0.0
+festivals,events,0.0
+primarily along the frontiers between New France and the British colonies,Virginia in the South to Nova Scotia in the North,0.0
+disaster; he was defeated in the Battle of the Monongahela,None succeeded,0.0
+expulsion of the Acadians,deportation,0.0
+unwilling to risk large convoys to aid the limited forces it had in New France,significantly increased,0.0
+territory east of the Mississippi to Great Britain,France,0.0
+much larger conflict between France and Great Britain,in King George's reign,0.0
+"from Nova Scotia and Newfoundland in the north, to Georgia in the south",eastern coast of the continent,0.0
+few British troops,not have any standing forces,0.0
+"mustered local militia companies, generally ill trained and available only for short periods, to deal with native threats, but did not have any standing forces.",militia support,0.0
+200 Troupes de la marine and 30 Indians,Céloron,0.0
+"British merchants or fur-traders, Céloron informed them of the French claims on the territory and told them to leave.",buried lead plates,0.0
+"very badly disposed towards the French, and are entirely devoted to the English",what way they could be brought back,0.0
+British colonists would not be safe as long as the French were present,forceful,0.0
+protect the King's land in the Ohio Valley from the British,"he moved south, he drove off or captured British traders",0.0
+Tanaghrisson,the Mingo,0.0
+colonel of the Iroquois,He who does great things,0.0
+France's claim to the region was superior to that of the British,Sieur de La Salle had explored the Ohio Country nearly a century earlier,0.0
+"Contrecœur led 500 men south from Fort Venango on April 5, 1754",40,0.0
+"with Tanaghrisson and his party, surprised the Canadians on May 28 in what became known as the Battle of Jumonville Glen",killed many of the Canadians,0.0
+"regain authority over his own people. They had been inclined to support the French, with whom they had long trading relationships",had promised,0.0
+Albany Congress,the opening of hostilities,0.0
+Washington and Thomas Gage,George Washington,1.0
+Shirley and Johnson.,British,0.0
+Colonel Monckton,British,0.0
+deportation of the French-speaking Acadian population from the area.,captured Fort Beauséjour,0.0
+Petitcodiac in 1755 and at Bloody Creek near Annapolis Royal in 1757,deportation of the French-speaking Acadian population from the area,0.0
+Major General James Abercrombie,Lord Loudoun,0.0
+Major General Louis-Joseph de Montcalm,Lord Loudoun,0.0
+"attack on New France's capital, Quebec",one major operation,0.0
+poor harvest,allegedly corrupt machinations of François Bigot,0.0
+Loudoun,Duke of Cumberland,0.0
+"disappearance of a strong ally and counterweight to British expansion, leading to their ultimate dispossession",elimination of French power,0.0
+Choctaw and the Creek,tribes that did not want to do business with the British,0.0
+on the ground,heavy bodies to fall,0.0
+unnatural,natural motion,0.0
+impetus,gravity,0.0
+Galileo,Galileo Galilei,2.0
+friction,gravity,0.0
+Newton's First,first law,1.0
+the same,a Galilean transformation,0.0
+General relativity,coherent theory of quantum gravity,0.0
+fixed,an equality,0.0
+Newton's Third,The third law,1.0
+magnitude,action-reaction,0.0
+standard measurement scale,precise operational definitions,0.0
+vector quantities,dependent upon how strong,0.0
+Associating forces with vectors,know both the magnitude and the direction of both forces to calculate the result,0.0
+Associating forces with vectors,adding the two force magnitudes or subtracting one from the other,0.0
+respective lines of application,their effects on the motion of the body,0.0
+orthogonal,uniquely determined,0.0
+static friction,applied force,0.0
+applied,applied force,0.0
+forces,static equilibrium,0.0
+spring reaction force,the force of gravity,0.0
+gravity,object's weight,0.0
+Galileo,Aristotle's,0.0
+behind the foot of the mast,straight down,0.0
+kinetic friction,object started with a non-zero velocity,0.0
+Schrödinger,Newtonian equations,0.0
+quantized,operators,0.0
+antiparallel,antisymmetric,0.0
+parallel,antisymmetric,0.0
+force,4-momentum in relativity and momentum of virtual particles in quantum electrodynamics,0.0
+conservation of momentum,the currently known fundamental forces,0.0
+the Moon,the mass () and the radius () of the Earth,0.0
+"Newton's Universal Gravitation Constant,",dimensional constant,0.0
+ballistic trajectory,path between two space-time events,0.0
+global,in space,0.0
+Maxwell,James Clerk Maxwell,2.0
+quantum mechanics,the work of leading theoretical physicists,1.0
+residual of the force,nucleons in atomic nuclei,0.0
+conservation of mechanical energy,the tension force on a load can be multiplied,0.0
+movable pulleys,every string,0.0
+stress tensor,deformations,0.0
+pressure terms,stress tensor,0.0
+pressure terms,matrix diagonals of the tensor),0.0
+formalism,the relevant cross-sectional area for the volume for which the stress-tensor is being calculated,0.0
+rotational equivalent for position,rotation,1.0
+centripetal,unbalanced centripetal force,1.0
+gradient of potentials,macrophysical considerations that yield forces as arising from a macroscopic statistical average of microstates,0.0
+statistical mechanics,detailed,0.0
+nonconservative forces,internal energies of the system,0.0
+kilogram-force,pound-force,1.0
+10th and 11th centuries,in the 10th and 11th centuries,2.0
+10th century,the first half of the 10th century,1.0
+Catholic,Catholic orthodoxy,1.0
+Viking,"Norseman, Viking",1.0
+Seljuk Turks,"the Pechenegs, the Bulgars, and especially the Seljuk Turks",1.0
+1050s,in the 1050s,2.0
+1060s,In the 1060s,2.0
+1082,February 1082,1.0
+Deabolis,the river Deabolis,1.0
+1185,in 1185,2.0
+King Ethelred II,Ethelred II,2.0
+1041,in 1041,2.0
+William II,Duke William II,2.0
+1066,In 1066,2.0
+King Malcolm III of Scotland,King Malcolm III,2.0
+early 11th century,11th century,1.0
+inherent difficulty,their inherent difficulty,2.0
+determine the practical limits on what computers can and cannot do,what computers can and cannot do,2.0
+round trip through all sites in Milan,asking for a round trip through all sites in Milan whose total length is at most 10 km,1.0
+binary alphabet,binary,1.0
+adjacency matrices,directly via their adjacency matrices,2.0
+arbitrary graph,arbitrary,1.0
+a single output,single,1.0
+A function problem,function,1.0
+the integer factorization problem,integer factorization,2.0
+an increase in the input size,input size,1.0
+Cobham's thesis,Cobham's,1.0
+polynomial time algorithm,polynomial time,1.0
+A deterministic Turing machine,deterministic,1.0
+A probabilistic Turing machine,probabilistic,1.0
+A non-deterministic Turing machine,non-deterministic,1.0
+time and memory,time and memory consumption,1.0
+the machines operate deterministically,deterministically,1.0
+unusual resources,more unusual resources,2.0
+time,non-deterministic time,1.0
+state transitions,"the total number of state transitions, or steps",1.0
+computational resource,computational,1.0
+"best, worst and average","best, worst and average case",2.0
+complexity measure,complexity,1.0
+time,time complexity,1.0
+deterministic sorting algorithm quicksort,quicksort,2.0
+the computational model,specific details of the computational model used,2.0
+linear time,linear,1.0
+single-tape Turing machines,single-tape,1.0
+Cobham-Edmonds thesis,Cobham-Edmonds,1.0
+complexity class P,P,2.0
+a proper hierarchy on the classes defined,a proper hierarchy on the classes,2.0
+quantitative statements,quantitative,2.0
+Karp reductions and Levin reductions,"Cook reductions, Karp reductions",1.0
+polynomial-time reduction,polynomial-time,1.0
+polynomial time,polynomial,1.0
+there is no known polynomial-time solution,no known polynomial-time solution,2.0
+Turing machines,deterministic Turing machines,1.0
+more efficient solutions,shown to have more efficient solutions,2.0
+The graph isomorphism problem,graph isomorphism,2.0
+polynomial time hierarchy,polynomial time,1.0
+second level,second,1.0
+Laszlo Babai and Eugene Luks,Babai and Eugene Luks,2.0
+The integer factorization problem,integer factorization,2.0
+suspected to be unequal,unequal,1.0
+P is not equal to NP,not equal,1.0
+complexity classes,many complexity classes,1.0
+exponential-time algorithms,exponential-time,1.0
+NP-complete problems,NP-complete,2.0
+Presburger arithmetic,Presburger,1.0
+NP-complete knapsack problem,NP-complete knapsack,2.0
+in less than quadratic time,less than quadratic time,2.0
+NP-complete Boolean satisfiability problem,NP-complete Boolean satisfiability,2.0
+foundations were laid out,numerous foundations were laid out,1.0
+time and space,definitions of time and space complexity,1.0
+10 counties,10,1.0
+economic center,major economic center,2.0
+demographics and economic ties,economic,1.0
+Southern California Megaregion,the greater Southern California Megaregion,2.0
+12 million,over 12 million inhabitants,1.0
+San Diego,the San Diego area,2.0
+17.5 million,over 17.5 million,1.0
+beaches,for its popular beaches,1.0
+open spaces,nearby open spaces,1.0
+free,a free state,1.0
+three-region,the three-region point of view,1.0
+southern,southern California,1.0
+international metropolitan,an international metropolitan region,1.0
+Orange,Orange Counties,1.0
+Mediterranean,a Mediterranean climate,1.0
+Peninsular,Peninsular Ranges,1.0
+$20 billion,over $20 billion,1.0
+San Andreas,the San Andreas Fault,1.0
+Puente Hills,the Puente Hills Fault,1.0
+business,major business,1.0
+business,major business districts,1.0
+business,business districts,1.0
+Orange,Orange County,1.0
+Southern,Southern California,1.0
+2018,in 2018,2.0
+an official school sport,an official school,1.0
+January 2010,In January 2010,2.0
+VideoGuard,VideoGuard pay-TV,1.0
+substantially increased the asking price,that BSkyB had substantially increased the asking price for the channels,1.0
+Video On Demand,Video On Demand content,2.0
+July 2013,In July 2013,2.0
+share recordings,to share recordings and other media,1.0
+2016,later in 2016,1.0
+2016,in 2016,2.0
+22 May 2006,on 22 May 2006,2.0
+8 February 2007,On 8 February 2007,2.0
+March,in March,2.0
+1991,autumn of 1991,1.0
+"100,000","over 100,000",1.0
+Video On Demand,Video On Demand service,2.0
+25m,25m people,1.0
+36%,36% of households,1.0
+essentials,"only ""essentials""",1.0
+Sky TV bills,"claimants' ""Sky TV bills",1.0
+no,no indication,1.0
+basic channels,the carriage of their respective basic channels,1.0
+diversified,highly diversified,1.0
+Buckland Valley,Buckland Valley near Bright,2.0
+"over 1,000","1,000",1.0
+Liberal Party,Liberal Party of Australia,1.0
+National Party,National Party of Australia,1.0
+most densely populated,most,0.0
+"""entrenched"" provisions","certain ""entrenched"" provisions",2.0
+2009,the 2009 southeastern Australia heat wave,1.0
+state or government,state or government schools,1.0
+some extra costs,some extra costs are levied,2.0
+curriculum,curriculum standards,2.0
+May 2013,in May 2013,2.0
+October 2016,in October 2016,2.0
+"2,000 m","almost 2,000 m",1.0
+freight services,freight,1.0
+passenger,"extensive, electrified, passenger system",1.0
+1851,in 1851,2.0
+two-thirds,nearly two-thirds,1.0
+"1,600 mm","1,600 mm (5 ft 3 in) broad gauge",1.0
+"1,435 mm","1,435 mm (4 ft 8 1⁄2 in) standard gauge",1.0
+760 mm,760 mm (2 ft 6 in) narrow gauge lines,1.0
+most seats,the most seats in the Legislative Assembly,1.0
+representatives,representatives elected to either house of parliament,1.0
+sports,sports tourism,1.0
+regional cities,in regional cities,2.0
+about one-eighth the number,about one-eighth,2.0
+from 1562 to 1598,1562 to 1598,2.0
+Amboise plot,Amboise,1.0
+availability of the Bible in vernacular languages,the Bible in vernacular languages,1.0
+Around 1294,1294,1.0
+at the Cape of Good Hope,Cape of Good Hope,2.0
+"Charleston, South Carolina",Charleston,1.0
+the British Landgrave Edmund Bellinger,Edmund Bellinger,2.0
+Pons,Pons in France,1.0
+William III of Orange,Stadtholder William III of Orange,2.0
+their own militia,the Huguenots had their own militia,1.0
+one million,Approximately one million,1.0
+"""Huguenot Street Historic District"" in New Paltz",Huguenot Street Historic District,1.0
+"an estimated total of 75,000 to 100,000 people","75,000 to 100,000",1.0
+ca. 2 million,2 million,1.0
+the revocation of the Edict of Nantes,Edict of Nantes,1.0
+"Kent, particularly Sandwich, Faversham and Maidstone","Sandwich, Faversham and Maidstone",1.0
+a High Sheriff and one of the founders of the Bank of Ireland,High Sheriff,1.0
+granted the Protestants equality with Catholics,granted the Protestants equality,1.0
+the founding of new Protestant churches,founding of new Protestant churches in Catholic-controlled regions,1.0
+wine industry,wine,1.0
+"Charleston, South Carolina",Charleston,1.0
+in protest against the occupation of Prussia by Napoleon,in protest,1.0
+the Catholic Church in the region,Catholic Church,1.0
+12 May 1705,1705,1.0
+"""Apologie""","Apologie"" of William the Silent",1.0
+the doctrine of transubstantiation,doctrine of transubstantiation during Mass,1.0
+Williamite war,Williamite,1.0
+flax cultivation,flax,1.0
+Irish linen industry,linen,1.0
+Prince Louis de Condé,Louis de Condé,2.0
+Count Ludwig von Nassau-Saarbrücken,Ludwig von Nassau-Saarbrücken,2.0
+they were accepted and allowed to worship freely,allowed to worship freely,1.0
+"little Hugos, or those who want Hugo",little Hugos,1.0
+double or triple non-French linguistic origins,non-French linguistic origins,1.0
+Jean Cauvin (John Calvin),Jean Cauvin,2.0
+acted increasingly aggressively to force the Huguenots to convert,aggressively,1.0
+"John Pell, Lord of Pelham Manor",John Pell,2.0
+into the nineteenth century,well into the nineteenth century,1.0
+Huguenots furnished two new regiments,two new regiments,1.0
+Federal Minister of the Interior,Minister of the Interior,2.0
+solar,solar power,1.0
+Rankine,Rankine cycle,1.0
+1712,around 1712,1.0
+Abercynon,Abercynon in south Wales,2.0
+Wales,south Wales,1.0
+lower-pressure boiler feed water,water,1.0
+three,three or four,1.0
+quadruple expansion engines,quadruple,1.0
+lengthening rubbing surfaces of the valve,lengthening rubbing surfaces,1.0
+first,first century AD,1.0
+late,late part,1.0
+several hundred,several hundred horsepower,1.0
+electric,electric heating element,1.0
+port,additional port,1.0
+565,565 °C,1.0
+Stockton and Darlington,Stockton and Darlington Railway,1.0
+cylinder volume,cylinder,1.0
+reciprocating steam engines,reciprocating,1.0

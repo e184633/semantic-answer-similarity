@@ -1,0 +1,943 @@
+,answer1,answer2,label,sas
+0,Seine,Epte,0.0,0.13201338052749634
+1,Norman mercenary,an Italo-Norman named Raoul,1.0,0.2750501036643982
+2,1018,1064,0.0,0.16894188523292542
+3,Isaac Komnenos,Isaac,1.0,0.6100344657897949
+4,dukes,the dukes,2.0,0.8573143482208252
+5,computational problems,A computational problem,2.0,0.7597692608833313
+6,the problem,a problem,2.0,0.7224287390708923
+7,concrete,abstract,0.0,0.5920692682266235
+8,instances,the instance,2.0,0.6898630261421204
+9,solution,the solution,2.0,0.8627690076828003
+10,decision problems,as decision problems,2.0,0.8326873183250427
+11,set of triples,triple,1.0,0.8140864968299866
+12,the instance,the size of the instance,1.0,0.5647906064987183
+13,mathematical models,branching,0.0,0.06594665348529816
+14,Complexity measures,complexity measures,2.0,0.9804988503456116
+15,Complexity measures,complexity measures,2.0,0.9804988503456116
+16,lower bounds,lower,1.0,0.8054132461547852
+17,upper bound,upper and lower bounds,1.0,0.5616501569747925
+18,the bound on the complexity of reductions,types of reductions,1.0,0.509386420249939
+19,if every problem in C can be reduced to X,problem in C is harder than X,0.0,0.545830488204956
+20,NP,P,1.0,0.2686155140399933
+21,graph isomorphism problem,the discrete logarithm problem,0.0,0.2069910764694214
+22,modern cryptographic systems,RSA algorithm,1.0,0.2586142420768738
+23,the general number field sieve,RSA,0.0,0.1837036907672882
+24,Los Angeles,Riverside,0.0,0.16634014248847961
+25,United States,Los Angeles,1.0,0.09363147616386414
+26,counties,five most populous in the state,0.0,0.24705225229263306
+27,15,Riverside,0.0,0.09885945171117783
+28,counties,Riverside,0.0,0.26836884021759033
+29,music,major record companies,0.0,0.19321367144584656
+30,southern,the desert,0.0,0.25088515877723694
+31,northern,the Tehachapi Mountains,0.0,0.2604697048664093
+32,the Missouri Compromise,the Compromise of 1850,1.0,0.43190881609916687
+33,Imperial,1999,0.0,0.09197432547807693
+34,regional tourism groups,AAA Auto Clubs,0.0,0.0767805352807045
+35,Inland Empire,Temecula and Murrieta,0.0,0.061190132051706314
+36,varied,natural ecosystem,0.0,0.26591193675994873
+37,1.3 million,San Diego,0.0,0.09757152199745178
+38,Los Angeles Area,major business,0.0,0.16729587316513062
+39,Riverside,Downtown Riverside,1.0,0.704251229763031
+40,Hospitality Business/Financial Centre,Downtown Riverside,0.0,0.21174481511116028
+41,Port of San Diego,Port of Long Beach,0.0,0.26056960225105286
+42,NFL,Professional,0.0,0.11438283324241638
+43,Chivas USA,Chivas,2.0,0.800140380859375
+44,Sky plc,British Sky Broadcasting Group plc,2.0,0.8244116902351379
+45,£1.3bn,£4.2bn,0.0,0.36432090401649475
+46,Freeview,ITV Digital,0.0,0.12579074501991272
+47,September 2007,March 2008,0.0,0.1249137818813324
+48,monthly fee,SkyHD box,0.0,0.13463498651981354
+49,January 2010,February 2011,0.0,0.22494597733020782
+50,Sky+,PVR,0.0,0.12132173776626587
+51,BSkyB,British Sky Broadcasting,2.0,0.6462176442146301
+52,DVB-S2,DVB-compliant MPEG-2,0.0,0.4497872591018677
+53,Thomson,STB,0.0,0.12910626828670502
+54,free-to-view,free-to-air,1.0,0.4483147859573364
+55,Ku band,9.75/10.600 GHz,0.0,0.21074363589286804
+56,no,Third-party channels,0.0,0.1348286122083664
+57,Sky Active,Open,0.0,0.12444987893104553
+58,Video On Demand,(HDTV),0.0,0.23437058925628662
+59,25m,36% of households,0.0,0.022746846079826355
+60,36%,2.4m customers,0.0,0.13918285071849823
+61,Sky TV bills,claimants,0.0,0.05640998110175133
+62,a man's presence,mother is wrongly claiming to be living alone,0.0,0.1259591430425644
+63,Liberal Party,Liberals,1.0,0.7315916419029236
+64,National Party,Nationals,1.0,0.42383530735969543
+65,The Greens,Australian Greens,1.0,0.48321932554244995
+66,Labor,Australian Labor Party,1.0,0.41769644618034363
+67,"270,000","121,200",0.0,0.1325126588344574
+68,warmest regions,semi-deserts,0.0,0.22421735525131226
+69,2009,7 February 2009,1.0,0.37426891922950745
+70,major car brands,car,1.0,0.4287397563457489
+71,October 2016,2013,0.0,0.10831911116838455
+72,government-owned,several private and public railway operators,0.0,0.17318013310432434
+73,sevenfold,"76,000 to 540,000",1.0,0.21121452748775482
+74,Premier,Premier of Victoria,1.0,0.4557752013206482
+75,$8.7 billion,24%,0.0,0.1585395634174347
+76,tourism,big,0.0,0.17672260105609894
+77,regional cities,Phillip Island,0.0,0.13647422194480896
+78,the southern and central parts of France,about one-eighth,0.0,0.1334645301103592
+79,some of the Huguenots were nobles trying to establish separate centers of power in southern France,political reasons,0.0,0.1365950107574463
+80,economic separation,worked as weavers,0.0,0.10426411032676697
+81,surnames,names,1.0,0.5281445980072021
+82,Prussia,Great Elector Frederick William,0.0,0.08256798982620239
+83,Parris Island,Southeastern U.S.,1.0,0.18151894211769104
+84,1562,1564,0.0,0.3427314758300781
+85,William the Silent,Pierre L'Oyseleur,0.0,0.012881672009825706
+86,Calvinist,Walloon,0.0,0.08757199347019196
+87,1530,1523,0.0,0.3110989034175873
+88,Corliss,patent valve,0.0,0.08608637005090714
+89,increase in the land available for cultivation,farm tractors,0.0,0.189874529838562
+90,steam turbines,internal combustion engines,0.0,0.20891566574573517
+91,Reciprocating piston,steam turbines,0.0,0.07499194145202637
+92,turbine,electric motors,0.0,0.19596493244171143
+93,water pump,vacuum,0.0,0.18863755464553833
+94,cotton spinning,operations requiring constant speed,0.0,0.10439419746398926
+95,Advanced Steam,cogeneration processes,0.0,0.09521583467721939
+96,pollution,Advanced Steam movement,0.0,0.06262199580669403
+97,injector,condensers,0.0,0.1731172651052475
+98,stoking,Mechanical stoker,1.0,0.2172573059797287
+99,electrical generator,a turbo generator set with propulsion provided by electric motors,2.0,0.5937755703926086
+100,liquid,gaseous,0.0,0.18477892875671387
+101,oxides,oxide compounds,1.0,0.6659797430038452
+102,dioxygen,diatomic gas,1.0,0.2676316499710083
+103,high-altitude ozone layer,ozone,1.0,0.6842203140258789
+104,water,organic molecules,0.0,0.1303829550743103
+105,photosynthesis,living organisms,0.0,0.24531197547912598
+106,nitroaereus,spiritus nitroaereus,1.0,0.696561336517334
+107,Joseph Priestley,Priestley,2.0,0.8256602883338928
+108,Philo of Byzantium,Philo,1.0,0.706135094165802
+109,heat or a spark,oxygen,0.0,0.15100441873073578
+110,compounds of oxygen,"peroxides, chlorates, nitrates, perchlorates, and dichromates",1.0,0.32239651679992676
+111,storage vessels,fire,0.0,0.11733528971672058
+112,Earth's crustal rock,Earth's crust,2.0,0.7373064160346985
+113,Avogadro's law,the correct interpretation of water's composition,0.0,0.0703156515955925
+114,non-combustible,wood,0.0,0.1399705857038498
+115,Air,a substance like wood gains overall weight in burning,0.0,0.08624155819416046
+116,chemically,a covalent double bond,0.0,0.1370864361524582
+117,triplet oxygen,O,1.0,0.20194567739963531
+118,weight,that increase was the same as the weight of the air that rushed back in,0.0,0.3912743031978607
+119,ozone,Trioxygen,2.0,0.18470297753810883
+120,UV,ultraviolet,2.0,0.5738247036933899
+121,seawater,sea water,2.0,0.9067527055740356
+122,twice,50% more,0.0,0.26283034682273865
+123,world's oceans,"in the Earth's biosphere, air, sea and land",0.0,0.3694881498813629
+124,compressing and cooling,cascade method,0.0,0.22426022589206696
+125,climate,temperatures,0.0,0.4904659688472748
+126,oxygen-18,oxygen-16,0.0,0.45028114318847656
+127,lower global temperatures,lower temperatures,2.0,0.7261978983879089
+128,carbon cycle,plant health status,0.0,0.06842602789402008
+129,satellite platform,satellites,2.0,0.6419526934623718
+130,Liquid oxygen,liquid oxygen,2.0,0.9777688980102539
+131,magnetic field,magnetic,2.0,0.6907036900520325
+132,dangerous by-products,the immune system,0.0,0.20572979748249054
+133,major method,increasingly,0.0,0.22537782788276672
+134,oxygen and hydrogen,Oxygen gas,1.0,0.5303581357002258
+135,Chemical,chemical oxygen generators or oxygen candles,1.0,0.4150426983833313
+136,Hyperbaric (high-pressure) medicine,special oxygen chambers,1.0,0.13021866977214813
+137,Decompression sickness,"bubbles of inert gas, mostly nitrogen and helium, forming in their blood",2.0,0.13830028474330902
+138,oxygen supplementation,Oxygen therapy,2.0,0.5650709271430969
+139,organic compounds,solvents,0.0,0.2093338519334793
+140,Acute oxygen toxicity,seizures,0.0,0.11157350242137909
+141,mechanical ventilators,oxygen masks,0.0,0.08976541459560394
+142,first oil shock,shock,1.0,0.4755563735961914
+143,members of the Organization of Arab Petroleum Exporting Countries,OAPEC,2.0,0.46980589628219604
+144,They arranged for Israel to pull back from the Sinai Peninsula and the Golan Heights.,multilateral,0.0,0.1262034922838211
+145,After 1971,1973–1974,1.0,0.2413155734539032
+146,ten times more,a hundred,0.0,0.2440692037343979
+147,renewal of hostilities in the Arab–Israeli conflict,.,0.0,0.15072526037693024
+148,until their economic and political objectives were met,In response to American aid to Israel,0.0,0.09490536153316498
+149,American aid to Israel,Nixon requested Congress to appropriate $2.2 billion in emergency aid to Israel,1.0,0.40190747380256653
+150,shrinking Western demand,economies had been caught between higher oil prices and lower prices for their own export commodities,0.0,0.22846563160419464
+151,distribution and price disruptions,reduced productivity,0.0,0.14963969588279724
+152,Germany,Italy,0.0,0.1756799817085266
+153,encourage investment,"The system limited the price of ""old oil""",0.0,0.13519418239593506
+154,Price controls,promote oil exploration,0.0,0.15084682404994965
+155,"last week of February 1974,",20%,0.0,0.1353446990251541
+156,British Prime Minister Edward Heath,British,1.0,0.31745848059654236
+157,5% production cut,"declared Japan a ""nonfriendly"" country",0.0,0.08943481743335724
+158,USSR's invasion,Afghanistan,0.0,0.12863747775554657
+159,January 1979,1979,1.0,0.5976731777191162
+160,Japanese imports,Japanese,1.0,0.5594117045402527
+161,Japan,Japanese,1.0,0.4101964235305786
+162,A decade after the 1973,1981,1.0,0.14338603615760803
+163,power steering,air conditioning,0.0,0.14066816866397858
+164,Lexus,Acura,0.0,0.22568710148334503
+165,"Lincoln Continental,",Cadillac DeVille,0.0,0.23355364799499512
+166,Chevrolet Bel Air,lower price models,0.0,0.1598108857870102
+167,Treaties establishing the European Union,"primary law, secondary law and supplementary law",0.0,0.08500640094280243
+168,European Parliament and the Council of the European Union,the Treaties establishing the European Union,0.0,0.3593180179595947
+169,international law,case law by the Court of Justice,0.0,0.32247617840766907
+170,Following the Nice Treaty,2004,0.0,0.08296767622232437
+171,the Commission,The European Commission,1.0,0.6186674237251282
+172,Federica Mogherini,Jean-Claude Juncker,0.0,0.11158057302236557
+173,at least 55 per cent of the Council members (not votes) representing 65 per cent of the population of the EU,"74 per cent, or 260 of the 352 votes",0.0,0.28588443994522095
+174,a majority,a Commission proposal,0.0,0.16601110994815826
+175,qualified majority,a majority,2.0,0.6651486158370972
+176,"legislation can be blocked by a majority in Parliament, a minority in the Council, and a majority in the Commission",unanimity,0.0,0.27133429050445557
+177,"by assuming the task of interpreting the treaties, and accelerating economic and political integration",has the ability to expand and develop the law according to the principles it deems to be appropriate,0.0,0.18631932139396667
+178,the Court of Justice,The Italian Constitutional Court,0.0,0.3293956220149994
+179,article 30,TFEU article 30,1.0,0.6862797141075134
+180,Treaty provisions,they are ‘directly applicable in all Member States’,0.0,0.19607965648174286
+181,"a citizen or company can invoke a Directive, not just in a dispute with a public authority, but in a dispute with another citizen or company","a citizen may rely on the Directive in such an action (so called ""vertical"" direct effect)",1.0,0.6993096470832825
+182,in Article 5,the lawfulness of an action depends on whether it was appropriate and necessary to achieve the objectives legitimately pursued,0.0,0.19509479403495789
+183,member states,the European Convention on Human Rights,0.0,0.18032726645469666
+184,the Charter of Fundamental Rights of the European Union,the Charter of Fundamental Rights of the European Union of 7,2.0,0.6953232288360596
+185,to enable people to pursue their life goals in any country through free movement,Since its foundation,0.0,0.15806081891059875
+186,Jean-Marc Bosman,the Belgian Football Association v Bosman,1.0,0.48996028304100037
+187,if they were non-discriminatory,"participate in economic life ""on a stable and continuous basis""",0.0,0.07800903171300888
+188,shipping toxic waste,toxic waste,1.0,0.6827072501182556
+189,the Daily Mail,Daily Mail,2.0,0.8780094981193542
+190,"creditor protection, labour rights to participate in work, or the public interest in collecting taxes",Denmark's minimum capital law,0.0,0.13409411907196045
+191,moist broadleaf forest,tropical,1.0,0.1718021184206009
+192,Cretaceous–Paleogene extinction event,dinosaurs,0.0,0.1171887218952179
+193,the Atlantic,Atlantic,2.0,0.8331359028816223
+194,Amazonas Basin,Andes Mountains,0.0,0.10184641927480698
+195,Purus Arch,along the middle,0.0,0.12518799304962158
+196,explanations are reasonably well supported,by the available data,0.0,0.1837758719921112
+197,the Last Glacial Maximum (LGM) and subsequent deglaciation,rainfall in the basin during the LGM was lower than for the present,0.0,0.3890659809112549
+198,data sampling is biased away from the center of the Amazon basin,practical limitations of working in the rainforest,1.0,0.10935065150260925
+199,one in five,"2,200",0.0,0.11001899838447571
+200,"40,000",tens of thousands,1.0,0.137638658285141
+201,One in five,"1,294",0.0,0.12915682792663574
+202,62 acres,quarter square,1.0,0.228422150015831
+203,10% of the carbon stores,10%,1.0,0.4999215602874756
+204,to help strengthen their territorial claims,map out their ancestral lands,0.0,0.2657550275325775
+205,phylum of animals that live in marine waters,comb jellies,1.0,0.09519486129283905
+206,‘combs’ – groups of cilia,cilia,1.0,0.49317309260368347
+207,water flow through the body cavity,κτείς kteis 'comb' and φέρω pherō 'carry',0.0,0.06685840338468552
+208,colloblasts,retractable tentacles fringed with tentilla,2.0,0.2931385934352875
+209,sequential,simultaneous,0.0,0.5203813910484314
+210,planktonic plants,a vital part of marine food chains,1.0,0.14784489572048187
+211,66 million years ago,515 million years ago,0.0,0.3035936653614044
+212,515 million years,66 million years ago,0.0,0.2903384864330292
+213,515 million years,66 million years,0.0,0.30159252882003784
+214,cnidarians,Ctenophores,1.0,0.12495818734169006
+215,diploblastic,ctenophores,0.0,0.16258859634399414
+216,"sponges and cnidarians, ctenophores",cnidarians and ctenophores,1.0,0.6404479146003723
+217,comb-bearing,"""comb"" and the Greek suffix -φορος meaning ""carrying""",2.0,0.5482906699180603
+218,"a mouth that can usually be closed by muscles; a pharynx (""throat""); a wider area in the center that acts as a stomach; and a system of internal canals.",the gastrodermis,1.0,0.09423471242189407
+219,osmotic pressure,It is uncertain,0.0,0.13111655414104462
+220,pump water out of the mesoglea,pump,1.0,0.46943703293800354
+221,more or less rounded,egg-shaped,2.0,0.20638182759284973
+222,"""zip"" the mouth shut",streamlines the front of the animal,0.0,0.15057440102100372
+223,large pharynx,large cilia,0.0,0.20900654792785645
+224,Cestum veneris,up to 1.5 meters (4.9 ft) long,0.0,0.03738955408334732
+225,cling to and creep on surfaces,"as a muscular ""foot""",0.0,0.17246723175048828
+226,Vendobionta,ctenophores,0.0,0.14506837725639343
+227,all other animals,Bilateria,0.0,0.004672144539654255
+228,The isolated subdivision,Dogg Pound,0.0,0.04133081063628197
+229,1885,July 1982 to June 1983,0.0,0.06616926193237305
+230,"8,525","62,528",0.0,0.26871755719184875
+231,99,State Route 99,1.0,0.7561297416687012
+232,Davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks in Europe,Donald Davies,1.0,0.5942573547363281
+233,circuit switching is characterized by a fee per unit of connection time,a method which pre-allocates dedicated network bandwidth specifically for each communication session,0.0,0.2941737174987793
+234,survivable communications networks,the concept of distributed adaptive message block switching,0.0,0.2336079478263855
+235,"use of a decentralized network with multiple paths between any two points, dividing user messages into message blocks",ideas,0.0,0.14000284671783447
+236,delivery of these messages by store and forward switching,decentralized network with multiple paths between any two points,0.0,0.1740386039018631
+237,"a general architecture for a large-scale, distributed, survivable communications network",briefing B-265,0.0,0.11271525919437408
+238,"use of a decentralized network with multiple paths between any two points, dividing user messages into message blocks, later called packets","large-scale, distributed, survivable communications network",1.0,0.4497781991958618
+239,by store and forward switching,packets,0.0,0.2567809820175171
+240,"connection-oriented operations. But X.25 does it at the network layer of the OSI Model. Frame Relay does it at level two, the data link layer",a handshake between the communicating parties before any user packets are transmitted,0.0,0.23030446469783783
+241,"Frame Relay was used to interconnect LANs across wide area networks. However, X.25 and well as Frame Relay have been supplanted",provide connection-oriented operations,0.0,0.4082890748977661
+242,User Datagram Protocol,the datagram model,0.0,0.2990402579307556
+243,as a means to help the state's educational and economic development,to explore computer networking between three of Michigan's public universities,1.0,0.24466130137443542
+244,an interactive host to host connection was made between the IBM mainframe computer systems at the University of Michigan in Ann Arbor and Wayne State,the CDC mainframe at Michigan State University in East Lansing,1.0,0.4339545965194702
+245,"Ethernet attached hosts, and eventually TCP/IP and additional public universities in Michigan join the network",the network was enhanced,1.0,0.3198569118976593
+246,host interface to X.25 and the terminal interface to X.29,ARPANET,0.0,0.23438237607479095
+247,A user or host could call a host on a foreign network by including the DNIC of the remote network as part of the destination address,the interconnection of national X.25 networks,0.0,0.2968998849391937
+248,use of the name was incorrect all these services were managed by the same people within one department of KPN contributed to the confusion,Dutch PTT Telecom,0.0,0.14117969572544098
+249,The Computer Science Network,a computer network funded by the U.S. National Science Foundation (NSF),1.0,0.7072584629058838
+250,"role in spreading awareness of, and access to, national networking and was a major milestone on the path to development of the global Internet",not be directly connected to ARPANET,0.0,0.21809163689613342
+251,a partnership with Level 3 Communications to launch a brand new nationwide network,Qwest,0.0,0.13037753105163574
+252,The network was engineered and operated by MCI Telecommunications under a cooperative agreement with the NSF,National Science Foundation,1.0,0.22849909961223602
+253,merchant ships.,Silk Road,0.0,0.08629608154296875
+254,That the plague was caused by bad air,great pestilence in the air,1.0,0.41841059923171997
+255,100–106 °F,38–41 °C,2.0,0.17124982178211212
+256,from the tooth sockets in human skeletons,"mass graves in northern, central and southern Europe",0.0,0.11842150241136551
+257,Y. p. orientalis and Y. p. medievalis,Y. pestis,1.0,0.292264461517334
+258,East Smithfield,England,1.0,0.12481550127267838
+259,new magma,igneous,0.0,0.14574722945690155
+260,the convecting mantle,convection of the mantle,2.0,0.9561378955841064
+261,crust,lithosphere,0.0,0.15801064670085907
+262,second scale shows the most recent eon with an expanded scale,compresses the most recent era,1.0,0.48516422510147095
+263,younger than the fault,younger,1.0,0.5228342413902283
+264,older than the fault,younger,0.0,0.20127834379673004
+265,absolute ages,rock units,0.0,0.15752235054969788
+266,anticlines and synclines,overturned anticline,1.0,0.4295787811279297
+267,pressure physical experiments,fluid inclusion data,0.0,0.16023984551429749
+268,provide better absolute bounds on the timing and rates of deposition,gain information about past climate,0.0,0.1920880526304245
+269,regulates the practice of pharmacists and pharmacy technicians,governing body for pharmacy health care professionals,1.0,0.5314486622810364
+270,health care professional,pharmacy health care,1.0,0.539408266544342
+271,the pre-Heian Imperial court,Taihō Code,0.0,0.15234670042991638
+272,status superior to all others in health-related fields such as physicians and acupuncturists,Ranked positions,0.0,0.2209087312221527
+273,within the dispensary compounding/dispensing medications,communicating with patients,0.0,0.18185901641845703
+274,pharmacists practicing in hospitals,clinical pharmacists,2.0,0.678875744342804
+275,patient care rounds drug product selection,interdisciplinary approach,0.0,0.09219657629728317
+276,all health care settings,drug product selection,0.0,0.1763577163219452
+277,creating a comprehensive drug therapy plan for patient-specific problems,identifying goals of therapy,1.0,0.5233361124992371
+278,another customer might overhear about the drugs that they take,homebound,0.0,0.11664359271526337
+279,dispensing substandard products,potentially dangerous,0.0,0.14871588349342346
+280,"cancer, hepatitis, and rheumatoid arthritis",chronic and complex disease states,1.0,0.22989524900913239
+281,In some rural areas in the United Kingdom,prescribe and dispense prescription-only medicines to their patients from within their practices,0.0,0.14263758063316345
+282,in obtaining cost-effective medication and avoiding the unnecessary use of medication that may have side-effects,"the physician has a financial self-interest in ""diagnosing"" as many conditions as possible",0.0,0.33789607882499695
+283,exaggerating their seriousness,avoiding the unnecessary use of medication that may have side-effects,0.0,0.2287236899137497
+284,expected to become more integral within the health care system,patient care skills,0.0,0.3692839443683624
+285,apartheid,Singing Revolution to bring independence to the Baltic countries,0.0,0.09105125069618225
+286,Egyptians,India,0.0,0.1195589229464531
+287,the British,communist governments,0.0,0.19164901971817017
+288,nonviolent resistance,unfair laws,0.0,0.12037049233913422
+289,former King of Thebes,Oedipus,1.0,0.07309649139642715
+290,Oedipus,Antigone,0.0,0.1283935010433197
+291,obey her conscience rather than human law,She gives a stirring speech,0.0,0.142814040184021
+292,nonviolent,political poem,0.0,0.17839311063289642
+293,Henry David Thoreau,Gandhi,0.0,0.0781545490026474
+294,free India,protest and political action,0.0,0.16504231095314026
+295,unjust forms of authority,Peterloo massacre,0.0,0.05954534932971001
+296,doctrine of Satyagraha,Satyagraha,1.0,0.6263871192932129
+297,"muggers, arsonists, draft evaders, campaign hecklers, campus militants, anti-war demonstrators, juvenile delinquents and political assassins",civil disobedience,1.0,0.19815747439861298
+298,ambiguity,debased,0.0,0.1910247802734375
+299,utterly debased,everything from bringing a test-case in the federal courts to taking aim at a federal official,0.0,0.15719789266586304
+300,Marshall Cohen,President Agnew,0.0,0.049998778849840164
+301,"code-word describing the activities of muggers, arsonists, draft evaders",utterly debased,0.0,0.12359499931335449
+302,Vice President Agnew,Marshall Cohen,0.0,0.0840233787894249
+303,impossible,a maze of semantical problems and grammatical niceties,0.0,0.17773589491844177
+304,specific,civil disobedience,0.0,0.2003922164440155
+305,constitutional impasse,her or his capacity as public official,0.0,0.183419331908226
+306,citizen's,head of government,0.0,0.15042272210121155
+307,the head of government would be acting in her or his capacity as public official,"two public agencies, especially two equally sovereign branches of government, conflict",0.0,0.31554991006851196
+308,refuse to enforce a decision,constitutional impasse,0.0,0.1997784823179245
+309,head of government,public official,1.0,0.2728182077407837
+310,sovereign branches of government,public official,1.0,0.1769079715013504
+311,not necessarily right,the will of elite politicians,0.0,0.1597791165113449
+312,Resign,refusal to pay,0.0,0.2918247878551483
+313,elite politicians,individuals,0.0,0.21330323815345764
+314,The individual,individuals,2.0,0.6488224864006042
+315,"trade unions, banks, and private universities",non-governmental agencies,1.0,0.15652157366275787
+316,legal system,foreign,0.0,0.22308389842510223
+317,international organizations and foreign governments,a larger challenge to the legal system that permits those decisions to be taken,0.0,0.12594038248062134
+318,civil disobedience,lawbreaking,1.0,0.20154373347759247
+319,(Exodus 1: 15-19),Book of Exodus,1.0,0.46923699975013733
+320,must be publicly announced,civil disobedience,0.0,0.09631737321615219
+321,fabricating evidence or committing perjury,covert lawbreaking,0.0,0.1726876050233841
+322,non-violence,non-violent,2.0,0.9137142896652222
+323,civil rebellion,rebellion,1.0,0.6606363654136658
+324,violence,non-violent,0.0,0.35074976086616516
+325,destructive,use of force and violence and refusal to submit to arrest,0.0,0.22055494785308838
+326,help preserve society's tolerance of civil disobedience,rebellion is much more destructive,0.0,0.1301068812608719
+327,"cultural traditions, social customs, religious beliefs",revolutionary civil disobedience,0.0,0.1219245195388794
+328,disobedience of laws,Non-revolutionary civil disobedience,1.0,0.4587673246860504
+329,"judged ""wrong"" by an individual conscience",to cause their repeal,0.0,0.12945501506328583
+330,refuse to sign bail,jail solidarity,0.0,0.17913615703582764
+331,jail solidarity,solitary civil disobedience,0.0,0.340900182723999
+332,until after the end of the Mexican War,months,0.0,0.2100972831249237
+333,propaganda,just a harassment,0.0,0.1247205138206482
+334,illegal acts,symbolic illegal protests,1.0,0.4675075113773346
+335,trespassing at a nuclear-missile installation,symbolic illegal protests,0.0,0.07879545539617538
+336,entirely symbolic,harassment,0.0,0.136397123336792
+337,social goal,protests toward public policy,1.0,0.16332519054412842
+338,criminalized behavior,forbidden speech,0.0,0.1288825124502182
+339,pure speech,forbidden speech,0.0,0.4089389145374298
+340,broadcasting,engaging in the forbidden speech,0.0,0.1220521628856659
+341,Threatening government officials,forbidden speech,1.0,0.12424062937498093
+342,sending an email,Supreme Court case,0.0,0.05209002271294594
+343,limited coercion,civil disobedience,0.0,0.15369656682014465
+344,coercive,civil disobedience,0.0,0.24674634635448456
+345,refusals to pay taxes,civil disobedience,1.0,0.13940683007240295
+346,coercion,make it more difficult for a system to function,0.0,0.15657953917980194
+347,engage in moral dialogue,get their issue onto the table,1.0,0.3598683774471283
+348,padlocking the gates,"illegal boycotts, refusals to pay taxes, draft dodging, distributed denial-of-service attacks, and sit-ins",0.0,0.1472674310207367
+349,criminal investigations,grant a consent search,0.0,0.183329239487648
+350,not to grant a consent search,not to talk to police officers,0.0,0.23618941009044647
+351,suspect's talking to criminal investigators,responding to investigators' questions,1.0,0.5918706059455872
+352,"lack of understanding of the legal ramifications,",a suspect's talking to criminal investigators,0.0,0.2026440054178238
+353,use the arrest as an opportunity,civil disobedience,0.0,0.1993420571088791
+354,legitimacy of a particular law,laws,1.0,0.4416179060935974
+355,does not infringe the rights of others,don't believe in the legitimacy of any government,0.0,0.20569172501564026
+356,I feel I did the right thing by violating this particular law,proud of it,1.0,0.19248761236667633
+357,Guilt implies wrong-doing,guilty of doing no wrong,0.0,0.5697146654129028
+358,creative plea,no contest,0.0,0.18371590971946716
+359,tempted to enter the test site,protest,0.0,0.12559589743614197
+360,arrested,arrest,2.0,0.8983096480369568
+361,accept jail penitently,is to switch suddenly to a spirit of subservience,0.0,0.10716189444065094
+362,plea bargain,plead guilty to one misdemeanor count and receive no jail time,1.0,0.24342317879199982
+363,defiant speech,allocution,2.0,0.14991138875484467
+364,lack of remorse,the judge increased her sentence,0.0,0.10439575463533401
+365,likelihood of repeating,a lack of remorse,0.0,0.2510487735271454
+366,mistreatment from government officials,sentence,0.0,0.14689308404922485
+367,acquittal and avoid imprisonment,to use the proceedings as a forum,0.0,0.11537487059831619
+368,use the proceedings as a forum,win an acquittal and avoid imprisonment,0.0,0.103562131524086
+369,inform the jury and the public of the political circumstances,plead not guilty,0.0,0.11811161041259766
+370,general disobedience,great amount of it,0.0,0.12112956494092941
+371,neither conscientious nor of social benefit,any great amount of it would undermine the law,0.0,0.13207586109638214
+372,breaking the law for self-gratification,it would undermine the law by encouraging general disobedience,0.0,0.40742573142051697
+373,not being a civil disobedient,conscientious lawbreakers must be punished,0.0,0.16285879909992218
+374,avoiding attribution,viewed as not being a civil disobedient,0.0,0.13883034884929657
+375,competing harms defense,necessity defense,1.0,0.48829537630081177
+376,incapacitation,achieving crime control,0.0,0.10768395662307739
+377,would do more harm than good,it focuses attention on the threat of punishment and not the moral reasons to follow this law,0.0,0.2536584436893463
+378,the state,judges,0.0,0.23561811447143555
+379,moral reasons to follow this law,whether it would do more harm than good,0.0,0.2004869133234024
+380,Industrial,heavy civil or heavy engineering,0.0,0.26660436391830444
+381,ENR,Engineering News-Record (ENR),2.0,0.5183802843093872
+382,Working versions of 3D-printing building technology are already printing,2014,0.0,0.08724641799926758
+383,the project coordinator,the architect or engineer,0.0,0.34374964237213135
+384,Orthodox Christians,Roman Catholic,0.0,0.20228444039821625
+385,religious,the usual academic subjects,0.0,0.1216176301240921
+386,expulsion,offer a higher quality of education,0.0,0.1013212651014328
+387,0.5,6.1,0.0,0.17144548892974854
+388,vocational,secondary or post-secondary,0.0,0.34304508566856384
+389,National School,National Type,0.0,0.2961277365684509
+390,60,all,0.0,0.20287011563777924
+391,Society of St Pius X,Catholic schismatic,0.0,0.2054412066936493
+392,government schools formerly reserved for white children,semi-private,1.0,0.17270703613758087
+393,voucher,pupils are free to choose a private school,0.0,0.12160000950098038
+394,white,African-American,0.0,0.14499247074127197
+395,"identify, recruit",Conant devised programs,0.0,0.20727023482322693
+396,Allston,on a 358-acre (145 ha) campus,0.0,0.16992346942424774
+397,30% loss,$12 billion,0.0,0.14854437112808228
+398,Benjamin Netanyahu,Benazir Bhutto,0.0,0.04958609491586685
+399,Timucua,Mocama,0.0,0.1371130347251892
+400,Battle of Cedar Creek,1864,0.0,0.11534847319126129
+401,Gilded Age,Reconstruction,0.0,0.10267601907253265
+402,Spanish moss,kitchen fire,0.0,0.047630421817302704
+403,voters approved the plan,governments merged to create the Consolidated City of Jacksonville,0.0,0.17478424310684204
+404,"""Bold New City of the South""",Consolidated City of Jacksonville,1.0,0.20708653330802917
+405,tallest building in Downtown Jacksonville,"tallest precast, post-tensioned concrete structure",1.0,0.5095430016517639
+406,28,42,0.0,0.102381132543087
+407,mild,mild and sunny.,1.0,0.635998010635376
+408,2008,Fay,0.0,0.11287565529346466
+409,about 3.5 billion people,50%,0.0,0.1680523306131363
+410,the methodology used,"""silly argument"" and ""a non-issue . . . a diversion.""",0.0,0.1583174616098404
+411,a diversion,the basis of the methodology used,0.0,0.1468726545572281
+412,Institute for Policy Studies,PolitiFact,1.0,0.3459670841693878
+413,"differences in value added by labor, capital and land",differences in value added by different classifications of workers,1.0,0.4349741041660309
+414,marginal value added of each economic actor,differences in value,0.0,0.35867416858673096
+415,value added by different classifications of workers,"value added by labor, capital and land",1.0,0.34165245294570923
+416,reduce costs and maximize profits,substitution of capital equipment for labor,0.0,0.25958991050720215
+417,less workers are required,"raises the productivity of each worker,",1.0,0.31021276116371155
+418,rising levels of property income,downward pressure on wages,0.0,0.09516654908657074
+419,reduce costs and maximize profits,raises the productivity of each worker,1.0,0.3955201804637909
+420,substitute capital equipment,pressure to reduce costs and maximize profits,0.0,0.23604591190814972
+421,productivity,organic composition of capital,0.0,0.22048941254615784
+422,workers wages,wages,2.0,0.6357682347297668
+423,prices,function of market price of skill,0.0,0.29938647150993347
+424,unfair,high levels of inequality,1.0,0.4114277958869934
+425,Competition amongst workers,high demand,0.0,0.14952822029590607
+426,low demand,high supply,0.0,0.25083866715431213
+427,low wage,competition,0.0,0.22641298174858093
+428,expendable nature of the worker,(high supply) competing for a job that few require (low demand),0.0,0.3002106249332428
+429,top tax rate,progressive tax,0.0,0.36638036370277405
+430,tax system,progressive tax system,1.0,0.5683467388153076
+431,steeper tax,social spending,0.0,0.20729318261146545
+432,the Gini index,Gini,2.0,0.6162623763084412
+433,access to education,Education,1.0,0.5076474547386169
+434,optional education,education,1.0,0.5936998128890991
+435,savings and investment,"education,",0.0,0.16232505440711975
+436,gender inequality in education,education,1.0,0.36062973737716675
+437,period of compression,decrease in wages,0.0,0.17746895551681519
+438,gender inequality in education,low economic growth,0.0,0.059362661093473434
+439,unions,union membership,1.0,0.5682254433631897
+440,technological changes and globalization,decline of organized labor,0.0,0.07865694910287857
+441,less willing to travel or relocate,women not taking jobs due to marriage or pregnancy,0.0,0.14795294404029846
+442,Gender,ranges from 53% in Botswana to -40% in Bahrain,0.0,0.056466590613126755
+443,relatively equal,low,0.0,0.19274619221687317
+444,greater return of capital,wealth condensation,0.0,0.23263247311115265
+445,larger fortunes,wealth condensation,0.0,0.14920468628406525
+446,human capital is neglected,a lower level of economic utility in society,0.0,0.22538529336452484
+447,among states in the US with larger income inequalities,countries with bigger income inequalities,1.0,0.7539986968040466
+448,a great deal of utility,basic necessities,0.0,0.4822855591773987
+449,higher aggregate utility,population-wide satisfaction and happiness,0.0,0.2064427137374878
+450,evidence,prevent growth,0.0,0.1612548977136612
+451,redistributive taxation,fertility,0.0,0.13704727590084076
+452,reduction,halve poverty,0.0,0.3505101203918457
+453,residents willing to pay higher market rate for housing,gentrification of older neighbourhoods,1.0,0.21316978335380554
+454,emissions per person,this multiplier,0.0,0.16015473008155823
+455,environmental degradation,this as well,0.0,0.15963177382946014
+456,"5,000","around 15,000",0.0,0.23961474001407623
+457,various academic disciplines,"the world's first man-made, self-sustaining nuclear reaction",0.0,0.04559626430273056
+458,several regional colleges and universities,"Des Moines College, Kalamazoo College, Butler University, and Stetson University",0.0,0.40452471375465393
+459,passed,Several University of Chicago professors,0.0,0.174040287733078
+460,1910,Several University of Chicago professors,0.0,0.05241919308900833
+461,after their second year,early 1950s,0.0,0.2016747146844864
+462,"Cobb, Shepley, Rutan and Coolidge, Holabird & Roche,",Henry Ives Cobb,1.0,0.4091303050518036
+463,a board of trustees,The Board of Trustees,2.0,0.9705625176429749
+464,Robert Zimmer,Daniel Diermeier,0.0,0.0812874287366867
+465,Miller–Urey experiment,Chicago Pile-1,0.0,0.10718563199043274
+466,Alpha Phi Omega,Four,0.0,0.14281508326530457
+467,Arthur H. Compton,Robert A. Millikan,0.0,0.15184828639030457
+468,Yuan T. Lee,Glenn T. Seaborg,0.0,0.093228779733181
+469,David Bevington,John Mearsheimer and Robert Pape,0.0,0.09119313210248947
+470,Yuán Cháo,元朝,0.0,0.1093648225069046
+471,Song dynasty,Mongol Empire,0.0,0.11847392469644547
+472,3,three,2.0,0.49891504645347595
+473,south,the western frontier,0.0,0.3349391222000122
+474,Yangzi River basin,the Song dynasty,0.0,0.05108541622757912
+475,26 seconds off the modern Gregorian calendar,365.2425 days of the year,0.0,0.16047073900699615
+476,a period of foreign domination,continuation of the Mongol Empire,0.0,0.24254752695560455
+477,"Tang, Song, as well as Khitan Liao and Jurchen Jin dynasties",native Chinese dynasties,1.0,0.4060688614845276
+478,western,Yuan dynasty,0.0,0.10588327795267105
+479,Shoushi Li,授時暦,0.0,0.06702820211648941
+480,four,Four,2.0,0.7687705159187317
+481,Chinese physicians were brought along military campaigns by the Mongols,to other parts of the empire,0.0,0.15826508402824402
+482,Ilkhanate,reaching the highest-post in the government,0.0,0.10489155352115631
+483,"Besh Baliq, Almaliq, and Samarqand",Bukhara,0.0,0.13647495210170746
+484,a Qara-Khitay (Khitan,Ahai,0.0,0.11800999194383621
+485,Zhu Yuanzhang,thanks,0.0,0.03697576746344566
+486,Southern,southern,2.0,0.5195194482803345
+487,"blood–brain barrier, blood–cerebrospinal fluid barrier",fluid–brain barriers,2.0,0.8006594181060791
+488,pattern recognition receptors,cells,0.0,0.14714772999286652
+489,pH or available iron,balance of microbial populations,0.0,0.22007980942726135
+490,adaptive,strong response,0.0,0.2528972625732422
+491,cytotoxic or immunosuppressive drugs,Cytotoxic drugs,1.0,0.6760083436965942
+492,adaptive immune system,the adaptive immune system,2.0,0.9503008723258972
+493,bacteriophages,viral,0.0,0.24674193561077118
+494,protein A,G,0.0,0.17628797888755798
+495,Korean,onomist,0.0,0.11456862837076187
+496,World Meteorological Organization,WMO,2.0,0.7814766764640808
+497,United Nations Environment Programme,UNEP,2.0,0.8202982544898987
+498,available information about climate change based on published sources,peer-reviewed sources,0.0,0.48640331625938416
+499,"""business as usual"" (BAU)",enhanced greenhouse effect,0.0,0.09913040697574615
+500,does not faithfully summarize the full WGI report,understates the uncertainty associated with climate models,0.0,0.16030268371105194
+501,"fuel consumption, industrial production and so on",Greenhouse Gas Inventories,1.0,0.1955859512090683
+502,"""Variations of Snow and Ice in the past and at present on a Global and Regional Scale""",the IPCC from the WWF report,0.0,0.17786529660224915
+503,"Jones et al. 1998, Pollack, Huang & Shen 1998, Crowley & Lowery 2000 and Briffa 2000",Jones et al. and Briffa reconstructions,1.0,0.5155719518661499
+504,18 July 2000,May 2000,0.0,0.24291862547397614
+505,14,Ten,0.0,0.1960679441690445
+506,Ten,14,0.0,0.18344233930110931
+507,9–88 cm,0.5–1.4 m,0.0,0.12935177981853485
+508,50–140 cm,9–88 cm,0.0,0.18508537113666534
+509,regional burden sharing conflicts,varying regional cost-benefit analysis and burden-sharing conflicts with regard to the distribution of emission reductions,1.0,0.5613943934440613
+510,other scientific bodies,scientific papers and independently documented results,1.0,0.34990623593330383
+511,IPCC,the IPCC,2.0,0.7317075133323669
+512,composite number,primes,0.0,0.2275853306055069
+513,the statistical behaviour,distribution,0.0,0.16148753464221954
+514,prime ideals,prime elements,0.0,0.6652538180351257
+515,Christian Goldbach,mathematicians,0.0,0.0834888368844986
+516,the sum of divisors function,relationship of the number to its corresponding value of Euler's totient function,0.0,0.22607122361660004
+517,Euler's totient function,sum of divisors function,0.0,0.23300591111183167
+518,only the single number 1,eliminate all multiples of 1,0.0,0.44785094261169434
+519,the Rhind papyrus,Egyptian fraction,0.0,0.15999925136566162
+520,only three divisions,only for those m that are prime,0.0,0.17362233996391296
+521,Solovay-Strassen tests,Miller-Rabin,0.0,0.06686613708734512
+522,primorial primes,Fermat,0.0,0.13586647808551788
+523,Fermat primes,Mersenne,0.0,0.09468777477741241
+524,The Electronic Frontier Foundation,"$150,000",0.0,0.07759157568216324
+525,n < p < 2n − 2,A or μ,0.0,0.17407101392745972
+526,diverges,exceeds any given number,0.0,0.10916782915592194
+527,identity,algebraic,0.0,0.041125643998384476
+528,twin prime conjecture,Polignac's,0.0,0.06278693675994873
+529,indecomposability,minimality,0.0,0.21209637820720673
+530,the smallest subfield,Q or the finite field with p elements,0.0,0.14760228991508484
+531,4k + 3,Z,0.0,0.12093592435121536
+532,Europe,Germany,0.0,0.22680838406085968
+533,Netherlands,Germany,0.0,0.1553633213043213
+534,1st century BC,Roman-era,0.0,0.07520348578691483
+535,Gaulish name Rēnos,Rhenus,2.0,0.10538408905267715
+536,Hoek van Holland,(1036.20 km),0.0,0.1387902796268463
+537,"Rhine-kilometers""",kilometres,1.0,0.4308961033821106
+538,Austria,Liechtenstein,0.0,0.21888211369514465
+539,Switzerland,Liechtenstein,0.0,0.1829448640346527
+540,Lake Constance,West by the Alter Rhein,0.0,0.009475387632846832
+541,parallel to the canalized Rhine,into the lake,0.0,0.12423474341630936
+542,Lake Rhine,Seerhein,2.0,0.7892683744430542
+543,Rheinbrech,Upper Lake,0.0,0.025318782776594162
+544,Rheinbrech,Upper Lake,0.0,0.025318782776594162
+545,Lindau,Mainau,0.0,0.20051205158233643
+546,Moselle,Neckar,0.0,0.10805775970220566
+547,plants and factories,industry,1.0,0.26713037490844727
+548,Switzerland,Lower Rhine,0.0,0.10045541077852249
+549,Switzerland,Duisburg,0.0,0.0793885737657547
+550,Sankt Goarshausen,Lorelei,0.0,0.19451390206813812
+551,Duisport,Duisburg,2.0,0.4515129327774048
+552,Noord River,Nieuwe Maas,0.0,0.16899411380290985
+553,Old Rhine,Oude Rijn,2.0,0.06867105513811111
+554,Merwede-Oude Maas,North Sea,0.0,0.05188046023249626
+555,tear huge areas of land into the sea.,tidal currents,0.0,0.16217254102230072
+556,Mesozoic Era,Triassic Period,0.0,0.1294316202402115
+557,Ice Ages,geological period,1.0,0.1642061024904251
+558,increased flooding and sedimentation,Bronze Age agriculture,0.0,0.18112465739250183
+559,southern,between the modern Baden and Württemberg,0.0,0.18057937920093536
+560,5th century,Migration period,0.0,0.1450960338115692
+561,1935,1930,0.0,0.2309620976448059
+562,Seven Days to the River Rhine,plan for an invasion of Western Europe,0.0,0.1171625405550003
+563,Following a referendum in 1997,1998,0.0,0.23090951144695282
+564,in which it can make laws,"powers that are ""reserved"" to the Parliament of the United Kingdom",0.0,0.24479615688323975
+565,Parliament of the United Kingdom,The British Parliament,2.0,0.5769690871238708
+566,majority,40%,0.0,0.26313215494155884
+567,blueprint,the Convention,0.0,0.09403666108846664
+568,Scottish Parliament Building,Edinburgh,0.0,0.2519665062427521
+569,the Parliamentary Bureau,Presiding Officer,0.0,0.23471461236476898
+570,debating chamber,Wednesday afternoons,0.0,0.1683676391839981
+571,Gaelic,"Scots, Gaelic, or any other language with the agreement of the Presiding Officer",1.0,0.39665687084198
+572,votes,outcome,0.0,0.16412493586540222
+573,not a Scottish minister,may be of interest to a particular area such as a member's own constituency,0.0,0.15382206439971924
+574,no revising chamber,"take evidence from witnesses, conduct inquiries and scrutinise legislation",0.0,0.1257695108652115
+575,Scottish Government.,Committees,0.0,0.18946002423763275
+576,Scottish Parliament,Parliament,1.0,0.45783403515815735
+577,automatically devolved,not specifically reserved,0.0,0.1458359956741333
+578,UK Government ministers,Westminster,0.0,0.2325439155101776
+579,in the relevant committee or committees,the whole Parliament,0.0,0.33283036947250366
+580,Decision Time,After a general debate on the final form of the bill,0.0,0.22816573083400726
+581,supplant it.,"reverts to the first Thursday in May, a multiple of four years after 1999",0.0,0.10524071007966995
+582,MSPs,leaders of the opposition parties and other MSPs,1.0,0.49023962020874023
+583,legislative programme for the forthcoming year,a statement,0.0,0.16695381700992584
+584,any member of the Scottish Government,ministers in departments that are selected for questioning that sitting day,0.0,0.11907290667295456
+585,issues under their jurisdiction,the First Minister,0.0,0.12255847454071045
+586,constituency seats,second,0.0,0.18845227360725403
+587,a number of qualifications,qualifications,2.0,0.7708836197853088
+588,Edinburgh Pentlands,former party leader,0.0,0.07701899856328964
+589,"able to vote on domestic legislation that applies only to England, Wales and Northern Ireland",procedural consequence,0.0,0.19448210299015045
+590,its supporters,Scholars and observers,0.0,0.2161208689212799
+591,a historical fluke,political Islam,0.0,0.04908699169754982
+592,considerable impact,"experience, ideology, and weapons",0.0,0.19351793825626373
+593,political support,making peace with Israel,0.0,0.21612600982189178
+594,assassinated,Islamists came to completely dominate university student unions,0.0,0.10317054390907288
+595,gradual,Islamic revolution,0.0,0.09566295146942139
+596,conspiracy,Westernizing Muslims,0.0,0.09284257888793945
+597,promoted Western/foreign ideas and practices into Islamic societies,secular leanings,0.0,0.11379686743021011
+598,al-Gama'a al-Islamiyya,Islamic Group,1.0,0.34247103333473206
+599,Algeria,Afghanistan,0.0,0.09504634886980057
+600,vicious and destructive,civil,0.0,0.26447176933288574
+601,Sharia,an idealized and systematized version of conservative tribal village customs,0.0,0.1065615713596344
+602,a different view,Islam's pivotal turning point as occurring not with the death of Ali,0.0,0.1404590904712677
+603,ended the true Islamic system,working through Turkish modernist Mustafa Kemal Atatürk,0.0,0.2127988040447235
+604,elites,government,1.0,0.17992648482322693
+605,Christian Whiton,George W. Bush,0.0,0.06400830298662186
+606,military force,colonization,1.0,0.141512930393219
+607,"""Formal imperialism""",formal,1.0,0.43217846751213074
+608,"""informal"" imperialism",Informal rule,1.0,0.4956871569156647
+609,informal,Informal rule is generally less costly,1.0,0.4675082564353943
+610,ownership of private industries,technological superiority,0.0,0.17190636694431305
+611,seaborne,land,0.0,0.1932501345872879
+612,political focus,ideological,0.0,0.23365890979766846
+613,ideological,commercial,0.0,0.1084090918302536
+614,taking physical control of another,a conquest over an area,1.0,0.2555076479911804
+615,conquering the other state's lands,political and monetary dominance,1.0,0.17101706564426422
+616,theory of races,Social Darwinism,1.0,0.12029489874839783
+617,geographical societies in Europe,necessary for a state’s survival,0.0,0.0925336703658104
+618,uncivilized,fully human,0.0,0.19505815207958221
+619,the British Empire,Terra nullius,0.0,0.021044164896011353
+620,irrational and backward,them,0.0,0.21174368262290955
+621,inferior,irrational and backward,0.0,0.13440784811973572
+622,Orientalism,inferior,0.0,0.0676691010594368
+623,blank spaces on contemporary maps,maps,1.0,0.34134823083877563
+624,nineteenth-century cartographic techniques,nineteenth-century maps,2.0,0.5092372894287109
+625,European,Europe,2.0,0.7074599862098694
+626,taxation,removing its economic foundation,0.0,0.17973537743091583
+627,assimilation,Full citizenship rights,0.0,0.11548781394958496
+628,800 CE,in late antiquity,0.0,0.08385812491178513
+629,Eastern Europe,1919–20,0.0,0.0886421799659729
+630,Mao Zedong,Sultan Galiev and Vasyl Shakhrai,0.0,0.001090360339730978
+631,The British Empire,The British,1.0,0.5430812835693359
+632,pseudo-sciences,British Empire,0.0,0.04817923158407211
+633,Middle East,Africa,0.0,0.1230311468243599
+634,The British spirit of imperialism,Social Darwinism,0.0,0.07833701372146606
+635,the Monroe Doctrine,through policies,0.0,0.07436737418174744
+636,interventionism,.,0.0,0.2291172593832016
+637,"""internal colonialism""",internal,0.0,0.482571005821228
+638,During the 16th and 17th centuries,17th century,1.0,0.6073855757713318
+639,World War I,creation of modern Balkan and Middle Eastern states,0.0,0.08853361010551453
+640,wide variety of industries,"FMCG manufacturing, metal processing, steel and electronic manufacturing and food processing",1.0,0.34427309036254883
+641,12th/13th-century nobleman,shortened form of the masculine name of Slavic origin Warcisław,0.0,0.10122428834438324
+642,August 1944,the Red Army was nearing the city,0.0,0.16852231323719025
+643,Victory Square,1979,0.0,0.05744030699133873
+644,452.8 ft,115.7 metres,0.0,0.22380079329013824
+645,at the right bank of the Vistula,by the eastern border,0.0,0.1532023400068283
+646,Vistula Valley,geomorphologic,0.0,0.13917912542819977
+647,former flooded terraces,peat swamps or small ponds,0.0,0.16625019907951355
+648,plain Vistula terraces,highest terrace,0.0,0.3443490266799927
+649,Masovian gothic,Gothic architecture,1.0,0.5175514817237854
+650,1688–1692,1677–1683,0.0,0.32514846324920654
+651,1775–1795,1696,0.0,0.165208101272583
+652,Pole Mokotowskie,Mokotów,1.0,0.7899045944213867
+653,city,Demographically,0.0,0.2099909782409668
+654,56.20%,35.7,0.0,0.14608721435070038
+655,Polonez,125p,0.0,0.08324360847473145
+656,Chevrolet Aveo,Aveo,1.0,0.8379331231117249
+657,Medical University of Warsaw,National Defence University,0.0,0.101019486784935
+658,festivals,events,0.0,0.39735743403434753
+659,primarily along the frontiers between New France and the British colonies,Virginia in the South to Nova Scotia in the North,0.0,0.09534350037574768
+660,disaster; he was defeated in the Battle of the Monongahela,None succeeded,0.0,0.10508876293897629
+661,expulsion of the Acadians,deportation,0.0,0.10137172043323517
+662,unwilling to risk large convoys to aid the limited forces it had in New France,significantly increased,0.0,0.09155865758657455
+663,territory east of the Mississippi to Great Britain,France,0.0,0.08877264708280563
+664,much larger conflict between France and Great Britain,in King George's reign,0.0,0.12877795100212097
+665,"from Nova Scotia and Newfoundland in the north, to Georgia in the south",eastern coast of the continent,0.0,0.20235534012317657
+666,few British troops,not have any standing forces,0.0,0.2496480792760849
+667,"mustered local militia companies, generally ill trained and available only for short periods, to deal with native threats, but did not have any standing forces.",militia support,0.0,0.31831851601600647
+668,200 Troupes de la marine and 30 Indians,Céloron,0.0,0.07681214064359665
+669,"British merchants or fur-traders, Céloron informed them of the French claims on the territory and told them to leave.",buried lead plates,0.0,0.13592389225959778
+670,"very badly disposed towards the French, and are entirely devoted to the English",what way they could be brought back,0.0,0.081904835999012
+671,British colonists would not be safe as long as the French were present,forceful,0.0,0.1371964067220688
+672,protect the King's land in the Ohio Valley from the British,"he moved south, he drove off or captured British traders",0.0,0.17739392817020416
+673,Tanaghrisson,the Mingo,0.0,0.07037980854511261
+674,colonel of the Iroquois,He who does great things,0.0,0.08460589498281479
+675,France's claim to the region was superior to that of the British,Sieur de La Salle had explored the Ohio Country nearly a century earlier,0.0,0.11398965120315552
+676,"Contrecœur led 500 men south from Fort Venango on April 5, 1754",40,0.0,0.06798823177814484
+677,"with Tanaghrisson and his party, surprised the Canadians on May 28 in what became known as the Battle of Jumonville Glen",killed many of the Canadians,0.0,0.28653979301452637
+678,"regain authority over his own people. They had been inclined to support the French, with whom they had long trading relationships",had promised,0.0,0.21620981395244598
+679,Albany Congress,the opening of hostilities,0.0,0.07754983007907867
+680,Washington and Thomas Gage,George Washington,1.0,0.2899968922138214
+681,Shirley and Johnson.,British,0.0,0.12224017828702927
+682,Colonel Monckton,British,0.0,0.1378476619720459
+683,deportation of the French-speaking Acadian population from the area.,captured Fort Beauséjour,0.0,0.15090259909629822
+684,Petitcodiac in 1755 and at Bloody Creek near Annapolis Royal in 1757,deportation of the French-speaking Acadian population from the area,0.0,0.08089452981948853
+685,Major General James Abercrombie,Lord Loudoun,0.0,0.07272124290466309
+686,Major General Louis-Joseph de Montcalm,Lord Loudoun,0.0,0.09766241908073425
+687,"attack on New France's capital, Quebec",one major operation,0.0,0.13964781165122986
+688,poor harvest,allegedly corrupt machinations of François Bigot,0.0,0.13006305694580078
+689,Loudoun,Duke of Cumberland,0.0,0.13477179408073425
+690,"disappearance of a strong ally and counterweight to British expansion, leading to their ultimate dispossession",elimination of French power,0.0,0.3357723653316498
+691,Choctaw and the Creek,tribes that did not want to do business with the British,0.0,0.035874009132385254
+692,on the ground,heavy bodies to fall,0.0,0.18999330699443817
+693,unnatural,natural motion,0.0,0.3993886113166809
+694,impetus,gravity,0.0,0.16403016448020935
+695,Galileo,Galileo Galilei,2.0,0.8714194893836975
+696,friction,gravity,0.0,0.16801795363426208
+697,Newton's First,first law,1.0,0.3232695460319519
+698,the same,a Galilean transformation,0.0,0.11959691345691681
+699,General relativity,coherent theory of quantum gravity,0.0,0.3295039236545563
+700,fixed,an equality,0.0,0.1746945083141327
+701,Newton's Third,The third law,1.0,0.30818939208984375
+702,magnitude,action-reaction,0.0,0.11869028955698013
+703,standard measurement scale,precise operational definitions,0.0,0.30537155270576477
+704,vector quantities,dependent upon how strong,0.0,0.14785093069076538
+705,Associating forces with vectors,know both the magnitude and the direction of both forces to calculate the result,0.0,0.3434816002845764
+706,Associating forces with vectors,adding the two force magnitudes or subtracting one from the other,0.0,0.3446575701236725
+707,respective lines of application,their effects on the motion of the body,0.0,0.13346004486083984
+708,orthogonal,uniquely determined,0.0,0.1726737916469574
+709,static friction,applied force,0.0,0.2777990698814392
+710,applied,applied force,0.0,0.5944614410400391
+711,forces,static equilibrium,0.0,0.1717955470085144
+712,spring reaction force,the force of gravity,0.0,0.29450923204421997
+713,gravity,object's weight,0.0,0.1708747148513794
+714,Galileo,Aristotle's,0.0,0.08012475818395615
+715,behind the foot of the mast,straight down,0.0,0.20411351323127747
+716,kinetic friction,object started with a non-zero velocity,0.0,0.15655943751335144
+717,Schrödinger,Newtonian equations,0.0,0.10665885359048843
+718,quantized,operators,0.0,0.1794276386499405
+719,antiparallel,antisymmetric,0.0,0.5337033867835999
+720,parallel,antisymmetric,0.0,0.3045516908168793
+721,force,4-momentum in relativity and momentum of virtual particles in quantum electrodynamics,0.0,0.20391817390918732
+722,conservation of momentum,the currently known fundamental forces,0.0,0.18035727739334106
+723,the Moon,the mass () and the radius () of the Earth,0.0,0.16720519959926605
+724,"Newton's Universal Gravitation Constant,",dimensional constant,0.0,0.33701446652412415
+725,ballistic trajectory,path between two space-time events,0.0,0.12924331426620483
+726,global,in space,0.0,0.27963516116142273
+727,Maxwell,James Clerk Maxwell,2.0,0.7685479521751404
+728,quantum mechanics,the work of leading theoretical physicists,1.0,0.16364812850952148
+729,residual of the force,nucleons in atomic nuclei,0.0,0.15994428098201752
+730,conservation of mechanical energy,the tension force on a load can be multiplied,0.0,0.12006764858961105
+731,movable pulleys,every string,0.0,0.16797442734241486
+732,stress tensor,deformations,0.0,0.16645732522010803
+733,pressure terms,stress tensor,0.0,0.4288037419319153
+734,pressure terms,matrix diagonals of the tensor),0.0,0.13533781468868256
+735,formalism,the relevant cross-sectional area for the volume for which the stress-tensor is being calculated,0.0,0.10559269040822983
+736,rotational equivalent for position,rotation,1.0,0.6181783080101013
+737,centripetal,unbalanced centripetal force,1.0,0.5051202774047852
+738,gradient of potentials,macrophysical considerations that yield forces as arising from a macroscopic statistical average of microstates,0.0,0.2619251012802124
+739,statistical mechanics,detailed,0.0,0.1555534452199936
+740,nonconservative forces,internal energies of the system,0.0,0.10668511688709259
+741,kilogram-force,pound-force,1.0,0.31841087341308594
+742,10th and 11th centuries,in the 10th and 11th centuries,2.0,0.9537473917007446
+743,10th century,the first half of the 10th century,1.0,0.5519322156906128
+744,Catholic,Catholic orthodoxy,1.0,0.5206960439682007
+745,Viking,"Norseman, Viking",1.0,0.4750370979309082
+746,Seljuk Turks,"the Pechenegs, the Bulgars, and especially the Seljuk Turks",1.0,0.45401930809020996
+747,1050s,in the 1050s,2.0,0.8428665995597839
+748,1060s,In the 1060s,2.0,0.8734424114227295
+749,1082,February 1082,1.0,0.6468063592910767
+750,Deabolis,the river Deabolis,1.0,0.6344153881072998
+751,1185,in 1185,2.0,0.9390206933021545
+752,King Ethelred II,Ethelred II,2.0,0.7993337512016296
+753,1041,in 1041,2.0,0.9319230318069458
+754,William II,Duke William II,2.0,0.9080905318260193
+755,1066,In 1066,2.0,0.9419551491737366
+756,King Malcolm III of Scotland,King Malcolm III,2.0,0.7635682821273804
+757,early 11th century,11th century,1.0,0.8154862523078918
+758,inherent difficulty,their inherent difficulty,2.0,0.8206049799919128
+759,determine the practical limits on what computers can and cannot do,what computers can and cannot do,2.0,0.733798086643219
+760,round trip through all sites in Milan,asking for a round trip through all sites in Milan whose total length is at most 10 km,1.0,0.6378998756408691
+761,binary alphabet,binary,1.0,0.5911685228347778
+762,adjacency matrices,directly via their adjacency matrices,2.0,0.7081844806671143
+763,arbitrary graph,arbitrary,1.0,0.6910433769226074
+764,a single output,single,1.0,0.6171073913574219
+765,A function problem,function,1.0,0.5070956945419312
+766,the integer factorization problem,integer factorization,2.0,0.6809261441230774
+767,an increase in the input size,input size,1.0,0.7306557893753052
+768,Cobham's thesis,Cobham's,1.0,0.7107910513877869
+769,polynomial time algorithm,polynomial time,1.0,0.7183831930160522
+770,A deterministic Turing machine,deterministic,1.0,0.5769675970077515
+771,A probabilistic Turing machine,probabilistic,1.0,0.5270851850509644
+772,A non-deterministic Turing machine,non-deterministic,1.0,0.5595792531967163
+773,time and memory,time and memory consumption,1.0,0.7377731204032898
+774,the machines operate deterministically,deterministically,1.0,0.5951324701309204
+775,unusual resources,more unusual resources,2.0,0.6944956183433533
+776,time,non-deterministic time,1.0,0.4111517667770386
+777,state transitions,"the total number of state transitions, or steps",1.0,0.6060866713523865
+778,computational resource,computational,1.0,0.6663951873779297
+779,"best, worst and average","best, worst and average case",2.0,0.8116046786308289
+780,complexity measure,complexity,1.0,0.7257395386695862
+781,time,time complexity,1.0,0.5048937201499939
+782,deterministic sorting algorithm quicksort,quicksort,2.0,0.6432046294212341
+783,the computational model,specific details of the computational model used,2.0,0.6387249827384949
+784,linear time,linear,1.0,0.6661671996116638
+785,single-tape Turing machines,single-tape,1.0,0.5029545426368713
+786,Cobham-Edmonds thesis,Cobham-Edmonds,1.0,0.6244174242019653
+787,complexity class P,P,2.0,0.6214873790740967
+788,a proper hierarchy on the classes defined,a proper hierarchy on the classes,2.0,0.8833429217338562
+789,quantitative statements,quantitative,2.0,0.7621363997459412
+790,Karp reductions and Levin reductions,"Cook reductions, Karp reductions",1.0,0.4915788471698761
+791,polynomial-time reduction,polynomial-time,1.0,0.6532094478607178
+792,polynomial time,polynomial,1.0,0.7269391417503357
+793,there is no known polynomial-time solution,no known polynomial-time solution,2.0,0.9947362542152405
+794,Turing machines,deterministic Turing machines,1.0,0.6069091558456421
+795,more efficient solutions,shown to have more efficient solutions,2.0,0.8007745146751404
+796,The graph isomorphism problem,graph isomorphism,2.0,0.6610854268074036
+797,polynomial time hierarchy,polynomial time,1.0,0.7232593297958374
+798,second level,second,1.0,0.8308300971984863
+799,Laszlo Babai and Eugene Luks,Babai and Eugene Luks,2.0,0.8420434594154358
+800,The integer factorization problem,integer factorization,2.0,0.6747102737426758
+801,suspected to be unequal,unequal,1.0,0.792942225933075
+802,P is not equal to NP,not equal,1.0,0.4550211429595947
+803,complexity classes,many complexity classes,1.0,0.77242511510849
+804,exponential-time algorithms,exponential-time,1.0,0.6439939141273499
+805,NP-complete problems,NP-complete,2.0,0.6409888863563538
+806,Presburger arithmetic,Presburger,1.0,0.6749800443649292
+807,NP-complete knapsack problem,NP-complete knapsack,2.0,0.8769717812538147
+808,in less than quadratic time,less than quadratic time,2.0,0.9446431994438171
+809,NP-complete Boolean satisfiability problem,NP-complete Boolean satisfiability,2.0,0.9106302857398987
+810,foundations were laid out,numerous foundations were laid out,1.0,0.7992095947265625
+811,time and space,definitions of time and space complexity,1.0,0.5498055219650269
+812,10 counties,10,1.0,0.4818212389945984
+813,economic center,major economic center,2.0,0.7073585391044617
+814,demographics and economic ties,economic,1.0,0.41386324167251587
+815,Southern California Megaregion,the greater Southern California Megaregion,2.0,0.8482155203819275
+816,12 million,over 12 million inhabitants,1.0,0.8171281218528748
+817,San Diego,the San Diego area,2.0,0.5913170576095581
+818,17.5 million,over 17.5 million,1.0,0.9968613386154175
+819,beaches,for its popular beaches,1.0,0.5436410903930664
+820,open spaces,nearby open spaces,1.0,0.770405650138855
+821,free,a free state,1.0,0.6663190722465515
+822,three-region,the three-region point of view,1.0,0.6767784357070923
+823,southern,southern California,1.0,0.5435227751731873
+824,international metropolitan,an international metropolitan region,1.0,0.859684407711029
+825,Orange,Orange Counties,1.0,0.5638286471366882
+826,Mediterranean,a Mediterranean climate,1.0,0.5546097755432129
+827,Peninsular,Peninsular Ranges,1.0,0.6418527364730835
+828,$20 billion,over $20 billion,1.0,0.9256746172904968
+829,San Andreas,the San Andreas Fault,1.0,0.44352981448173523
+830,Puente Hills,the Puente Hills Fault,1.0,0.5599185824394226
+831,business,major business,1.0,0.5519099831581116
+832,business,major business districts,1.0,0.51925128698349
+833,business,business districts,1.0,0.5932307839393616
+834,Orange,Orange County,1.0,0.6385517120361328
+835,Southern,Southern California,1.0,0.5584542751312256
+836,2018,in 2018,2.0,0.755759060382843
+837,an official school sport,an official school,1.0,0.5129894018173218
+838,January 2010,In January 2010,2.0,0.9232234954833984
+839,VideoGuard,VideoGuard pay-TV,1.0,0.6379892230033875
+840,substantially increased the asking price,that BSkyB had substantially increased the asking price for the channels,1.0,0.5236061811447144
+841,Video On Demand,Video On Demand content,2.0,0.7530572414398193
+842,July 2013,In July 2013,2.0,0.9438227415084839
+843,share recordings,to share recordings and other media,1.0,0.7021086812019348
+844,2016,later in 2016,1.0,0.5417931079864502
+845,2016,in 2016,2.0,0.8190960884094238
+846,22 May 2006,on 22 May 2006,2.0,0.9532364010810852
+847,8 February 2007,On 8 February 2007,2.0,0.9604402184486389
+848,March,in March,2.0,0.8883773684501648
+849,1991,autumn of 1991,1.0,0.775562047958374
+850,"100,000","over 100,000",1.0,0.8589006662368774
+851,Video On Demand,Video On Demand service,2.0,0.8521441221237183
+852,25m,25m people,1.0,0.751592755317688
+853,36%,36% of households,1.0,0.7003452777862549
+854,essentials,"only ""essentials""",1.0,0.6671855449676514
+855,Sky TV bills,"claimants' ""Sky TV bills",1.0,0.6713442206382751
+856,no,no indication,1.0,0.4549958407878876
+857,basic channels,the carriage of their respective basic channels,1.0,0.5607492327690125
+858,diversified,highly diversified,1.0,0.7958050966262817
+859,Buckland Valley,Buckland Valley near Bright,2.0,0.7241929769515991
+860,"over 1,000","1,000",1.0,0.8274266719818115
+861,Liberal Party,Liberal Party of Australia,1.0,0.7095081806182861
+862,National Party,National Party of Australia,1.0,0.6623251438140869
+863,most densely populated,most,0.0,0.48173004388809204
+864,"""entrenched"" provisions","certain ""entrenched"" provisions",2.0,0.9109033942222595
+865,2009,the 2009 southeastern Australia heat wave,1.0,0.30767810344696045
+866,state or government,state or government schools,1.0,0.37622588872909546
+867,some extra costs,some extra costs are levied,2.0,0.699987530708313
+868,curriculum,curriculum standards,2.0,0.6694815754890442
+869,May 2013,in May 2013,2.0,0.9312058687210083
+870,October 2016,in October 2016,2.0,0.9197853803634644
+871,"2,000 m","almost 2,000 m",1.0,0.8347852826118469
+872,freight services,freight,1.0,0.7832045555114746
+873,passenger,"extensive, electrified, passenger system",1.0,0.5328350067138672
+874,1851,in 1851,2.0,0.8936735391616821
+875,two-thirds,nearly two-thirds,1.0,0.7203890681266785
+876,"1,600 mm","1,600 mm (5 ft 3 in) broad gauge",1.0,0.670733630657196
+877,"1,435 mm","1,435 mm (4 ft 8 1⁄2 in) standard gauge",1.0,0.7146539092063904
+878,760 mm,760 mm (2 ft 6 in) narrow gauge lines,1.0,0.5788163542747498
+879,most seats,the most seats in the Legislative Assembly,1.0,0.613896369934082
+880,representatives,representatives elected to either house of parliament,1.0,0.5701243877410889
+881,sports,sports tourism,1.0,0.49353963136672974
+882,regional cities,in regional cities,2.0,0.8821274042129517
+883,about one-eighth the number,about one-eighth,2.0,0.8695545196533203
+884,from 1562 to 1598,1562 to 1598,2.0,0.8729965090751648
+885,Amboise plot,Amboise,1.0,0.6739715933799744
+886,availability of the Bible in vernacular languages,the Bible in vernacular languages,1.0,0.7600666880607605
+887,Around 1294,1294,1.0,0.7929140329360962
+888,at the Cape of Good Hope,Cape of Good Hope,2.0,0.8944990634918213
+889,"Charleston, South Carolina",Charleston,1.0,0.8225082755088806
+890,the British Landgrave Edmund Bellinger,Edmund Bellinger,2.0,0.7651105523109436
+891,Pons,Pons in France,1.0,0.5657166242599487
+892,William III of Orange,Stadtholder William III of Orange,2.0,0.7739251255989075
+893,their own militia,the Huguenots had their own militia,1.0,0.5490595102310181
+894,one million,Approximately one million,1.0,0.8194108009338379
+895,"""Huguenot Street Historic District"" in New Paltz",Huguenot Street Historic District,1.0,0.7195791006088257
+896,"an estimated total of 75,000 to 100,000 people","75,000 to 100,000",1.0,0.8746737837791443
+897,ca. 2 million,2 million,1.0,0.9096437096595764
+898,the revocation of the Edict of Nantes,Edict of Nantes,1.0,0.5301713347434998
+899,"Kent, particularly Sandwich, Faversham and Maidstone","Sandwich, Faversham and Maidstone",1.0,0.7945288419723511
+900,a High Sheriff and one of the founders of the Bank of Ireland,High Sheriff,1.0,0.5466076135635376
+901,granted the Protestants equality with Catholics,granted the Protestants equality,1.0,0.726570188999176
+902,the founding of new Protestant churches,founding of new Protestant churches in Catholic-controlled regions,1.0,0.6945217847824097
+903,wine industry,wine,1.0,0.6785111427307129
+904,"Charleston, South Carolina",Charleston,1.0,0.8225082755088806
+905,in protest against the occupation of Prussia by Napoleon,in protest,1.0,0.4504354000091553
+906,the Catholic Church in the region,Catholic Church,1.0,0.6958873271942139
+907,12 May 1705,1705,1.0,0.6183730959892273
+908,"""Apologie""","Apologie"" of William the Silent",1.0,0.4942989945411682
+909,the doctrine of transubstantiation,doctrine of transubstantiation during Mass,1.0,0.7339730262756348
+910,Williamite war,Williamite,1.0,0.819679319858551
+911,flax cultivation,flax,1.0,0.6311479210853577
+912,Irish linen industry,linen,1.0,0.46753397583961487
+913,Prince Louis de Condé,Louis de Condé,2.0,0.8516063094139099
+914,Count Ludwig von Nassau-Saarbrücken,Ludwig von Nassau-Saarbrücken,2.0,0.8203809261322021
+915,they were accepted and allowed to worship freely,allowed to worship freely,1.0,0.7065673470497131
+916,"little Hugos, or those who want Hugo",little Hugos,1.0,0.7388688921928406
+917,double or triple non-French linguistic origins,non-French linguistic origins,1.0,0.5990204215049744
+918,Jean Cauvin (John Calvin),Jean Cauvin,2.0,0.5530146360397339
+919,acted increasingly aggressively to force the Huguenots to convert,aggressively,1.0,0.4510376751422882
+920,"John Pell, Lord of Pelham Manor",John Pell,2.0,0.7442421913146973
+921,into the nineteenth century,well into the nineteenth century,1.0,0.7930910587310791
+922,Huguenots furnished two new regiments,two new regiments,1.0,0.6730864644050598
+923,Federal Minister of the Interior,Minister of the Interior,2.0,0.7663547992706299
+924,solar,solar power,1.0,0.673677384853363
+925,Rankine,Rankine cycle,1.0,0.646952211856842
+926,1712,around 1712,1.0,0.8001194000244141
+927,Abercynon,Abercynon in south Wales,2.0,0.7570706605911255
+928,Wales,south Wales,1.0,0.5802043676376343
+929,lower-pressure boiler feed water,water,1.0,0.4344994127750397
+930,three,three or four,1.0,0.5771385431289673
+931,quadruple expansion engines,quadruple,1.0,0.6048657298088074
+932,lengthening rubbing surfaces of the valve,lengthening rubbing surfaces,1.0,0.7331446409225464
+933,first,first century AD,1.0,0.3706616461277008
+934,late,late part,1.0,0.692761242389679
+935,several hundred,several hundred horsepower,1.0,0.6074707508087158
+936,electric,electric heating element,1.0,0.5438724160194397
+937,port,additional port,1.0,0.6034119725227356
+938,565,565 °C,1.0,0.5791866183280945
+939,Stockton and Darlington,Stockton and Darlington Railway,1.0,0.7241789102554321
+940,cylinder volume,cylinder,1.0,0.6363283395767212
+941,reciprocating steam engines,reciprocating,1.0,0.6052849888801575
