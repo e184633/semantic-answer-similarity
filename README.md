@@ -1,7 +1,7 @@
 # semantic-answer-similarity
  XCS224U Final Project
 
-In this repository, you can find all the necessary python files and jupyter notebooks as well as links to some Colab Notebooks to follow/reproduce our paper.
+In this repository, you can find all the necessary python files and jupyter notebooks, links to some Colab Notebooks as well as latex code to reproduce our paper.
 
 * SQuAD, GermanQuAD and NQ-open subsets
 * Numbers dataset 
