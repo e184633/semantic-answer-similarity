@@ -1,155 +1,155 @@
-,question,answer1,answer2,label,Explanation,sas,f1,bertvanilla,berttrained,bi_encoder,bleu,rouge_L,meteor,answer_encoded_twice
-1388,a wrinkle in time what is the it,main antagonist of the story,a disembodied brain,2,Different descriptions,0.008850362,0,0.318790674,0.058718417,0.006271008,0,0,0,a disembodied brain
-920,where is the ground tissue located in plants,in regions of new growth,soft parts,2,Different descriptions,0.008910541,0,0.362282366,0.130141214,0.100495338,0,0,0.217391304,soft parts
-3145,who got rid of the first national bank,the U.S. Senate,Andrew Jackson,2,Wrong gold label,0.008972242,0,0.2780101,-0.021015232,-0.032060668,0,0,0,Andrew Jackson
-921,where is the ground tissue located in plants,in regions of new growth,cortex,2,"Different levels of precision, Different descriptions",0.008995203,0,0.29537937,0.16578941,0.133759469,0,0,0,cortex
-1505,what are your rights in the first amendment,religion,freedom of the press,2,Multiple correct answers,0.009065171,0,0.336690247,0.192498893,0.20238021,0,0,0,freedom of the press
-236,what is the scientific name for the shoulder bone,shoulder blade,scapula,2,Medical term,0.009080346,0,0.245353684,0.289323658,0.30154711,0,0,0,scapula
-3144,who got rid of the first national bank,the U.S. Senate,President Andrew Jackson,2,Wrong gold label,0.00912146,0,0.318759263,0.004513444,-0.033296835,0,0,0,President Andrew Jackson
-1852,where does tri tip come from on a cow,the tensor fasciae latae muscle,the bottom sirloin sub primal cut,2,Medical term,0.009137251,0,0.323530853,0.250564277,0.230998069,0,0.181818182,0.084745763,the bottom sirloin sub primal cut
-1806,stratosphere is part of the atmosphere that absorbs ultraviolet,radiation,ozone layer,2,?,0.009149845,0,0.381479353,0.186546564,0.211306512,0,0,0,ozone layer
-1853,where does tri tip come from on a cow,the tensor fasciae latae muscle,the bottom sirloin subprimal cut,2,Medical term,0.009172499,0,0.322215497,0.229402706,0.209865361,0,0.2,0.1,the bottom sirloin subprimal cut
-183,where did the name jack o lantern come from,East England,irish legend of stingy jack,2,Different descriptions,0.009181887,0,0.263278216,0.116105646,0.085284412,0,0,0,irish legend of stingy jack
-2437,examples of paradigm shifts in the natural sciences,The discovery of hyperbolic geometry,the copernican revolution,2,Multiple correct answers,0.009203963,0,0.374148309,0.205827937,0.182668194,0,0.25,0.15625,the copernican revolution
-1504,what are your rights in the first amendment,religion,freedom of speech,2,Multiple correct answers,0.009238772,0,0.323173136,0.194202796,0.212143451,0,0,0,freedom of speech
-2346,where in australia is i'm a celebrity held,"near Tully, Queensland",new south wales,2,"Different levels of precision, Different descriptions",0.009271091,0,0.336414486,0.163729072,0.152772382,0,0,0,new south wales
-1946,where is the world's largest temple located,"Central Java, Indonesia",Cambodia,2,Imprecise question,0.009279387,0,0.413606703,0.218683854,0.211886376,0,0,0,Cambodia
-96,what is the symbolism of the ghost of christmas present,Father Christmas,peace on Earth and good will toward men,2,,0.009300706,0,0.280950189,0.187146306,0.166376933,0,0,0,peace on Earth and good will toward men
-1420,what is the function of the adrenal medulla hormones,increased metabolism,epinephrine,2,"Different levels of precision, Different descriptions",0.009362969,0,0.27944231,0.191291377,0.198213652,0,0,0,epinephrine
-1934,who wrote the words to the original pledge of allegiance,Captain George Thatcher Balch,Francis Julius Bellamy,2,Wrong label,0.009375559,0,0.291411281,0.046655498,0.016570013,0,0,0,Francis Julius Bellamy
-1635,when does the sympathetic nervous system be activated,constantly,fight-or-flight response,2,"Different levels of precision, Different descriptions",0.009386722,0,0.29090336,0.102818653,0.086542115,0,0,0,fight-or-flight response
-185,where did the name jack o lantern come from,East England,Irish legend,2,Different descriptions,0.00940165,0,0.286945224,0.078229181,0.092920229,0,0,0,Irish legend
-1043,what does n mean on an irish stamp,the current domestic posting rate,no-value indicator,2,Wrong label,0.009410393,0,0.313807219,0.272574514,0.269349337,0,0,0,no-value indicator
-208,where was the tv series pie in the sky filmed,Marlow in Buckinghamshire,bray studios,2,Different descriptions,0.009423845,0,0.278713733,0.230971932,0.230004609,0,0,0,bray studios
-2769,what city is marina bay sands in singapore,Marina Bay in Singapore,Downtown Core,2,"Different levels of precision, Different descriptions",0.00942921,0,0.316028357,0.19218041,0.182804614,0,0,0,Downtown Core
-184,where did the name jack o lantern come from,East England,Stingy Jack,2,Different descriptions,0.009436316,0,0.241532058,0.113472216,0.128655106,0,0,0,Stingy Jack
-1693,who won the 2018 formula 1 french grand pix tournament,Sebastian Vettel,lewis hamilton,2,,0.009447305,0,0.274474442,0.320463181,0.35519895,0,0,0,lewis hamilton
-1935,who wrote the words to the original pledge of allegiance,Captain George Thatcher Balch,Francis Bellamy,2,,0.009462355,0,0.296762317,0.049678992,0.029533502,0,0,0,Francis Bellamy
-233,where did the french east india company first established in india,1664,Surat,2,,0.009474026,0,0.290732414,0.129755944,0.161738381,0,0,0,Surat
-97,what is the symbolism of the ghost of christmas present,Father Christmas,peace on earth,2,,0.009482075,0,0.297402054,0.18822886,0.196635708,0,0,0,peace on earth
-1081,b-25 bomber accidentally flew into the empire state building,Old John Feather Merchant,"July 28, 1945",2,,0.009492934,0,0.24328503,0.084392227,0.060043722,0,0,0,"July 28, 1945"
-709,what channel does the haves and have nots come on on directv,OWN,Oprah Winfrey Network,2,,0.009514303,0,0.224635005,0.125491381,0.111271769,0,0,0,Oprah Winfrey Network
-3005,what are the major concerns of new sociology of education,quantitative research methods,public schooling systems,2,Wrong gold label,0.009514609,0,0.348938555,0.175189033,0.156734318,0,0,0,public schooling systems
-2090,city belonging to mid west of united states,Des Moines,kansas city,2,Multiple correct answers,0.009519931,0,0.250652403,0.367498606,0.405112326,0,0,0,kansas city
-3434,what is the purpose of a chip in a debit card,control access to a resource,security,2,,0.009537573,0,0.359534889,0.238060027,0.240407586,0,0,0,security
-1080,b-25 bomber accidentally flew into the empire state building,Old John Feather Merchant,1945,2,,0.009572871,0,0.277717978,0.11218638,0.098734424,0,0,0,1945
-662,who is the first country to leave the eu,French Algeria,the UK,2,,0.009592358,0,0.338331342,0.159211412,0.161868513,0,0,0,the UK
-835,where did the anglo saxons arrived in britain,southern and east coasts,Great Britain,2,,0.009600661,0,0.294919372,0.047850892,0.011812466,0,0,0,Great Britain
-2713,where have saber tooth tiger remains been found,Brazil,La Brea Tar Pits in Los Angeles,2,,0.009610577,0,0.246600986,0.033155646,-0.019385211,0,0,0,La Brea Tar Pits in Los Angeles
-1057,who is the man in black the dark tower,Randall Flagg,Walter Padick,2,,0.009626776,0,0.25617972,0.288301736,0.311163396,0,0,0,Walter Padick
-891,how do you call a person who cannot speak,sign language,Muteness or mutism,2,,0.009635044,0,0.27337715,0.030037044,0.003627513,0,0,0,Muteness or mutism
-641,what season does allison find out about scott,"""Formality""",season one,2,,0.009660334,0,0.341502726,0.185193464,0.1868985,0,0,0,season one
-1328,based on population what is the largest military base in the united states,"Ramstein AB, in Germany",fort bragg,2,,0.009698717,0,0.250440449,0.209070444,0.203662947,0,0,0,fort bragg
-1903,where did the idea of clowns come from,ancient Greek and Roman theatre,Egypt,2,,0.009714856,0,0.360331148,0.20657222,0.17243275,0,0,0,Egypt
-212,where was the tv series pie in the sky filmed,Marlow in Buckinghamshire,Water Oakley,2,,0.009722156,0,0.343219995,0.204885915,0.188511729,0,0,0,Water Oakley
-213,where was the tv series pie in the sky filmed,Marlow in Buckinghamshire,Oakley Court,2,,0.009737603,0,0.309107095,0.205311581,0.186802715,0,0,0,Oakley Court
-123,who issued the declaration of the rights of man when was it written,France's National Constituent Assembly,Thomas Jefferson,2,,0.009738615,0,0.232536733,0.19838959,0.192234725,0,0,0,Thomas Jefferson
-1329,based on population what is the largest military base in the united states,"Ramstein AB, in Germany","Fort Bragg, North Carolina",2,,0.009746095,0,0.385641366,0.049501825,-0.01429464,0,0,0.1,"Fort Bragg, North Carolina"
-1034,gold woman in guardians of the galaxy 2,Ayesha,Elizabeth Debicki,2,,0.00974987,0,0.218752593,0.219945937,0.241966054,0,0,0,Elizabeth Debicki
-890,how do you call a person who cannot speak,sign language,mute,2,,0.009749989,0,0.274308294,0.060206354,0.094673418,0,0,0,mute
-1599,the island of madagascar is located off which border of the main continent,southeastern,Africa,2,,0.00975005,0,0.362025529,0.074069463,0.11363101,0,0,0,Africa
-661,who is the first country to leave the eu,French Algeria,united kingdom,2,,0.009767208,0,0.233451009,0.179929018,0.192556202,0,0,0,united kingdom
-3482,what movie is bring it on the musical based off of,Bring It On,2000 film of the same name,2,,0.009794063,0,0.348043263,0.085714526,0.062990621,0,0,0,2000 film of the same name
-2869,who is the main character in incidents in the life of a slave girl,Harriet Ann Jacobs,linda brent,2,,0.009821297,0,0.309079617,0.249681026,0.266832829,0,0,0,linda brent
-2008,nba record for points scored in a game,100,wilt chamberlain,2,,0.009836226,0,0.28393802,0.130117729,0.145070612,0,0,0,wilt chamberlain
-1401,where was the last significant battle in the revolutionary war fought,Virginia,The Siege of Yorktown,2,,0.009856439,0,0.341740102,0.111045502,0.10050825,0,0,0,The Siege of Yorktown
-1290,who sang i've got you under my skin,Virginia Bruce,Frank Sinatra,2,,0.009870447,0,0.268702507,0.237387538,0.229469687,0,0,0,Frank Sinatra
-295,how does the narrator describe perverseness in the black cat,the spirit of perverseness,alcoholism,2,,0.009878359,0,0.368879825,0.261986196,0.26350379,0,0,0,alcoholism
-2294,what was the name of boss tweeds political machine,Tammany Hall,William Magear Tweed,2,,0.009920136,0,0.244748518,0.183901355,0.167683601,0,0,0,William Magear Tweed
-2142,who wore number 24 for the montreal canadiens,Phillip Danault,Chris Chelios,2,,0.009937652,0,0.289159715,0.13081938,0.137090236,0,0,0,Chris Chelios
-3238,what happened to ned starks brother and father,executes,died,2,,0.009940899,0,0.377379864,0.353172451,0.370627224,0,0,0,died
-642,what season does allison find out about scott,"""Formality""",Season 1,2,,0.009947664,0,0.329589009,0.191546589,0.194951445,0,0,0,Season 1
-459,who played marcus the pre-transition sophia on orange is the new black,M Lamar,laverne cox,2,,0.009969206,0,0.273584127,0.22748673,0.234858245,0,0,0,laverne cox
-782,who is the host for wheel of fortune,Pat Sajak,Vanna White,2,,0.009972293,0,0.246124953,0.109454922,0.074267566,0,0,0,Vanna White
-505,who sang the smokey and the bandit song,Jerry Reed Hubbard,Burt Reynolds,2,,0.010033511,0,0.292308509,0.318203926,0.343510747,0,0,0,Burt Reynolds
-2168,who sings how long is this been going on,George and Ira Gershwin,ace,2,,0.010061977,0,0.283836156,0.164507002,0.147949576,0,0,0,ace
-1682,who played joey on all in the family,Jason and Justin Draeger,casey siemaszko,2,,0.01007655,0,0.24254927,0.141768768,0.103106529,0,0,0,casey siemaszko
-1440,the ancient civilization credited with the invention of paper around 105 c.e,China,United States,2,,0.010093197,0,0.33711344,0.396252185,0.451703906,0,0,0,United States
-1634,when does the sympathetic nervous system be activated,constantly,fight - or - flight response,2,,0.010145586,0,0.29090336,0.104078524,0.073201582,0,0,0,fight - or - flight response
-672,when did the game dont wake daddy come out,1992,"june 13, 1973",2,,0.010170373,0,0.463455081,0.144640043,0.136224478,0,0,0,"june 13, 1973"
-1691,when is the agents of shield season premiere,Jul-19,"September 20, 2016",2,,0.010183559,0,0.52691263,0.293190986,0.297546089,0,0,0,"September 20, 2016"
-1681,who played joey on all in the family,Jason and Justin Draeger,Christian Jacobs,2,,0.010203342,0,0.270424187,0.19871524,0.195380986,0,0,0,Christian Jacobs
-455,who did ben weston killed on days of our lives,several victims,Will Horton,2,,0.01027426,0,0.357853532,0.133186191,0.127109304,0,0,0,Will Horton
-1018,who built the temple of dayr al bahri,Mentuhotep II,Hatshepsut,2,,0.010283214,0,0.273495078,0.322801709,0.253435493,0,0,0,Hatshepsut
-696,where was the second battle of saratoga fought,Bemis Heights,"Saratoga, New York",2,,0.010300389,0,0.277574658,0.144428805,0.133576006,0,0,0,"Saratoga, New York"
-11,who signed the sugauli treaty on behalf of nepal,Raj Guru Gajaraj Mishra,Chandra Sekher Upadhyaya,2,,0.010337378,0,0.296371162,0.464971572,0.519400537,0,0,0,Chandra Sekher Upadhyaya
-3235,what happened to ned starks brother and father,executes,death,2,,0.010393159,0,0.34208706,0.422527343,0.452517092,0,0,0,death
-2661,what city would be an example of a maritime climate,Prague,Amsterdam,2,,0.010395738,0,0.504072547,0.417096853,0.472736418,0,0,0,Amsterdam
-211,where was the tv series pie in the sky filmed,Marlow in Buckinghamshire,"bray studios at water oakley, near windsor in berkshire",2,,0.010403154,0.166666667,0.431874126,0.282017499,0.230840907,0,0.166666667,0.053763441,"bray studios at water oakley, near windsor in berkshire"
-1886,who sang a heart needs a second chance,38 Special,Max Carl Gronenthal,2,,0.0104893,0,0.227389842,0.062600173,0.016836409,0,0,0,Max Carl Gronenthal
-3046,what is the drink with the highest alcohol percentage,Rectified spirit,vodka,2,,0.01054004,0,0.298131704,0.347835094,0.320536464,0,0,0,vodka
-1744,who won the match between india and pakistan,India,Israel,2,,0.010761933,0,0.51635766,0.377337188,0.473832697,0,0,0,Israel
-3167,when is season 3 of free coming out,Jul-11,2018,2,,0.010794522,0,0.272906184,0.190739244,0.229354918,0,0,0,2018
-35,what vertebral level does the inferior vena cava pass through the diaphragm,the caval opening,t8,2,,0.011061504,0,0.32592389,0.113875538,0.099756226,0,0,0,t8
-2951,who is the lady of the lake in merlin,Miranda Richardson,an enchantress,2,,0.01112173,0,0.242850587,0.157467082,0.165925622,0,0,0,an enchantress
-1848,who won oscar for movie whatever happened to baby jane,Norma Koch,bette davis,2,,0.011310682,0,0.247965679,0.269897521,0.303476274,0,0,0,bette davis
-1736,who was the first king of england and what year,Canute the Great,\u00e6thelstan,2,,0.011352944,0,0.274553716,0.257766992,0.219726026,0,0,0,æthelstan
-1387,a wrinkle in time what is the it,main antagonist of the story,brain,2,,0.01149154,0,0.323087603,0.011750435,-0.017392464,0,0,0,brain
-694,where was the second battle of saratoga fought,Bemis Heights,"south of saratoga, new york",2,,0.011634117,0,0.28387782,0.096569553,0.071979582,0,0,0,"south of saratoga, new york"
-2043,when was a scot in the arctic made,1948,1995,2,,0.011709359,0,0.590797901,0.317292631,0.37656492,0,0,0,1995
-209,where was the tv series pie in the sky filmed,Marlow in Buckinghamshire,Bisham in East Berkshire,2,,0.011757813,0.285714286,0.464833826,0.449503213,0.426208615,0,0.285714286,0.128205128,Bisham in East Berkshire
-1690,when is the agents of shield season premiere,Jul-19,"december 1, 2017",2,,0.011844372,0,0.538342178,0.377687007,0.374070406,0,0,0,"december 1, 2017"
-1438,the ancient civilization credited with the invention of paper around 105 c.e,China,cai lun,2,,0.011920367,0,0.297645628,0.245070264,0.299397767,0,0,0,cai lun
-186,where did the name jack o lantern come from,East England,Ireland,2,,0.011935716,0,0.457086682,0.116569996,0.156759247,0,0,0,Ireland
-1386,a wrinkle in time what is the it,main antagonist of the story,an evil disembodied brain,2,,0.012185486,0,0.328002781,0.087445892,0.039053369,0,0,0,an evil disembodied brain
-3495,what is the name of lord hanuman son,Macchanu,Makaradhwaja,2,,0.012272796,0,0.226843163,0.408110082,0.426007688,0,0,0,Makaradhwaja
-1173,when did the blue bombers last win the grey cup,1990,2017,2,,0.012290171,0,0.554939032,0.315751255,0.392182231,0,0,0,2017
-557,what is the organism that causes red tide,algae,dinoflagellates,2,,0.012380444,0,0.254098862,0.399979174,0.426531851,0,0,0,dinoflagellates
-1448,who sings the song papa was a rolling stone,The Undisputed Truth,the temptations,2,,0.012564416,0,0.437277883,0.113457583,0.095947832,0,0.4,0.238095238,the temptations
-2032,when did the united states send troops to vietnam,May-50,"march 8, 1965",2,,0.012631739,0,0.562565982,0.401138723,0.400142789,0,0,0,"march 8, 1965"
-3230,the dominant trees of the mesozoic era are called,angiosperms,conifers,2,,0.012679572,0,0.272432297,0.182635114,0.192409873,0,0,0,conifers
-2347,where in australia is i'm a celebrity held,"near Tully, Queensland",Australia,2,,0.012807866,0,0.41454345,0.345988661,0.28783828,0,0,0,Australia
-2745,who said preamble is a key to the constitution of india,The Supreme Court of India,b. r. ambedkar,2,,0.012937975,0,0.301273733,0.283527076,0.294754863,0,0,0,b. r. ambedkar
-271,who played the role of kilvish in shaktimaan,Surendra Pal,mukesh khanna,2,,0.012953024,0,0.237479389,0.329914004,0.335995287,0,0,0,mukesh khanna
-2660,what city would be an example of a maritime climate,Prague,London,2,,0.013181319,0,0.460802108,0.330230266,0.397437334,0,0,0,London
-1999,who was the bad guy on designated survivor,Terry Serpico,Patrick Lloyd,2,,0.013334066,0,0.258993924,0.149150267,0.154048085,0,0,0,Patrick Lloyd
-695,where was the second battle of saratoga fought,Bemis Heights,New York,2,,0.01339755,0,0.243439347,0.24774611,0.274870664,0,0,0,New York
-31,a fatty acid that has one double bond,oleic acid,unsaturated fat,2,,0.013823372,0,0.257972002,0.221882537,0.235154346,0,0,0,unsaturated fat
-2625,when was the last time alabama beat georgia,"December 1, 2018",2015,2,,0.013829893,0,0.521613359,0.322553486,0.357959121,0,0,0,2015
-1541,who plays jacks brother in when calls the heart,Max Lloyd-Jones,daniel lissing,2,,0.013874767,0,0.242674753,0.132674202,0.124975599,0,0,0,daniel lissing
-422,thomas and friends big world big adventures us release date,1989,2018,2,,0.014380159,0,0.503919363,0.34766078,0.411659151,0,0,0,2018
-3398,how many districts are there in the tennessee house of representatives,9,99,2,,0.015065641,0,0.609761357,0.385642081,0.424800843,0,0,0,99
-2438,examples of paradigm shifts in the natural sciences,The discovery of hyperbolic geometry,quantum mechanics,2,,0.019605601,0,0.400071442,0.230882064,0.224067926,0,0,0,quantum mechanics
-1419,what is the function of the adrenal medulla hormones,increased metabolism,regulation of blood pressure and electrolyte balance,2,,0.019894892,0,0.322195649,0.372440159,0.384842545,0,0,0,regulation of blood pressure and electrolyte balance
-210,where was the tv series pie in the sky filmed,Marlow in Buckinghamshire,Berkshire,2,,0.021219729,0,0.413924515,0.410481274,0.376904756,0,0,0,Berkshire
-2113,when did the roman emperors give free grain to the poor,second century AD,22 ad,2,,0.021895938,0.4,0.517862916,0.195492864,0.195222139,0,0.4,0.238095238,22 ad
-922,where is the ground tissue located in plants,in regions of new growth,the cortex of roots,2,,0.023365857,0.25,0.518695474,0.184190243,0.132689685,0,0.222222222,0.12195122,the cortex of roots
-454,who did ben weston killed on days of our lives,several victims,serena mason,2,,0.024193315,0,0.289825559,0.153373986,0.165094763,0,0,0,serena mason
-957,a person who risks money in order to make a large profit,arbitrageur,speculators,2,,0.025425004,0,0.251085043,0.331207573,0.349575222,0,0,0,speculators
-325,what type of community is brown's town,town,agricultural,2,,0.02582502,0,0.364945322,0.24836874,0.310227394,0,0,0,agricultural
-2233,the seven deadly sins season 2 number of episodes,4,24,2,,0.031435575,0,0.676446199,0.299717247,0.342389852,0,0,0,24
-2931,name a non metal which is required for combustion,oxidant,oxygen,2,,0.033165943,0,0.261544228,0.401842505,0.449712008,0,0,0,oxygen
-3221,what is a national insurance number in the uk,"""personal account number""",The National Insurance number,2,,0.036074243,0.333333333,0.500617087,0.365389228,0.326699555,0,0.285714286,0.12195122,The National Insurance number
-1416,what is the function of the adrenal medulla hormones,increased metabolism,produces adrenaline and noradrenaline,2,,0.036443975,0,0.307681143,0.365670353,0.392109513,0,0,0,produces adrenaline and noradrenaline
-578,when did the 9-1 gcse start,2017,"february 4, 2018",2,,0.039939955,0,0.54175359,0.329183012,0.32245326,0,0,0,"february 4, 2018"
-1680,who played joey on all in the family,Jason and Justin Draeger,Jacobs,2,,0.042253669,0,0.271930337,0.160865784,0.151510417,0,0,0,Jacobs
-594,when did harley start using the 103 engine,2010,"february 6, 2011",2,,0.043965328,0,0.543434381,0.34627068,0.341912508,0,0,0,"february 6, 2011"
-3218,when did the president of india give assent the central gst law,Aug-16,01-Jul-17,2,,0.045786366,0,0.697674096,0.22767505,0.206547216,0,0,0,01-Jul-17
-1417,what is the function of the adrenal medulla hormones,increased metabolism,release of adrenaline,2,,0.049873225,0,0.363160551,0.394783854,0.407064557,0,0,0,release of adrenaline
-3494,what is the name of lord hanuman son,Macchanu,makardhwaja,2,,0.052735399,0,0.226977974,0.336726427,0.332220703,0,0,0,makardhwaja
-326,what type of community is brown's town,town,agricultural region,2,,0.056088317,0,0.344730377,0.220042109,0.24473241,0,0,0,agricultural region
-3210,how many pictures can you save on google photos,up to 16Â megapixels,unlimited,2,,0.060475897,0,0.287083298,0.142822176,0.117195778,0,0,0,unlimited
-1815,what is he on the periodic table of elements,He­lium,atomic number 2,2,,0.061042793,0,0.319264978,0.213524789,0.204281151,0,0,0,atomic number 2
-958,a person who risks money in order to make a large profit,arbitrageur,speculator,2,,0.071585983,0,0.222667515,0.390160233,0.409445703,0,0,0,speculator
-37,who played charlotte first husband on sex and the city,Trey MacDougal,Kyle MacLachlan,2,,0.075174592,0,0.393140972,0.4650473,0.45441103,0,0,0,Kyle MacLachlan
-1421,what is the function of the adrenal medulla hormones,increased metabolism,Adrenaline,2,,0.077257857,0,0.372036308,0.361131459,0.389656931,0,0,0,Adrenaline
-3633,who claimed the mississippi river valley for france,Robert de La Salle,Ren\u00e9-Robert Cavelier,2,,0.080623053,0,0.319019884,0.315096885,0.288481742,0,0.25,0,René-Robert Cavelier
-739,which legislation was responsible for changing the voting age in the united states brainly,the Twenty-sixth Amendment,Voting Rights Act of 1965,2,,0.087342724,0,0.320833087,0.245854527,0.229179949,0,0,0,Voting Rights Act of 1965
-1418,what is the function of the adrenal medulla hormones,increased metabolism,release adrenaline,2,,0.090690076,0,0.350552678,0.389073223,0.409143656,0,0,0,release adrenaline
-120,what is an example of a file path,/,/ Payroll / Salaries / Managers,2,,0.10068734,0,0.662138402,0.30848074,0.217146933,0,0,0.090909091,/ Payroll / Salaries / Managers
-926,when did universal studios become a theme park,1965,"july 15, 1964",2,,0.105517238,0,0.568529844,0.423262417,0.420457214,0,0,0,"july 15, 1964"
-2673,where is area code 339 located in us,Boston suburbs,Massachusetts,2,,0.107597463,0,0.485624552,0.417232841,0.385133475,0,0,0,Massachusetts
-2466,do you need a license to tattoo in nj,no,none specified,2,,0.109224595,0,0.448240519,0.486815363,0.443489552,0,0,0,none specified
-121,what is an example of a file path,/,/Payroll/Salaries/Managers,2,,0.109971449,0,0.662138402,0.238998339,0.143085897,0,0,0,/Payroll/Salaries/Managers
-1225,where did the republican contract with america enjoy its greatest support,the 104th Congress,the 1994 Congressional election campaign,2,,0.121335663,0,0.465278685,0.363118678,0.327258825,0,0.25,0.104166667,the 1994 Congressional election campaign
-981,when does trick or treat start and end,evening of October 31,Halloween,2,,0.132240623,0,0.338763654,0.416865766,0.412649155,0,0,0,Halloween
-327,what type of community is brown's town,town,a market and road center,2,,0.140542433,0,0.351173192,0.393872559,0.435907215,0,0,0,a market and road center
-510,when does a hockey player go to the penalty box,for all penalties,for a set number of minutes,2,,0.15519917,0.25,0.47356692,0.258428156,0.234881878,0,0.222222222,0.087719298,for a set number of minutes
-2017,who has the most national championships in the sec football,Alabama,alabama crimson tide,2,,0.159954697,0.5,0.679310918,0.478888482,0.45232898,0,0.5,0.178571429,alabama crimson tide
-3634,who claimed the mississippi river valley for france,Robert de La Salle,rene - robert cavelier,2,,0.171586245,0.285714286,0.424222499,0.303773552,0.300320745,0,0.285714286,0.125,rene - robert cavelier
-982,when does trick or treat start and end,evening of October 31,Halloween night,2,,0.174886271,0,0.430393368,0.465831906,0.463389307,0,0,0,Halloween night
-969,what was one of the main outcomes of the stono rebellion,the Negro Act of 1740,enacted a harsh slave code,2,,0.188601971,0,0.38557598,0.29830417,0.27798751,0,0,0,enacted a harsh slave code
-2790,what is the measure of the clarity of an image,spatial resolution,image resolution,2,,0.189761505,0.5,0.671990275,0.707414329,0.752023995,0,0.5,0.25,image resolution
-1206,who is marconi in we built this city,the father of the radio,Italian inventor Guglielmo Marconi,2,Different descriptions,0.193626627,0,0.275992513,0.189379066,0.164518297,0,0,0,Italian inventor Guglielmo Marconi
-1593,how many types of subatomic particles are there in an atom,two,three,2,Different descriptions,0.218636259,0,0.856272519,0.2388632,0.274961233,0,0,0,three
-273,in which channel does koffee with karan comes,Star World India,Star One,2,Multiple correct answers,0.240456894,0.4,0.499116868,0.529915333,0.519884825,0,0.4,0.238095238,Star One
+,question,answer1,answer2,label,sas,f1,bertvanilla,berttrained,bi_encoder,bleu,rouge_L,meteor,answer_encoded_twice
+11,who signed the sugauli treaty on behalf of nepal,Raj Guru Gajaraj Mishra,Chandra Sekher Upadhyaya,2.0,0.010337377898395,0.0,0.2963711619377136,0.4649715721607208,0.5194005370140076,0.0,0.0,0.0,Chandra Sekher Upadhyaya
+31,a fatty acid that has one double bond,oleic acid,unsaturated fat,2.0,0.0138233723118901,0.0,0.2579720020294189,0.2218825370073318,0.2351543456315994,0.0,0.0,0.0,unsaturated fat
+35,what vertebral level does the inferior vena cava pass through the diaphragm,the caval opening,t8,2.0,0.0110615044832229,0.0,0.325923889875412,0.113875538110733,0.0997562259435653,0.0,0.0,0.0,t8
+37,who played charlotte first husband on sex and the city,Trey MacDougal,Kyle MacLachlan,2.0,0.0751745924353599,0.0,0.393140971660614,0.4650472998619079,0.4544110298156738,0.0,0.0,0.0,Kyle MacLachlan
+96,what is the symbolism of the ghost of christmas present,Father Christmas,peace on Earth and good will toward men,2.0,0.0093007059767842,0.0,0.2809501886367798,0.1871463060379028,0.1663769334554672,0.0,0.0,0.0,peace on Earth and good will toward men
+97,what is the symbolism of the ghost of christmas present,Father Christmas,peace on earth,2.0,0.0094820754602551,0.0,0.2974020540714264,0.1882288604974746,0.1966357082128524,0.0,0.0,0.0,peace on earth
+120,what is an example of a file path,/,/ Payroll / Salaries / Managers,2.0,0.1006873399019241,0.0,0.6621384024620056,0.3084807395935058,0.2171469330787658,0.0,0.0,0.0909090909090909,/ Payroll / Salaries / Managers
+121,what is an example of a file path,/,/Payroll/Salaries/Managers,2.0,0.1099714487791061,0.0,0.6621384024620056,0.2389983385801315,0.1430858969688415,0.0,0.0,0.0,/Payroll/Salaries/Managers
+123,who issued the declaration of the rights of man when was it written,France's National Constituent Assembly,Thomas Jefferson,2.0,0.009738614782691,0.0,0.2325367331504821,0.1983895897865295,0.1922347247600555,0.0,0.0,0.0,Thomas Jefferson
+183,where did the name jack o lantern come from,East England,irish legend of stingy jack,2.0,0.0091818869113922,0.0,0.2632782161235809,0.1161056458950042,0.085284411907196,0.0,0.0,0.0,irish legend of stingy jack
+184,where did the name jack o lantern come from,East England,Stingy Jack,2.0,0.0094363158568739,0.0,0.2415320575237274,0.1134722158312797,0.1286551058292389,0.0,0.0,0.0,Stingy Jack
+185,where did the name jack o lantern come from,East England,Irish legend,2.0,0.0094016501680016,0.0,0.2869452238082886,0.0782291814684867,0.0929202288389206,0.0,0.0,0.0,Irish legend
+186,where did the name jack o lantern come from,East England,Ireland,2.0,0.0119357155635952,0.0,0.4570866823196411,0.1165699958801269,0.1567592471837997,0.0,0.0,0.0,Ireland
+208,where was the tv series pie in the sky filmed,Marlow in Buckinghamshire,bray studios,2.0,0.0094238445162773,0.0,0.27871373295784,0.2309719324111938,0.230004608631134,0.0,0.0,0.0,bray studios
+209,where was the tv series pie in the sky filmed,Marlow in Buckinghamshire,Bisham in East Berkshire,2.0,0.0117578133940696,0.2857142857142857,0.4648338258266449,0.4495032131671905,0.4262086153030396,0.0,0.2857142857142857,0.1282051282051282,Bisham in East Berkshire
+210,where was the tv series pie in the sky filmed,Marlow in Buckinghamshire,Berkshire,2.0,0.0212197285145521,0.0,0.4139245152473449,0.4104812741279602,0.3769047558307648,0.0,0.0,0.0,Berkshire
+211,where was the tv series pie in the sky filmed,Marlow in Buckinghamshire,"bray studios at water oakley, near windsor in berkshire",2.0,0.0104031544178724,0.1666666666666666,0.4318741261959076,0.2820174992084503,0.2308409065008163,0.0,0.1666666666666666,0.053763440860215,"bray studios at water oakley, near windsor in berkshire"
+212,where was the tv series pie in the sky filmed,Marlow in Buckinghamshire,Water Oakley,2.0,0.0097221564501523,0.0,0.3432199954986572,0.2048859149217605,0.1885117292404174,0.0,0.0,0.0,Water Oakley
+213,where was the tv series pie in the sky filmed,Marlow in Buckinghamshire,Oakley Court,2.0,0.0097376033663749,0.0,0.309107095003128,0.205311581492424,0.1868027150630951,0.0,0.0,0.0,Oakley Court
+233,where did the french east india company first established in india,1664,Surat,2.0,0.0094740260392427,0.0,0.2907324135303497,0.1297559440135955,0.1617383807897567,0.0,0.0,0.0,Surat
+236,what is the scientific name for the shoulder bone,shoulder blade,scapula,2.0,0.0090803457424044,0.0,0.2453536838293076,0.2893236577510834,0.301547110080719,0.0,0.0,0.0,scapula
+271,who played the role of kilvish in shaktimaan,Surendra Pal,mukesh khanna,2.0,0.0129530243575572,0.0,0.2374793887138367,0.3299140036106109,0.3359952867031097,0.0,0.0,0.0,mukesh khanna
+273,in which channel does koffee with karan comes,Star World India,Star One,2.0,0.2404568940401077,0.4,0.4991168677806854,0.5299153327941895,0.5198848247528076,0.0,0.4,0.2380952380952381,Star One
+295,how does the narrator describe perverseness in the black cat,the spirit of perverseness,alcoholism,2.0,0.0098783588036894,0.0,0.3688798248767853,0.2619861960411072,0.2635037899017334,0.0,0.0,0.0,alcoholism
+325,what type of community is brown's town,town,agricultural,2.0,0.0258250199258327,0.0,0.3649453222751617,0.2483687400817871,0.3102273941040039,0.0,0.0,0.0,agricultural
+326,what type of community is brown's town,town,agricultural region,2.0,0.0560883171856403,0.0,0.3447303771972656,0.2200421094894409,0.2447324097156525,0.0,0.0,0.0,agricultural region
+327,what type of community is brown's town,town,a market and road center,2.0,0.1405424326658249,0.0,0.3511731922626495,0.3938725590705871,0.4359072148799896,0.0,0.0,0.0,a market and road center
+422,thomas and friends big world big adventures us release date,1989,2018,2.0,0.0143801588565111,0.0,0.5039193630218506,0.3476607799530029,0.4116591513156891,0.0,0.0,0.0,2018
+454,who did ben weston killed on days of our lives,several victims,serena mason,2.0,0.0241933148354291,0.0,0.2898255586624145,0.1533739864826202,0.1650947630405426,0.0,0.0,0.0,serena mason
+455,who did ben weston killed on days of our lives,several victims,Will Horton,2.0,0.0102742603048682,0.0,0.3578535318374634,0.1331861913204193,0.1271093040704727,0.0,0.0,0.0,Will Horton
+459,who played marcus the pre-transition sophia on orange is the new black,M Lamar,laverne cox,2.0,0.0099692055955529,0.0,0.2735841274261474,0.2274867296218872,0.2348582446575165,0.0,0.0,0.0,laverne cox
+505,who sang the smokey and the bandit song,Jerry Reed Hubbard,Burt Reynolds,2.0,0.0100335106253623,0.0,0.292308509349823,0.3182039260864258,0.3435107469558716,0.0,0.0,0.0,Burt Reynolds
+510,when does a hockey player go to the penalty box,for all penalties,for a set number of minutes,2.0,0.1551991701126098,0.25,0.4735669195652008,0.258428156375885,0.2348818778991699,0.0,0.2222222222222222,0.087719298245614,for a set number of minutes
+557,what is the organism that causes red tide,algae,dinoflagellates,2.0,0.0123804444447159,0.0,0.2540988624095917,0.3999791741371155,0.4265318512916565,0.0,0.0,0.0,dinoflagellates
+578,when did the 9-1 gcse start,2017,"february 4, 2018",2.0,0.0399399548768997,0.0,0.5417535901069641,0.3291830122470855,0.3224532604217529,0.0,0.0,0.0,"february 4, 2018"
+594,when did harley start using the 103 engine,2010,"february 6, 2011",2.0,0.0439653284847736,0.0,0.5434343814849854,0.3462706804275512,0.3419125080108642,0.0,0.0,0.0,"february 6, 2011"
+641,what season does allison find out about scott,"""Formality""",season one,2.0,0.0096603343263268,0.0,0.3415027260780334,0.1851934641599655,0.1868984997272491,0.0,0.0,0.0,season one
+642,what season does allison find out about scott,"""Formality""",Season 1,2.0,0.009947664104402,0.0,0.3295890092849731,0.1915465891361236,0.194951444864273,0.0,0.0,0.0,Season 1
+661,who is the first country to leave the eu,French Algeria,united kingdom,2.0,0.0097672082483768,0.0,0.2334510087966919,0.1799290180206298,0.1925562024116516,0.0,0.0,0.0,united kingdom
+662,who is the first country to leave the eu,French Algeria,the UK,2.0,0.0095923580229282,0.0,0.3383313417434692,0.1592114120721817,0.1618685126304626,0.0,0.0,0.0,the UK
+672,when did the game dont wake daddy come out,1992,"june 13, 1973",2.0,0.010170373134315,0.0,0.463455080986023,0.1446400433778762,0.1362244784832,0.0,0.0,0.0,"june 13, 1973"
+694,where was the second battle of saratoga fought,Bemis Heights,"south of saratoga, new york",2.0,0.0116341169923543,0.0,0.283877819776535,0.0965695530176162,0.0719795823097229,0.0,0.0,0.0,"south of saratoga, new york"
+695,where was the second battle of saratoga fought,Bemis Heights,New York,2.0,0.0133975502103567,0.0,0.2434393465518951,0.2477461099624633,0.2748706638813019,0.0,0.0,0.0,New York
+696,where was the second battle of saratoga fought,Bemis Heights,"Saratoga, New York",2.0,0.010300388559699,0.0,0.2775746583938598,0.1444288045167923,0.1335760056972503,0.0,0.0,0.0,"Saratoga, New York"
+709,what channel does the haves and have nots come on on directv,OWN,Oprah Winfrey Network,2.0,0.0095143029466271,0.0,0.2246350049972534,0.1254913806915283,0.1112717688083648,0.0,0.0,0.0,Oprah Winfrey Network
+739,which legislation was responsible for changing the voting age in the united states brainly,the Twenty-sixth Amendment,Voting Rights Act of 1965,2.0,0.0873427242040634,0.0,0.3208330869674682,0.2458545267581939,0.2291799485683441,0.0,0.0,0.0,Voting Rights Act of 1965
+782,who is the host for wheel of fortune,Pat Sajak,Vanna White,2.0,0.0099722929298877,0.0,0.2461249530315399,0.1094549223780632,0.074267566204071,0.0,0.0,0.0,Vanna White
+835,where did the anglo saxons arrived in britain,southern and east coasts,Great Britain,2.0,0.0096006607636809,0.0,0.2949193716049194,0.0478508919477462,0.0118124661967158,0.0,0.0,0.0,Great Britain
+890,how do you call a person who cannot speak,sign language,mute,2.0,0.0097499890252947,0.0,0.2743082940578461,0.0602063536643981,0.0946734175086021,0.0,0.0,0.0,mute
+891,how do you call a person who cannot speak,sign language,Muteness or mutism,2.0,0.0096350442618131,0.0,0.2733771502971649,0.0300370436161756,0.0036275130696594,0.0,0.0,0.0,Muteness or mutism
+920,where is the ground tissue located in plants,in regions of new growth,soft parts,2.0,0.0089105414226651,0.0,0.3622823655605316,0.1301412135362625,0.1004953384399414,0.0,0.0,0.217391304347826,soft parts
+921,where is the ground tissue located in plants,in regions of new growth,cortex,2.0,0.0089952033013105,0.0,0.2953793704509735,0.1657894104719162,0.133759468793869,0.0,0.0,0.0,cortex
+922,where is the ground tissue located in plants,in regions of new growth,the cortex of roots,2.0,0.0233658570796251,0.25,0.5186954736709595,0.1841902434825897,0.1326896846294403,0.0,0.2222222222222222,0.1219512195121951,the cortex of roots
+926,when did universal studios become a theme park,1965,"july 15, 1964",2.0,0.1055172383785247,0.0,0.5685298442840576,0.4232624173164367,0.4204572141170501,0.0,0.0,0.0,"july 15, 1964"
+957,a person who risks money in order to make a large profit,arbitrageur,speculators,2.0,0.0254250038415193,0.0,0.2510850429534912,0.3312075734138489,0.3495752215385437,0.0,0.0,0.0,speculators
+958,a person who risks money in order to make a large profit,arbitrageur,speculator,2.0,0.0715859830379486,0.0,0.2226675152778624,0.3901602327823639,0.4094457030296325,0.0,0.0,0.0,speculator
+969,what was one of the main outcomes of the stono rebellion,the Negro Act of 1740,enacted a harsh slave code,2.0,0.1886019706726074,0.0,0.3855759799480438,0.2983041703701019,0.2779875099658966,0.0,0.0,0.0,enacted a harsh slave code
+981,when does trick or treat start and end,evening of October 31,Halloween,2.0,0.1322406232357025,0.0,0.3387636542320251,0.4168657660484314,0.4126491546630859,0.0,0.0,0.0,Halloween
+982,when does trick or treat start and end,evening of October 31,Halloween night,2.0,0.1748862713575363,0.0,0.4303933680057525,0.4658319056034088,0.4633893072605133,0.0,0.0,0.0,Halloween night
+1018,who built the temple of dayr al bahri,Mentuhotep II,Hatshepsut,2.0,0.0102832140401005,0.0,0.2734950780868529,0.3228017091751098,0.253435492515564,0.0,0.0,0.0,Hatshepsut
+1034,gold woman in guardians of the galaxy 2,Ayesha,Elizabeth Debicki,2.0,0.0097498698160052,0.0,0.2187525928020477,0.2199459373950958,0.2419660538434982,0.0,0.0,0.0,Elizabeth Debicki
+1043,what does n mean on an irish stamp,the current domestic posting rate,no-value indicator,2.0,0.0094103934243321,0.0,0.3138072192668915,0.2725745141506195,0.2693493366241455,0.0,0.0,0.0,no-value indicator
+1057,who is the man in black the dark tower,Randall Flagg,Walter Padick,2.0,0.0096267759799957,0.0,0.2561797201633453,0.2883017361164093,0.3111633956432342,0.0,0.0,0.0,Walter Padick
+1080,b-25 bomber accidentally flew into the empire state building,Old John Feather Merchant,1945,2.0,0.0095728710293769,0.0,0.2777179777622223,0.1121863797307014,0.0987344235181808,0.0,0.0,0.0,1945
+1081,b-25 bomber accidentally flew into the empire state building,Old John Feather Merchant,"July 28, 1945",2.0,0.0094929337501525,0.0,0.2432850301265717,0.0843922272324562,0.0600437223911285,0.0,0.0,0.0,"July 28, 1945"
+1173,when did the blue bombers last win the grey cup,1990,2017,2.0,0.0122901713475584,0.0,0.5549390316009521,0.3157512545585632,0.3921822309494018,0.0,0.0,0.0,2017
+1206,who is marconi in we built this city,the father of the radio,Italian inventor Guglielmo Marconi,2.0,0.1936266273260116,0.0,0.2759925127029419,0.1893790662288665,0.1645182967185974,0.0,0.0,0.0,Italian inventor Guglielmo Marconi
+1225,where did the republican contract with america enjoy its greatest support,the 104th Congress,the 1994 Congressional election campaign,2.0,0.1213356629014015,0.0,0.465278685092926,0.3631186783313751,0.3272588253021239,0.0,0.25,0.1041666666666666,the 1994 Congressional election campaign
+1290,who sang i've got you under my skin,Virginia Bruce,Frank Sinatra,2.0,0.0098704472184181,0.0,0.2687025070190429,0.2373875379562378,0.2294696867465973,0.0,0.0,0.0,Frank Sinatra
+1328,based on population what is the largest military base in the united states,"Ramstein AB, in Germany",fort bragg,2.0,0.0096987169235944,0.0,0.2504404485225677,0.2090704441070556,0.2036629468202591,0.0,0.0,0.0,fort bragg
+1329,based on population what is the largest military base in the united states,"Ramstein AB, in Germany","Fort Bragg, North Carolina",2.0,0.0097460951656103,0.0,0.3856413662433624,0.0495018251240253,-0.014294640161097,0.0,0.0,0.1,"Fort Bragg, North Carolina"
+1386,a wrinkle in time what is the it,main antagonist of the story,an evil disembodied brain,2.0,0.0121854860335588,0.0,0.3280027806758881,0.087445892393589,0.0390533693134784,0.0,0.0,0.0,an evil disembodied brain
+1387,a wrinkle in time what is the it,main antagonist of the story,brain,2.0,0.0114915398880839,0.0,0.323087602853775,0.0117504345253109,-0.0173924639821052,0.0,0.0,0.0,brain
+1388,a wrinkle in time what is the it,main antagonist of the story,a disembodied brain,2.0,0.0088503621518611,0.0,0.3187906742095947,0.058718416839838,0.0062710084021091,0.0,0.0,0.0,a disembodied brain
+1401,where was the last significant battle in the revolutionary war fought,Virginia,The Siege of Yorktown,2.0,0.0098564391955733,0.0,0.3417401015758514,0.1110455021262168,0.1005082502961158,0.0,0.0,0.0,The Siege of Yorktown
+1416,what is the function of the adrenal medulla hormones,increased metabolism,produces adrenaline and noradrenaline,2.0,0.0364439748227596,0.0,0.307681143283844,0.3656703531742096,0.3921095132827759,0.0,0.0,0.0,produces adrenaline and noradrenaline
+1417,what is the function of the adrenal medulla hormones,increased metabolism,release of adrenaline,2.0,0.0498732253909111,0.0,0.3631605505943297,0.3947838544845581,0.4070645570755005,0.0,0.0,0.0,release of adrenaline
+1418,what is the function of the adrenal medulla hormones,increased metabolism,release adrenaline,2.0,0.0906900763511657,0.0,0.3505526781082153,0.3890732228755951,0.4091436564922333,0.0,0.0,0.0,release adrenaline
+1419,what is the function of the adrenal medulla hormones,increased metabolism,regulation of blood pressure and electrolyte balance,2.0,0.0198948923498392,0.0,0.3221956491470337,0.3724401593208313,0.3848425447940825,0.0,0.0,0.0,regulation of blood pressure and electrolyte balance
+1420,what is the function of the adrenal medulla hormones,increased metabolism,epinephrine,2.0,0.0093629686161875,0.0,0.2794423103332519,0.1912913769483566,0.1982136517763137,0.0,0.0,0.0,epinephrine
+1421,what is the function of the adrenal medulla hormones,increased metabolism,Adrenaline,2.0,0.0772578567266464,0.0,0.3720363080501557,0.3611314594745636,0.3896569311618805,0.0,0.0,0.0,Adrenaline
+1438,the ancient civilization credited with the invention of paper around 105 c.e,China,cai lun,2.0,0.0119203673675656,0.0,0.297645628452301,0.2450702637434005,0.2993977665901184,0.0,0.0,0.0,cai lun
+1440,the ancient civilization credited with the invention of paper around 105 c.e,China,United States,2.0,0.0100931972265243,0.0,0.3371134400367737,0.3962521851062774,0.4517039060592651,0.0,0.0,0.0,United States
+1448,who sings the song papa was a rolling stone,The Undisputed Truth,the temptations,2.0,0.0125644160434603,0.0,0.4372778832912445,0.1134575828909874,0.0959478318691253,0.0,0.4,0.2380952380952381,the temptations
+1504,what are your rights in the first amendment,religion,freedom of speech,2.0,0.0092387720942497,0.0,0.3231731355190277,0.1942027956247329,0.2121434509754181,0.0,0.0,0.0,freedom of speech
+1505,what are your rights in the first amendment,religion,freedom of the press,2.0,0.0090651707723736,0.0,0.3366902470588684,0.1924988925457,0.2023802101612091,0.0,0.0,0.0,freedom of the press
+1541,who plays jacks brother in when calls the heart,Max Lloyd-Jones,daniel lissing,2.0,0.0138747673481702,0.0,0.2426747530698776,0.1326742023229599,0.124975599348545,0.0,0.0,0.0,daniel lissing
+1593,how many types of subatomic particles are there in an atom,two,three,2.0,0.2186362594366073,0.0,0.8562725186347961,0.2388631999492645,0.2749612331390381,0.0,0.0,0.0,three
+1599,the island of madagascar is located off which border of the main continent,southeastern,Africa,2.0,0.0097500495612621,0.0,0.3620255291461945,0.0740694627165794,0.113631010055542,0.0,0.0,0.0,Africa
+1634,when does the sympathetic nervous system be activated,constantly,fight - or - flight response,2.0,0.0101455859839916,0.0,0.2909033596515655,0.1040785238146781,0.0732015818357467,0.0,0.0,0.0,fight - or - flight response
+1635,when does the sympathetic nervous system be activated,constantly,fight-or-flight response,2.0,0.0093867219984531,0.0,0.2909033596515655,0.1028186529874801,0.0865421146154403,0.0,0.0,0.0,fight-or-flight response
+1680,who played joey on all in the family,Jason and Justin Draeger,Jacobs,2.0,0.0422536693513393,0.0,0.2719303369522095,0.1608657836914062,0.1515104174613952,0.0,0.0,0.0,Jacobs
+1681,who played joey on all in the family,Jason and Justin Draeger,Christian Jacobs,2.0,0.0102033419534564,0.0,0.2704241871833801,0.1987152397632599,0.1953809857368468,0.0,0.0,0.0,Christian Jacobs
+1682,who played joey on all in the family,Jason and Justin Draeger,casey siemaszko,2.0,0.0100765498355031,0.0,0.2425492703914642,0.1417687684297561,0.1031065285205841,0.0,0.0,0.0,casey siemaszko
+1690,when is the agents of shield season premiere,July 2019,"december 1, 2017",2.0,0.0118443723767995,0.0,0.5383421778678894,0.377687007188797,0.3740704059600829,0.0,0.0,0.0,"december 1, 2017"
+1691,when is the agents of shield season premiere,July 2019,"September 20, 2016",2.0,0.0101835587993264,0.0,0.5269126296043396,0.293190985918045,0.2975460886955261,0.0,0.0,0.0,"September 20, 2016"
+1693,who won the 2018 formula 1 french grand pix tournament,Sebastian Vettel,lewis hamilton,2.0,0.0094473045319318,0.0,0.2744744420051575,0.3204631805419922,0.3551989495754242,0.0,0.0,0.0,lewis hamilton
+1736,who was the first king of england and what year,Canute the Great,\u00e6thelstan,2.0,0.0113529441878199,0.0,0.2745537161827087,0.257766991853714,0.219726026058197,0.0,0.0,0.0,æthelstan
+1744,who won the match between india and pakistan,India,Israel,2.0,0.0107619334012269,0.0,0.5163576602935791,0.3773371875286102,0.4738326966762543,0.0,0.0,0.0,Israel
+1806,stratosphere is part of the atmosphere that absorbs ultraviolet,radiation,ozone layer,2.0,0.0091498447582125,0.0,0.3814793527126312,0.1865465641021728,0.2113065123558044,0.0,0.0,0.0,ozone layer
+1815,what is he on the periodic table of elements,He­lium,atomic number 2,2.0,0.0610427930951118,0.0,0.3192649781703949,0.2135247886180877,0.2042811512947082,0.0,0.0,0.0,atomic number 2
+1848,who won oscar for movie whatever happened to baby jane,Norma Koch,bette davis,2.0,0.0113106817007064,0.0,0.2479656785726547,0.2698975205421448,0.3034762740135193,0.0,0.0,0.0,bette davis
+1852,where does tri tip come from on a cow,the tensor fasciae latae muscle,the bottom sirloin sub primal cut,2.0,0.0091372514143586,0.0,0.3235308527946472,0.2505642771720886,0.2309980690479278,0.0,0.1818181818181818,0.0847457627118644,the bottom sirloin sub primal cut
+1853,where does tri tip come from on a cow,the tensor fasciae latae muscle,the bottom sirloin subprimal cut,2.0,0.00917249917984,0.0,0.3222154974937439,0.2294027060270309,0.2098653614521026,0.0,0.2,0.1,the bottom sirloin subprimal cut
+1886,who sang a heart needs a second chance,38 Special,Max Carl Gronenthal,2.0,0.0104892998933792,0.0,0.2273898422718048,0.0626001730561256,0.0168364085257053,0.0,0.0,0.0,Max Carl Gronenthal
+1903,where did the idea of clowns come from,ancient Greek and Roman theatre,Egypt,2.0,0.0097148558124899,0.0,0.3603311479091644,0.2065722197294235,0.1724327504634857,0.0,0.0,0.0,Egypt
+1934,who wrote the words to the original pledge of allegiance,Captain George Thatcher Balch,Francis Julius Bellamy,2.0,0.0093755591660738,0.0,0.291411280632019,0.046655498445034,0.0165700130164623,0.0,0.0,0.0,Francis Julius Bellamy
+1935,who wrote the words to the original pledge of allegiance,Captain George Thatcher Balch,Francis Bellamy,2.0,0.0094623547047376,0.0,0.2967623174190521,0.0496789924800396,0.029533501714468,0.0,0.0,0.0,Francis Bellamy
+1946,where is the world's largest temple located,"Central Java, Indonesia",Cambodia,2.0,0.0092793870717287,0.0,0.4136067032814026,0.2186838537454605,0.2118863761425018,0.0,0.0,0.0,Cambodia
+1999,who was the bad guy on designated survivor,Terry Serpico,Patrick Lloyd,2.0,0.0133340656757354,0.0,0.258993923664093,0.1491502672433853,0.1540480852127075,0.0,0.0,0.0,Patrick Lloyd
+2008,nba record for points scored in a game,100,wilt chamberlain,2.0,0.0098362257704138,0.0,0.2839380204677582,0.130117729306221,0.1450706124305725,0.0,0.0,0.0,wilt chamberlain
+2017,who has the most national championships in the sec football,Alabama,alabama crimson tide,2.0,0.159954696893692,0.5,0.6793109178543091,0.4788884818553924,0.4523289799690247,0.0,0.5,0.1785714285714285,alabama crimson tide
+2032,when did the united states send troops to vietnam,May 1950,"march 8, 1965",2.0,0.0126317385584115,0.0,0.5625659823417664,0.4011387228965759,0.4001427888870239,0.0,0.0,0.0,"march 8, 1965"
+2043,when was a scot in the arctic made,1948,1995,2.0,0.0117093585431575,0.0,0.5907979011535645,0.3172926306724548,0.3765649199485779,0.0,0.0,0.0,1995
+2090,city belonging to mid west of united states,Des Moines,kansas city,2.0,0.0095199309289455,0.0,0.250652402639389,0.3674986064434051,0.4051123261451721,0.0,0.0,0.0,kansas city
+2113,when did the roman emperors give free grain to the poor,second century AD,22 ad,2.0,0.0218959376215934,0.4,0.5178629159927368,0.1954928636550903,0.1952221393585205,0.0,0.4,0.2380952380952381,22 ad
+2142,who wore number 24 for the montreal canadiens,Phillip Danault,Chris Chelios,2.0,0.0099376523867249,0.0,0.2891597151756286,0.1308193802833557,0.1370902359485626,0.0,0.0,0.0,Chris Chelios
+2168,who sings how long is this been going on,George and Ira Gershwin,ace,2.0,0.010061977431178,0.0,0.283836156129837,0.1645070016384124,0.1479495763778686,0.0,0.0,0.0,ace
+2233,the seven deadly sins season 2 number of episodes,4,24,2.0,0.0314355753362178,0.0,0.6764461994171143,0.2997172474861145,0.342389851808548,0.0,0.0,0.0,24
+2294,what was the name of boss tweeds political machine,Tammany Hall,William Magear Tweed,2.0,0.0099201360717415,0.0,0.244748517870903,0.1839013546705246,0.1676836013793945,0.0,0.0,0.0,William Magear Tweed
+2346,where in australia is i'm a celebrity held,"near Tully, Queensland",new south wales,2.0,0.009271090850234,0.0,0.336414486169815,0.1637290716171264,0.152772381901741,0.0,0.0,0.0,new south wales
+2347,where in australia is i'm a celebrity held,"near Tully, Queensland",Australia,2.0,0.01280786562711,0.0,0.4145434498786926,0.3459886610507965,0.2878382802009582,0.0,0.0,0.0,Australia
+2437,examples of paradigm shifts in the natural sciences,The discovery of hyperbolic geometry,the copernican revolution,2.0,0.0092039629817008,0.0,0.3741483092308045,0.2058279365301132,0.1826681941747665,0.0,0.25,0.15625,the copernican revolution
+2438,examples of paradigm shifts in the natural sciences,The discovery of hyperbolic geometry,quantum mechanics,2.0,0.0196056012064218,0.0,0.4000714421272278,0.2308820635080337,0.2240679264068603,0.0,0.0,0.0,quantum mechanics
+2466,do you need a license to tattoo in nj,no,none specified,2.0,0.1092245951294899,0.0,0.4482405185699463,0.4868153631687164,0.4434895515441895,0.0,0.0,0.0,none specified
+2625,when was the last time alabama beat georgia,"December 1, 2018",2015,2.0,0.0138298934325575,0.0,0.5216133594512941,0.3225534856319427,0.357959121465683,0.0,0.0,0.0,2015
+2660,what city would be an example of a maritime climate,Prague,London,2.0,0.0131813185289502,0.0,0.4608021080493927,0.3302302658557892,0.3974373340606689,0.0,0.0,0.0,London
+2661,what city would be an example of a maritime climate,Prague,Amsterdam,2.0,0.0103957382962107,0.0,0.5040725469589233,0.4170968532562256,0.4727364182472229,0.0,0.0,0.0,Amsterdam
+2673,where is area code 339 located in us,Boston suburbs,Massachusetts,2.0,0.1075974628329277,0.0,0.4856245517730713,0.4172328412532806,0.3851334750652313,0.0,0.0,0.0,Massachusetts
+2713,where have saber tooth tiger remains been found,Brazil,La Brea Tar Pits in Los Angeles,2.0,0.0096105774864554,0.0,0.2466009855270385,0.0331556461751461,-0.0193852111697196,0.0,0.0,0.0,La Brea Tar Pits in Los Angeles
+2745,who said preamble is a key to the constitution of india,The Supreme Court of India,b. r. ambedkar,2.0,0.012937975116074,0.0,0.3012737333774567,0.2835270762443542,0.2947548627853393,0.0,0.0,0.0,b. r. ambedkar
+2769,what city is marina bay sands in singapore,Marina Bay in Singapore,Downtown Core,2.0,0.0094292098656296,0.0,0.3160283565521239,0.1921804100275039,0.1828046143054962,0.0,0.0,0.0,Downtown Core
+2790,what is the measure of the clarity of an image,spatial resolution,image resolution,2.0,0.1897615045309066,0.5,0.6719902753829956,0.7074143290519714,0.7520239949226379,0.0,0.5,0.25,image resolution
+2869,who is the main character in incidents in the life of a slave girl,Harriet Ann Jacobs,linda brent,2.0,0.0098212966695427,0.0,0.3090796172618866,0.2496810257434845,0.2668328285217285,0.0,0.0,0.0,linda brent
+2931,name a non metal which is required for combustion,oxidant,oxygen,2.0,0.033165942877531,0.0,0.2615442276000977,0.4018425047397613,0.4497120082378388,0.0,0.0,0.0,oxygen
+2951,who is the lady of the lake in merlin,Miranda Richardson,an enchantress,2.0,0.0111217303201556,0.0,0.242850586771965,0.1574670821428299,0.1659256219863891,0.0,0.0,0.0,an enchantress
+3005,what are the major concerns of new sociology of education,quantitative research methods,public schooling systems,2.0,0.0095146093517541,0.0,0.3489385545253753,0.1751890331506729,0.1567343175411224,0.0,0.0,0.0,public schooling systems
+3046,what is the drink with the highest alcohol percentage,Rectified spirit,vodka,2.0,0.0105400402098894,0.0,0.2981317043304443,0.3478350937366485,0.3205364644527435,0.0,0.0,0.0,vodka
+3144,who got rid of the first national bank,the U.S. Senate,President Andrew Jackson,2.0,0.0091214599087834,0.0,0.3187592625617981,0.0045134439133107,-0.0332968346774578,0.0,0.0,0.0,President Andrew Jackson
+3145,who got rid of the first national bank,the U.S. Senate,Andrew Jackson,2.0,0.0089722415432333,0.0,0.2780101001262665,-0.0210152324289083,-0.0320606678724288,0.0,0.0,0.0,Andrew Jackson
+3167,when is season 3 of free coming out,July 11,2018,2.0,0.0107945222407579,0.0,0.2729061841964721,0.190739244222641,0.2293549180030823,0.0,0.0,0.0,2018
+3210,how many pictures can you save on google photos,up to 16Â megapixels,unlimited,2.0,0.0604758970439434,0.0,0.2870832979679108,0.1428221762180328,0.1171957775950431,0.0,0.0,0.0,unlimited
+3218,when did the president of india give assent the central gst law,August 2016,1 july 2017,2.0,0.045786365866661,0.0,0.6976740956306458,0.227675050497055,0.2065472155809402,0.0,0.0,0.0,1 july 2017
+3221,what is a national insurance number in the uk,"""personal account number""",The National Insurance number,2.0,0.0360742434859275,0.3333333333333333,0.5006170868873596,0.3653892278671264,0.3266995549201965,0.0,0.2857142857142857,0.1219512195121951,The National Insurance number
+3230,the dominant trees of the mesozoic era are called,angiosperms,conifers,2.0,0.0126795722171664,0.0,0.2724322974681854,0.1826351135969162,0.192409873008728,0.0,0.0,0.0,conifers
+3235,what happened to ned starks brother and father,executes,death,2.0,0.010393158532679,0.0,0.342087060213089,0.4225273430347442,0.4525170922279358,0.0,0.0,0.0,death
+3238,what happened to ned starks brother and father,executes,died,2.0,0.00994089897722,0.0,0.3773798644542694,0.3531724512577057,0.3706272244453429,0.0,0.0,0.0,died
+3398,how many districts are there in the tennessee house of representatives,9,99,2.0,0.0150656411424279,0.0,0.6097613573074341,0.3856420814990997,0.424800843000412,0.0,0.0,0.0,99
+3434,what is the purpose of a chip in a debit card,control access to a resource,security,2.0,0.0095375729724764,0.0,0.35953488945961,0.2380600273609161,0.2404075860977173,0.0,0.0,0.0,security
+3482,what movie is bring it on the musical based off of,Bring It On,2000 film of the same name,2.0,0.0097940629348158,0.0,0.3480432629585266,0.0857145264744758,0.0629906207323074,0.0,0.0,0.0,2000 film of the same name
+3494,what is the name of lord hanuman son,Macchanu,makardhwaja,2.0,0.052735399454832,0.0,0.2269779741764069,0.336726427078247,0.3322207033634186,0.0,0.0,0.0,makardhwaja
+3495,what is the name of lord hanuman son,Macchanu,Makaradhwaja,2.0,0.0122727956622838,0.0,0.2268431633710861,0.4081100821495056,0.4260076880455017,0.0,0.0,0.0,Makaradhwaja
+3633,who claimed the mississippi river valley for france,Robert de La Salle,Ren\u00e9-Robert Cavelier,2.0,0.0806230530142784,0.0,0.3190198838710785,0.3150968849658966,0.288481742143631,0.0,0.25,0.0,René-Robert Cavelier
+3634,who claimed the mississippi river valley for france,Robert de La Salle,rene - robert cavelier,2.0,0.1715862452983856,0.2857142857142857,0.4242224991321564,0.3037735521793365,0.3003207445144653,0.0,0.2857142857142857,0.125,rene - robert cavelier

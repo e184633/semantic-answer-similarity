@@ -1,0 +1,9111 @@
+number1,number2,score
+0,zero,1
+1,one,1
+2,two,1
+3,three,1
+4,four,1
+5,five,1
+6,six,1
+7,seven,1
+8,eight,1
+9,nine,1
+10,ten,1
+11,eleven,1
+12,twelve,1
+13,thirteen,1
+14,fourteen,1
+15,fifteen,1
+16,sixteen,1
+17,seventeen,1
+18,eighteen,1
+19,nineteen,1
+20,twenty,1
+21,twenty-one,1
+22,twenty-two,1
+23,twenty-three,1
+24,twenty-four,1
+25,twenty-five,1
+26,twenty-six,1
+27,twenty-seven,1
+28,twenty-eight,1
+29,twenty-nine,1
+30,thirty,1
+31,thirty-one,1
+32,thirty-two,1
+33,thirty-three,1
+34,thirty-four,1
+35,thirty-five,1
+36,thirty-six,1
+37,thirty-seven,1
+38,thirty-eight,1
+39,thirty-nine,1
+40,forty,1
+41,forty-one,1
+42,forty-two,1
+43,forty-three,1
+44,forty-four,1
+45,forty-five,1
+46,forty-six,1
+47,forty-seven,1
+48,forty-eight,1
+49,forty-nine,1
+50,fifty,1
+51,fifty-one,1
+52,fifty-two,1
+53,fifty-three,1
+54,fifty-four,1
+55,fifty-five,1
+56,fifty-six,1
+57,fifty-seven,1
+58,fifty-eight,1
+59,fifty-nine,1
+60,sixty,1
+61,sixty-one,1
+62,sixty-two,1
+63,sixty-three,1
+64,sixty-four,1
+65,sixty-five,1
+66,sixty-six,1
+67,sixty-seven,1
+68,sixty-eight,1
+69,sixty-nine,1
+70,seventy,1
+71,seventy-one,1
+72,seventy-two,1
+73,seventy-three,1
+74,seventy-four,1
+75,seventy-five,1
+76,seventy-six,1
+77,seventy-seven,1
+78,seventy-eight,1
+79,seventy-nine,1
+80,eighty,1
+81,eighty-one,1
+82,eighty-two,1
+83,eighty-three,1
+84,eighty-four,1
+85,eighty-five,1
+86,eighty-six,1
+87,eighty-seven,1
+88,eighty-eight,1
+89,eighty-nine,1
+90,ninety,1
+91,ninety-one,1
+92,ninety-two,1
+93,ninety-three,1
+94,ninety-four,1
+95,ninety-five,1
+96,ninety-six,1
+97,ninety-seven,1
+98,ninety-eight,1
+99,ninety-nine,1
+100,one hundred,1
+101,one hundred and one,1
+102,one hundred and two,1
+103,one hundred and three,1
+104,one hundred and four,1
+105,one hundred and five,1
+106,one hundred and six,1
+107,one hundred and seven,1
+108,one hundred and eight,1
+109,one hundred and nine,1
+110,one hundred and ten,1
+111,one hundred and eleven,1
+112,one hundred and twelve,1
+113,one hundred and thirteen,1
+114,one hundred and fourteen,1
+115,one hundred and fifteen,1
+116,one hundred and sixteen,1
+117,one hundred and seventeen,1
+118,one hundred and eighteen,1
+119,one hundred and nineteen,1
+120,one hundred and twenty,1
+121,one hundred and twenty-one,1
+122,one hundred and twenty-two,1
+123,one hundred and twenty-three,1
+124,one hundred and twenty-four,1
+125,one hundred and twenty-five,1
+126,one hundred and twenty-six,1
+127,one hundred and twenty-seven,1
+128,one hundred and twenty-eight,1
+129,one hundred and twenty-nine,1
+130,one hundred and thirty,1
+131,one hundred and thirty-one,1
+132,one hundred and thirty-two,1
+133,one hundred and thirty-three,1
+134,one hundred and thirty-four,1
+135,one hundred and thirty-five,1
+136,one hundred and thirty-six,1
+137,one hundred and thirty-seven,1
+138,one hundred and thirty-eight,1
+139,one hundred and thirty-nine,1
+140,one hundred and forty,1
+141,one hundred and forty-one,1
+142,one hundred and forty-two,1
+143,one hundred and forty-three,1
+144,one hundred and forty-four,1
+145,one hundred and forty-five,1
+146,one hundred and forty-six,1
+147,one hundred and forty-seven,1
+148,one hundred and forty-eight,1
+149,one hundred and forty-nine,1
+150,one hundred and fifty,1
+151,one hundred and fifty-one,1
+152,one hundred and fifty-two,1
+153,one hundred and fifty-three,1
+154,one hundred and fifty-four,1
+155,one hundred and fifty-five,1
+156,one hundred and fifty-six,1
+157,one hundred and fifty-seven,1
+158,one hundred and fifty-eight,1
+159,one hundred and fifty-nine,1
+160,one hundred and sixty,1
+161,one hundred and sixty-one,1
+162,one hundred and sixty-two,1
+163,one hundred and sixty-three,1
+164,one hundred and sixty-four,1
+165,one hundred and sixty-five,1
+166,one hundred and sixty-six,1
+167,one hundred and sixty-seven,1
+168,one hundred and sixty-eight,1
+169,one hundred and sixty-nine,1
+170,one hundred and seventy,1
+171,one hundred and seventy-one,1
+172,one hundred and seventy-two,1
+173,one hundred and seventy-three,1
+174,one hundred and seventy-four,1
+175,one hundred and seventy-five,1
+176,one hundred and seventy-six,1
+177,one hundred and seventy-seven,1
+178,one hundred and seventy-eight,1
+179,one hundred and seventy-nine,1
+180,one hundred and eighty,1
+181,one hundred and eighty-one,1
+182,one hundred and eighty-two,1
+183,one hundred and eighty-three,1
+184,one hundred and eighty-four,1
+185,one hundred and eighty-five,1
+186,one hundred and eighty-six,1
+187,one hundred and eighty-seven,1
+188,one hundred and eighty-eight,1
+189,one hundred and eighty-nine,1
+190,one hundred and ninety,1
+191,one hundred and ninety-one,1
+192,one hundred and ninety-two,1
+193,one hundred and ninety-three,1
+194,one hundred and ninety-four,1
+195,one hundred and ninety-five,1
+196,one hundred and ninety-six,1
+197,one hundred and ninety-seven,1
+198,one hundred and ninety-eight,1
+199,one hundred and ninety-nine,1
+200,two hundred,1
+201,two hundred and one,1
+202,two hundred and two,1
+203,two hundred and three,1
+204,two hundred and four,1
+205,two hundred and five,1
+206,two hundred and six,1
+207,two hundred and seven,1
+208,two hundred and eight,1
+209,two hundred and nine,1
+210,two hundred and ten,1
+211,two hundred and eleven,1
+212,two hundred and twelve,1
+213,two hundred and thirteen,1
+214,two hundred and fourteen,1
+215,two hundred and fifteen,1
+216,two hundred and sixteen,1
+217,two hundred and seventeen,1
+218,two hundred and eighteen,1
+219,two hundred and nineteen,1
+220,two hundred and twenty,1
+221,two hundred and twenty-one,1
+222,two hundred and twenty-two,1
+223,two hundred and twenty-three,1
+224,two hundred and twenty-four,1
+225,two hundred and twenty-five,1
+226,two hundred and twenty-six,1
+227,two hundred and twenty-seven,1
+228,two hundred and twenty-eight,1
+229,two hundred and twenty-nine,1
+230,two hundred and thirty,1
+231,two hundred and thirty-one,1
+232,two hundred and thirty-two,1
+233,two hundred and thirty-three,1
+234,two hundred and thirty-four,1
+235,two hundred and thirty-five,1
+236,two hundred and thirty-six,1
+237,two hundred and thirty-seven,1
+238,two hundred and thirty-eight,1
+239,two hundred and thirty-nine,1
+240,two hundred and forty,1
+241,two hundred and forty-one,1
+242,two hundred and forty-two,1
+243,two hundred and forty-three,1
+244,two hundred and forty-four,1
+245,two hundred and forty-five,1
+246,two hundred and forty-six,1
+247,two hundred and forty-seven,1
+248,two hundred and forty-eight,1
+249,two hundred and forty-nine,1
+250,two hundred and fifty,1
+251,two hundred and fifty-one,1
+252,two hundred and fifty-two,1
+253,two hundred and fifty-three,1
+254,two hundred and fifty-four,1
+255,two hundred and fifty-five,1
+256,two hundred and fifty-six,1
+257,two hundred and fifty-seven,1
+258,two hundred and fifty-eight,1
+259,two hundred and fifty-nine,1
+260,two hundred and sixty,1
+261,two hundred and sixty-one,1
+262,two hundred and sixty-two,1
+263,two hundred and sixty-three,1
+264,two hundred and sixty-four,1
+265,two hundred and sixty-five,1
+266,two hundred and sixty-six,1
+267,two hundred and sixty-seven,1
+268,two hundred and sixty-eight,1
+269,two hundred and sixty-nine,1
+270,two hundred and seventy,1
+271,two hundred and seventy-one,1
+272,two hundred and seventy-two,1
+273,two hundred and seventy-three,1
+274,two hundred and seventy-four,1
+275,two hundred and seventy-five,1
+276,two hundred and seventy-six,1
+277,two hundred and seventy-seven,1
+278,two hundred and seventy-eight,1
+279,two hundred and seventy-nine,1
+280,two hundred and eighty,1
+281,two hundred and eighty-one,1
+282,two hundred and eighty-two,1
+283,two hundred and eighty-three,1
+284,two hundred and eighty-four,1
+285,two hundred and eighty-five,1
+286,two hundred and eighty-six,1
+287,two hundred and eighty-seven,1
+288,two hundred and eighty-eight,1
+289,two hundred and eighty-nine,1
+290,two hundred and ninety,1
+291,two hundred and ninety-one,1
+292,two hundred and ninety-two,1
+293,two hundred and ninety-three,1
+294,two hundred and ninety-four,1
+295,two hundred and ninety-five,1
+296,two hundred and ninety-six,1
+297,two hundred and ninety-seven,1
+298,two hundred and ninety-eight,1
+299,two hundred and ninety-nine,1
+300,three hundred,1
+301,three hundred and one,1
+302,three hundred and two,1
+303,three hundred and three,1
+304,three hundred and four,1
+305,three hundred and five,1
+306,three hundred and six,1
+307,three hundred and seven,1
+308,three hundred and eight,1
+309,three hundred and nine,1
+310,three hundred and ten,1
+311,three hundred and eleven,1
+312,three hundred and twelve,1
+313,three hundred and thirteen,1
+314,three hundred and fourteen,1
+315,three hundred and fifteen,1
+316,three hundred and sixteen,1
+317,three hundred and seventeen,1
+318,three hundred and eighteen,1
+319,three hundred and nineteen,1
+320,three hundred and twenty,1
+321,three hundred and twenty-one,1
+322,three hundred and twenty-two,1
+323,three hundred and twenty-three,1
+324,three hundred and twenty-four,1
+325,three hundred and twenty-five,1
+326,three hundred and twenty-six,1
+327,three hundred and twenty-seven,1
+328,three hundred and twenty-eight,1
+329,three hundred and twenty-nine,1
+330,three hundred and thirty,1
+331,three hundred and thirty-one,1
+332,three hundred and thirty-two,1
+333,three hundred and thirty-three,1
+334,three hundred and thirty-four,1
+335,three hundred and thirty-five,1
+336,three hundred and thirty-six,1
+337,three hundred and thirty-seven,1
+338,three hundred and thirty-eight,1
+339,three hundred and thirty-nine,1
+340,three hundred and forty,1
+341,three hundred and forty-one,1
+342,three hundred and forty-two,1
+343,three hundred and forty-three,1
+344,three hundred and forty-four,1
+345,three hundred and forty-five,1
+346,three hundred and forty-six,1
+347,three hundred and forty-seven,1
+348,three hundred and forty-eight,1
+349,three hundred and forty-nine,1
+350,three hundred and fifty,1
+351,three hundred and fifty-one,1
+352,three hundred and fifty-two,1
+353,three hundred and fifty-three,1
+354,three hundred and fifty-four,1
+355,three hundred and fifty-five,1
+356,three hundred and fifty-six,1
+357,three hundred and fifty-seven,1
+358,three hundred and fifty-eight,1
+359,three hundred and fifty-nine,1
+360,three hundred and sixty,1
+361,three hundred and sixty-one,1
+362,three hundred and sixty-two,1
+363,three hundred and sixty-three,1
+364,three hundred and sixty-four,1
+365,three hundred and sixty-five,1
+366,three hundred and sixty-six,1
+367,three hundred and sixty-seven,1
+368,three hundred and sixty-eight,1
+369,three hundred and sixty-nine,1
+370,three hundred and seventy,1
+371,three hundred and seventy-one,1
+372,three hundred and seventy-two,1
+373,three hundred and seventy-three,1
+374,three hundred and seventy-four,1
+375,three hundred and seventy-five,1
+376,three hundred and seventy-six,1
+377,three hundred and seventy-seven,1
+378,three hundred and seventy-eight,1
+379,three hundred and seventy-nine,1
+380,three hundred and eighty,1
+381,three hundred and eighty-one,1
+382,three hundred and eighty-two,1
+383,three hundred and eighty-three,1
+384,three hundred and eighty-four,1
+385,three hundred and eighty-five,1
+386,three hundred and eighty-six,1
+387,three hundred and eighty-seven,1
+388,three hundred and eighty-eight,1
+389,three hundred and eighty-nine,1
+390,three hundred and ninety,1
+391,three hundred and ninety-one,1
+392,three hundred and ninety-two,1
+393,three hundred and ninety-three,1
+394,three hundred and ninety-four,1
+395,three hundred and ninety-five,1
+396,three hundred and ninety-six,1
+397,three hundred and ninety-seven,1
+398,three hundred and ninety-eight,1
+399,three hundred and ninety-nine,1
+400,four hundred,1
+401,four hundred and one,1
+402,four hundred and two,1
+403,four hundred and three,1
+404,four hundred and four,1
+405,four hundred and five,1
+406,four hundred and six,1
+407,four hundred and seven,1
+408,four hundred and eight,1
+409,four hundred and nine,1
+410,four hundred and ten,1
+411,four hundred and eleven,1
+412,four hundred and twelve,1
+413,four hundred and thirteen,1
+414,four hundred and fourteen,1
+415,four hundred and fifteen,1
+416,four hundred and sixteen,1
+417,four hundred and seventeen,1
+418,four hundred and eighteen,1
+419,four hundred and nineteen,1
+420,four hundred and twenty,1
+421,four hundred and twenty-one,1
+422,four hundred and twenty-two,1
+423,four hundred and twenty-three,1
+424,four hundred and twenty-four,1
+425,four hundred and twenty-five,1
+426,four hundred and twenty-six,1
+427,four hundred and twenty-seven,1
+428,four hundred and twenty-eight,1
+429,four hundred and twenty-nine,1
+430,four hundred and thirty,1
+431,four hundred and thirty-one,1
+432,four hundred and thirty-two,1
+433,four hundred and thirty-three,1
+434,four hundred and thirty-four,1
+435,four hundred and thirty-five,1
+436,four hundred and thirty-six,1
+437,four hundred and thirty-seven,1
+438,four hundred and thirty-eight,1
+439,four hundred and thirty-nine,1
+440,four hundred and forty,1
+441,four hundred and forty-one,1
+442,four hundred and forty-two,1
+443,four hundred and forty-three,1
+444,four hundred and forty-four,1
+445,four hundred and forty-five,1
+446,four hundred and forty-six,1
+447,four hundred and forty-seven,1
+448,four hundred and forty-eight,1
+449,four hundred and forty-nine,1
+450,four hundred and fifty,1
+451,four hundred and fifty-one,1
+452,four hundred and fifty-two,1
+453,four hundred and fifty-three,1
+454,four hundred and fifty-four,1
+455,four hundred and fifty-five,1
+456,four hundred and fifty-six,1
+457,four hundred and fifty-seven,1
+458,four hundred and fifty-eight,1
+459,four hundred and fifty-nine,1
+460,four hundred and sixty,1
+461,four hundred and sixty-one,1
+462,four hundred and sixty-two,1
+463,four hundred and sixty-three,1
+464,four hundred and sixty-four,1
+465,four hundred and sixty-five,1
+466,four hundred and sixty-six,1
+467,four hundred and sixty-seven,1
+468,four hundred and sixty-eight,1
+469,four hundred and sixty-nine,1
+470,four hundred and seventy,1
+471,four hundred and seventy-one,1
+472,four hundred and seventy-two,1
+473,four hundred and seventy-three,1
+474,four hundred and seventy-four,1
+475,four hundred and seventy-five,1
+476,four hundred and seventy-six,1
+477,four hundred and seventy-seven,1
+478,four hundred and seventy-eight,1
+479,four hundred and seventy-nine,1
+480,four hundred and eighty,1
+481,four hundred and eighty-one,1
+482,four hundred and eighty-two,1
+483,four hundred and eighty-three,1
+484,four hundred and eighty-four,1
+485,four hundred and eighty-five,1
+486,four hundred and eighty-six,1
+487,four hundred and eighty-seven,1
+488,four hundred and eighty-eight,1
+489,four hundred and eighty-nine,1
+490,four hundred and ninety,1
+491,four hundred and ninety-one,1
+492,four hundred and ninety-two,1
+493,four hundred and ninety-three,1
+494,four hundred and ninety-four,1
+495,four hundred and ninety-five,1
+496,four hundred and ninety-six,1
+497,four hundred and ninety-seven,1
+498,four hundred and ninety-eight,1
+499,four hundred and ninety-nine,1
+500,five hundred,1
+501,five hundred and one,1
+502,five hundred and two,1
+503,five hundred and three,1
+504,five hundred and four,1
+505,five hundred and five,1
+506,five hundred and six,1
+507,five hundred and seven,1
+508,five hundred and eight,1
+509,five hundred and nine,1
+510,five hundred and ten,1
+511,five hundred and eleven,1
+512,five hundred and twelve,1
+513,five hundred and thirteen,1
+514,five hundred and fourteen,1
+515,five hundred and fifteen,1
+516,five hundred and sixteen,1
+517,five hundred and seventeen,1
+518,five hundred and eighteen,1
+519,five hundred and nineteen,1
+520,five hundred and twenty,1
+521,five hundred and twenty-one,1
+522,five hundred and twenty-two,1
+523,five hundred and twenty-three,1
+524,five hundred and twenty-four,1
+525,five hundred and twenty-five,1
+526,five hundred and twenty-six,1
+527,five hundred and twenty-seven,1
+528,five hundred and twenty-eight,1
+529,five hundred and twenty-nine,1
+530,five hundred and thirty,1
+531,five hundred and thirty-one,1
+532,five hundred and thirty-two,1
+533,five hundred and thirty-three,1
+534,five hundred and thirty-four,1
+535,five hundred and thirty-five,1
+536,five hundred and thirty-six,1
+537,five hundred and thirty-seven,1
+538,five hundred and thirty-eight,1
+539,five hundred and thirty-nine,1
+540,five hundred and forty,1
+541,five hundred and forty-one,1
+542,five hundred and forty-two,1
+543,five hundred and forty-three,1
+544,five hundred and forty-four,1
+545,five hundred and forty-five,1
+546,five hundred and forty-six,1
+547,five hundred and forty-seven,1
+548,five hundred and forty-eight,1
+549,five hundred and forty-nine,1
+550,five hundred and fifty,1
+551,five hundred and fifty-one,1
+552,five hundred and fifty-two,1
+553,five hundred and fifty-three,1
+554,five hundred and fifty-four,1
+555,five hundred and fifty-five,1
+556,five hundred and fifty-six,1
+557,five hundred and fifty-seven,1
+558,five hundred and fifty-eight,1
+559,five hundred and fifty-nine,1
+560,five hundred and sixty,1
+561,five hundred and sixty-one,1
+562,five hundred and sixty-two,1
+563,five hundred and sixty-three,1
+564,five hundred and sixty-four,1
+565,five hundred and sixty-five,1
+566,five hundred and sixty-six,1
+567,five hundred and sixty-seven,1
+568,five hundred and sixty-eight,1
+569,five hundred and sixty-nine,1
+570,five hundred and seventy,1
+571,five hundred and seventy-one,1
+572,five hundred and seventy-two,1
+573,five hundred and seventy-three,1
+574,five hundred and seventy-four,1
+575,five hundred and seventy-five,1
+576,five hundred and seventy-six,1
+577,five hundred and seventy-seven,1
+578,five hundred and seventy-eight,1
+579,five hundred and seventy-nine,1
+580,five hundred and eighty,1
+581,five hundred and eighty-one,1
+582,five hundred and eighty-two,1
+583,five hundred and eighty-three,1
+584,five hundred and eighty-four,1
+585,five hundred and eighty-five,1
+586,five hundred and eighty-six,1
+587,five hundred and eighty-seven,1
+588,five hundred and eighty-eight,1
+589,five hundred and eighty-nine,1
+590,five hundred and ninety,1
+591,five hundred and ninety-one,1
+592,five hundred and ninety-two,1
+593,five hundred and ninety-three,1
+594,five hundred and ninety-four,1
+595,five hundred and ninety-five,1
+596,five hundred and ninety-six,1
+597,five hundred and ninety-seven,1
+598,five hundred and ninety-eight,1
+599,five hundred and ninety-nine,1
+600,six hundred,1
+601,six hundred and one,1
+602,six hundred and two,1
+603,six hundred and three,1
+604,six hundred and four,1
+605,six hundred and five,1
+606,six hundred and six,1
+607,six hundred and seven,1
+608,six hundred and eight,1
+609,six hundred and nine,1
+610,six hundred and ten,1
+611,six hundred and eleven,1
+612,six hundred and twelve,1
+613,six hundred and thirteen,1
+614,six hundred and fourteen,1
+615,six hundred and fifteen,1
+616,six hundred and sixteen,1
+617,six hundred and seventeen,1
+618,six hundred and eighteen,1
+619,six hundred and nineteen,1
+620,six hundred and twenty,1
+621,six hundred and twenty-one,1
+622,six hundred and twenty-two,1
+623,six hundred and twenty-three,1
+624,six hundred and twenty-four,1
+625,six hundred and twenty-five,1
+626,six hundred and twenty-six,1
+627,six hundred and twenty-seven,1
+628,six hundred and twenty-eight,1
+629,six hundred and twenty-nine,1
+630,six hundred and thirty,1
+631,six hundred and thirty-one,1
+632,six hundred and thirty-two,1
+633,six hundred and thirty-three,1
+634,six hundred and thirty-four,1
+635,six hundred and thirty-five,1
+636,six hundred and thirty-six,1
+637,six hundred and thirty-seven,1
+638,six hundred and thirty-eight,1
+639,six hundred and thirty-nine,1
+640,six hundred and forty,1
+641,six hundred and forty-one,1
+642,six hundred and forty-two,1
+643,six hundred and forty-three,1
+644,six hundred and forty-four,1
+645,six hundred and forty-five,1
+646,six hundred and forty-six,1
+647,six hundred and forty-seven,1
+648,six hundred and forty-eight,1
+649,six hundred and forty-nine,1
+650,six hundred and fifty,1
+651,six hundred and fifty-one,1
+652,six hundred and fifty-two,1
+653,six hundred and fifty-three,1
+654,six hundred and fifty-four,1
+655,six hundred and fifty-five,1
+656,six hundred and fifty-six,1
+657,six hundred and fifty-seven,1
+658,six hundred and fifty-eight,1
+659,six hundred and fifty-nine,1
+660,six hundred and sixty,1
+661,six hundred and sixty-one,1
+662,six hundred and sixty-two,1
+663,six hundred and sixty-three,1
+664,six hundred and sixty-four,1
+665,six hundred and sixty-five,1
+666,six hundred and sixty-six,1
+667,six hundred and sixty-seven,1
+668,six hundred and sixty-eight,1
+669,six hundred and sixty-nine,1
+670,six hundred and seventy,1
+671,six hundred and seventy-one,1
+672,six hundred and seventy-two,1
+673,six hundred and seventy-three,1
+674,six hundred and seventy-four,1
+675,six hundred and seventy-five,1
+676,six hundred and seventy-six,1
+677,six hundred and seventy-seven,1
+678,six hundred and seventy-eight,1
+679,six hundred and seventy-nine,1
+680,six hundred and eighty,1
+681,six hundred and eighty-one,1
+682,six hundred and eighty-two,1
+683,six hundred and eighty-three,1
+684,six hundred and eighty-four,1
+685,six hundred and eighty-five,1
+686,six hundred and eighty-six,1
+687,six hundred and eighty-seven,1
+688,six hundred and eighty-eight,1
+689,six hundred and eighty-nine,1
+690,six hundred and ninety,1
+691,six hundred and ninety-one,1
+692,six hundred and ninety-two,1
+693,six hundred and ninety-three,1
+694,six hundred and ninety-four,1
+695,six hundred and ninety-five,1
+696,six hundred and ninety-six,1
+697,six hundred and ninety-seven,1
+698,six hundred and ninety-eight,1
+699,six hundred and ninety-nine,1
+700,seven hundred,1
+701,seven hundred and one,1
+702,seven hundred and two,1
+703,seven hundred and three,1
+704,seven hundred and four,1
+705,seven hundred and five,1
+706,seven hundred and six,1
+707,seven hundred and seven,1
+708,seven hundred and eight,1
+709,seven hundred and nine,1
+710,seven hundred and ten,1
+711,seven hundred and eleven,1
+712,seven hundred and twelve,1
+713,seven hundred and thirteen,1
+714,seven hundred and fourteen,1
+715,seven hundred and fifteen,1
+716,seven hundred and sixteen,1
+717,seven hundred and seventeen,1
+718,seven hundred and eighteen,1
+719,seven hundred and nineteen,1
+720,seven hundred and twenty,1
+721,seven hundred and twenty-one,1
+722,seven hundred and twenty-two,1
+723,seven hundred and twenty-three,1
+724,seven hundred and twenty-four,1
+725,seven hundred and twenty-five,1
+726,seven hundred and twenty-six,1
+727,seven hundred and twenty-seven,1
+728,seven hundred and twenty-eight,1
+729,seven hundred and twenty-nine,1
+730,seven hundred and thirty,1
+731,seven hundred and thirty-one,1
+732,seven hundred and thirty-two,1
+733,seven hundred and thirty-three,1
+734,seven hundred and thirty-four,1
+735,seven hundred and thirty-five,1
+736,seven hundred and thirty-six,1
+737,seven hundred and thirty-seven,1
+738,seven hundred and thirty-eight,1
+739,seven hundred and thirty-nine,1
+740,seven hundred and forty,1
+741,seven hundred and forty-one,1
+742,seven hundred and forty-two,1
+743,seven hundred and forty-three,1
+744,seven hundred and forty-four,1
+745,seven hundred and forty-five,1
+746,seven hundred and forty-six,1
+747,seven hundred and forty-seven,1
+748,seven hundred and forty-eight,1
+749,seven hundred and forty-nine,1
+750,seven hundred and fifty,1
+751,seven hundred and fifty-one,1
+752,seven hundred and fifty-two,1
+753,seven hundred and fifty-three,1
+754,seven hundred and fifty-four,1
+755,seven hundred and fifty-five,1
+756,seven hundred and fifty-six,1
+757,seven hundred and fifty-seven,1
+758,seven hundred and fifty-eight,1
+759,seven hundred and fifty-nine,1
+760,seven hundred and sixty,1
+761,seven hundred and sixty-one,1
+762,seven hundred and sixty-two,1
+763,seven hundred and sixty-three,1
+764,seven hundred and sixty-four,1
+765,seven hundred and sixty-five,1
+766,seven hundred and sixty-six,1
+767,seven hundred and sixty-seven,1
+768,seven hundred and sixty-eight,1
+769,seven hundred and sixty-nine,1
+770,seven hundred and seventy,1
+771,seven hundred and seventy-one,1
+772,seven hundred and seventy-two,1
+773,seven hundred and seventy-three,1
+774,seven hundred and seventy-four,1
+775,seven hundred and seventy-five,1
+776,seven hundred and seventy-six,1
+777,seven hundred and seventy-seven,1
+778,seven hundred and seventy-eight,1
+779,seven hundred and seventy-nine,1
+780,seven hundred and eighty,1
+781,seven hundred and eighty-one,1
+782,seven hundred and eighty-two,1
+783,seven hundred and eighty-three,1
+784,seven hundred and eighty-four,1
+785,seven hundred and eighty-five,1
+786,seven hundred and eighty-six,1
+787,seven hundred and eighty-seven,1
+788,seven hundred and eighty-eight,1
+789,seven hundred and eighty-nine,1
+790,seven hundred and ninety,1
+791,seven hundred and ninety-one,1
+792,seven hundred and ninety-two,1
+793,seven hundred and ninety-three,1
+794,seven hundred and ninety-four,1
+795,seven hundred and ninety-five,1
+796,seven hundred and ninety-six,1
+797,seven hundred and ninety-seven,1
+798,seven hundred and ninety-eight,1
+799,seven hundred and ninety-nine,1
+800,eight hundred,1
+801,eight hundred and one,1
+802,eight hundred and two,1
+803,eight hundred and three,1
+804,eight hundred and four,1
+805,eight hundred and five,1
+806,eight hundred and six,1
+807,eight hundred and seven,1
+808,eight hundred and eight,1
+809,eight hundred and nine,1
+810,eight hundred and ten,1
+811,eight hundred and eleven,1
+812,eight hundred and twelve,1
+813,eight hundred and thirteen,1
+814,eight hundred and fourteen,1
+815,eight hundred and fifteen,1
+816,eight hundred and sixteen,1
+817,eight hundred and seventeen,1
+818,eight hundred and eighteen,1
+819,eight hundred and nineteen,1
+820,eight hundred and twenty,1
+821,eight hundred and twenty-one,1
+822,eight hundred and twenty-two,1
+823,eight hundred and twenty-three,1
+824,eight hundred and twenty-four,1
+825,eight hundred and twenty-five,1
+826,eight hundred and twenty-six,1
+827,eight hundred and twenty-seven,1
+828,eight hundred and twenty-eight,1
+829,eight hundred and twenty-nine,1
+830,eight hundred and thirty,1
+831,eight hundred and thirty-one,1
+832,eight hundred and thirty-two,1
+833,eight hundred and thirty-three,1
+834,eight hundred and thirty-four,1
+835,eight hundred and thirty-five,1
+836,eight hundred and thirty-six,1
+837,eight hundred and thirty-seven,1
+838,eight hundred and thirty-eight,1
+839,eight hundred and thirty-nine,1
+840,eight hundred and forty,1
+841,eight hundred and forty-one,1
+842,eight hundred and forty-two,1
+843,eight hundred and forty-three,1
+844,eight hundred and forty-four,1
+845,eight hundred and forty-five,1
+846,eight hundred and forty-six,1
+847,eight hundred and forty-seven,1
+848,eight hundred and forty-eight,1
+849,eight hundred and forty-nine,1
+850,eight hundred and fifty,1
+851,eight hundred and fifty-one,1
+852,eight hundred and fifty-two,1
+853,eight hundred and fifty-three,1
+854,eight hundred and fifty-four,1
+855,eight hundred and fifty-five,1
+856,eight hundred and fifty-six,1
+857,eight hundred and fifty-seven,1
+858,eight hundred and fifty-eight,1
+859,eight hundred and fifty-nine,1
+860,eight hundred and sixty,1
+861,eight hundred and sixty-one,1
+862,eight hundred and sixty-two,1
+863,eight hundred and sixty-three,1
+864,eight hundred and sixty-four,1
+865,eight hundred and sixty-five,1
+866,eight hundred and sixty-six,1
+867,eight hundred and sixty-seven,1
+868,eight hundred and sixty-eight,1
+869,eight hundred and sixty-nine,1
+870,eight hundred and seventy,1
+871,eight hundred and seventy-one,1
+872,eight hundred and seventy-two,1
+873,eight hundred and seventy-three,1
+874,eight hundred and seventy-four,1
+875,eight hundred and seventy-five,1
+876,eight hundred and seventy-six,1
+877,eight hundred and seventy-seven,1
+878,eight hundred and seventy-eight,1
+879,eight hundred and seventy-nine,1
+880,eight hundred and eighty,1
+881,eight hundred and eighty-one,1
+882,eight hundred and eighty-two,1
+883,eight hundred and eighty-three,1
+884,eight hundred and eighty-four,1
+885,eight hundred and eighty-five,1
+886,eight hundred and eighty-six,1
+887,eight hundred and eighty-seven,1
+888,eight hundred and eighty-eight,1
+889,eight hundred and eighty-nine,1
+890,eight hundred and ninety,1
+891,eight hundred and ninety-one,1
+892,eight hundred and ninety-two,1
+893,eight hundred and ninety-three,1
+894,eight hundred and ninety-four,1
+895,eight hundred and ninety-five,1
+896,eight hundred and ninety-six,1
+897,eight hundred and ninety-seven,1
+898,eight hundred and ninety-eight,1
+899,eight hundred and ninety-nine,1
+900,nine hundred,1
+901,nine hundred and one,1
+902,nine hundred and two,1
+903,nine hundred and three,1
+904,nine hundred and four,1
+905,nine hundred and five,1
+906,nine hundred and six,1
+907,nine hundred and seven,1
+908,nine hundred and eight,1
+909,nine hundred and nine,1
+910,nine hundred and ten,1
+911,nine hundred and eleven,1
+912,nine hundred and twelve,1
+913,nine hundred and thirteen,1
+914,nine hundred and fourteen,1
+915,nine hundred and fifteen,1
+916,nine hundred and sixteen,1
+917,nine hundred and seventeen,1
+918,nine hundred and eighteen,1
+919,nine hundred and nineteen,1
+920,nine hundred and twenty,1
+921,nine hundred and twenty-one,1
+922,nine hundred and twenty-two,1
+923,nine hundred and twenty-three,1
+924,nine hundred and twenty-four,1
+925,nine hundred and twenty-five,1
+926,nine hundred and twenty-six,1
+927,nine hundred and twenty-seven,1
+928,nine hundred and twenty-eight,1
+929,nine hundred and twenty-nine,1
+930,nine hundred and thirty,1
+931,nine hundred and thirty-one,1
+932,nine hundred and thirty-two,1
+933,nine hundred and thirty-three,1
+934,nine hundred and thirty-four,1
+935,nine hundred and thirty-five,1
+936,nine hundred and thirty-six,1
+937,nine hundred and thirty-seven,1
+938,nine hundred and thirty-eight,1
+939,nine hundred and thirty-nine,1
+940,nine hundred and forty,1
+941,nine hundred and forty-one,1
+942,nine hundred and forty-two,1
+943,nine hundred and forty-three,1
+944,nine hundred and forty-four,1
+945,nine hundred and forty-five,1
+946,nine hundred and forty-six,1
+947,nine hundred and forty-seven,1
+948,nine hundred and forty-eight,1
+949,nine hundred and forty-nine,1
+950,nine hundred and fifty,1
+951,nine hundred and fifty-one,1
+952,nine hundred and fifty-two,1
+953,nine hundred and fifty-three,1
+954,nine hundred and fifty-four,1
+955,nine hundred and fifty-five,1
+956,nine hundred and fifty-six,1
+957,nine hundred and fifty-seven,1
+958,nine hundred and fifty-eight,1
+959,nine hundred and fifty-nine,1
+960,nine hundred and sixty,1
+961,nine hundred and sixty-one,1
+962,nine hundred and sixty-two,1
+963,nine hundred and sixty-three,1
+964,nine hundred and sixty-four,1
+965,nine hundred and sixty-five,1
+966,nine hundred and sixty-six,1
+967,nine hundred and sixty-seven,1
+968,nine hundred and sixty-eight,1
+969,nine hundred and sixty-nine,1
+970,nine hundred and seventy,1
+971,nine hundred and seventy-one,1
+972,nine hundred and seventy-two,1
+973,nine hundred and seventy-three,1
+974,nine hundred and seventy-four,1
+975,nine hundred and seventy-five,1
+976,nine hundred and seventy-six,1
+977,nine hundred and seventy-seven,1
+978,nine hundred and seventy-eight,1
+979,nine hundred and seventy-nine,1
+980,nine hundred and eighty,1
+981,nine hundred and eighty-one,1
+982,nine hundred and eighty-two,1
+983,nine hundred and eighty-three,1
+984,nine hundred and eighty-four,1
+985,nine hundred and eighty-five,1
+986,nine hundred and eighty-six,1
+987,nine hundred and eighty-seven,1
+988,nine hundred and eighty-eight,1
+989,nine hundred and eighty-nine,1
+990,nine hundred and ninety,1
+991,nine hundred and ninety-one,1
+992,nine hundred and ninety-two,1
+993,nine hundred and ninety-three,1
+994,nine hundred and ninety-four,1
+995,nine hundred and ninety-five,1
+996,nine hundred and ninety-six,1
+997,nine hundred and ninety-seven,1
+998,nine hundred and ninety-eight,1
+999,nine hundred and ninety-nine,1
+1000,one thousand,1
+zero,0,1
+one,1,1
+two,2,1
+three,3,1
+four,4,1
+five,5,1
+six,6,1
+seven,7,1
+eight,8,1
+nine,9,1
+ten,10,1
+eleven,11,1
+twelve,12,1
+thirteen,13,1
+fourteen,14,1
+fifteen,15,1
+sixteen,16,1
+seventeen,17,1
+eighteen,18,1
+nineteen,19,1
+twenty,20,1
+twenty-one,21,1
+twenty-two,22,1
+twenty-three,23,1
+twenty-four,24,1
+twenty-five,25,1
+twenty-six,26,1
+twenty-seven,27,1
+twenty-eight,28,1
+twenty-nine,29,1
+thirty,30,1
+thirty-one,31,1
+thirty-two,32,1
+thirty-three,33,1
+thirty-four,34,1
+thirty-five,35,1
+thirty-six,36,1
+thirty-seven,37,1
+thirty-eight,38,1
+thirty-nine,39,1
+forty,40,1
+forty-one,41,1
+forty-two,42,1
+forty-three,43,1
+forty-four,44,1
+forty-five,45,1
+forty-six,46,1
+forty-seven,47,1
+forty-eight,48,1
+forty-nine,49,1
+fifty,50,1
+fifty-one,51,1
+fifty-two,52,1
+fifty-three,53,1
+fifty-four,54,1
+fifty-five,55,1
+fifty-six,56,1
+fifty-seven,57,1
+fifty-eight,58,1
+fifty-nine,59,1
+sixty,60,1
+sixty-one,61,1
+sixty-two,62,1
+sixty-three,63,1
+sixty-four,64,1
+sixty-five,65,1
+sixty-six,66,1
+sixty-seven,67,1
+sixty-eight,68,1
+sixty-nine,69,1
+seventy,70,1
+seventy-one,71,1
+seventy-two,72,1
+seventy-three,73,1
+seventy-four,74,1
+seventy-five,75,1
+seventy-six,76,1
+seventy-seven,77,1
+seventy-eight,78,1
+seventy-nine,79,1
+eighty,80,1
+eighty-one,81,1
+eighty-two,82,1
+eighty-three,83,1
+eighty-four,84,1
+eighty-five,85,1
+eighty-six,86,1
+eighty-seven,87,1
+eighty-eight,88,1
+eighty-nine,89,1
+ninety,90,1
+ninety-one,91,1
+ninety-two,92,1
+ninety-three,93,1
+ninety-four,94,1
+ninety-five,95,1
+ninety-six,96,1
+ninety-seven,97,1
+ninety-eight,98,1
+ninety-nine,99,1
+one hundred,100,1
+one hundred and one,101,1
+one hundred and two,102,1
+one hundred and three,103,1
+one hundred and four,104,1
+one hundred and five,105,1
+one hundred and six,106,1
+one hundred and seven,107,1
+one hundred and eight,108,1
+one hundred and nine,109,1
+one hundred and ten,110,1
+one hundred and eleven,111,1
+one hundred and twelve,112,1
+one hundred and thirteen,113,1
+one hundred and fourteen,114,1
+one hundred and fifteen,115,1
+one hundred and sixteen,116,1
+one hundred and seventeen,117,1
+one hundred and eighteen,118,1
+one hundred and nineteen,119,1
+one hundred and twenty,120,1
+one hundred and twenty-one,121,1
+one hundred and twenty-two,122,1
+one hundred and twenty-three,123,1
+one hundred and twenty-four,124,1
+one hundred and twenty-five,125,1
+one hundred and twenty-six,126,1
+one hundred and twenty-seven,127,1
+one hundred and twenty-eight,128,1
+one hundred and twenty-nine,129,1
+one hundred and thirty,130,1
+one hundred and thirty-one,131,1
+one hundred and thirty-two,132,1
+one hundred and thirty-three,133,1
+one hundred and thirty-four,134,1
+one hundred and thirty-five,135,1
+one hundred and thirty-six,136,1
+one hundred and thirty-seven,137,1
+one hundred and thirty-eight,138,1
+one hundred and thirty-nine,139,1
+one hundred and forty,140,1
+one hundred and forty-one,141,1
+one hundred and forty-two,142,1
+one hundred and forty-three,143,1
+one hundred and forty-four,144,1
+one hundred and forty-five,145,1
+one hundred and forty-six,146,1
+one hundred and forty-seven,147,1
+one hundred and forty-eight,148,1
+one hundred and forty-nine,149,1
+one hundred and fifty,150,1
+one hundred and fifty-one,151,1
+one hundred and fifty-two,152,1
+one hundred and fifty-three,153,1
+one hundred and fifty-four,154,1
+one hundred and fifty-five,155,1
+one hundred and fifty-six,156,1
+one hundred and fifty-seven,157,1
+one hundred and fifty-eight,158,1
+one hundred and fifty-nine,159,1
+one hundred and sixty,160,1
+one hundred and sixty-one,161,1
+one hundred and sixty-two,162,1
+one hundred and sixty-three,163,1
+one hundred and sixty-four,164,1
+one hundred and sixty-five,165,1
+one hundred and sixty-six,166,1
+one hundred and sixty-seven,167,1
+one hundred and sixty-eight,168,1
+one hundred and sixty-nine,169,1
+one hundred and seventy,170,1
+one hundred and seventy-one,171,1
+one hundred and seventy-two,172,1
+one hundred and seventy-three,173,1
+one hundred and seventy-four,174,1
+one hundred and seventy-five,175,1
+one hundred and seventy-six,176,1
+one hundred and seventy-seven,177,1
+one hundred and seventy-eight,178,1
+one hundred and seventy-nine,179,1
+one hundred and eighty,180,1
+one hundred and eighty-one,181,1
+one hundred and eighty-two,182,1
+one hundred and eighty-three,183,1
+one hundred and eighty-four,184,1
+one hundred and eighty-five,185,1
+one hundred and eighty-six,186,1
+one hundred and eighty-seven,187,1
+one hundred and eighty-eight,188,1
+one hundred and eighty-nine,189,1
+one hundred and ninety,190,1
+one hundred and ninety-one,191,1
+one hundred and ninety-two,192,1
+one hundred and ninety-three,193,1
+one hundred and ninety-four,194,1
+one hundred and ninety-five,195,1
+one hundred and ninety-six,196,1
+one hundred and ninety-seven,197,1
+one hundred and ninety-eight,198,1
+one hundred and ninety-nine,199,1
+two hundred,200,1
+two hundred and one,201,1
+two hundred and two,202,1
+two hundred and three,203,1
+two hundred and four,204,1
+two hundred and five,205,1
+two hundred and six,206,1
+two hundred and seven,207,1
+two hundred and eight,208,1
+two hundred and nine,209,1
+two hundred and ten,210,1
+two hundred and eleven,211,1
+two hundred and twelve,212,1
+two hundred and thirteen,213,1
+two hundred and fourteen,214,1
+two hundred and fifteen,215,1
+two hundred and sixteen,216,1
+two hundred and seventeen,217,1
+two hundred and eighteen,218,1
+two hundred and nineteen,219,1
+two hundred and twenty,220,1
+two hundred and twenty-one,221,1
+two hundred and twenty-two,222,1
+two hundred and twenty-three,223,1
+two hundred and twenty-four,224,1
+two hundred and twenty-five,225,1
+two hundred and twenty-six,226,1
+two hundred and twenty-seven,227,1
+two hundred and twenty-eight,228,1
+two hundred and twenty-nine,229,1
+two hundred and thirty,230,1
+two hundred and thirty-one,231,1
+two hundred and thirty-two,232,1
+two hundred and thirty-three,233,1
+two hundred and thirty-four,234,1
+two hundred and thirty-five,235,1
+two hundred and thirty-six,236,1
+two hundred and thirty-seven,237,1
+two hundred and thirty-eight,238,1
+two hundred and thirty-nine,239,1
+two hundred and forty,240,1
+two hundred and forty-one,241,1
+two hundred and forty-two,242,1
+two hundred and forty-three,243,1
+two hundred and forty-four,244,1
+two hundred and forty-five,245,1
+two hundred and forty-six,246,1
+two hundred and forty-seven,247,1
+two hundred and forty-eight,248,1
+two hundred and forty-nine,249,1
+two hundred and fifty,250,1
+two hundred and fifty-one,251,1
+two hundred and fifty-two,252,1
+two hundred and fifty-three,253,1
+two hundred and fifty-four,254,1
+two hundred and fifty-five,255,1
+two hundred and fifty-six,256,1
+two hundred and fifty-seven,257,1
+two hundred and fifty-eight,258,1
+two hundred and fifty-nine,259,1
+two hundred and sixty,260,1
+two hundred and sixty-one,261,1
+two hundred and sixty-two,262,1
+two hundred and sixty-three,263,1
+two hundred and sixty-four,264,1
+two hundred and sixty-five,265,1
+two hundred and sixty-six,266,1
+two hundred and sixty-seven,267,1
+two hundred and sixty-eight,268,1
+two hundred and sixty-nine,269,1
+two hundred and seventy,270,1
+two hundred and seventy-one,271,1
+two hundred and seventy-two,272,1
+two hundred and seventy-three,273,1
+two hundred and seventy-four,274,1
+two hundred and seventy-five,275,1
+two hundred and seventy-six,276,1
+two hundred and seventy-seven,277,1
+two hundred and seventy-eight,278,1
+two hundred and seventy-nine,279,1
+two hundred and eighty,280,1
+two hundred and eighty-one,281,1
+two hundred and eighty-two,282,1
+two hundred and eighty-three,283,1
+two hundred and eighty-four,284,1
+two hundred and eighty-five,285,1
+two hundred and eighty-six,286,1
+two hundred and eighty-seven,287,1
+two hundred and eighty-eight,288,1
+two hundred and eighty-nine,289,1
+two hundred and ninety,290,1
+two hundred and ninety-one,291,1
+two hundred and ninety-two,292,1
+two hundred and ninety-three,293,1
+two hundred and ninety-four,294,1
+two hundred and ninety-five,295,1
+two hundred and ninety-six,296,1
+two hundred and ninety-seven,297,1
+two hundred and ninety-eight,298,1
+two hundred and ninety-nine,299,1
+three hundred,300,1
+three hundred and one,301,1
+three hundred and two,302,1
+three hundred and three,303,1
+three hundred and four,304,1
+three hundred and five,305,1
+three hundred and six,306,1
+three hundred and seven,307,1
+three hundred and eight,308,1
+three hundred and nine,309,1
+three hundred and ten,310,1
+three hundred and eleven,311,1
+three hundred and twelve,312,1
+three hundred and thirteen,313,1
+three hundred and fourteen,314,1
+three hundred and fifteen,315,1
+three hundred and sixteen,316,1
+three hundred and seventeen,317,1
+three hundred and eighteen,318,1
+three hundred and nineteen,319,1
+three hundred and twenty,320,1
+three hundred and twenty-one,321,1
+three hundred and twenty-two,322,1
+three hundred and twenty-three,323,1
+three hundred and twenty-four,324,1
+three hundred and twenty-five,325,1
+three hundred and twenty-six,326,1
+three hundred and twenty-seven,327,1
+three hundred and twenty-eight,328,1
+three hundred and twenty-nine,329,1
+three hundred and thirty,330,1
+three hundred and thirty-one,331,1
+three hundred and thirty-two,332,1
+three hundred and thirty-three,333,1
+three hundred and thirty-four,334,1
+three hundred and thirty-five,335,1
+three hundred and thirty-six,336,1
+three hundred and thirty-seven,337,1
+three hundred and thirty-eight,338,1
+three hundred and thirty-nine,339,1
+three hundred and forty,340,1
+three hundred and forty-one,341,1
+three hundred and forty-two,342,1
+three hundred and forty-three,343,1
+three hundred and forty-four,344,1
+three hundred and forty-five,345,1
+three hundred and forty-six,346,1
+three hundred and forty-seven,347,1
+three hundred and forty-eight,348,1
+three hundred and forty-nine,349,1
+three hundred and fifty,350,1
+three hundred and fifty-one,351,1
+three hundred and fifty-two,352,1
+three hundred and fifty-three,353,1
+three hundred and fifty-four,354,1
+three hundred and fifty-five,355,1
+three hundred and fifty-six,356,1
+three hundred and fifty-seven,357,1
+three hundred and fifty-eight,358,1
+three hundred and fifty-nine,359,1
+three hundred and sixty,360,1
+three hundred and sixty-one,361,1
+three hundred and sixty-two,362,1
+three hundred and sixty-three,363,1
+three hundred and sixty-four,364,1
+three hundred and sixty-five,365,1
+three hundred and sixty-six,366,1
+three hundred and sixty-seven,367,1
+three hundred and sixty-eight,368,1
+three hundred and sixty-nine,369,1
+three hundred and seventy,370,1
+three hundred and seventy-one,371,1
+three hundred and seventy-two,372,1
+three hundred and seventy-three,373,1
+three hundred and seventy-four,374,1
+three hundred and seventy-five,375,1
+three hundred and seventy-six,376,1
+three hundred and seventy-seven,377,1
+three hundred and seventy-eight,378,1
+three hundred and seventy-nine,379,1
+three hundred and eighty,380,1
+three hundred and eighty-one,381,1
+three hundred and eighty-two,382,1
+three hundred and eighty-three,383,1
+three hundred and eighty-four,384,1
+three hundred and eighty-five,385,1
+three hundred and eighty-six,386,1
+three hundred and eighty-seven,387,1
+three hundred and eighty-eight,388,1
+three hundred and eighty-nine,389,1
+three hundred and ninety,390,1
+three hundred and ninety-one,391,1
+three hundred and ninety-two,392,1
+three hundred and ninety-three,393,1
+three hundred and ninety-four,394,1
+three hundred and ninety-five,395,1
+three hundred and ninety-six,396,1
+three hundred and ninety-seven,397,1
+three hundred and ninety-eight,398,1
+three hundred and ninety-nine,399,1
+four hundred,400,1
+four hundred and one,401,1
+four hundred and two,402,1
+four hundred and three,403,1
+four hundred and four,404,1
+four hundred and five,405,1
+four hundred and six,406,1
+four hundred and seven,407,1
+four hundred and eight,408,1
+four hundred and nine,409,1
+four hundred and ten,410,1
+four hundred and eleven,411,1
+four hundred and twelve,412,1
+four hundred and thirteen,413,1
+four hundred and fourteen,414,1
+four hundred and fifteen,415,1
+four hundred and sixteen,416,1
+four hundred and seventeen,417,1
+four hundred and eighteen,418,1
+four hundred and nineteen,419,1
+four hundred and twenty,420,1
+four hundred and twenty-one,421,1
+four hundred and twenty-two,422,1
+four hundred and twenty-three,423,1
+four hundred and twenty-four,424,1
+four hundred and twenty-five,425,1
+four hundred and twenty-six,426,1
+four hundred and twenty-seven,427,1
+four hundred and twenty-eight,428,1
+four hundred and twenty-nine,429,1
+four hundred and thirty,430,1
+four hundred and thirty-one,431,1
+four hundred and thirty-two,432,1
+four hundred and thirty-three,433,1
+four hundred and thirty-four,434,1
+four hundred and thirty-five,435,1
+four hundred and thirty-six,436,1
+four hundred and thirty-seven,437,1
+four hundred and thirty-eight,438,1
+four hundred and thirty-nine,439,1
+four hundred and forty,440,1
+four hundred and forty-one,441,1
+four hundred and forty-two,442,1
+four hundred and forty-three,443,1
+four hundred and forty-four,444,1
+four hundred and forty-five,445,1
+four hundred and forty-six,446,1
+four hundred and forty-seven,447,1
+four hundred and forty-eight,448,1
+four hundred and forty-nine,449,1
+four hundred and fifty,450,1
+four hundred and fifty-one,451,1
+four hundred and fifty-two,452,1
+four hundred and fifty-three,453,1
+four hundred and fifty-four,454,1
+four hundred and fifty-five,455,1
+four hundred and fifty-six,456,1
+four hundred and fifty-seven,457,1
+four hundred and fifty-eight,458,1
+four hundred and fifty-nine,459,1
+four hundred and sixty,460,1
+four hundred and sixty-one,461,1
+four hundred and sixty-two,462,1
+four hundred and sixty-three,463,1
+four hundred and sixty-four,464,1
+four hundred and sixty-five,465,1
+four hundred and sixty-six,466,1
+four hundred and sixty-seven,467,1
+four hundred and sixty-eight,468,1
+four hundred and sixty-nine,469,1
+four hundred and seventy,470,1
+four hundred and seventy-one,471,1
+four hundred and seventy-two,472,1
+four hundred and seventy-three,473,1
+four hundred and seventy-four,474,1
+four hundred and seventy-five,475,1
+four hundred and seventy-six,476,1
+four hundred and seventy-seven,477,1
+four hundred and seventy-eight,478,1
+four hundred and seventy-nine,479,1
+four hundred and eighty,480,1
+four hundred and eighty-one,481,1
+four hundred and eighty-two,482,1
+four hundred and eighty-three,483,1
+four hundred and eighty-four,484,1
+four hundred and eighty-five,485,1
+four hundred and eighty-six,486,1
+four hundred and eighty-seven,487,1
+four hundred and eighty-eight,488,1
+four hundred and eighty-nine,489,1
+four hundred and ninety,490,1
+four hundred and ninety-one,491,1
+four hundred and ninety-two,492,1
+four hundred and ninety-three,493,1
+four hundred and ninety-four,494,1
+four hundred and ninety-five,495,1
+four hundred and ninety-six,496,1
+four hundred and ninety-seven,497,1
+four hundred and ninety-eight,498,1
+four hundred and ninety-nine,499,1
+five hundred,500,1
+five hundred and one,501,1
+five hundred and two,502,1
+five hundred and three,503,1
+five hundred and four,504,1
+five hundred and five,505,1
+five hundred and six,506,1
+five hundred and seven,507,1
+five hundred and eight,508,1
+five hundred and nine,509,1
+five hundred and ten,510,1
+five hundred and eleven,511,1
+five hundred and twelve,512,1
+five hundred and thirteen,513,1
+five hundred and fourteen,514,1
+five hundred and fifteen,515,1
+five hundred and sixteen,516,1
+five hundred and seventeen,517,1
+five hundred and eighteen,518,1
+five hundred and nineteen,519,1
+five hundred and twenty,520,1
+five hundred and twenty-one,521,1
+five hundred and twenty-two,522,1
+five hundred and twenty-three,523,1
+five hundred and twenty-four,524,1
+five hundred and twenty-five,525,1
+five hundred and twenty-six,526,1
+five hundred and twenty-seven,527,1
+five hundred and twenty-eight,528,1
+five hundred and twenty-nine,529,1
+five hundred and thirty,530,1
+five hundred and thirty-one,531,1
+five hundred and thirty-two,532,1
+five hundred and thirty-three,533,1
+five hundred and thirty-four,534,1
+five hundred and thirty-five,535,1
+five hundred and thirty-six,536,1
+five hundred and thirty-seven,537,1
+five hundred and thirty-eight,538,1
+five hundred and thirty-nine,539,1
+five hundred and forty,540,1
+five hundred and forty-one,541,1
+five hundred and forty-two,542,1
+five hundred and forty-three,543,1
+five hundred and forty-four,544,1
+five hundred and forty-five,545,1
+five hundred and forty-six,546,1
+five hundred and forty-seven,547,1
+five hundred and forty-eight,548,1
+five hundred and forty-nine,549,1
+five hundred and fifty,550,1
+five hundred and fifty-one,551,1
+five hundred and fifty-two,552,1
+five hundred and fifty-three,553,1
+five hundred and fifty-four,554,1
+five hundred and fifty-five,555,1
+five hundred and fifty-six,556,1
+five hundred and fifty-seven,557,1
+five hundred and fifty-eight,558,1
+five hundred and fifty-nine,559,1
+five hundred and sixty,560,1
+five hundred and sixty-one,561,1
+five hundred and sixty-two,562,1
+five hundred and sixty-three,563,1
+five hundred and sixty-four,564,1
+five hundred and sixty-five,565,1
+five hundred and sixty-six,566,1
+five hundred and sixty-seven,567,1
+five hundred and sixty-eight,568,1
+five hundred and sixty-nine,569,1
+five hundred and seventy,570,1
+five hundred and seventy-one,571,1
+five hundred and seventy-two,572,1
+five hundred and seventy-three,573,1
+five hundred and seventy-four,574,1
+five hundred and seventy-five,575,1
+five hundred and seventy-six,576,1
+five hundred and seventy-seven,577,1
+five hundred and seventy-eight,578,1
+five hundred and seventy-nine,579,1
+five hundred and eighty,580,1
+five hundred and eighty-one,581,1
+five hundred and eighty-two,582,1
+five hundred and eighty-three,583,1
+five hundred and eighty-four,584,1
+five hundred and eighty-five,585,1
+five hundred and eighty-six,586,1
+five hundred and eighty-seven,587,1
+five hundred and eighty-eight,588,1
+five hundred and eighty-nine,589,1
+five hundred and ninety,590,1
+five hundred and ninety-one,591,1
+five hundred and ninety-two,592,1
+five hundred and ninety-three,593,1
+five hundred and ninety-four,594,1
+five hundred and ninety-five,595,1
+five hundred and ninety-six,596,1
+five hundred and ninety-seven,597,1
+five hundred and ninety-eight,598,1
+five hundred and ninety-nine,599,1
+six hundred,600,1
+six hundred and one,601,1
+six hundred and two,602,1
+six hundred and three,603,1
+six hundred and four,604,1
+six hundred and five,605,1
+six hundred and six,606,1
+six hundred and seven,607,1
+six hundred and eight,608,1
+six hundred and nine,609,1
+six hundred and ten,610,1
+six hundred and eleven,611,1
+six hundred and twelve,612,1
+six hundred and thirteen,613,1
+six hundred and fourteen,614,1
+six hundred and fifteen,615,1
+six hundred and sixteen,616,1
+six hundred and seventeen,617,1
+six hundred and eighteen,618,1
+six hundred and nineteen,619,1
+six hundred and twenty,620,1
+six hundred and twenty-one,621,1
+six hundred and twenty-two,622,1
+six hundred and twenty-three,623,1
+six hundred and twenty-four,624,1
+six hundred and twenty-five,625,1
+six hundred and twenty-six,626,1
+six hundred and twenty-seven,627,1
+six hundred and twenty-eight,628,1
+six hundred and twenty-nine,629,1
+six hundred and thirty,630,1
+six hundred and thirty-one,631,1
+six hundred and thirty-two,632,1
+six hundred and thirty-three,633,1
+six hundred and thirty-four,634,1
+six hundred and thirty-five,635,1
+six hundred and thirty-six,636,1
+six hundred and thirty-seven,637,1
+six hundred and thirty-eight,638,1
+six hundred and thirty-nine,639,1
+six hundred and forty,640,1
+six hundred and forty-one,641,1
+six hundred and forty-two,642,1
+six hundred and forty-three,643,1
+six hundred and forty-four,644,1
+six hundred and forty-five,645,1
+six hundred and forty-six,646,1
+six hundred and forty-seven,647,1
+six hundred and forty-eight,648,1
+six hundred and forty-nine,649,1
+six hundred and fifty,650,1
+six hundred and fifty-one,651,1
+six hundred and fifty-two,652,1
+six hundred and fifty-three,653,1
+six hundred and fifty-four,654,1
+six hundred and fifty-five,655,1
+six hundred and fifty-six,656,1
+six hundred and fifty-seven,657,1
+six hundred and fifty-eight,658,1
+six hundred and fifty-nine,659,1
+six hundred and sixty,660,1
+six hundred and sixty-one,661,1
+six hundred and sixty-two,662,1
+six hundred and sixty-three,663,1
+six hundred and sixty-four,664,1
+six hundred and sixty-five,665,1
+six hundred and sixty-six,666,1
+six hundred and sixty-seven,667,1
+six hundred and sixty-eight,668,1
+six hundred and sixty-nine,669,1
+six hundred and seventy,670,1
+six hundred and seventy-one,671,1
+six hundred and seventy-two,672,1
+six hundred and seventy-three,673,1
+six hundred and seventy-four,674,1
+six hundred and seventy-five,675,1
+six hundred and seventy-six,676,1
+six hundred and seventy-seven,677,1
+six hundred and seventy-eight,678,1
+six hundred and seventy-nine,679,1
+six hundred and eighty,680,1
+six hundred and eighty-one,681,1
+six hundred and eighty-two,682,1
+six hundred and eighty-three,683,1
+six hundred and eighty-four,684,1
+six hundred and eighty-five,685,1
+six hundred and eighty-six,686,1
+six hundred and eighty-seven,687,1
+six hundred and eighty-eight,688,1
+six hundred and eighty-nine,689,1
+six hundred and ninety,690,1
+six hundred and ninety-one,691,1
+six hundred and ninety-two,692,1
+six hundred and ninety-three,693,1
+six hundred and ninety-four,694,1
+six hundred and ninety-five,695,1
+six hundred and ninety-six,696,1
+six hundred and ninety-seven,697,1
+six hundred and ninety-eight,698,1
+six hundred and ninety-nine,699,1
+seven hundred,700,1
+seven hundred and one,701,1
+seven hundred and two,702,1
+seven hundred and three,703,1
+seven hundred and four,704,1
+seven hundred and five,705,1
+seven hundred and six,706,1
+seven hundred and seven,707,1
+seven hundred and eight,708,1
+seven hundred and nine,709,1
+seven hundred and ten,710,1
+seven hundred and eleven,711,1
+seven hundred and twelve,712,1
+seven hundred and thirteen,713,1
+seven hundred and fourteen,714,1
+seven hundred and fifteen,715,1
+seven hundred and sixteen,716,1
+seven hundred and seventeen,717,1
+seven hundred and eighteen,718,1
+seven hundred and nineteen,719,1
+seven hundred and twenty,720,1
+seven hundred and twenty-one,721,1
+seven hundred and twenty-two,722,1
+seven hundred and twenty-three,723,1
+seven hundred and twenty-four,724,1
+seven hundred and twenty-five,725,1
+seven hundred and twenty-six,726,1
+seven hundred and twenty-seven,727,1
+seven hundred and twenty-eight,728,1
+seven hundred and twenty-nine,729,1
+seven hundred and thirty,730,1
+seven hundred and thirty-one,731,1
+seven hundred and thirty-two,732,1
+seven hundred and thirty-three,733,1
+seven hundred and thirty-four,734,1
+seven hundred and thirty-five,735,1
+seven hundred and thirty-six,736,1
+seven hundred and thirty-seven,737,1
+seven hundred and thirty-eight,738,1
+seven hundred and thirty-nine,739,1
+seven hundred and forty,740,1
+seven hundred and forty-one,741,1
+seven hundred and forty-two,742,1
+seven hundred and forty-three,743,1
+seven hundred and forty-four,744,1
+seven hundred and forty-five,745,1
+seven hundred and forty-six,746,1
+seven hundred and forty-seven,747,1
+seven hundred and forty-eight,748,1
+seven hundred and forty-nine,749,1
+seven hundred and fifty,750,1
+seven hundred and fifty-one,751,1
+seven hundred and fifty-two,752,1
+seven hundred and fifty-three,753,1
+seven hundred and fifty-four,754,1
+seven hundred and fifty-five,755,1
+seven hundred and fifty-six,756,1
+seven hundred and fifty-seven,757,1
+seven hundred and fifty-eight,758,1
+seven hundred and fifty-nine,759,1
+seven hundred and sixty,760,1
+seven hundred and sixty-one,761,1
+seven hundred and sixty-two,762,1
+seven hundred and sixty-three,763,1
+seven hundred and sixty-four,764,1
+seven hundred and sixty-five,765,1
+seven hundred and sixty-six,766,1
+seven hundred and sixty-seven,767,1
+seven hundred and sixty-eight,768,1
+seven hundred and sixty-nine,769,1
+seven hundred and seventy,770,1
+seven hundred and seventy-one,771,1
+seven hundred and seventy-two,772,1
+seven hundred and seventy-three,773,1
+seven hundred and seventy-four,774,1
+seven hundred and seventy-five,775,1
+seven hundred and seventy-six,776,1
+seven hundred and seventy-seven,777,1
+seven hundred and seventy-eight,778,1
+seven hundred and seventy-nine,779,1
+seven hundred and eighty,780,1
+seven hundred and eighty-one,781,1
+seven hundred and eighty-two,782,1
+seven hundred and eighty-three,783,1
+seven hundred and eighty-four,784,1
+seven hundred and eighty-five,785,1
+seven hundred and eighty-six,786,1
+seven hundred and eighty-seven,787,1
+seven hundred and eighty-eight,788,1
+seven hundred and eighty-nine,789,1
+seven hundred and ninety,790,1
+seven hundred and ninety-one,791,1
+seven hundred and ninety-two,792,1
+seven hundred and ninety-three,793,1
+seven hundred and ninety-four,794,1
+seven hundred and ninety-five,795,1
+seven hundred and ninety-six,796,1
+seven hundred and ninety-seven,797,1
+seven hundred and ninety-eight,798,1
+seven hundred and ninety-nine,799,1
+eight hundred,800,1
+eight hundred and one,801,1
+eight hundred and two,802,1
+eight hundred and three,803,1
+eight hundred and four,804,1
+eight hundred and five,805,1
+eight hundred and six,806,1
+eight hundred and seven,807,1
+eight hundred and eight,808,1
+eight hundred and nine,809,1
+eight hundred and ten,810,1
+eight hundred and eleven,811,1
+eight hundred and twelve,812,1
+eight hundred and thirteen,813,1
+eight hundred and fourteen,814,1
+eight hundred and fifteen,815,1
+eight hundred and sixteen,816,1
+eight hundred and seventeen,817,1
+eight hundred and eighteen,818,1
+eight hundred and nineteen,819,1
+eight hundred and twenty,820,1
+eight hundred and twenty-one,821,1
+eight hundred and twenty-two,822,1
+eight hundred and twenty-three,823,1
+eight hundred and twenty-four,824,1
+eight hundred and twenty-five,825,1
+eight hundred and twenty-six,826,1
+eight hundred and twenty-seven,827,1
+eight hundred and twenty-eight,828,1
+eight hundred and twenty-nine,829,1
+eight hundred and thirty,830,1
+eight hundred and thirty-one,831,1
+eight hundred and thirty-two,832,1
+eight hundred and thirty-three,833,1
+eight hundred and thirty-four,834,1
+eight hundred and thirty-five,835,1
+eight hundred and thirty-six,836,1
+eight hundred and thirty-seven,837,1
+eight hundred and thirty-eight,838,1
+eight hundred and thirty-nine,839,1
+eight hundred and forty,840,1
+eight hundred and forty-one,841,1
+eight hundred and forty-two,842,1
+eight hundred and forty-three,843,1
+eight hundred and forty-four,844,1
+eight hundred and forty-five,845,1
+eight hundred and forty-six,846,1
+eight hundred and forty-seven,847,1
+eight hundred and forty-eight,848,1
+eight hundred and forty-nine,849,1
+eight hundred and fifty,850,1
+eight hundred and fifty-one,851,1
+eight hundred and fifty-two,852,1
+eight hundred and fifty-three,853,1
+eight hundred and fifty-four,854,1
+eight hundred and fifty-five,855,1
+eight hundred and fifty-six,856,1
+eight hundred and fifty-seven,857,1
+eight hundred and fifty-eight,858,1
+eight hundred and fifty-nine,859,1
+eight hundred and sixty,860,1
+eight hundred and sixty-one,861,1
+eight hundred and sixty-two,862,1
+eight hundred and sixty-three,863,1
+eight hundred and sixty-four,864,1
+eight hundred and sixty-five,865,1
+eight hundred and sixty-six,866,1
+eight hundred and sixty-seven,867,1
+eight hundred and sixty-eight,868,1
+eight hundred and sixty-nine,869,1
+eight hundred and seventy,870,1
+eight hundred and seventy-one,871,1
+eight hundred and seventy-two,872,1
+eight hundred and seventy-three,873,1
+eight hundred and seventy-four,874,1
+eight hundred and seventy-five,875,1
+eight hundred and seventy-six,876,1
+eight hundred and seventy-seven,877,1
+eight hundred and seventy-eight,878,1
+eight hundred and seventy-nine,879,1
+eight hundred and eighty,880,1
+eight hundred and eighty-one,881,1
+eight hundred and eighty-two,882,1
+eight hundred and eighty-three,883,1
+eight hundred and eighty-four,884,1
+eight hundred and eighty-five,885,1
+eight hundred and eighty-six,886,1
+eight hundred and eighty-seven,887,1
+eight hundred and eighty-eight,888,1
+eight hundred and eighty-nine,889,1
+eight hundred and ninety,890,1
+eight hundred and ninety-one,891,1
+eight hundred and ninety-two,892,1
+eight hundred and ninety-three,893,1
+eight hundred and ninety-four,894,1
+eight hundred and ninety-five,895,1
+eight hundred and ninety-six,896,1
+eight hundred and ninety-seven,897,1
+eight hundred and ninety-eight,898,1
+eight hundred and ninety-nine,899,1
+nine hundred,900,1
+nine hundred and one,901,1
+nine hundred and two,902,1
+nine hundred and three,903,1
+nine hundred and four,904,1
+nine hundred and five,905,1
+nine hundred and six,906,1
+nine hundred and seven,907,1
+nine hundred and eight,908,1
+nine hundred and nine,909,1
+nine hundred and ten,910,1
+nine hundred and eleven,911,1
+nine hundred and twelve,912,1
+nine hundred and thirteen,913,1
+nine hundred and fourteen,914,1
+nine hundred and fifteen,915,1
+nine hundred and sixteen,916,1
+nine hundred and seventeen,917,1
+nine hundred and eighteen,918,1
+nine hundred and nineteen,919,1
+nine hundred and twenty,920,1
+nine hundred and twenty-one,921,1
+nine hundred and twenty-two,922,1
+nine hundred and twenty-three,923,1
+nine hundred and twenty-four,924,1
+nine hundred and twenty-five,925,1
+nine hundred and twenty-six,926,1
+nine hundred and twenty-seven,927,1
+nine hundred and twenty-eight,928,1
+nine hundred and twenty-nine,929,1
+nine hundred and thirty,930,1
+nine hundred and thirty-one,931,1
+nine hundred and thirty-two,932,1
+nine hundred and thirty-three,933,1
+nine hundred and thirty-four,934,1
+nine hundred and thirty-five,935,1
+nine hundred and thirty-six,936,1
+nine hundred and thirty-seven,937,1
+nine hundred and thirty-eight,938,1
+nine hundred and thirty-nine,939,1
+nine hundred and forty,940,1
+nine hundred and forty-one,941,1
+nine hundred and forty-two,942,1
+nine hundred and forty-three,943,1
+nine hundred and forty-four,944,1
+nine hundred and forty-five,945,1
+nine hundred and forty-six,946,1
+nine hundred and forty-seven,947,1
+nine hundred and forty-eight,948,1
+nine hundred and forty-nine,949,1
+nine hundred and fifty,950,1
+nine hundred and fifty-one,951,1
+nine hundred and fifty-two,952,1
+nine hundred and fifty-three,953,1
+nine hundred and fifty-four,954,1
+nine hundred and fifty-five,955,1
+nine hundred and fifty-six,956,1
+nine hundred and fifty-seven,957,1
+nine hundred and fifty-eight,958,1
+nine hundred and fifty-nine,959,1
+nine hundred and sixty,960,1
+nine hundred and sixty-one,961,1
+nine hundred and sixty-two,962,1
+nine hundred and sixty-three,963,1
+nine hundred and sixty-four,964,1
+nine hundred and sixty-five,965,1
+nine hundred and sixty-six,966,1
+nine hundred and sixty-seven,967,1
+nine hundred and sixty-eight,968,1
+nine hundred and sixty-nine,969,1
+nine hundred and seventy,970,1
+nine hundred and seventy-one,971,1
+nine hundred and seventy-two,972,1
+nine hundred and seventy-three,973,1
+nine hundred and seventy-four,974,1
+nine hundred and seventy-five,975,1
+nine hundred and seventy-six,976,1
+nine hundred and seventy-seven,977,1
+nine hundred and seventy-eight,978,1
+nine hundred and seventy-nine,979,1
+nine hundred and eighty,980,1
+nine hundred and eighty-one,981,1
+nine hundred and eighty-two,982,1
+nine hundred and eighty-three,983,1
+nine hundred and eighty-four,984,1
+nine hundred and eighty-five,985,1
+nine hundred and eighty-six,986,1
+nine hundred and eighty-seven,987,1
+nine hundred and eighty-eight,988,1
+nine hundred and eighty-nine,989,1
+nine hundred and ninety,990,1
+nine hundred and ninety-one,991,1
+nine hundred and ninety-two,992,1
+nine hundred and ninety-three,993,1
+nine hundred and ninety-four,994,1
+nine hundred and ninety-five,995,1
+nine hundred and ninety-six,996,1
+nine hundred and ninety-seven,997,1
+nine hundred and ninety-eight,998,1
+nine hundred and ninety-nine,999,1
+one thousand,1000,1
+0,0,1
+1,1,1
+2,2,1
+3,3,1
+4,4,1
+5,5,1
+6,6,1
+7,7,1
+8,8,1
+9,9,1
+10,10,1
+11,11,1
+12,12,1
+13,13,1
+14,14,1
+15,15,1
+16,16,1
+17,17,1
+18,18,1
+19,19,1
+20,20,1
+21,21,1
+22,22,1
+23,23,1
+24,24,1
+25,25,1
+26,26,1
+27,27,1
+28,28,1
+29,29,1
+30,30,1
+31,31,1
+32,32,1
+33,33,1
+34,34,1
+35,35,1
+36,36,1
+37,37,1
+38,38,1
+39,39,1
+40,40,1
+41,41,1
+42,42,1
+43,43,1
+44,44,1
+45,45,1
+46,46,1
+47,47,1
+48,48,1
+49,49,1
+50,50,1
+51,51,1
+52,52,1
+53,53,1
+54,54,1
+55,55,1
+56,56,1
+57,57,1
+58,58,1
+59,59,1
+60,60,1
+61,61,1
+62,62,1
+63,63,1
+64,64,1
+65,65,1
+66,66,1
+67,67,1
+68,68,1
+69,69,1
+70,70,1
+71,71,1
+72,72,1
+73,73,1
+74,74,1
+75,75,1
+76,76,1
+77,77,1
+78,78,1
+79,79,1
+80,80,1
+81,81,1
+82,82,1
+83,83,1
+84,84,1
+85,85,1
+86,86,1
+87,87,1
+88,88,1
+89,89,1
+90,90,1
+91,91,1
+92,92,1
+93,93,1
+94,94,1
+95,95,1
+96,96,1
+97,97,1
+98,98,1
+99,99,1
+100,100,1
+101,101,1
+102,102,1
+103,103,1
+104,104,1
+105,105,1
+106,106,1
+107,107,1
+108,108,1
+109,109,1
+110,110,1
+111,111,1
+112,112,1
+113,113,1
+114,114,1
+115,115,1
+116,116,1
+117,117,1
+118,118,1
+119,119,1
+120,120,1
+121,121,1
+122,122,1
+123,123,1
+124,124,1
+125,125,1
+126,126,1
+127,127,1
+128,128,1
+129,129,1
+130,130,1
+131,131,1
+132,132,1
+133,133,1
+134,134,1
+135,135,1
+136,136,1
+137,137,1
+138,138,1
+139,139,1
+140,140,1
+141,141,1
+142,142,1
+143,143,1
+144,144,1
+145,145,1
+146,146,1
+147,147,1
+148,148,1
+149,149,1
+150,150,1
+151,151,1
+152,152,1
+153,153,1
+154,154,1
+155,155,1
+156,156,1
+157,157,1
+158,158,1
+159,159,1
+160,160,1
+161,161,1
+162,162,1
+163,163,1
+164,164,1
+165,165,1
+166,166,1
+167,167,1
+168,168,1
+169,169,1
+170,170,1
+171,171,1
+172,172,1
+173,173,1
+174,174,1
+175,175,1
+176,176,1
+177,177,1
+178,178,1
+179,179,1
+180,180,1
+181,181,1
+182,182,1
+183,183,1
+184,184,1
+185,185,1
+186,186,1
+187,187,1
+188,188,1
+189,189,1
+190,190,1
+191,191,1
+192,192,1
+193,193,1
+194,194,1
+195,195,1
+196,196,1
+197,197,1
+198,198,1
+199,199,1
+200,200,1
+201,201,1
+202,202,1
+203,203,1
+204,204,1
+205,205,1
+206,206,1
+207,207,1
+208,208,1
+209,209,1
+210,210,1
+211,211,1
+212,212,1
+213,213,1
+214,214,1
+215,215,1
+216,216,1
+217,217,1
+218,218,1
+219,219,1
+220,220,1
+221,221,1
+222,222,1
+223,223,1
+224,224,1
+225,225,1
+226,226,1
+227,227,1
+228,228,1
+229,229,1
+230,230,1
+231,231,1
+232,232,1
+233,233,1
+234,234,1
+235,235,1
+236,236,1
+237,237,1
+238,238,1
+239,239,1
+240,240,1
+241,241,1
+242,242,1
+243,243,1
+244,244,1
+245,245,1
+246,246,1
+247,247,1
+248,248,1
+249,249,1
+250,250,1
+251,251,1
+252,252,1
+253,253,1
+254,254,1
+255,255,1
+256,256,1
+257,257,1
+258,258,1
+259,259,1
+260,260,1
+261,261,1
+262,262,1
+263,263,1
+264,264,1
+265,265,1
+266,266,1
+267,267,1
+268,268,1
+269,269,1
+270,270,1
+271,271,1
+272,272,1
+273,273,1
+274,274,1
+275,275,1
+276,276,1
+277,277,1
+278,278,1
+279,279,1
+280,280,1
+281,281,1
+282,282,1
+283,283,1
+284,284,1
+285,285,1
+286,286,1
+287,287,1
+288,288,1
+289,289,1
+290,290,1
+291,291,1
+292,292,1
+293,293,1
+294,294,1
+295,295,1
+296,296,1
+297,297,1
+298,298,1
+299,299,1
+300,300,1
+301,301,1
+302,302,1
+303,303,1
+304,304,1
+305,305,1
+306,306,1
+307,307,1
+308,308,1
+309,309,1
+310,310,1
+311,311,1
+312,312,1
+313,313,1
+314,314,1
+315,315,1
+316,316,1
+317,317,1
+318,318,1
+319,319,1
+320,320,1
+321,321,1
+322,322,1
+323,323,1
+324,324,1
+325,325,1
+326,326,1
+327,327,1
+328,328,1
+329,329,1
+330,330,1
+331,331,1
+332,332,1
+333,333,1
+334,334,1
+335,335,1
+336,336,1
+337,337,1
+338,338,1
+339,339,1
+340,340,1
+341,341,1
+342,342,1
+343,343,1
+344,344,1
+345,345,1
+346,346,1
+347,347,1
+348,348,1
+349,349,1
+350,350,1
+351,351,1
+352,352,1
+353,353,1
+354,354,1
+355,355,1
+356,356,1
+357,357,1
+358,358,1
+359,359,1
+360,360,1
+361,361,1
+362,362,1
+363,363,1
+364,364,1
+365,365,1
+366,366,1
+367,367,1
+368,368,1
+369,369,1
+370,370,1
+371,371,1
+372,372,1
+373,373,1
+374,374,1
+375,375,1
+376,376,1
+377,377,1
+378,378,1
+379,379,1
+380,380,1
+381,381,1
+382,382,1
+383,383,1
+384,384,1
+385,385,1
+386,386,1
+387,387,1
+388,388,1
+389,389,1
+390,390,1
+391,391,1
+392,392,1
+393,393,1
+394,394,1
+395,395,1
+396,396,1
+397,397,1
+398,398,1
+399,399,1
+400,400,1
+401,401,1
+402,402,1
+403,403,1
+404,404,1
+405,405,1
+406,406,1
+407,407,1
+408,408,1
+409,409,1
+410,410,1
+411,411,1
+412,412,1
+413,413,1
+414,414,1
+415,415,1
+416,416,1
+417,417,1
+418,418,1
+419,419,1
+420,420,1
+421,421,1
+422,422,1
+423,423,1
+424,424,1
+425,425,1
+426,426,1
+427,427,1
+428,428,1
+429,429,1
+430,430,1
+431,431,1
+432,432,1
+433,433,1
+434,434,1
+435,435,1
+436,436,1
+437,437,1
+438,438,1
+439,439,1
+440,440,1
+441,441,1
+442,442,1
+443,443,1
+444,444,1
+445,445,1
+446,446,1
+447,447,1
+448,448,1
+449,449,1
+450,450,1
+451,451,1
+452,452,1
+453,453,1
+454,454,1
+455,455,1
+456,456,1
+457,457,1
+458,458,1
+459,459,1
+460,460,1
+461,461,1
+462,462,1
+463,463,1
+464,464,1
+465,465,1
+466,466,1
+467,467,1
+468,468,1
+469,469,1
+470,470,1
+471,471,1
+472,472,1
+473,473,1
+474,474,1
+475,475,1
+476,476,1
+477,477,1
+478,478,1
+479,479,1
+480,480,1
+481,481,1
+482,482,1
+483,483,1
+484,484,1
+485,485,1
+486,486,1
+487,487,1
+488,488,1
+489,489,1
+490,490,1
+491,491,1
+492,492,1
+493,493,1
+494,494,1
+495,495,1
+496,496,1
+497,497,1
+498,498,1
+499,499,1
+500,500,1
+501,501,1
+502,502,1
+503,503,1
+504,504,1
+505,505,1
+506,506,1
+507,507,1
+508,508,1
+509,509,1
+510,510,1
+511,511,1
+512,512,1
+513,513,1
+514,514,1
+515,515,1
+516,516,1
+517,517,1
+518,518,1
+519,519,1
+520,520,1
+521,521,1
+522,522,1
+523,523,1
+524,524,1
+525,525,1
+526,526,1
+527,527,1
+528,528,1
+529,529,1
+530,530,1
+531,531,1
+532,532,1
+533,533,1
+534,534,1
+535,535,1
+536,536,1
+537,537,1
+538,538,1
+539,539,1
+540,540,1
+541,541,1
+542,542,1
+543,543,1
+544,544,1
+545,545,1
+546,546,1
+547,547,1
+548,548,1
+549,549,1
+550,550,1
+551,551,1
+552,552,1
+553,553,1
+554,554,1
+555,555,1
+556,556,1
+557,557,1
+558,558,1
+559,559,1
+560,560,1
+561,561,1
+562,562,1
+563,563,1
+564,564,1
+565,565,1
+566,566,1
+567,567,1
+568,568,1
+569,569,1
+570,570,1
+571,571,1
+572,572,1
+573,573,1
+574,574,1
+575,575,1
+576,576,1
+577,577,1
+578,578,1
+579,579,1
+580,580,1
+581,581,1
+582,582,1
+583,583,1
+584,584,1
+585,585,1
+586,586,1
+587,587,1
+588,588,1
+589,589,1
+590,590,1
+591,591,1
+592,592,1
+593,593,1
+594,594,1
+595,595,1
+596,596,1
+597,597,1
+598,598,1
+599,599,1
+600,600,1
+601,601,1
+602,602,1
+603,603,1
+604,604,1
+605,605,1
+606,606,1
+607,607,1
+608,608,1
+609,609,1
+610,610,1
+611,611,1
+612,612,1
+613,613,1
+614,614,1
+615,615,1
+616,616,1
+617,617,1
+618,618,1
+619,619,1
+620,620,1
+621,621,1
+622,622,1
+623,623,1
+624,624,1
+625,625,1
+626,626,1
+627,627,1
+628,628,1
+629,629,1
+630,630,1
+631,631,1
+632,632,1
+633,633,1
+634,634,1
+635,635,1
+636,636,1
+637,637,1
+638,638,1
+639,639,1
+640,640,1
+641,641,1
+642,642,1
+643,643,1
+644,644,1
+645,645,1
+646,646,1
+647,647,1
+648,648,1
+649,649,1
+650,650,1
+651,651,1
+652,652,1
+653,653,1
+654,654,1
+655,655,1
+656,656,1
+657,657,1
+658,658,1
+659,659,1
+660,660,1
+661,661,1
+662,662,1
+663,663,1
+664,664,1
+665,665,1
+666,666,1
+667,667,1
+668,668,1
+669,669,1
+670,670,1
+671,671,1
+672,672,1
+673,673,1
+674,674,1
+675,675,1
+676,676,1
+677,677,1
+678,678,1
+679,679,1
+680,680,1
+681,681,1
+682,682,1
+683,683,1
+684,684,1
+685,685,1
+686,686,1
+687,687,1
+688,688,1
+689,689,1
+690,690,1
+691,691,1
+692,692,1
+693,693,1
+694,694,1
+695,695,1
+696,696,1
+697,697,1
+698,698,1
+699,699,1
+700,700,1
+701,701,1
+702,702,1
+703,703,1
+704,704,1
+705,705,1
+706,706,1
+707,707,1
+708,708,1
+709,709,1
+710,710,1
+711,711,1
+712,712,1
+713,713,1
+714,714,1
+715,715,1
+716,716,1
+717,717,1
+718,718,1
+719,719,1
+720,720,1
+721,721,1
+722,722,1
+723,723,1
+724,724,1
+725,725,1
+726,726,1
+727,727,1
+728,728,1
+729,729,1
+730,730,1
+731,731,1
+732,732,1
+733,733,1
+734,734,1
+735,735,1
+736,736,1
+737,737,1
+738,738,1
+739,739,1
+740,740,1
+741,741,1
+742,742,1
+743,743,1
+744,744,1
+745,745,1
+746,746,1
+747,747,1
+748,748,1
+749,749,1
+750,750,1
+751,751,1
+752,752,1
+753,753,1
+754,754,1
+755,755,1
+756,756,1
+757,757,1
+758,758,1
+759,759,1
+760,760,1
+761,761,1
+762,762,1
+763,763,1
+764,764,1
+765,765,1
+766,766,1
+767,767,1
+768,768,1
+769,769,1
+770,770,1
+771,771,1
+772,772,1
+773,773,1
+774,774,1
+775,775,1
+776,776,1
+777,777,1
+778,778,1
+779,779,1
+780,780,1
+781,781,1
+782,782,1
+783,783,1
+784,784,1
+785,785,1
+786,786,1
+787,787,1
+788,788,1
+789,789,1
+790,790,1
+791,791,1
+792,792,1
+793,793,1
+794,794,1
+795,795,1
+796,796,1
+797,797,1
+798,798,1
+799,799,1
+800,800,1
+801,801,1
+802,802,1
+803,803,1
+804,804,1
+805,805,1
+806,806,1
+807,807,1
+808,808,1
+809,809,1
+810,810,1
+811,811,1
+812,812,1
+813,813,1
+814,814,1
+815,815,1
+816,816,1
+817,817,1
+818,818,1
+819,819,1
+820,820,1
+821,821,1
+822,822,1
+823,823,1
+824,824,1
+825,825,1
+826,826,1
+827,827,1
+828,828,1
+829,829,1
+830,830,1
+831,831,1
+832,832,1
+833,833,1
+834,834,1
+835,835,1
+836,836,1
+837,837,1
+838,838,1
+839,839,1
+840,840,1
+841,841,1
+842,842,1
+843,843,1
+844,844,1
+845,845,1
+846,846,1
+847,847,1
+848,848,1
+849,849,1
+850,850,1
+851,851,1
+852,852,1
+853,853,1
+854,854,1
+855,855,1
+856,856,1
+857,857,1
+858,858,1
+859,859,1
+860,860,1
+861,861,1
+862,862,1
+863,863,1
+864,864,1
+865,865,1
+866,866,1
+867,867,1
+868,868,1
+869,869,1
+870,870,1
+871,871,1
+872,872,1
+873,873,1
+874,874,1
+875,875,1
+876,876,1
+877,877,1
+878,878,1
+879,879,1
+880,880,1
+881,881,1
+882,882,1
+883,883,1
+884,884,1
+885,885,1
+886,886,1
+887,887,1
+888,888,1
+889,889,1
+890,890,1
+891,891,1
+892,892,1
+893,893,1
+894,894,1
+895,895,1
+896,896,1
+897,897,1
+898,898,1
+899,899,1
+900,900,1
+901,901,1
+902,902,1
+903,903,1
+904,904,1
+905,905,1
+906,906,1
+907,907,1
+908,908,1
+909,909,1
+910,910,1
+911,911,1
+912,912,1
+913,913,1
+914,914,1
+915,915,1
+916,916,1
+917,917,1
+918,918,1
+919,919,1
+920,920,1
+921,921,1
+922,922,1
+923,923,1
+924,924,1
+925,925,1
+926,926,1
+927,927,1
+928,928,1
+929,929,1
+930,930,1
+931,931,1
+932,932,1
+933,933,1
+934,934,1
+935,935,1
+936,936,1
+937,937,1
+938,938,1
+939,939,1
+940,940,1
+941,941,1
+942,942,1
+943,943,1
+944,944,1
+945,945,1
+946,946,1
+947,947,1
+948,948,1
+949,949,1
+950,950,1
+951,951,1
+952,952,1
+953,953,1
+954,954,1
+955,955,1
+956,956,1
+957,957,1
+958,958,1
+959,959,1
+960,960,1
+961,961,1
+962,962,1
+963,963,1
+964,964,1
+965,965,1
+966,966,1
+967,967,1
+968,968,1
+969,969,1
+970,970,1
+971,971,1
+972,972,1
+973,973,1
+974,974,1
+975,975,1
+976,976,1
+977,977,1
+978,978,1
+979,979,1
+980,980,1
+981,981,1
+982,982,1
+983,983,1
+984,984,1
+985,985,1
+986,986,1
+987,987,1
+988,988,1
+989,989,1
+990,990,1
+991,991,1
+992,992,1
+993,993,1
+994,994,1
+995,995,1
+996,996,1
+997,997,1
+998,998,1
+999,999,1
+1000,1000,1
+0,1,0
+1,2,0
+2,3,0
+3,4,0
+4,5,0
+5,6,0
+6,7,0
+7,8,0
+8,9,0
+9,10,0
+10,11,0
+11,12,0
+12,13,0
+13,14,0
+14,15,0
+15,16,0
+16,17,0
+17,18,0
+18,19,0
+19,20,0
+20,21,0
+21,22,0
+22,23,0
+23,24,0
+24,25,0
+25,26,0
+26,27,0
+27,28,0
+28,29,0
+29,30,0
+30,31,0
+31,32,0
+32,33,0
+33,34,0
+34,35,0
+35,36,0
+36,37,0
+37,38,0
+38,39,0
+39,40,0
+40,41,0
+41,42,0
+42,43,0
+43,44,0
+44,45,0
+45,46,0
+46,47,0
+47,48,0
+48,49,0
+49,50,0
+50,51,0
+51,52,0
+52,53,0
+53,54,0
+54,55,0
+55,56,0
+56,57,0
+57,58,0
+58,59,0
+59,60,0
+60,61,0
+61,62,0
+62,63,0
+63,64,0
+64,65,0
+65,66,0
+66,67,0
+67,68,0
+68,69,0
+69,70,0
+70,71,0
+71,72,0
+72,73,0
+73,74,0
+74,75,0
+75,76,0
+76,77,0
+77,78,0
+78,79,0
+79,80,0
+80,81,0
+81,82,0
+82,83,0
+83,84,0
+84,85,0
+85,86,0
+86,87,0
+87,88,0
+88,89,0
+89,90,0
+90,91,0
+91,92,0
+92,93,0
+93,94,0
+94,95,0
+95,96,0
+96,97,0
+97,98,0
+98,99,0
+99,100,0
+100,101,0
+101,102,0
+102,103,0
+103,104,0
+104,105,0
+105,106,0
+106,107,0
+107,108,0
+108,109,0
+109,110,0
+110,111,0
+111,112,0
+112,113,0
+113,114,0
+114,115,0
+115,116,0
+116,117,0
+117,118,0
+118,119,0
+119,120,0
+120,121,0
+121,122,0
+122,123,0
+123,124,0
+124,125,0
+125,126,0
+126,127,0
+127,128,0
+128,129,0
+129,130,0
+130,131,0
+131,132,0
+132,133,0
+133,134,0
+134,135,0
+135,136,0
+136,137,0
+137,138,0
+138,139,0
+139,140,0
+140,141,0
+141,142,0
+142,143,0
+143,144,0
+144,145,0
+145,146,0
+146,147,0
+147,148,0
+148,149,0
+149,150,0
+150,151,0
+151,152,0
+152,153,0
+153,154,0
+154,155,0
+155,156,0
+156,157,0
+157,158,0
+158,159,0
+159,160,0
+160,161,0
+161,162,0
+162,163,0
+163,164,0
+164,165,0
+165,166,0
+166,167,0
+167,168,0
+168,169,0
+169,170,0
+170,171,0
+171,172,0
+172,173,0
+173,174,0
+174,175,0
+175,176,0
+176,177,0
+177,178,0
+178,179,0
+179,180,0
+180,181,0
+181,182,0
+182,183,0
+183,184,0
+184,185,0
+185,186,0
+186,187,0
+187,188,0
+188,189,0
+189,190,0
+190,191,0
+191,192,0
+192,193,0
+193,194,0
+194,195,0
+195,196,0
+196,197,0
+197,198,0
+198,199,0
+199,200,0
+200,201,0
+201,202,0
+202,203,0
+203,204,0
+204,205,0
+205,206,0
+206,207,0
+207,208,0
+208,209,0
+209,210,0
+210,211,0
+211,212,0
+212,213,0
+213,214,0
+214,215,0
+215,216,0
+216,217,0
+217,218,0
+218,219,0
+219,220,0
+220,221,0
+221,222,0
+222,223,0
+223,224,0
+224,225,0
+225,226,0
+226,227,0
+227,228,0
+228,229,0
+229,230,0
+230,231,0
+231,232,0
+232,233,0
+233,234,0
+234,235,0
+235,236,0
+236,237,0
+237,238,0
+238,239,0
+239,240,0
+240,241,0
+241,242,0
+242,243,0
+243,244,0
+244,245,0
+245,246,0
+246,247,0
+247,248,0
+248,249,0
+249,250,0
+250,251,0
+251,252,0
+252,253,0
+253,254,0
+254,255,0
+255,256,0
+256,257,0
+257,258,0
+258,259,0
+259,260,0
+260,261,0
+261,262,0
+262,263,0
+263,264,0
+264,265,0
+265,266,0
+266,267,0
+267,268,0
+268,269,0
+269,270,0
+270,271,0
+271,272,0
+272,273,0
+273,274,0
+274,275,0
+275,276,0
+276,277,0
+277,278,0
+278,279,0
+279,280,0
+280,281,0
+281,282,0
+282,283,0
+283,284,0
+284,285,0
+285,286,0
+286,287,0
+287,288,0
+288,289,0
+289,290,0
+290,291,0
+291,292,0
+292,293,0
+293,294,0
+294,295,0
+295,296,0
+296,297,0
+297,298,0
+298,299,0
+299,300,0
+300,301,0
+301,302,0
+302,303,0
+303,304,0
+304,305,0
+305,306,0
+306,307,0
+307,308,0
+308,309,0
+309,310,0
+310,311,0
+311,312,0
+312,313,0
+313,314,0
+314,315,0
+315,316,0
+316,317,0
+317,318,0
+318,319,0
+319,320,0
+320,321,0
+321,322,0
+322,323,0
+323,324,0
+324,325,0
+325,326,0
+326,327,0
+327,328,0
+328,329,0
+329,330,0
+330,331,0
+331,332,0
+332,333,0
+333,334,0
+334,335,0
+335,336,0
+336,337,0
+337,338,0
+338,339,0
+339,340,0
+340,341,0
+341,342,0
+342,343,0
+343,344,0
+344,345,0
+345,346,0
+346,347,0
+347,348,0
+348,349,0
+349,350,0
+350,351,0
+351,352,0
+352,353,0
+353,354,0
+354,355,0
+355,356,0
+356,357,0
+357,358,0
+358,359,0
+359,360,0
+360,361,0
+361,362,0
+362,363,0
+363,364,0
+364,365,0
+365,366,0
+366,367,0
+367,368,0
+368,369,0
+369,370,0
+370,371,0
+371,372,0
+372,373,0
+373,374,0
+374,375,0
+375,376,0
+376,377,0
+377,378,0
+378,379,0
+379,380,0
+380,381,0
+381,382,0
+382,383,0
+383,384,0
+384,385,0
+385,386,0
+386,387,0
+387,388,0
+388,389,0
+389,390,0
+390,391,0
+391,392,0
+392,393,0
+393,394,0
+394,395,0
+395,396,0
+396,397,0
+397,398,0
+398,399,0
+399,400,0
+400,401,0
+401,402,0
+402,403,0
+403,404,0
+404,405,0
+405,406,0
+406,407,0
+407,408,0
+408,409,0
+409,410,0
+410,411,0
+411,412,0
+412,413,0
+413,414,0
+414,415,0
+415,416,0
+416,417,0
+417,418,0
+418,419,0
+419,420,0
+420,421,0
+421,422,0
+422,423,0
+423,424,0
+424,425,0
+425,426,0
+426,427,0
+427,428,0
+428,429,0
+429,430,0
+430,431,0
+431,432,0
+432,433,0
+433,434,0
+434,435,0
+435,436,0
+436,437,0
+437,438,0
+438,439,0
+439,440,0
+440,441,0
+441,442,0
+442,443,0
+443,444,0
+444,445,0
+445,446,0
+446,447,0
+447,448,0
+448,449,0
+449,450,0
+450,451,0
+451,452,0
+452,453,0
+453,454,0
+454,455,0
+455,456,0
+456,457,0
+457,458,0
+458,459,0
+459,460,0
+460,461,0
+461,462,0
+462,463,0
+463,464,0
+464,465,0
+465,466,0
+466,467,0
+467,468,0
+468,469,0
+469,470,0
+470,471,0
+471,472,0
+472,473,0
+473,474,0
+474,475,0
+475,476,0
+476,477,0
+477,478,0
+478,479,0
+479,480,0
+480,481,0
+481,482,0
+482,483,0
+483,484,0
+484,485,0
+485,486,0
+486,487,0
+487,488,0
+488,489,0
+489,490,0
+490,491,0
+491,492,0
+492,493,0
+493,494,0
+494,495,0
+495,496,0
+496,497,0
+497,498,0
+498,499,0
+499,500,0
+500,501,0
+501,502,0
+502,503,0
+503,504,0
+504,505,0
+505,506,0
+506,507,0
+507,508,0
+508,509,0
+509,510,0
+510,511,0
+511,512,0
+512,513,0
+513,514,0
+514,515,0
+515,516,0
+516,517,0
+517,518,0
+518,519,0
+519,520,0
+520,521,0
+521,522,0
+522,523,0
+523,524,0
+524,525,0
+525,526,0
+526,527,0
+527,528,0
+528,529,0
+529,530,0
+530,531,0
+531,532,0
+532,533,0
+533,534,0
+534,535,0
+535,536,0
+536,537,0
+537,538,0
+538,539,0
+539,540,0
+540,541,0
+541,542,0
+542,543,0
+543,544,0
+544,545,0
+545,546,0
+546,547,0
+547,548,0
+548,549,0
+549,550,0
+550,551,0
+551,552,0
+552,553,0
+553,554,0
+554,555,0
+555,556,0
+556,557,0
+557,558,0
+558,559,0
+559,560,0
+560,561,0
+561,562,0
+562,563,0
+563,564,0
+564,565,0
+565,566,0
+566,567,0
+567,568,0
+568,569,0
+569,570,0
+570,571,0
+571,572,0
+572,573,0
+573,574,0
+574,575,0
+575,576,0
+576,577,0
+577,578,0
+578,579,0
+579,580,0
+580,581,0
+581,582,0
+582,583,0
+583,584,0
+584,585,0
+585,586,0
+586,587,0
+587,588,0
+588,589,0
+589,590,0
+590,591,0
+591,592,0
+592,593,0
+593,594,0
+594,595,0
+595,596,0
+596,597,0
+597,598,0
+598,599,0
+599,600,0
+600,601,0
+601,602,0
+602,603,0
+603,604,0
+604,605,0
+605,606,0
+606,607,0
+607,608,0
+608,609,0
+609,610,0
+610,611,0
+611,612,0
+612,613,0
+613,614,0
+614,615,0
+615,616,0
+616,617,0
+617,618,0
+618,619,0
+619,620,0
+620,621,0
+621,622,0
+622,623,0
+623,624,0
+624,625,0
+625,626,0
+626,627,0
+627,628,0
+628,629,0
+629,630,0
+630,631,0
+631,632,0
+632,633,0
+633,634,0
+634,635,0
+635,636,0
+636,637,0
+637,638,0
+638,639,0
+639,640,0
+640,641,0
+641,642,0
+642,643,0
+643,644,0
+644,645,0
+645,646,0
+646,647,0
+647,648,0
+648,649,0
+649,650,0
+650,651,0
+651,652,0
+652,653,0
+653,654,0
+654,655,0
+655,656,0
+656,657,0
+657,658,0
+658,659,0
+659,660,0
+660,661,0
+661,662,0
+662,663,0
+663,664,0
+664,665,0
+665,666,0
+666,667,0
+667,668,0
+668,669,0
+669,670,0
+670,671,0
+671,672,0
+672,673,0
+673,674,0
+674,675,0
+675,676,0
+676,677,0
+677,678,0
+678,679,0
+679,680,0
+680,681,0
+681,682,0
+682,683,0
+683,684,0
+684,685,0
+685,686,0
+686,687,0
+687,688,0
+688,689,0
+689,690,0
+690,691,0
+691,692,0
+692,693,0
+693,694,0
+694,695,0
+695,696,0
+696,697,0
+697,698,0
+698,699,0
+699,700,0
+700,701,0
+701,702,0
+702,703,0
+703,704,0
+704,705,0
+705,706,0
+706,707,0
+707,708,0
+708,709,0
+709,710,0
+710,711,0
+711,712,0
+712,713,0
+713,714,0
+714,715,0
+715,716,0
+716,717,0
+717,718,0
+718,719,0
+719,720,0
+720,721,0
+721,722,0
+722,723,0
+723,724,0
+724,725,0
+725,726,0
+726,727,0
+727,728,0
+728,729,0
+729,730,0
+730,731,0
+731,732,0
+732,733,0
+733,734,0
+734,735,0
+735,736,0
+736,737,0
+737,738,0
+738,739,0
+739,740,0
+740,741,0
+741,742,0
+742,743,0
+743,744,0
+744,745,0
+745,746,0
+746,747,0
+747,748,0
+748,749,0
+749,750,0
+750,751,0
+751,752,0
+752,753,0
+753,754,0
+754,755,0
+755,756,0
+756,757,0
+757,758,0
+758,759,0
+759,760,0
+760,761,0
+761,762,0
+762,763,0
+763,764,0
+764,765,0
+765,766,0
+766,767,0
+767,768,0
+768,769,0
+769,770,0
+770,771,0
+771,772,0
+772,773,0
+773,774,0
+774,775,0
+775,776,0
+776,777,0
+777,778,0
+778,779,0
+779,780,0
+780,781,0
+781,782,0
+782,783,0
+783,784,0
+784,785,0
+785,786,0
+786,787,0
+787,788,0
+788,789,0
+789,790,0
+790,791,0
+791,792,0
+792,793,0
+793,794,0
+794,795,0
+795,796,0
+796,797,0
+797,798,0
+798,799,0
+799,800,0
+800,801,0
+801,802,0
+802,803,0
+803,804,0
+804,805,0
+805,806,0
+806,807,0
+807,808,0
+808,809,0
+809,810,0
+810,811,0
+811,812,0
+812,813,0
+813,814,0
+814,815,0
+815,816,0
+816,817,0
+817,818,0
+818,819,0
+819,820,0
+820,821,0
+821,822,0
+822,823,0
+823,824,0
+824,825,0
+825,826,0
+826,827,0
+827,828,0
+828,829,0
+829,830,0
+830,831,0
+831,832,0
+832,833,0
+833,834,0
+834,835,0
+835,836,0
+836,837,0
+837,838,0
+838,839,0
+839,840,0
+840,841,0
+841,842,0
+842,843,0
+843,844,0
+844,845,0
+845,846,0
+846,847,0
+847,848,0
+848,849,0
+849,850,0
+850,851,0
+851,852,0
+852,853,0
+853,854,0
+854,855,0
+855,856,0
+856,857,0
+857,858,0
+858,859,0
+859,860,0
+860,861,0
+861,862,0
+862,863,0
+863,864,0
+864,865,0
+865,866,0
+866,867,0
+867,868,0
+868,869,0
+869,870,0
+870,871,0
+871,872,0
+872,873,0
+873,874,0
+874,875,0
+875,876,0
+876,877,0
+877,878,0
+878,879,0
+879,880,0
+880,881,0
+881,882,0
+882,883,0
+883,884,0
+884,885,0
+885,886,0
+886,887,0
+887,888,0
+888,889,0
+889,890,0
+890,891,0
+891,892,0
+892,893,0
+893,894,0
+894,895,0
+895,896,0
+896,897,0
+897,898,0
+898,899,0
+899,900,0
+900,901,0
+901,902,0
+902,903,0
+903,904,0
+904,905,0
+905,906,0
+906,907,0
+907,908,0
+908,909,0
+909,910,0
+910,911,0
+911,912,0
+912,913,0
+913,914,0
+914,915,0
+915,916,0
+916,917,0
+917,918,0
+918,919,0
+919,920,0
+920,921,0
+921,922,0
+922,923,0
+923,924,0
+924,925,0
+925,926,0
+926,927,0
+927,928,0
+928,929,0
+929,930,0
+930,931,0
+931,932,0
+932,933,0
+933,934,0
+934,935,0
+935,936,0
+936,937,0
+937,938,0
+938,939,0
+939,940,0
+940,941,0
+941,942,0
+942,943,0
+943,944,0
+944,945,0
+945,946,0
+946,947,0
+947,948,0
+948,949,0
+949,950,0
+950,951,0
+951,952,0
+952,953,0
+953,954,0
+954,955,0
+955,956,0
+956,957,0
+957,958,0
+958,959,0
+959,960,0
+960,961,0
+961,962,0
+962,963,0
+963,964,0
+964,965,0
+965,966,0
+966,967,0
+967,968,0
+968,969,0
+969,970,0
+970,971,0
+971,972,0
+972,973,0
+973,974,0
+974,975,0
+975,976,0
+976,977,0
+977,978,0
+978,979,0
+979,980,0
+980,981,0
+981,982,0
+982,983,0
+983,984,0
+984,985,0
+985,986,0
+986,987,0
+987,988,0
+988,989,0
+989,990,0
+990,991,0
+991,992,0
+992,993,0
+993,994,0
+994,995,0
+995,996,0
+996,997,0
+997,998,0
+998,999,0
+999,1000,0
+1000,1001,0
+0,-1,0
+1,0,0
+2,1,0
+3,2,0
+4,3,0
+5,4,0
+6,5,0
+7,6,0
+8,7,0
+9,8,0
+10,9,0
+11,10,0
+12,11,0
+13,12,0
+14,13,0
+15,14,0
+16,15,0
+17,16,0
+18,17,0
+19,18,0
+20,19,0
+21,20,0
+22,21,0
+23,22,0
+24,23,0
+25,24,0
+26,25,0
+27,26,0
+28,27,0
+29,28,0
+30,29,0
+31,30,0
+32,31,0
+33,32,0
+34,33,0
+35,34,0
+36,35,0
+37,36,0
+38,37,0
+39,38,0
+40,39,0
+41,40,0
+42,41,0
+43,42,0
+44,43,0
+45,44,0
+46,45,0
+47,46,0
+48,47,0
+49,48,0
+50,49,0
+51,50,0
+52,51,0
+53,52,0
+54,53,0
+55,54,0
+56,55,0
+57,56,0
+58,57,0
+59,58,0
+60,59,0
+61,60,0
+62,61,0
+63,62,0
+64,63,0
+65,64,0
+66,65,0
+67,66,0
+68,67,0
+69,68,0
+70,69,0
+71,70,0
+72,71,0
+73,72,0
+74,73,0
+75,74,0
+76,75,0
+77,76,0
+78,77,0
+79,78,0
+80,79,0
+81,80,0
+82,81,0
+83,82,0
+84,83,0
+85,84,0
+86,85,0
+87,86,0
+88,87,0
+89,88,0
+90,89,0
+91,90,0
+92,91,0
+93,92,0
+94,93,0
+95,94,0
+96,95,0
+97,96,0
+98,97,0
+99,98,0
+100,99,0
+101,100,0
+102,101,0
+103,102,0
+104,103,0
+105,104,0
+106,105,0
+107,106,0
+108,107,0
+109,108,0
+110,109,0
+111,110,0
+112,111,0
+113,112,0
+114,113,0
+115,114,0
+116,115,0
+117,116,0
+118,117,0
+119,118,0
+120,119,0
+121,120,0
+122,121,0
+123,122,0
+124,123,0
+125,124,0
+126,125,0
+127,126,0
+128,127,0
+129,128,0
+130,129,0
+131,130,0
+132,131,0
+133,132,0
+134,133,0
+135,134,0
+136,135,0
+137,136,0
+138,137,0
+139,138,0
+140,139,0
+141,140,0
+142,141,0
+143,142,0
+144,143,0
+145,144,0
+146,145,0
+147,146,0
+148,147,0
+149,148,0
+150,149,0
+151,150,0
+152,151,0
+153,152,0
+154,153,0
+155,154,0
+156,155,0
+157,156,0
+158,157,0
+159,158,0
+160,159,0
+161,160,0
+162,161,0
+163,162,0
+164,163,0
+165,164,0
+166,165,0
+167,166,0
+168,167,0
+169,168,0
+170,169,0
+171,170,0
+172,171,0
+173,172,0
+174,173,0
+175,174,0
+176,175,0
+177,176,0
+178,177,0
+179,178,0
+180,179,0
+181,180,0
+182,181,0
+183,182,0
+184,183,0
+185,184,0
+186,185,0
+187,186,0
+188,187,0
+189,188,0
+190,189,0
+191,190,0
+192,191,0
+193,192,0
+194,193,0
+195,194,0
+196,195,0
+197,196,0
+198,197,0
+199,198,0
+200,199,0
+201,200,0
+202,201,0
+203,202,0
+204,203,0
+205,204,0
+206,205,0
+207,206,0
+208,207,0
+209,208,0
+210,209,0
+211,210,0
+212,211,0
+213,212,0
+214,213,0
+215,214,0
+216,215,0
+217,216,0
+218,217,0
+219,218,0
+220,219,0
+221,220,0
+222,221,0
+223,222,0
+224,223,0
+225,224,0
+226,225,0
+227,226,0
+228,227,0
+229,228,0
+230,229,0
+231,230,0
+232,231,0
+233,232,0
+234,233,0
+235,234,0
+236,235,0
+237,236,0
+238,237,0
+239,238,0
+240,239,0
+241,240,0
+242,241,0
+243,242,0
+244,243,0
+245,244,0
+246,245,0
+247,246,0
+248,247,0
+249,248,0
+250,249,0
+251,250,0
+252,251,0
+253,252,0
+254,253,0
+255,254,0
+256,255,0
+257,256,0
+258,257,0
+259,258,0
+260,259,0
+261,260,0
+262,261,0
+263,262,0
+264,263,0
+265,264,0
+266,265,0
+267,266,0
+268,267,0
+269,268,0
+270,269,0
+271,270,0
+272,271,0
+273,272,0
+274,273,0
+275,274,0
+276,275,0
+277,276,0
+278,277,0
+279,278,0
+280,279,0
+281,280,0
+282,281,0
+283,282,0
+284,283,0
+285,284,0
+286,285,0
+287,286,0
+288,287,0
+289,288,0
+290,289,0
+291,290,0
+292,291,0
+293,292,0
+294,293,0
+295,294,0
+296,295,0
+297,296,0
+298,297,0
+299,298,0
+300,299,0
+301,300,0
+302,301,0
+303,302,0
+304,303,0
+305,304,0
+306,305,0
+307,306,0
+308,307,0
+309,308,0
+310,309,0
+311,310,0
+312,311,0
+313,312,0
+314,313,0
+315,314,0
+316,315,0
+317,316,0
+318,317,0
+319,318,0
+320,319,0
+321,320,0
+322,321,0
+323,322,0
+324,323,0
+325,324,0
+326,325,0
+327,326,0
+328,327,0
+329,328,0
+330,329,0
+331,330,0
+332,331,0
+333,332,0
+334,333,0
+335,334,0
+336,335,0
+337,336,0
+338,337,0
+339,338,0
+340,339,0
+341,340,0
+342,341,0
+343,342,0
+344,343,0
+345,344,0
+346,345,0
+347,346,0
+348,347,0
+349,348,0
+350,349,0
+351,350,0
+352,351,0
+353,352,0
+354,353,0
+355,354,0
+356,355,0
+357,356,0
+358,357,0
+359,358,0
+360,359,0
+361,360,0
+362,361,0
+363,362,0
+364,363,0
+365,364,0
+366,365,0
+367,366,0
+368,367,0
+369,368,0
+370,369,0
+371,370,0
+372,371,0
+373,372,0
+374,373,0
+375,374,0
+376,375,0
+377,376,0
+378,377,0
+379,378,0
+380,379,0
+381,380,0
+382,381,0
+383,382,0
+384,383,0
+385,384,0
+386,385,0
+387,386,0
+388,387,0
+389,388,0
+390,389,0
+391,390,0
+392,391,0
+393,392,0
+394,393,0
+395,394,0
+396,395,0
+397,396,0
+398,397,0
+399,398,0
+400,399,0
+401,400,0
+402,401,0
+403,402,0
+404,403,0
+405,404,0
+406,405,0
+407,406,0
+408,407,0
+409,408,0
+410,409,0
+411,410,0
+412,411,0
+413,412,0
+414,413,0
+415,414,0
+416,415,0
+417,416,0
+418,417,0
+419,418,0
+420,419,0
+421,420,0
+422,421,0
+423,422,0
+424,423,0
+425,424,0
+426,425,0
+427,426,0
+428,427,0
+429,428,0
+430,429,0
+431,430,0
+432,431,0
+433,432,0
+434,433,0
+435,434,0
+436,435,0
+437,436,0
+438,437,0
+439,438,0
+440,439,0
+441,440,0
+442,441,0
+443,442,0
+444,443,0
+445,444,0
+446,445,0
+447,446,0
+448,447,0
+449,448,0
+450,449,0
+451,450,0
+452,451,0
+453,452,0
+454,453,0
+455,454,0
+456,455,0
+457,456,0
+458,457,0
+459,458,0
+460,459,0
+461,460,0
+462,461,0
+463,462,0
+464,463,0
+465,464,0
+466,465,0
+467,466,0
+468,467,0
+469,468,0
+470,469,0
+471,470,0
+472,471,0
+473,472,0
+474,473,0
+475,474,0
+476,475,0
+477,476,0
+478,477,0
+479,478,0
+480,479,0
+481,480,0
+482,481,0
+483,482,0
+484,483,0
+485,484,0
+486,485,0
+487,486,0
+488,487,0
+489,488,0
+490,489,0
+491,490,0
+492,491,0
+493,492,0
+494,493,0
+495,494,0
+496,495,0
+497,496,0
+498,497,0
+499,498,0
+500,499,0
+501,500,0
+502,501,0
+503,502,0
+504,503,0
+505,504,0
+506,505,0
+507,506,0
+508,507,0
+509,508,0
+510,509,0
+511,510,0
+512,511,0
+513,512,0
+514,513,0
+515,514,0
+516,515,0
+517,516,0
+518,517,0
+519,518,0
+520,519,0
+521,520,0
+522,521,0
+523,522,0
+524,523,0
+525,524,0
+526,525,0
+527,526,0
+528,527,0
+529,528,0
+530,529,0
+531,530,0
+532,531,0
+533,532,0
+534,533,0
+535,534,0
+536,535,0
+537,536,0
+538,537,0
+539,538,0
+540,539,0
+541,540,0
+542,541,0
+543,542,0
+544,543,0
+545,544,0
+546,545,0
+547,546,0
+548,547,0
+549,548,0
+550,549,0
+551,550,0
+552,551,0
+553,552,0
+554,553,0
+555,554,0
+556,555,0
+557,556,0
+558,557,0
+559,558,0
+560,559,0
+561,560,0
+562,561,0
+563,562,0
+564,563,0
+565,564,0
+566,565,0
+567,566,0
+568,567,0
+569,568,0
+570,569,0
+571,570,0
+572,571,0
+573,572,0
+574,573,0
+575,574,0
+576,575,0
+577,576,0
+578,577,0
+579,578,0
+580,579,0
+581,580,0
+582,581,0
+583,582,0
+584,583,0
+585,584,0
+586,585,0
+587,586,0
+588,587,0
+589,588,0
+590,589,0
+591,590,0
+592,591,0
+593,592,0
+594,593,0
+595,594,0
+596,595,0
+597,596,0
+598,597,0
+599,598,0
+600,599,0
+601,600,0
+602,601,0
+603,602,0
+604,603,0
+605,604,0
+606,605,0
+607,606,0
+608,607,0
+609,608,0
+610,609,0
+611,610,0
+612,611,0
+613,612,0
+614,613,0
+615,614,0
+616,615,0
+617,616,0
+618,617,0
+619,618,0
+620,619,0
+621,620,0
+622,621,0
+623,622,0
+624,623,0
+625,624,0
+626,625,0
+627,626,0
+628,627,0
+629,628,0
+630,629,0
+631,630,0
+632,631,0
+633,632,0
+634,633,0
+635,634,0
+636,635,0
+637,636,0
+638,637,0
+639,638,0
+640,639,0
+641,640,0
+642,641,0
+643,642,0
+644,643,0
+645,644,0
+646,645,0
+647,646,0
+648,647,0
+649,648,0
+650,649,0
+651,650,0
+652,651,0
+653,652,0
+654,653,0
+655,654,0
+656,655,0
+657,656,0
+658,657,0
+659,658,0
+660,659,0
+661,660,0
+662,661,0
+663,662,0
+664,663,0
+665,664,0
+666,665,0
+667,666,0
+668,667,0
+669,668,0
+670,669,0
+671,670,0
+672,671,0
+673,672,0
+674,673,0
+675,674,0
+676,675,0
+677,676,0
+678,677,0
+679,678,0
+680,679,0
+681,680,0
+682,681,0
+683,682,0
+684,683,0
+685,684,0
+686,685,0
+687,686,0
+688,687,0
+689,688,0
+690,689,0
+691,690,0
+692,691,0
+693,692,0
+694,693,0
+695,694,0
+696,695,0
+697,696,0
+698,697,0
+699,698,0
+700,699,0
+701,700,0
+702,701,0
+703,702,0
+704,703,0
+705,704,0
+706,705,0
+707,706,0
+708,707,0
+709,708,0
+710,709,0
+711,710,0
+712,711,0
+713,712,0
+714,713,0
+715,714,0
+716,715,0
+717,716,0
+718,717,0
+719,718,0
+720,719,0
+721,720,0
+722,721,0
+723,722,0
+724,723,0
+725,724,0
+726,725,0
+727,726,0
+728,727,0
+729,728,0
+730,729,0
+731,730,0
+732,731,0
+733,732,0
+734,733,0
+735,734,0
+736,735,0
+737,736,0
+738,737,0
+739,738,0
+740,739,0
+741,740,0
+742,741,0
+743,742,0
+744,743,0
+745,744,0
+746,745,0
+747,746,0
+748,747,0
+749,748,0
+750,749,0
+751,750,0
+752,751,0
+753,752,0
+754,753,0
+755,754,0
+756,755,0
+757,756,0
+758,757,0
+759,758,0
+760,759,0
+761,760,0
+762,761,0
+763,762,0
+764,763,0
+765,764,0
+766,765,0
+767,766,0
+768,767,0
+769,768,0
+770,769,0
+771,770,0
+772,771,0
+773,772,0
+774,773,0
+775,774,0
+776,775,0
+777,776,0
+778,777,0
+779,778,0
+780,779,0
+781,780,0
+782,781,0
+783,782,0
+784,783,0
+785,784,0
+786,785,0
+787,786,0
+788,787,0
+789,788,0
+790,789,0
+791,790,0
+792,791,0
+793,792,0
+794,793,0
+795,794,0
+796,795,0
+797,796,0
+798,797,0
+799,798,0
+800,799,0
+801,800,0
+802,801,0
+803,802,0
+804,803,0
+805,804,0
+806,805,0
+807,806,0
+808,807,0
+809,808,0
+810,809,0
+811,810,0
+812,811,0
+813,812,0
+814,813,0
+815,814,0
+816,815,0
+817,816,0
+818,817,0
+819,818,0
+820,819,0
+821,820,0
+822,821,0
+823,822,0
+824,823,0
+825,824,0
+826,825,0
+827,826,0
+828,827,0
+829,828,0
+830,829,0
+831,830,0
+832,831,0
+833,832,0
+834,833,0
+835,834,0
+836,835,0
+837,836,0
+838,837,0
+839,838,0
+840,839,0
+841,840,0
+842,841,0
+843,842,0
+844,843,0
+845,844,0
+846,845,0
+847,846,0
+848,847,0
+849,848,0
+850,849,0
+851,850,0
+852,851,0
+853,852,0
+854,853,0
+855,854,0
+856,855,0
+857,856,0
+858,857,0
+859,858,0
+860,859,0
+861,860,0
+862,861,0
+863,862,0
+864,863,0
+865,864,0
+866,865,0
+867,866,0
+868,867,0
+869,868,0
+870,869,0
+871,870,0
+872,871,0
+873,872,0
+874,873,0
+875,874,0
+876,875,0
+877,876,0
+878,877,0
+879,878,0
+880,879,0
+881,880,0
+882,881,0
+883,882,0
+884,883,0
+885,884,0
+886,885,0
+887,886,0
+888,887,0
+889,888,0
+890,889,0
+891,890,0
+892,891,0
+893,892,0
+894,893,0
+895,894,0
+896,895,0
+897,896,0
+898,897,0
+899,898,0
+900,899,0
+901,900,0
+902,901,0
+903,902,0
+904,903,0
+905,904,0
+906,905,0
+907,906,0
+908,907,0
+909,908,0
+910,909,0
+911,910,0
+912,911,0
+913,912,0
+914,913,0
+915,914,0
+916,915,0
+917,916,0
+918,917,0
+919,918,0
+920,919,0
+921,920,0
+922,921,0
+923,922,0
+924,923,0
+925,924,0
+926,925,0
+927,926,0
+928,927,0
+929,928,0
+930,929,0
+931,930,0
+932,931,0
+933,932,0
+934,933,0
+935,934,0
+936,935,0
+937,936,0
+938,937,0
+939,938,0
+940,939,0
+941,940,0
+942,941,0
+943,942,0
+944,943,0
+945,944,0
+946,945,0
+947,946,0
+948,947,0
+949,948,0
+950,949,0
+951,950,0
+952,951,0
+953,952,0
+954,953,0
+955,954,0
+956,955,0
+957,956,0
+958,957,0
+959,958,0
+960,959,0
+961,960,0
+962,961,0
+963,962,0
+964,963,0
+965,964,0
+966,965,0
+967,966,0
+968,967,0
+969,968,0
+970,969,0
+971,970,0
+972,971,0
+973,972,0
+974,973,0
+975,974,0
+976,975,0
+977,976,0
+978,977,0
+979,978,0
+980,979,0
+981,980,0
+982,981,0
+983,982,0
+984,983,0
+985,984,0
+986,985,0
+987,986,0
+988,987,0
+989,988,0
+990,989,0
+991,990,0
+992,991,0
+993,992,0
+994,993,0
+995,994,0
+996,995,0
+997,996,0
+998,997,0
+999,998,0
+1000,999,0
+0,2,0
+1,3,0
+2,4,0
+3,5,0
+4,6,0
+5,7,0
+6,8,0
+7,9,0
+8,10,0
+9,11,0
+10,12,0
+11,13,0
+12,14,0
+13,15,0
+14,16,0
+15,17,0
+16,18,0
+17,19,0
+18,20,0
+19,21,0
+20,22,0
+21,23,0
+22,24,0
+23,25,0
+24,26,0
+25,27,0
+26,28,0
+27,29,0
+28,30,0
+29,31,0
+30,32,0
+31,33,0
+32,34,0
+33,35,0
+34,36,0
+35,37,0
+36,38,0
+37,39,0
+38,40,0
+39,41,0
+40,42,0
+41,43,0
+42,44,0
+43,45,0
+44,46,0
+45,47,0
+46,48,0
+47,49,0
+48,50,0
+49,51,0
+50,52,0
+51,53,0
+52,54,0
+53,55,0
+54,56,0
+55,57,0
+56,58,0
+57,59,0
+58,60,0
+59,61,0
+60,62,0
+61,63,0
+62,64,0
+63,65,0
+64,66,0
+65,67,0
+66,68,0
+67,69,0
+68,70,0
+69,71,0
+70,72,0
+71,73,0
+72,74,0
+73,75,0
+74,76,0
+75,77,0
+76,78,0
+77,79,0
+78,80,0
+79,81,0
+80,82,0
+81,83,0
+82,84,0
+83,85,0
+84,86,0
+85,87,0
+86,88,0
+87,89,0
+88,90,0
+89,91,0
+90,92,0
+91,93,0
+92,94,0
+93,95,0
+94,96,0
+95,97,0
+96,98,0
+97,99,0
+98,100,0
+99,101,0
+100,102,0
+101,103,0
+102,104,0
+103,105,0
+104,106,0
+105,107,0
+106,108,0
+107,109,0
+108,110,0
+109,111,0
+110,112,0
+111,113,0
+112,114,0
+113,115,0
+114,116,0
+115,117,0
+116,118,0
+117,119,0
+118,120,0
+119,121,0
+120,122,0
+121,123,0
+122,124,0
+123,125,0
+124,126,0
+125,127,0
+126,128,0
+127,129,0
+128,130,0
+129,131,0
+130,132,0
+131,133,0
+132,134,0
+133,135,0
+134,136,0
+135,137,0
+136,138,0
+137,139,0
+138,140,0
+139,141,0
+140,142,0
+141,143,0
+142,144,0
+143,145,0
+144,146,0
+145,147,0
+146,148,0
+147,149,0
+148,150,0
+149,151,0
+150,152,0
+151,153,0
+152,154,0
+153,155,0
+154,156,0
+155,157,0
+156,158,0
+157,159,0
+158,160,0
+159,161,0
+160,162,0
+161,163,0
+162,164,0
+163,165,0
+164,166,0
+165,167,0
+166,168,0
+167,169,0
+168,170,0
+169,171,0
+170,172,0
+171,173,0
+172,174,0
+173,175,0
+174,176,0
+175,177,0
+176,178,0
+177,179,0
+178,180,0
+179,181,0
+180,182,0
+181,183,0
+182,184,0
+183,185,0
+184,186,0
+185,187,0
+186,188,0
+187,189,0
+188,190,0
+189,191,0
+190,192,0
+191,193,0
+192,194,0
+193,195,0
+194,196,0
+195,197,0
+196,198,0
+197,199,0
+198,200,0
+199,201,0
+200,202,0
+201,203,0
+202,204,0
+203,205,0
+204,206,0
+205,207,0
+206,208,0
+207,209,0
+208,210,0
+209,211,0
+210,212,0
+211,213,0
+212,214,0
+213,215,0
+214,216,0
+215,217,0
+216,218,0
+217,219,0
+218,220,0
+219,221,0
+220,222,0
+221,223,0
+222,224,0
+223,225,0
+224,226,0
+225,227,0
+226,228,0
+227,229,0
+228,230,0
+229,231,0
+230,232,0
+231,233,0
+232,234,0
+233,235,0
+234,236,0
+235,237,0
+236,238,0
+237,239,0
+238,240,0
+239,241,0
+240,242,0
+241,243,0
+242,244,0
+243,245,0
+244,246,0
+245,247,0
+246,248,0
+247,249,0
+248,250,0
+249,251,0
+250,252,0
+251,253,0
+252,254,0
+253,255,0
+254,256,0
+255,257,0
+256,258,0
+257,259,0
+258,260,0
+259,261,0
+260,262,0
+261,263,0
+262,264,0
+263,265,0
+264,266,0
+265,267,0
+266,268,0
+267,269,0
+268,270,0
+269,271,0
+270,272,0
+271,273,0
+272,274,0
+273,275,0
+274,276,0
+275,277,0
+276,278,0
+277,279,0
+278,280,0
+279,281,0
+280,282,0
+281,283,0
+282,284,0
+283,285,0
+284,286,0
+285,287,0
+286,288,0
+287,289,0
+288,290,0
+289,291,0
+290,292,0
+291,293,0
+292,294,0
+293,295,0
+294,296,0
+295,297,0
+296,298,0
+297,299,0
+298,300,0
+299,301,0
+300,302,0
+301,303,0
+302,304,0
+303,305,0
+304,306,0
+305,307,0
+306,308,0
+307,309,0
+308,310,0
+309,311,0
+310,312,0
+311,313,0
+312,314,0
+313,315,0
+314,316,0
+315,317,0
+316,318,0
+317,319,0
+318,320,0
+319,321,0
+320,322,0
+321,323,0
+322,324,0
+323,325,0
+324,326,0
+325,327,0
+326,328,0
+327,329,0
+328,330,0
+329,331,0
+330,332,0
+331,333,0
+332,334,0
+333,335,0
+334,336,0
+335,337,0
+336,338,0
+337,339,0
+338,340,0
+339,341,0
+340,342,0
+341,343,0
+342,344,0
+343,345,0
+344,346,0
+345,347,0
+346,348,0
+347,349,0
+348,350,0
+349,351,0
+350,352,0
+351,353,0
+352,354,0
+353,355,0
+354,356,0
+355,357,0
+356,358,0
+357,359,0
+358,360,0
+359,361,0
+360,362,0
+361,363,0
+362,364,0
+363,365,0
+364,366,0
+365,367,0
+366,368,0
+367,369,0
+368,370,0
+369,371,0
+370,372,0
+371,373,0
+372,374,0
+373,375,0
+374,376,0
+375,377,0
+376,378,0
+377,379,0
+378,380,0
+379,381,0
+380,382,0
+381,383,0
+382,384,0
+383,385,0
+384,386,0
+385,387,0
+386,388,0
+387,389,0
+388,390,0
+389,391,0
+390,392,0
+391,393,0
+392,394,0
+393,395,0
+394,396,0
+395,397,0
+396,398,0
+397,399,0
+398,400,0
+399,401,0
+400,402,0
+401,403,0
+402,404,0
+403,405,0
+404,406,0
+405,407,0
+406,408,0
+407,409,0
+408,410,0
+409,411,0
+410,412,0
+411,413,0
+412,414,0
+413,415,0
+414,416,0
+415,417,0
+416,418,0
+417,419,0
+418,420,0
+419,421,0
+420,422,0
+421,423,0
+422,424,0
+423,425,0
+424,426,0
+425,427,0
+426,428,0
+427,429,0
+428,430,0
+429,431,0
+430,432,0
+431,433,0
+432,434,0
+433,435,0
+434,436,0
+435,437,0
+436,438,0
+437,439,0
+438,440,0
+439,441,0
+440,442,0
+441,443,0
+442,444,0
+443,445,0
+444,446,0
+445,447,0
+446,448,0
+447,449,0
+448,450,0
+449,451,0
+450,452,0
+451,453,0
+452,454,0
+453,455,0
+454,456,0
+455,457,0
+456,458,0
+457,459,0
+458,460,0
+459,461,0
+460,462,0
+461,463,0
+462,464,0
+463,465,0
+464,466,0
+465,467,0
+466,468,0
+467,469,0
+468,470,0
+469,471,0
+470,472,0
+471,473,0
+472,474,0
+473,475,0
+474,476,0
+475,477,0
+476,478,0
+477,479,0
+478,480,0
+479,481,0
+480,482,0
+481,483,0
+482,484,0
+483,485,0
+484,486,0
+485,487,0
+486,488,0
+487,489,0
+488,490,0
+489,491,0
+490,492,0
+491,493,0
+492,494,0
+493,495,0
+494,496,0
+495,497,0
+496,498,0
+497,499,0
+498,500,0
+499,501,0
+500,502,0
+501,503,0
+502,504,0
+503,505,0
+504,506,0
+505,507,0
+506,508,0
+507,509,0
+508,510,0
+509,511,0
+510,512,0
+511,513,0
+512,514,0
+513,515,0
+514,516,0
+515,517,0
+516,518,0
+517,519,0
+518,520,0
+519,521,0
+520,522,0
+521,523,0
+522,524,0
+523,525,0
+524,526,0
+525,527,0
+526,528,0
+527,529,0
+528,530,0
+529,531,0
+530,532,0
+531,533,0
+532,534,0
+533,535,0
+534,536,0
+535,537,0
+536,538,0
+537,539,0
+538,540,0
+539,541,0
+540,542,0
+541,543,0
+542,544,0
+543,545,0
+544,546,0
+545,547,0
+546,548,0
+547,549,0
+548,550,0
+549,551,0
+550,552,0
+551,553,0
+552,554,0
+553,555,0
+554,556,0
+555,557,0
+556,558,0
+557,559,0
+558,560,0
+559,561,0
+560,562,0
+561,563,0
+562,564,0
+563,565,0
+564,566,0
+565,567,0
+566,568,0
+567,569,0
+568,570,0
+569,571,0
+570,572,0
+571,573,0
+572,574,0
+573,575,0
+574,576,0
+575,577,0
+576,578,0
+577,579,0
+578,580,0
+579,581,0
+580,582,0
+581,583,0
+582,584,0
+583,585,0
+584,586,0
+585,587,0
+586,588,0
+587,589,0
+588,590,0
+589,591,0
+590,592,0
+591,593,0
+592,594,0
+593,595,0
+594,596,0
+595,597,0
+596,598,0
+597,599,0
+598,600,0
+599,601,0
+600,602,0
+601,603,0
+602,604,0
+603,605,0
+604,606,0
+605,607,0
+606,608,0
+607,609,0
+608,610,0
+609,611,0
+610,612,0
+611,613,0
+612,614,0
+613,615,0
+614,616,0
+615,617,0
+616,618,0
+617,619,0
+618,620,0
+619,621,0
+620,622,0
+621,623,0
+622,624,0
+623,625,0
+624,626,0
+625,627,0
+626,628,0
+627,629,0
+628,630,0
+629,631,0
+630,632,0
+631,633,0
+632,634,0
+633,635,0
+634,636,0
+635,637,0
+636,638,0
+637,639,0
+638,640,0
+639,641,0
+640,642,0
+641,643,0
+642,644,0
+643,645,0
+644,646,0
+645,647,0
+646,648,0
+647,649,0
+648,650,0
+649,651,0
+650,652,0
+651,653,0
+652,654,0
+653,655,0
+654,656,0
+655,657,0
+656,658,0
+657,659,0
+658,660,0
+659,661,0
+660,662,0
+661,663,0
+662,664,0
+663,665,0
+664,666,0
+665,667,0
+666,668,0
+667,669,0
+668,670,0
+669,671,0
+670,672,0
+671,673,0
+672,674,0
+673,675,0
+674,676,0
+675,677,0
+676,678,0
+677,679,0
+678,680,0
+679,681,0
+680,682,0
+681,683,0
+682,684,0
+683,685,0
+684,686,0
+685,687,0
+686,688,0
+687,689,0
+688,690,0
+689,691,0
+690,692,0
+691,693,0
+692,694,0
+693,695,0
+694,696,0
+695,697,0
+696,698,0
+697,699,0
+698,700,0
+699,701,0
+700,702,0
+701,703,0
+702,704,0
+703,705,0
+704,706,0
+705,707,0
+706,708,0
+707,709,0
+708,710,0
+709,711,0
+710,712,0
+711,713,0
+712,714,0
+713,715,0
+714,716,0
+715,717,0
+716,718,0
+717,719,0
+718,720,0
+719,721,0
+720,722,0
+721,723,0
+722,724,0
+723,725,0
+724,726,0
+725,727,0
+726,728,0
+727,729,0
+728,730,0
+729,731,0
+730,732,0
+731,733,0
+732,734,0
+733,735,0
+734,736,0
+735,737,0
+736,738,0
+737,739,0
+738,740,0
+739,741,0
+740,742,0
+741,743,0
+742,744,0
+743,745,0
+744,746,0
+745,747,0
+746,748,0
+747,749,0
+748,750,0
+749,751,0
+750,752,0
+751,753,0
+752,754,0
+753,755,0
+754,756,0
+755,757,0
+756,758,0
+757,759,0
+758,760,0
+759,761,0
+760,762,0
+761,763,0
+762,764,0
+763,765,0
+764,766,0
+765,767,0
+766,768,0
+767,769,0
+768,770,0
+769,771,0
+770,772,0
+771,773,0
+772,774,0
+773,775,0
+774,776,0
+775,777,0
+776,778,0
+777,779,0
+778,780,0
+779,781,0
+780,782,0
+781,783,0
+782,784,0
+783,785,0
+784,786,0
+785,787,0
+786,788,0
+787,789,0
+788,790,0
+789,791,0
+790,792,0
+791,793,0
+792,794,0
+793,795,0
+794,796,0
+795,797,0
+796,798,0
+797,799,0
+798,800,0
+799,801,0
+800,802,0
+801,803,0
+802,804,0
+803,805,0
+804,806,0
+805,807,0
+806,808,0
+807,809,0
+808,810,0
+809,811,0
+810,812,0
+811,813,0
+812,814,0
+813,815,0
+814,816,0
+815,817,0
+816,818,0
+817,819,0
+818,820,0
+819,821,0
+820,822,0
+821,823,0
+822,824,0
+823,825,0
+824,826,0
+825,827,0
+826,828,0
+827,829,0
+828,830,0
+829,831,0
+830,832,0
+831,833,0
+832,834,0
+833,835,0
+834,836,0
+835,837,0
+836,838,0
+837,839,0
+838,840,0
+839,841,0
+840,842,0
+841,843,0
+842,844,0
+843,845,0
+844,846,0
+845,847,0
+846,848,0
+847,849,0
+848,850,0
+849,851,0
+850,852,0
+851,853,0
+852,854,0
+853,855,0
+854,856,0
+855,857,0
+856,858,0
+857,859,0
+858,860,0
+859,861,0
+860,862,0
+861,863,0
+862,864,0
+863,865,0
+864,866,0
+865,867,0
+866,868,0
+867,869,0
+868,870,0
+869,871,0
+870,872,0
+871,873,0
+872,874,0
+873,875,0
+874,876,0
+875,877,0
+876,878,0
+877,879,0
+878,880,0
+879,881,0
+880,882,0
+881,883,0
+882,884,0
+883,885,0
+884,886,0
+885,887,0
+886,888,0
+887,889,0
+888,890,0
+889,891,0
+890,892,0
+891,893,0
+892,894,0
+893,895,0
+894,896,0
+895,897,0
+896,898,0
+897,899,0
+898,900,0
+899,901,0
+900,902,0
+901,903,0
+902,904,0
+903,905,0
+904,906,0
+905,907,0
+906,908,0
+907,909,0
+908,910,0
+909,911,0
+910,912,0
+911,913,0
+912,914,0
+913,915,0
+914,916,0
+915,917,0
+916,918,0
+917,919,0
+918,920,0
+919,921,0
+920,922,0
+921,923,0
+922,924,0
+923,925,0
+924,926,0
+925,927,0
+926,928,0
+927,929,0
+928,930,0
+929,931,0
+930,932,0
+931,933,0
+932,934,0
+933,935,0
+934,936,0
+935,937,0
+936,938,0
+937,939,0
+938,940,0
+939,941,0
+940,942,0
+941,943,0
+942,944,0
+943,945,0
+944,946,0
+945,947,0
+946,948,0
+947,949,0
+948,950,0
+949,951,0
+950,952,0
+951,953,0
+952,954,0
+953,955,0
+954,956,0
+955,957,0
+956,958,0
+957,959,0
+958,960,0
+959,961,0
+960,962,0
+961,963,0
+962,964,0
+963,965,0
+964,966,0
+965,967,0
+966,968,0
+967,969,0
+968,970,0
+969,971,0
+970,972,0
+971,973,0
+972,974,0
+973,975,0
+974,976,0
+975,977,0
+976,978,0
+977,979,0
+978,980,0
+979,981,0
+980,982,0
+981,983,0
+982,984,0
+983,985,0
+984,986,0
+985,987,0
+986,988,0
+987,989,0
+988,990,0
+989,991,0
+990,992,0
+991,993,0
+992,994,0
+993,995,0
+994,996,0
+995,997,0
+996,998,0
+997,999,0
+998,1000,0
+999,1001,0
+1000,1002,0
+0,-2,0
+1,-1,0
+2,0,0
+3,1,0
+4,2,0
+5,3,0
+6,4,0
+7,5,0
+8,6,0
+9,7,0
+10,8,0
+11,9,0
+12,10,0
+13,11,0
+14,12,0
+15,13,0
+16,14,0
+17,15,0
+18,16,0
+19,17,0
+20,18,0
+21,19,0
+22,20,0
+23,21,0
+24,22,0
+25,23,0
+26,24,0
+27,25,0
+28,26,0
+29,27,0
+30,28,0
+31,29,0
+32,30,0
+33,31,0
+34,32,0
+35,33,0
+36,34,0
+37,35,0
+38,36,0
+39,37,0
+40,38,0
+41,39,0
+42,40,0
+43,41,0
+44,42,0
+45,43,0
+46,44,0
+47,45,0
+48,46,0
+49,47,0
+50,48,0
+51,49,0
+52,50,0
+53,51,0
+54,52,0
+55,53,0
+56,54,0
+57,55,0
+58,56,0
+59,57,0
+60,58,0
+61,59,0
+62,60,0
+63,61,0
+64,62,0
+65,63,0
+66,64,0
+67,65,0
+68,66,0
+69,67,0
+70,68,0
+71,69,0
+72,70,0
+73,71,0
+74,72,0
+75,73,0
+76,74,0
+77,75,0
+78,76,0
+79,77,0
+80,78,0
+81,79,0
+82,80,0
+83,81,0
+84,82,0
+85,83,0
+86,84,0
+87,85,0
+88,86,0
+89,87,0
+90,88,0
+91,89,0
+92,90,0
+93,91,0
+94,92,0
+95,93,0
+96,94,0
+97,95,0
+98,96,0
+99,97,0
+100,98,0
+101,99,0
+102,100,0
+103,101,0
+104,102,0
+105,103,0
+106,104,0
+107,105,0
+108,106,0
+109,107,0
+110,108,0
+111,109,0
+112,110,0
+113,111,0
+114,112,0
+115,113,0
+116,114,0
+117,115,0
+118,116,0
+119,117,0
+120,118,0
+121,119,0
+122,120,0
+123,121,0
+124,122,0
+125,123,0
+126,124,0
+127,125,0
+128,126,0
+129,127,0
+130,128,0
+131,129,0
+132,130,0
+133,131,0
+134,132,0
+135,133,0
+136,134,0
+137,135,0
+138,136,0
+139,137,0
+140,138,0
+141,139,0
+142,140,0
+143,141,0
+144,142,0
+145,143,0
+146,144,0
+147,145,0
+148,146,0
+149,147,0
+150,148,0
+151,149,0
+152,150,0
+153,151,0
+154,152,0
+155,153,0
+156,154,0
+157,155,0
+158,156,0
+159,157,0
+160,158,0
+161,159,0
+162,160,0
+163,161,0
+164,162,0
+165,163,0
+166,164,0
+167,165,0
+168,166,0
+169,167,0
+170,168,0
+171,169,0
+172,170,0
+173,171,0
+174,172,0
+175,173,0
+176,174,0
+177,175,0
+178,176,0
+179,177,0
+180,178,0
+181,179,0
+182,180,0
+183,181,0
+184,182,0
+185,183,0
+186,184,0
+187,185,0
+188,186,0
+189,187,0
+190,188,0
+191,189,0
+192,190,0
+193,191,0
+194,192,0
+195,193,0
+196,194,0
+197,195,0
+198,196,0
+199,197,0
+200,198,0
+201,199,0
+202,200,0
+203,201,0
+204,202,0
+205,203,0
+206,204,0
+207,205,0
+208,206,0
+209,207,0
+210,208,0
+211,209,0
+212,210,0
+213,211,0
+214,212,0
+215,213,0
+216,214,0
+217,215,0
+218,216,0
+219,217,0
+220,218,0
+221,219,0
+222,220,0
+223,221,0
+224,222,0
+225,223,0
+226,224,0
+227,225,0
+228,226,0
+229,227,0
+230,228,0
+231,229,0
+232,230,0
+233,231,0
+234,232,0
+235,233,0
+236,234,0
+237,235,0
+238,236,0
+239,237,0
+240,238,0
+241,239,0
+242,240,0
+243,241,0
+244,242,0
+245,243,0
+246,244,0
+247,245,0
+248,246,0
+249,247,0
+250,248,0
+251,249,0
+252,250,0
+253,251,0
+254,252,0
+255,253,0
+256,254,0
+257,255,0
+258,256,0
+259,257,0
+260,258,0
+261,259,0
+262,260,0
+263,261,0
+264,262,0
+265,263,0
+266,264,0
+267,265,0
+268,266,0
+269,267,0
+270,268,0
+271,269,0
+272,270,0
+273,271,0
+274,272,0
+275,273,0
+276,274,0
+277,275,0
+278,276,0
+279,277,0
+280,278,0
+281,279,0
+282,280,0
+283,281,0
+284,282,0
+285,283,0
+286,284,0
+287,285,0
+288,286,0
+289,287,0
+290,288,0
+291,289,0
+292,290,0
+293,291,0
+294,292,0
+295,293,0
+296,294,0
+297,295,0
+298,296,0
+299,297,0
+300,298,0
+301,299,0
+302,300,0
+303,301,0
+304,302,0
+305,303,0
+306,304,0
+307,305,0
+308,306,0
+309,307,0
+310,308,0
+311,309,0
+312,310,0
+313,311,0
+314,312,0
+315,313,0
+316,314,0
+317,315,0
+318,316,0
+319,317,0
+320,318,0
+321,319,0
+322,320,0
+323,321,0
+324,322,0
+325,323,0
+326,324,0
+327,325,0
+328,326,0
+329,327,0
+330,328,0
+331,329,0
+332,330,0
+333,331,0
+334,332,0
+335,333,0
+336,334,0
+337,335,0
+338,336,0
+339,337,0
+340,338,0
+341,339,0
+342,340,0
+343,341,0
+344,342,0
+345,343,0
+346,344,0
+347,345,0
+348,346,0
+349,347,0
+350,348,0
+351,349,0
+352,350,0
+353,351,0
+354,352,0
+355,353,0
+356,354,0
+357,355,0
+358,356,0
+359,357,0
+360,358,0
+361,359,0
+362,360,0
+363,361,0
+364,362,0
+365,363,0
+366,364,0
+367,365,0
+368,366,0
+369,367,0
+370,368,0
+371,369,0
+372,370,0
+373,371,0
+374,372,0
+375,373,0
+376,374,0
+377,375,0
+378,376,0
+379,377,0
+380,378,0
+381,379,0
+382,380,0
+383,381,0
+384,382,0
+385,383,0
+386,384,0
+387,385,0
+388,386,0
+389,387,0
+390,388,0
+391,389,0
+392,390,0
+393,391,0
+394,392,0
+395,393,0
+396,394,0
+397,395,0
+398,396,0
+399,397,0
+400,398,0
+401,399,0
+402,400,0
+403,401,0
+404,402,0
+405,403,0
+406,404,0
+407,405,0
+408,406,0
+409,407,0
+410,408,0
+411,409,0
+412,410,0
+413,411,0
+414,412,0
+415,413,0
+416,414,0
+417,415,0
+418,416,0
+419,417,0
+420,418,0
+421,419,0
+422,420,0
+423,421,0
+424,422,0
+425,423,0
+426,424,0
+427,425,0
+428,426,0
+429,427,0
+430,428,0
+431,429,0
+432,430,0
+433,431,0
+434,432,0
+435,433,0
+436,434,0
+437,435,0
+438,436,0
+439,437,0
+440,438,0
+441,439,0
+442,440,0
+443,441,0
+444,442,0
+445,443,0
+446,444,0
+447,445,0
+448,446,0
+449,447,0
+450,448,0
+451,449,0
+452,450,0
+453,451,0
+454,452,0
+455,453,0
+456,454,0
+457,455,0
+458,456,0
+459,457,0
+460,458,0
+461,459,0
+462,460,0
+463,461,0
+464,462,0
+465,463,0
+466,464,0
+467,465,0
+468,466,0
+469,467,0
+470,468,0
+471,469,0
+472,470,0
+473,471,0
+474,472,0
+475,473,0
+476,474,0
+477,475,0
+478,476,0
+479,477,0
+480,478,0
+481,479,0
+482,480,0
+483,481,0
+484,482,0
+485,483,0
+486,484,0
+487,485,0
+488,486,0
+489,487,0
+490,488,0
+491,489,0
+492,490,0
+493,491,0
+494,492,0
+495,493,0
+496,494,0
+497,495,0
+498,496,0
+499,497,0
+500,498,0
+501,499,0
+502,500,0
+503,501,0
+504,502,0
+505,503,0
+506,504,0
+507,505,0
+508,506,0
+509,507,0
+510,508,0
+511,509,0
+512,510,0
+513,511,0
+514,512,0
+515,513,0
+516,514,0
+517,515,0
+518,516,0
+519,517,0
+520,518,0
+521,519,0
+522,520,0
+523,521,0
+524,522,0
+525,523,0
+526,524,0
+527,525,0
+528,526,0
+529,527,0
+530,528,0
+531,529,0
+532,530,0
+533,531,0
+534,532,0
+535,533,0
+536,534,0
+537,535,0
+538,536,0
+539,537,0
+540,538,0
+541,539,0
+542,540,0
+543,541,0
+544,542,0
+545,543,0
+546,544,0
+547,545,0
+548,546,0
+549,547,0
+550,548,0
+551,549,0
+552,550,0
+553,551,0
+554,552,0
+555,553,0
+556,554,0
+557,555,0
+558,556,0
+559,557,0
+560,558,0
+561,559,0
+562,560,0
+563,561,0
+564,562,0
+565,563,0
+566,564,0
+567,565,0
+568,566,0
+569,567,0
+570,568,0
+571,569,0
+572,570,0
+573,571,0
+574,572,0
+575,573,0
+576,574,0
+577,575,0
+578,576,0
+579,577,0
+580,578,0
+581,579,0
+582,580,0
+583,581,0
+584,582,0
+585,583,0
+586,584,0
+587,585,0
+588,586,0
+589,587,0
+590,588,0
+591,589,0
+592,590,0
+593,591,0
+594,592,0
+595,593,0
+596,594,0
+597,595,0
+598,596,0
+599,597,0
+600,598,0
+601,599,0
+602,600,0
+603,601,0
+604,602,0
+605,603,0
+606,604,0
+607,605,0
+608,606,0
+609,607,0
+610,608,0
+611,609,0
+612,610,0
+613,611,0
+614,612,0
+615,613,0
+616,614,0
+617,615,0
+618,616,0
+619,617,0
+620,618,0
+621,619,0
+622,620,0
+623,621,0
+624,622,0
+625,623,0
+626,624,0
+627,625,0
+628,626,0
+629,627,0
+630,628,0
+631,629,0
+632,630,0
+633,631,0
+634,632,0
+635,633,0
+636,634,0
+637,635,0
+638,636,0
+639,637,0
+640,638,0
+641,639,0
+642,640,0
+643,641,0
+644,642,0
+645,643,0
+646,644,0
+647,645,0
+648,646,0
+649,647,0
+650,648,0
+651,649,0
+652,650,0
+653,651,0
+654,652,0
+655,653,0
+656,654,0
+657,655,0
+658,656,0
+659,657,0
+660,658,0
+661,659,0
+662,660,0
+663,661,0
+664,662,0
+665,663,0
+666,664,0
+667,665,0
+668,666,0
+669,667,0
+670,668,0
+671,669,0
+672,670,0
+673,671,0
+674,672,0
+675,673,0
+676,674,0
+677,675,0
+678,676,0
+679,677,0
+680,678,0
+681,679,0
+682,680,0
+683,681,0
+684,682,0
+685,683,0
+686,684,0
+687,685,0
+688,686,0
+689,687,0
+690,688,0
+691,689,0
+692,690,0
+693,691,0
+694,692,0
+695,693,0
+696,694,0
+697,695,0
+698,696,0
+699,697,0
+700,698,0
+701,699,0
+702,700,0
+703,701,0
+704,702,0
+705,703,0
+706,704,0
+707,705,0
+708,706,0
+709,707,0
+710,708,0
+711,709,0
+712,710,0
+713,711,0
+714,712,0
+715,713,0
+716,714,0
+717,715,0
+718,716,0
+719,717,0
+720,718,0
+721,719,0
+722,720,0
+723,721,0
+724,722,0
+725,723,0
+726,724,0
+727,725,0
+728,726,0
+729,727,0
+730,728,0
+731,729,0
+732,730,0
+733,731,0
+734,732,0
+735,733,0
+736,734,0
+737,735,0
+738,736,0
+739,737,0
+740,738,0
+741,739,0
+742,740,0
+743,741,0
+744,742,0
+745,743,0
+746,744,0
+747,745,0
+748,746,0
+749,747,0
+750,748,0
+751,749,0
+752,750,0
+753,751,0
+754,752,0
+755,753,0
+756,754,0
+757,755,0
+758,756,0
+759,757,0
+760,758,0
+761,759,0
+762,760,0
+763,761,0
+764,762,0
+765,763,0
+766,764,0
+767,765,0
+768,766,0
+769,767,0
+770,768,0
+771,769,0
+772,770,0
+773,771,0
+774,772,0
+775,773,0
+776,774,0
+777,775,0
+778,776,0
+779,777,0
+780,778,0
+781,779,0
+782,780,0
+783,781,0
+784,782,0
+785,783,0
+786,784,0
+787,785,0
+788,786,0
+789,787,0
+790,788,0
+791,789,0
+792,790,0
+793,791,0
+794,792,0
+795,793,0
+796,794,0
+797,795,0
+798,796,0
+799,797,0
+800,798,0
+801,799,0
+802,800,0
+803,801,0
+804,802,0
+805,803,0
+806,804,0
+807,805,0
+808,806,0
+809,807,0
+810,808,0
+811,809,0
+812,810,0
+813,811,0
+814,812,0
+815,813,0
+816,814,0
+817,815,0
+818,816,0
+819,817,0
+820,818,0
+821,819,0
+822,820,0
+823,821,0
+824,822,0
+825,823,0
+826,824,0
+827,825,0
+828,826,0
+829,827,0
+830,828,0
+831,829,0
+832,830,0
+833,831,0
+834,832,0
+835,833,0
+836,834,0
+837,835,0
+838,836,0
+839,837,0
+840,838,0
+841,839,0
+842,840,0
+843,841,0
+844,842,0
+845,843,0
+846,844,0
+847,845,0
+848,846,0
+849,847,0
+850,848,0
+851,849,0
+852,850,0
+853,851,0
+854,852,0
+855,853,0
+856,854,0
+857,855,0
+858,856,0
+859,857,0
+860,858,0
+861,859,0
+862,860,0
+863,861,0
+864,862,0
+865,863,0
+866,864,0
+867,865,0
+868,866,0
+869,867,0
+870,868,0
+871,869,0
+872,870,0
+873,871,0
+874,872,0
+875,873,0
+876,874,0
+877,875,0
+878,876,0
+879,877,0
+880,878,0
+881,879,0
+882,880,0
+883,881,0
+884,882,0
+885,883,0
+886,884,0
+887,885,0
+888,886,0
+889,887,0
+890,888,0
+891,889,0
+892,890,0
+893,891,0
+894,892,0
+895,893,0
+896,894,0
+897,895,0
+898,896,0
+899,897,0
+900,898,0
+901,899,0
+902,900,0
+903,901,0
+904,902,0
+905,903,0
+906,904,0
+907,905,0
+908,906,0
+909,907,0
+910,908,0
+911,909,0
+912,910,0
+913,911,0
+914,912,0
+915,913,0
+916,914,0
+917,915,0
+918,916,0
+919,917,0
+920,918,0
+921,919,0
+922,920,0
+923,921,0
+924,922,0
+925,923,0
+926,924,0
+927,925,0
+928,926,0
+929,927,0
+930,928,0
+931,929,0
+932,930,0
+933,931,0
+934,932,0
+935,933,0
+936,934,0
+937,935,0
+938,936,0
+939,937,0
+940,938,0
+941,939,0
+942,940,0
+943,941,0
+944,942,0
+945,943,0
+946,944,0
+947,945,0
+948,946,0
+949,947,0
+950,948,0
+951,949,0
+952,950,0
+953,951,0
+954,952,0
+955,953,0
+956,954,0
+957,955,0
+958,956,0
+959,957,0
+960,958,0
+961,959,0
+962,960,0
+963,961,0
+964,962,0
+965,963,0
+966,964,0
+967,965,0
+968,966,0
+969,967,0
+970,968,0
+971,969,0
+972,970,0
+973,971,0
+974,972,0
+975,973,0
+976,974,0
+977,975,0
+978,976,0
+979,977,0
+980,978,0
+981,979,0
+982,980,0
+983,981,0
+984,982,0
+985,983,0
+986,984,0
+987,985,0
+988,986,0
+989,987,0
+990,988,0
+991,989,0
+992,990,0
+993,991,0
+994,992,0
+995,993,0
+996,994,0
+997,995,0
+998,996,0
+999,997,0
+1000,998,0
+1400,1400,1
+1401,1401,1
+1402,1402,1
+1403,1403,1
+1404,1404,1
+1405,1405,1
+1406,1406,1
+1407,1407,1
+1408,1408,1
+1409,1409,1
+1410,1410,1
+1411,1411,1
+1412,1412,1
+1413,1413,1
+1414,1414,1
+1415,1415,1
+1416,1416,1
+1417,1417,1
+1418,1418,1
+1419,1419,1
+1420,1420,1
+1421,1421,1
+1422,1422,1
+1423,1423,1
+1424,1424,1
+1425,1425,1
+1426,1426,1
+1427,1427,1
+1428,1428,1
+1429,1429,1
+1430,1430,1
+1431,1431,1
+1432,1432,1
+1433,1433,1
+1434,1434,1
+1435,1435,1
+1436,1436,1
+1437,1437,1
+1438,1438,1
+1439,1439,1
+1440,1440,1
+1441,1441,1
+1442,1442,1
+1443,1443,1
+1444,1444,1
+1445,1445,1
+1446,1446,1
+1447,1447,1
+1448,1448,1
+1449,1449,1
+1450,1450,1
+1451,1451,1
+1452,1452,1
+1453,1453,1
+1454,1454,1
+1455,1455,1
+1456,1456,1
+1457,1457,1
+1458,1458,1
+1459,1459,1
+1460,1460,1
+1461,1461,1
+1462,1462,1
+1463,1463,1
+1464,1464,1
+1465,1465,1
+1466,1466,1
+1467,1467,1
+1468,1468,1
+1469,1469,1
+1470,1470,1
+1471,1471,1
+1472,1472,1
+1473,1473,1
+1474,1474,1
+1475,1475,1
+1476,1476,1
+1477,1477,1
+1478,1478,1
+1479,1479,1
+1480,1480,1
+1481,1481,1
+1482,1482,1
+1483,1483,1
+1484,1484,1
+1485,1485,1
+1486,1486,1
+1487,1487,1
+1488,1488,1
+1489,1489,1
+1490,1490,1
+1491,1491,1
+1492,1492,1
+1493,1493,1
+1494,1494,1
+1495,1495,1
+1496,1496,1
+1497,1497,1
+1498,1498,1
+1499,1499,1
+1500,1500,1
+1501,1501,1
+1502,1502,1
+1503,1503,1
+1504,1504,1
+1505,1505,1
+1506,1506,1
+1507,1507,1
+1508,1508,1
+1509,1509,1
+1510,1510,1
+1511,1511,1
+1512,1512,1
+1513,1513,1
+1514,1514,1
+1515,1515,1
+1516,1516,1
+1517,1517,1
+1518,1518,1
+1519,1519,1
+1520,1520,1
+1521,1521,1
+1522,1522,1
+1523,1523,1
+1524,1524,1
+1525,1525,1
+1526,1526,1
+1527,1527,1
+1528,1528,1
+1529,1529,1
+1530,1530,1
+1531,1531,1
+1532,1532,1
+1533,1533,1
+1534,1534,1
+1535,1535,1
+1536,1536,1
+1537,1537,1
+1538,1538,1
+1539,1539,1
+1540,1540,1
+1541,1541,1
+1542,1542,1
+1543,1543,1
+1544,1544,1
+1545,1545,1
+1546,1546,1
+1547,1547,1
+1548,1548,1
+1549,1549,1
+1550,1550,1
+1551,1551,1
+1552,1552,1
+1553,1553,1
+1554,1554,1
+1555,1555,1
+1556,1556,1
+1557,1557,1
+1558,1558,1
+1559,1559,1
+1560,1560,1
+1561,1561,1
+1562,1562,1
+1563,1563,1
+1564,1564,1
+1565,1565,1
+1566,1566,1
+1567,1567,1
+1568,1568,1
+1569,1569,1
+1570,1570,1
+1571,1571,1
+1572,1572,1
+1573,1573,1
+1574,1574,1
+1575,1575,1
+1576,1576,1
+1577,1577,1
+1578,1578,1
+1579,1579,1
+1580,1580,1
+1581,1581,1
+1582,1582,1
+1583,1583,1
+1584,1584,1
+1585,1585,1
+1586,1586,1
+1587,1587,1
+1588,1588,1
+1589,1589,1
+1590,1590,1
+1591,1591,1
+1592,1592,1
+1593,1593,1
+1594,1594,1
+1595,1595,1
+1596,1596,1
+1597,1597,1
+1598,1598,1
+1599,1599,1
+1600,1600,1
+1601,1601,1
+1602,1602,1
+1603,1603,1
+1604,1604,1
+1605,1605,1
+1606,1606,1
+1607,1607,1
+1608,1608,1
+1609,1609,1
+1610,1610,1
+1611,1611,1
+1612,1612,1
+1613,1613,1
+1614,1614,1
+1615,1615,1
+1616,1616,1
+1617,1617,1
+1618,1618,1
+1619,1619,1
+1620,1620,1
+1621,1621,1
+1622,1622,1
+1623,1623,1
+1624,1624,1
+1625,1625,1
+1626,1626,1
+1627,1627,1
+1628,1628,1
+1629,1629,1
+1630,1630,1
+1631,1631,1
+1632,1632,1
+1633,1633,1
+1634,1634,1
+1635,1635,1
+1636,1636,1
+1637,1637,1
+1638,1638,1
+1639,1639,1
+1640,1640,1
+1641,1641,1
+1642,1642,1
+1643,1643,1
+1644,1644,1
+1645,1645,1
+1646,1646,1
+1647,1647,1
+1648,1648,1
+1649,1649,1
+1650,1650,1
+1651,1651,1
+1652,1652,1
+1653,1653,1
+1654,1654,1
+1655,1655,1
+1656,1656,1
+1657,1657,1
+1658,1658,1
+1659,1659,1
+1660,1660,1
+1661,1661,1
+1662,1662,1
+1663,1663,1
+1664,1664,1
+1665,1665,1
+1666,1666,1
+1667,1667,1
+1668,1668,1
+1669,1669,1
+1670,1670,1
+1671,1671,1
+1672,1672,1
+1673,1673,1
+1674,1674,1
+1675,1675,1
+1676,1676,1
+1677,1677,1
+1678,1678,1
+1679,1679,1
+1680,1680,1
+1681,1681,1
+1682,1682,1
+1683,1683,1
+1684,1684,1
+1685,1685,1
+1686,1686,1
+1687,1687,1
+1688,1688,1
+1689,1689,1
+1690,1690,1
+1691,1691,1
+1692,1692,1
+1693,1693,1
+1694,1694,1
+1695,1695,1
+1696,1696,1
+1697,1697,1
+1698,1698,1
+1699,1699,1
+1700,1700,1
+1701,1701,1
+1702,1702,1
+1703,1703,1
+1704,1704,1
+1705,1705,1
+1706,1706,1
+1707,1707,1
+1708,1708,1
+1709,1709,1
+1710,1710,1
+1711,1711,1
+1712,1712,1
+1713,1713,1
+1714,1714,1
+1715,1715,1
+1716,1716,1
+1717,1717,1
+1718,1718,1
+1719,1719,1
+1720,1720,1
+1721,1721,1
+1722,1722,1
+1723,1723,1
+1724,1724,1
+1725,1725,1
+1726,1726,1
+1727,1727,1
+1728,1728,1
+1729,1729,1
+1730,1730,1
+1731,1731,1
+1732,1732,1
+1733,1733,1
+1734,1734,1
+1735,1735,1
+1736,1736,1
+1737,1737,1
+1738,1738,1
+1739,1739,1
+1740,1740,1
+1741,1741,1
+1742,1742,1
+1743,1743,1
+1744,1744,1
+1745,1745,1
+1746,1746,1
+1747,1747,1
+1748,1748,1
+1749,1749,1
+1750,1750,1
+1751,1751,1
+1752,1752,1
+1753,1753,1
+1754,1754,1
+1755,1755,1
+1756,1756,1
+1757,1757,1
+1758,1758,1
+1759,1759,1
+1760,1760,1
+1761,1761,1
+1762,1762,1
+1763,1763,1
+1764,1764,1
+1765,1765,1
+1766,1766,1
+1767,1767,1
+1768,1768,1
+1769,1769,1
+1770,1770,1
+1771,1771,1
+1772,1772,1
+1773,1773,1
+1774,1774,1
+1775,1775,1
+1776,1776,1
+1777,1777,1
+1778,1778,1
+1779,1779,1
+1780,1780,1
+1781,1781,1
+1782,1782,1
+1783,1783,1
+1784,1784,1
+1785,1785,1
+1786,1786,1
+1787,1787,1
+1788,1788,1
+1789,1789,1
+1790,1790,1
+1791,1791,1
+1792,1792,1
+1793,1793,1
+1794,1794,1
+1795,1795,1
+1796,1796,1
+1797,1797,1
+1798,1798,1
+1799,1799,1
+1800,1800,1
+1801,1801,1
+1802,1802,1
+1803,1803,1
+1804,1804,1
+1805,1805,1
+1806,1806,1
+1807,1807,1
+1808,1808,1
+1809,1809,1
+1810,1810,1
+1811,1811,1
+1812,1812,1
+1813,1813,1
+1814,1814,1
+1815,1815,1
+1816,1816,1
+1817,1817,1
+1818,1818,1
+1819,1819,1
+1820,1820,1
+1821,1821,1
+1822,1822,1
+1823,1823,1
+1824,1824,1
+1825,1825,1
+1826,1826,1
+1827,1827,1
+1828,1828,1
+1829,1829,1
+1830,1830,1
+1831,1831,1
+1832,1832,1
+1833,1833,1
+1834,1834,1
+1835,1835,1
+1836,1836,1
+1837,1837,1
+1838,1838,1
+1839,1839,1
+1840,1840,1
+1841,1841,1
+1842,1842,1
+1843,1843,1
+1844,1844,1
+1845,1845,1
+1846,1846,1
+1847,1847,1
+1848,1848,1
+1849,1849,1
+1850,1850,1
+1851,1851,1
+1852,1852,1
+1853,1853,1
+1854,1854,1
+1855,1855,1
+1856,1856,1
+1857,1857,1
+1858,1858,1
+1859,1859,1
+1860,1860,1
+1861,1861,1
+1862,1862,1
+1863,1863,1
+1864,1864,1
+1865,1865,1
+1866,1866,1
+1867,1867,1
+1868,1868,1
+1869,1869,1
+1870,1870,1
+1871,1871,1
+1872,1872,1
+1873,1873,1
+1874,1874,1
+1875,1875,1
+1876,1876,1
+1877,1877,1
+1878,1878,1
+1879,1879,1
+1880,1880,1
+1881,1881,1
+1882,1882,1
+1883,1883,1
+1884,1884,1
+1885,1885,1
+1886,1886,1
+1887,1887,1
+1888,1888,1
+1889,1889,1
+1890,1890,1
+1891,1891,1
+1892,1892,1
+1893,1893,1
+1894,1894,1
+1895,1895,1
+1896,1896,1
+1897,1897,1
+1898,1898,1
+1899,1899,1
+1900,1900,1
+1901,1901,1
+1902,1902,1
+1903,1903,1
+1904,1904,1
+1905,1905,1
+1906,1906,1
+1907,1907,1
+1908,1908,1
+1909,1909,1
+1910,1910,1
+1911,1911,1
+1912,1912,1
+1913,1913,1
+1914,1914,1
+1915,1915,1
+1916,1916,1
+1917,1917,1
+1918,1918,1
+1919,1919,1
+1920,1920,1
+1921,1921,1
+1922,1922,1
+1923,1923,1
+1924,1924,1
+1925,1925,1
+1926,1926,1
+1927,1927,1
+1928,1928,1
+1929,1929,1
+1930,1930,1
+1931,1931,1
+1932,1932,1
+1933,1933,1
+1934,1934,1
+1935,1935,1
+1936,1936,1
+1937,1937,1
+1938,1938,1
+1939,1939,1
+1940,1940,1
+1941,1941,1
+1942,1942,1
+1943,1943,1
+1944,1944,1
+1945,1945,1
+1946,1946,1
+1947,1947,1
+1948,1948,1
+1949,1949,1
+1950,1950,1
+1951,1951,1
+1952,1952,1
+1953,1953,1
+1954,1954,1
+1955,1955,1
+1956,1956,1
+1957,1957,1
+1958,1958,1
+1959,1959,1
+1960,1960,1
+1961,1961,1
+1962,1962,1
+1963,1963,1
+1964,1964,1
+1965,1965,1
+1966,1966,1
+1967,1967,1
+1968,1968,1
+1969,1969,1
+1970,1970,1
+1971,1971,1
+1972,1972,1
+1973,1973,1
+1974,1974,1
+1975,1975,1
+1976,1976,1
+1977,1977,1
+1978,1978,1
+1979,1979,1
+1980,1980,1
+1981,1981,1
+1982,1982,1
+1983,1983,1
+1984,1984,1
+1985,1985,1
+1986,1986,1
+1987,1987,1
+1988,1988,1
+1989,1989,1
+1990,1990,1
+1991,1991,1
+1992,1992,1
+1993,1993,1
+1994,1994,1
+1995,1995,1
+1996,1996,1
+1997,1997,1
+1998,1998,1
+1999,1999,1
+2000,2000,1
+2001,2001,1
+2002,2002,1
+2003,2003,1
+2004,2004,1
+2005,2005,1
+2006,2006,1
+2007,2007,1
+2008,2008,1
+2009,2009,1
+2010,2010,1
+2011,2011,1
+2012,2012,1
+2013,2013,1
+2014,2014,1
+2015,2015,1
+2016,2016,1
+2017,2017,1
+2018,2018,1
+2019,2019,1
+2020,2020,1
+2021,2021,1
+2022,2022,1
+2023,2023,1
+2024,2024,1
+2025,2025,1
+2026,2026,1
+2027,2027,1
+2028,2028,1
+2029,2029,1
+2030,2030,1
+2031,2031,1
+2032,2032,1
+2033,2033,1
+2034,2034,1
+2035,2035,1
+2036,2036,1
+2037,2037,1
+2038,2038,1
+2039,2039,1
+2040,2040,1
+2041,2041,1
+2042,2042,1
+2043,2043,1
+2044,2044,1
+2045,2045,1
+2046,2046,1
+2047,2047,1
+2048,2048,1
+2049,2049,1
+2050,2050,1
+2051,2051,1
+2052,2052,1
+2053,2053,1
+2054,2054,1
+2055,2055,1
+2056,2056,1
+2057,2057,1
+2058,2058,1
+2059,2059,1
+2060,2060,1
+2061,2061,1
+2062,2062,1
+2063,2063,1
+2064,2064,1
+2065,2065,1
+2066,2066,1
+2067,2067,1
+2068,2068,1
+2069,2069,1
+2070,2070,1
+2071,2071,1
+2072,2072,1
+2073,2073,1
+2074,2074,1
+2075,2075,1
+2076,2076,1
+2077,2077,1
+2078,2078,1
+2079,2079,1
+2080,2080,1
+2081,2081,1
+2082,2082,1
+2083,2083,1
+2084,2084,1
+2085,2085,1
+2086,2086,1
+2087,2087,1
+2088,2088,1
+2089,2089,1
+2090,2090,1
+2091,2091,1
+2092,2092,1
+2093,2093,1
+2094,2094,1
+2095,2095,1
+2096,2096,1
+2097,2097,1
+2098,2098,1
+2099,2099,1
+2100,2100,1
+1400,1401,0
+1401,1402,0
+1402,1403,0
+1403,1404,0
+1404,1405,0
+1405,1406,0
+1406,1407,0
+1407,1408,0
+1408,1409,0
+1409,1410,0
+1410,1411,0
+1411,1412,0
+1412,1413,0
+1413,1414,0
+1414,1415,0
+1415,1416,0
+1416,1417,0
+1417,1418,0
+1418,1419,0
+1419,1420,0
+1420,1421,0
+1421,1422,0
+1422,1423,0
+1423,1424,0
+1424,1425,0
+1425,1426,0
+1426,1427,0
+1427,1428,0
+1428,1429,0
+1429,1430,0
+1430,1431,0
+1431,1432,0
+1432,1433,0
+1433,1434,0
+1434,1435,0
+1435,1436,0
+1436,1437,0
+1437,1438,0
+1438,1439,0
+1439,1440,0
+1440,1441,0
+1441,1442,0
+1442,1443,0
+1443,1444,0
+1444,1445,0
+1445,1446,0
+1446,1447,0
+1447,1448,0
+1448,1449,0
+1449,1450,0
+1450,1451,0
+1451,1452,0
+1452,1453,0
+1453,1454,0
+1454,1455,0
+1455,1456,0
+1456,1457,0
+1457,1458,0
+1458,1459,0
+1459,1460,0
+1460,1461,0
+1461,1462,0
+1462,1463,0
+1463,1464,0
+1464,1465,0
+1465,1466,0
+1466,1467,0
+1467,1468,0
+1468,1469,0
+1469,1470,0
+1470,1471,0
+1471,1472,0
+1472,1473,0
+1473,1474,0
+1474,1475,0
+1475,1476,0
+1476,1477,0
+1477,1478,0
+1478,1479,0
+1479,1480,0
+1480,1481,0
+1481,1482,0
+1482,1483,0
+1483,1484,0
+1484,1485,0
+1485,1486,0
+1486,1487,0
+1487,1488,0
+1488,1489,0
+1489,1490,0
+1490,1491,0
+1491,1492,0
+1492,1493,0
+1493,1494,0
+1494,1495,0
+1495,1496,0
+1496,1497,0
+1497,1498,0
+1498,1499,0
+1499,1500,0
+1500,1501,0
+1501,1502,0
+1502,1503,0
+1503,1504,0
+1504,1505,0
+1505,1506,0
+1506,1507,0
+1507,1508,0
+1508,1509,0
+1509,1510,0
+1510,1511,0
+1511,1512,0
+1512,1513,0
+1513,1514,0
+1514,1515,0
+1515,1516,0
+1516,1517,0
+1517,1518,0
+1518,1519,0
+1519,1520,0
+1520,1521,0
+1521,1522,0
+1522,1523,0
+1523,1524,0
+1524,1525,0
+1525,1526,0
+1526,1527,0
+1527,1528,0
+1528,1529,0
+1529,1530,0
+1530,1531,0
+1531,1532,0
+1532,1533,0
+1533,1534,0
+1534,1535,0
+1535,1536,0
+1536,1537,0
+1537,1538,0
+1538,1539,0
+1539,1540,0
+1540,1541,0
+1541,1542,0
+1542,1543,0
+1543,1544,0
+1544,1545,0
+1545,1546,0
+1546,1547,0
+1547,1548,0
+1548,1549,0
+1549,1550,0
+1550,1551,0
+1551,1552,0
+1552,1553,0
+1553,1554,0
+1554,1555,0
+1555,1556,0
+1556,1557,0
+1557,1558,0
+1558,1559,0
+1559,1560,0
+1560,1561,0
+1561,1562,0
+1562,1563,0
+1563,1564,0
+1564,1565,0
+1565,1566,0
+1566,1567,0
+1567,1568,0
+1568,1569,0
+1569,1570,0
+1570,1571,0
+1571,1572,0
+1572,1573,0
+1573,1574,0
+1574,1575,0
+1575,1576,0
+1576,1577,0
+1577,1578,0
+1578,1579,0
+1579,1580,0
+1580,1581,0
+1581,1582,0
+1582,1583,0
+1583,1584,0
+1584,1585,0
+1585,1586,0
+1586,1587,0
+1587,1588,0
+1588,1589,0
+1589,1590,0
+1590,1591,0
+1591,1592,0
+1592,1593,0
+1593,1594,0
+1594,1595,0
+1595,1596,0
+1596,1597,0
+1597,1598,0
+1598,1599,0
+1599,1600,0
+1600,1601,0
+1601,1602,0
+1602,1603,0
+1603,1604,0
+1604,1605,0
+1605,1606,0
+1606,1607,0
+1607,1608,0
+1608,1609,0
+1609,1610,0
+1610,1611,0
+1611,1612,0
+1612,1613,0
+1613,1614,0
+1614,1615,0
+1615,1616,0
+1616,1617,0
+1617,1618,0
+1618,1619,0
+1619,1620,0
+1620,1621,0
+1621,1622,0
+1622,1623,0
+1623,1624,0
+1624,1625,0
+1625,1626,0
+1626,1627,0
+1627,1628,0
+1628,1629,0
+1629,1630,0
+1630,1631,0
+1631,1632,0
+1632,1633,0
+1633,1634,0
+1634,1635,0
+1635,1636,0
+1636,1637,0
+1637,1638,0
+1638,1639,0
+1639,1640,0
+1640,1641,0
+1641,1642,0
+1642,1643,0
+1643,1644,0
+1644,1645,0
+1645,1646,0
+1646,1647,0
+1647,1648,0
+1648,1649,0
+1649,1650,0
+1650,1651,0
+1651,1652,0
+1652,1653,0
+1653,1654,0
+1654,1655,0
+1655,1656,0
+1656,1657,0
+1657,1658,0
+1658,1659,0
+1659,1660,0
+1660,1661,0
+1661,1662,0
+1662,1663,0
+1663,1664,0
+1664,1665,0
+1665,1666,0
+1666,1667,0
+1667,1668,0
+1668,1669,0
+1669,1670,0
+1670,1671,0
+1671,1672,0
+1672,1673,0
+1673,1674,0
+1674,1675,0
+1675,1676,0
+1676,1677,0
+1677,1678,0
+1678,1679,0
+1679,1680,0
+1680,1681,0
+1681,1682,0
+1682,1683,0
+1683,1684,0
+1684,1685,0
+1685,1686,0
+1686,1687,0
+1687,1688,0
+1688,1689,0
+1689,1690,0
+1690,1691,0
+1691,1692,0
+1692,1693,0
+1693,1694,0
+1694,1695,0
+1695,1696,0
+1696,1697,0
+1697,1698,0
+1698,1699,0
+1699,1700,0
+1700,1701,0
+1701,1702,0
+1702,1703,0
+1703,1704,0
+1704,1705,0
+1705,1706,0
+1706,1707,0
+1707,1708,0
+1708,1709,0
+1709,1710,0
+1710,1711,0
+1711,1712,0
+1712,1713,0
+1713,1714,0
+1714,1715,0
+1715,1716,0
+1716,1717,0
+1717,1718,0
+1718,1719,0
+1719,1720,0
+1720,1721,0
+1721,1722,0
+1722,1723,0
+1723,1724,0
+1724,1725,0
+1725,1726,0
+1726,1727,0
+1727,1728,0
+1728,1729,0
+1729,1730,0
+1730,1731,0
+1731,1732,0
+1732,1733,0
+1733,1734,0
+1734,1735,0
+1735,1736,0
+1736,1737,0
+1737,1738,0
+1738,1739,0
+1739,1740,0
+1740,1741,0
+1741,1742,0
+1742,1743,0
+1743,1744,0
+1744,1745,0
+1745,1746,0
+1746,1747,0
+1747,1748,0
+1748,1749,0
+1749,1750,0
+1750,1751,0
+1751,1752,0
+1752,1753,0
+1753,1754,0
+1754,1755,0
+1755,1756,0
+1756,1757,0
+1757,1758,0
+1758,1759,0
+1759,1760,0
+1760,1761,0
+1761,1762,0
+1762,1763,0
+1763,1764,0
+1764,1765,0
+1765,1766,0
+1766,1767,0
+1767,1768,0
+1768,1769,0
+1769,1770,0
+1770,1771,0
+1771,1772,0
+1772,1773,0
+1773,1774,0
+1774,1775,0
+1775,1776,0
+1776,1777,0
+1777,1778,0
+1778,1779,0
+1779,1780,0
+1780,1781,0
+1781,1782,0
+1782,1783,0
+1783,1784,0
+1784,1785,0
+1785,1786,0
+1786,1787,0
+1787,1788,0
+1788,1789,0
+1789,1790,0
+1790,1791,0
+1791,1792,0
+1792,1793,0
+1793,1794,0
+1794,1795,0
+1795,1796,0
+1796,1797,0
+1797,1798,0
+1798,1799,0
+1799,1800,0
+1800,1801,0
+1801,1802,0
+1802,1803,0
+1803,1804,0
+1804,1805,0
+1805,1806,0
+1806,1807,0
+1807,1808,0
+1808,1809,0
+1809,1810,0
+1810,1811,0
+1811,1812,0
+1812,1813,0
+1813,1814,0
+1814,1815,0
+1815,1816,0
+1816,1817,0
+1817,1818,0
+1818,1819,0
+1819,1820,0
+1820,1821,0
+1821,1822,0
+1822,1823,0
+1823,1824,0
+1824,1825,0
+1825,1826,0
+1826,1827,0
+1827,1828,0
+1828,1829,0
+1829,1830,0
+1830,1831,0
+1831,1832,0
+1832,1833,0
+1833,1834,0
+1834,1835,0
+1835,1836,0
+1836,1837,0
+1837,1838,0
+1838,1839,0
+1839,1840,0
+1840,1841,0
+1841,1842,0
+1842,1843,0
+1843,1844,0
+1844,1845,0
+1845,1846,0
+1846,1847,0
+1847,1848,0
+1848,1849,0
+1849,1850,0
+1850,1851,0
+1851,1852,0
+1852,1853,0
+1853,1854,0
+1854,1855,0
+1855,1856,0
+1856,1857,0
+1857,1858,0
+1858,1859,0
+1859,1860,0
+1860,1861,0
+1861,1862,0
+1862,1863,0
+1863,1864,0
+1864,1865,0
+1865,1866,0
+1866,1867,0
+1867,1868,0
+1868,1869,0
+1869,1870,0
+1870,1871,0
+1871,1872,0
+1872,1873,0
+1873,1874,0
+1874,1875,0
+1875,1876,0
+1876,1877,0
+1877,1878,0
+1878,1879,0
+1879,1880,0
+1880,1881,0
+1881,1882,0
+1882,1883,0
+1883,1884,0
+1884,1885,0
+1885,1886,0
+1886,1887,0
+1887,1888,0
+1888,1889,0
+1889,1890,0
+1890,1891,0
+1891,1892,0
+1892,1893,0
+1893,1894,0
+1894,1895,0
+1895,1896,0
+1896,1897,0
+1897,1898,0
+1898,1899,0
+1899,1900,0
+1900,1901,0
+1901,1902,0
+1902,1903,0
+1903,1904,0
+1904,1905,0
+1905,1906,0
+1906,1907,0
+1907,1908,0
+1908,1909,0
+1909,1910,0
+1910,1911,0
+1911,1912,0
+1912,1913,0
+1913,1914,0
+1914,1915,0
+1915,1916,0
+1916,1917,0
+1917,1918,0
+1918,1919,0
+1919,1920,0
+1920,1921,0
+1921,1922,0
+1922,1923,0
+1923,1924,0
+1924,1925,0
+1925,1926,0
+1926,1927,0
+1927,1928,0
+1928,1929,0
+1929,1930,0
+1930,1931,0
+1931,1932,0
+1932,1933,0
+1933,1934,0
+1934,1935,0
+1935,1936,0
+1936,1937,0
+1937,1938,0
+1938,1939,0
+1939,1940,0
+1940,1941,0
+1941,1942,0
+1942,1943,0
+1943,1944,0
+1944,1945,0
+1945,1946,0
+1946,1947,0
+1947,1948,0
+1948,1949,0
+1949,1950,0
+1950,1951,0
+1951,1952,0
+1952,1953,0
+1953,1954,0
+1954,1955,0
+1955,1956,0
+1956,1957,0
+1957,1958,0
+1958,1959,0
+1959,1960,0
+1960,1961,0
+1961,1962,0
+1962,1963,0
+1963,1964,0
+1964,1965,0
+1965,1966,0
+1966,1967,0
+1967,1968,0
+1968,1969,0
+1969,1970,0
+1970,1971,0
+1971,1972,0
+1972,1973,0
+1973,1974,0
+1974,1975,0
+1975,1976,0
+1976,1977,0
+1977,1978,0
+1978,1979,0
+1979,1980,0
+1980,1981,0
+1981,1982,0
+1982,1983,0
+1983,1984,0
+1984,1985,0
+1985,1986,0
+1986,1987,0
+1987,1988,0
+1988,1989,0
+1989,1990,0
+1990,1991,0
+1991,1992,0
+1992,1993,0
+1993,1994,0
+1994,1995,0
+1995,1996,0
+1996,1997,0
+1997,1998,0
+1998,1999,0
+1999,2000,0
+2000,2001,0
+2001,2002,0
+2002,2003,0
+2003,2004,0
+2004,2005,0
+2005,2006,0
+2006,2007,0
+2007,2008,0
+2008,2009,0
+2009,2010,0
+2010,2011,0
+2011,2012,0
+2012,2013,0
+2013,2014,0
+2014,2015,0
+2015,2016,0
+2016,2017,0
+2017,2018,0
+2018,2019,0
+2019,2020,0
+2020,2021,0
+2021,2022,0
+2022,2023,0
+2023,2024,0
+2024,2025,0
+2025,2026,0
+2026,2027,0
+2027,2028,0
+2028,2029,0
+2029,2030,0
+2030,2031,0
+2031,2032,0
+2032,2033,0
+2033,2034,0
+2034,2035,0
+2035,2036,0
+2036,2037,0
+2037,2038,0
+2038,2039,0
+2039,2040,0
+2040,2041,0
+2041,2042,0
+2042,2043,0
+2043,2044,0
+2044,2045,0
+2045,2046,0
+2046,2047,0
+2047,2048,0
+2048,2049,0
+2049,2050,0
+2050,2051,0
+2051,2052,0
+2052,2053,0
+2053,2054,0
+2054,2055,0
+2055,2056,0
+2056,2057,0
+2057,2058,0
+2058,2059,0
+2059,2060,0
+2060,2061,0
+2061,2062,0
+2062,2063,0
+2063,2064,0
+2064,2065,0
+2065,2066,0
+2066,2067,0
+2067,2068,0
+2068,2069,0
+2069,2070,0
+2070,2071,0
+2071,2072,0
+2072,2073,0
+2073,2074,0
+2074,2075,0
+2075,2076,0
+2076,2077,0
+2077,2078,0
+2078,2079,0
+2079,2080,0
+2080,2081,0
+2081,2082,0
+2082,2083,0
+2083,2084,0
+2084,2085,0
+2085,2086,0
+2086,2087,0
+2087,2088,0
+2088,2089,0
+2089,2090,0
+2090,2091,0
+2091,2092,0
+2092,2093,0
+2093,2094,0
+2094,2095,0
+2095,2096,0
+2096,2097,0
+2097,2098,0
+2098,2099,0
+2099,2100,0
+2100,2101,0
+1400,1399,0
+1401,1400,0
+1402,1401,0
+1403,1402,0
+1404,1403,0
+1405,1404,0
+1406,1405,0
+1407,1406,0
+1408,1407,0
+1409,1408,0
+1410,1409,0
+1411,1410,0
+1412,1411,0
+1413,1412,0
+1414,1413,0
+1415,1414,0
+1416,1415,0
+1417,1416,0
+1418,1417,0
+1419,1418,0
+1420,1419,0
+1421,1420,0
+1422,1421,0
+1423,1422,0
+1424,1423,0
+1425,1424,0
+1426,1425,0
+1427,1426,0
+1428,1427,0
+1429,1428,0
+1430,1429,0
+1431,1430,0
+1432,1431,0
+1433,1432,0
+1434,1433,0
+1435,1434,0
+1436,1435,0
+1437,1436,0
+1438,1437,0
+1439,1438,0
+1440,1439,0
+1441,1440,0
+1442,1441,0
+1443,1442,0
+1444,1443,0
+1445,1444,0
+1446,1445,0
+1447,1446,0
+1448,1447,0
+1449,1448,0
+1450,1449,0
+1451,1450,0
+1452,1451,0
+1453,1452,0
+1454,1453,0
+1455,1454,0
+1456,1455,0
+1457,1456,0
+1458,1457,0
+1459,1458,0
+1460,1459,0
+1461,1460,0
+1462,1461,0
+1463,1462,0
+1464,1463,0
+1465,1464,0
+1466,1465,0
+1467,1466,0
+1468,1467,0
+1469,1468,0
+1470,1469,0
+1471,1470,0
+1472,1471,0
+1473,1472,0
+1474,1473,0
+1475,1474,0
+1476,1475,0
+1477,1476,0
+1478,1477,0
+1479,1478,0
+1480,1479,0
+1481,1480,0
+1482,1481,0
+1483,1482,0
+1484,1483,0
+1485,1484,0
+1486,1485,0
+1487,1486,0
+1488,1487,0
+1489,1488,0
+1490,1489,0
+1491,1490,0
+1492,1491,0
+1493,1492,0
+1494,1493,0
+1495,1494,0
+1496,1495,0
+1497,1496,0
+1498,1497,0
+1499,1498,0
+1500,1499,0
+1501,1500,0
+1502,1501,0
+1503,1502,0
+1504,1503,0
+1505,1504,0
+1506,1505,0
+1507,1506,0
+1508,1507,0
+1509,1508,0
+1510,1509,0
+1511,1510,0
+1512,1511,0
+1513,1512,0
+1514,1513,0
+1515,1514,0
+1516,1515,0
+1517,1516,0
+1518,1517,0
+1519,1518,0
+1520,1519,0
+1521,1520,0
+1522,1521,0
+1523,1522,0
+1524,1523,0
+1525,1524,0
+1526,1525,0
+1527,1526,0
+1528,1527,0
+1529,1528,0
+1530,1529,0
+1531,1530,0
+1532,1531,0
+1533,1532,0
+1534,1533,0
+1535,1534,0
+1536,1535,0
+1537,1536,0
+1538,1537,0
+1539,1538,0
+1540,1539,0
+1541,1540,0
+1542,1541,0
+1543,1542,0
+1544,1543,0
+1545,1544,0
+1546,1545,0
+1547,1546,0
+1548,1547,0
+1549,1548,0
+1550,1549,0
+1551,1550,0
+1552,1551,0
+1553,1552,0
+1554,1553,0
+1555,1554,0
+1556,1555,0
+1557,1556,0
+1558,1557,0
+1559,1558,0
+1560,1559,0
+1561,1560,0
+1562,1561,0
+1563,1562,0
+1564,1563,0
+1565,1564,0
+1566,1565,0
+1567,1566,0
+1568,1567,0
+1569,1568,0
+1570,1569,0
+1571,1570,0
+1572,1571,0
+1573,1572,0
+1574,1573,0
+1575,1574,0
+1576,1575,0
+1577,1576,0
+1578,1577,0
+1579,1578,0
+1580,1579,0
+1581,1580,0
+1582,1581,0
+1583,1582,0
+1584,1583,0
+1585,1584,0
+1586,1585,0
+1587,1586,0
+1588,1587,0
+1589,1588,0
+1590,1589,0
+1591,1590,0
+1592,1591,0
+1593,1592,0
+1594,1593,0
+1595,1594,0
+1596,1595,0
+1597,1596,0
+1598,1597,0
+1599,1598,0
+1600,1599,0
+1601,1600,0
+1602,1601,0
+1603,1602,0
+1604,1603,0
+1605,1604,0
+1606,1605,0
+1607,1606,0
+1608,1607,0
+1609,1608,0
+1610,1609,0
+1611,1610,0
+1612,1611,0
+1613,1612,0
+1614,1613,0
+1615,1614,0
+1616,1615,0
+1617,1616,0
+1618,1617,0
+1619,1618,0
+1620,1619,0
+1621,1620,0
+1622,1621,0
+1623,1622,0
+1624,1623,0
+1625,1624,0
+1626,1625,0
+1627,1626,0
+1628,1627,0
+1629,1628,0
+1630,1629,0
+1631,1630,0
+1632,1631,0
+1633,1632,0
+1634,1633,0
+1635,1634,0
+1636,1635,0
+1637,1636,0
+1638,1637,0
+1639,1638,0
+1640,1639,0
+1641,1640,0
+1642,1641,0
+1643,1642,0
+1644,1643,0
+1645,1644,0
+1646,1645,0
+1647,1646,0
+1648,1647,0
+1649,1648,0
+1650,1649,0
+1651,1650,0
+1652,1651,0
+1653,1652,0
+1654,1653,0
+1655,1654,0
+1656,1655,0
+1657,1656,0
+1658,1657,0
+1659,1658,0
+1660,1659,0
+1661,1660,0
+1662,1661,0
+1663,1662,0
+1664,1663,0
+1665,1664,0
+1666,1665,0
+1667,1666,0
+1668,1667,0
+1669,1668,0
+1670,1669,0
+1671,1670,0
+1672,1671,0
+1673,1672,0
+1674,1673,0
+1675,1674,0
+1676,1675,0
+1677,1676,0
+1678,1677,0
+1679,1678,0
+1680,1679,0
+1681,1680,0
+1682,1681,0
+1683,1682,0
+1684,1683,0
+1685,1684,0
+1686,1685,0
+1687,1686,0
+1688,1687,0
+1689,1688,0
+1690,1689,0
+1691,1690,0
+1692,1691,0
+1693,1692,0
+1694,1693,0
+1695,1694,0
+1696,1695,0
+1697,1696,0
+1698,1697,0
+1699,1698,0
+1700,1699,0
+1701,1700,0
+1702,1701,0
+1703,1702,0
+1704,1703,0
+1705,1704,0
+1706,1705,0
+1707,1706,0
+1708,1707,0
+1709,1708,0
+1710,1709,0
+1711,1710,0
+1712,1711,0
+1713,1712,0
+1714,1713,0
+1715,1714,0
+1716,1715,0
+1717,1716,0
+1718,1717,0
+1719,1718,0
+1720,1719,0
+1721,1720,0
+1722,1721,0
+1723,1722,0
+1724,1723,0
+1725,1724,0
+1726,1725,0
+1727,1726,0
+1728,1727,0
+1729,1728,0
+1730,1729,0
+1731,1730,0
+1732,1731,0
+1733,1732,0
+1734,1733,0
+1735,1734,0
+1736,1735,0
+1737,1736,0
+1738,1737,0
+1739,1738,0
+1740,1739,0
+1741,1740,0
+1742,1741,0
+1743,1742,0
+1744,1743,0
+1745,1744,0
+1746,1745,0
+1747,1746,0
+1748,1747,0
+1749,1748,0
+1750,1749,0
+1751,1750,0
+1752,1751,0
+1753,1752,0
+1754,1753,0
+1755,1754,0
+1756,1755,0
+1757,1756,0
+1758,1757,0
+1759,1758,0
+1760,1759,0
+1761,1760,0
+1762,1761,0
+1763,1762,0
+1764,1763,0
+1765,1764,0
+1766,1765,0
+1767,1766,0
+1768,1767,0
+1769,1768,0
+1770,1769,0
+1771,1770,0
+1772,1771,0
+1773,1772,0
+1774,1773,0
+1775,1774,0
+1776,1775,0
+1777,1776,0
+1778,1777,0
+1779,1778,0
+1780,1779,0
+1781,1780,0
+1782,1781,0
+1783,1782,0
+1784,1783,0
+1785,1784,0
+1786,1785,0
+1787,1786,0
+1788,1787,0
+1789,1788,0
+1790,1789,0
+1791,1790,0
+1792,1791,0
+1793,1792,0
+1794,1793,0
+1795,1794,0
+1796,1795,0
+1797,1796,0
+1798,1797,0
+1799,1798,0
+1800,1799,0
+1801,1800,0
+1802,1801,0
+1803,1802,0
+1804,1803,0
+1805,1804,0
+1806,1805,0
+1807,1806,0
+1808,1807,0
+1809,1808,0
+1810,1809,0
+1811,1810,0
+1812,1811,0
+1813,1812,0
+1814,1813,0
+1815,1814,0
+1816,1815,0
+1817,1816,0
+1818,1817,0
+1819,1818,0
+1820,1819,0
+1821,1820,0
+1822,1821,0
+1823,1822,0
+1824,1823,0
+1825,1824,0
+1826,1825,0
+1827,1826,0
+1828,1827,0
+1829,1828,0
+1830,1829,0
+1831,1830,0
+1832,1831,0
+1833,1832,0
+1834,1833,0
+1835,1834,0
+1836,1835,0
+1837,1836,0
+1838,1837,0
+1839,1838,0
+1840,1839,0
+1841,1840,0
+1842,1841,0
+1843,1842,0
+1844,1843,0
+1845,1844,0
+1846,1845,0
+1847,1846,0
+1848,1847,0
+1849,1848,0
+1850,1849,0
+1851,1850,0
+1852,1851,0
+1853,1852,0
+1854,1853,0
+1855,1854,0
+1856,1855,0
+1857,1856,0
+1858,1857,0
+1859,1858,0
+1860,1859,0
+1861,1860,0
+1862,1861,0
+1863,1862,0
+1864,1863,0
+1865,1864,0
+1866,1865,0
+1867,1866,0
+1868,1867,0
+1869,1868,0
+1870,1869,0
+1871,1870,0
+1872,1871,0
+1873,1872,0
+1874,1873,0
+1875,1874,0
+1876,1875,0
+1877,1876,0
+1878,1877,0
+1879,1878,0
+1880,1879,0
+1881,1880,0
+1882,1881,0
+1883,1882,0
+1884,1883,0
+1885,1884,0
+1886,1885,0
+1887,1886,0
+1888,1887,0
+1889,1888,0
+1890,1889,0
+1891,1890,0
+1892,1891,0
+1893,1892,0
+1894,1893,0
+1895,1894,0
+1896,1895,0
+1897,1896,0
+1898,1897,0
+1899,1898,0
+1900,1899,0
+1901,1900,0
+1902,1901,0
+1903,1902,0
+1904,1903,0
+1905,1904,0
+1906,1905,0
+1907,1906,0
+1908,1907,0
+1909,1908,0
+1910,1909,0
+1911,1910,0
+1912,1911,0
+1913,1912,0
+1914,1913,0
+1915,1914,0
+1916,1915,0
+1917,1916,0
+1918,1917,0
+1919,1918,0
+1920,1919,0
+1921,1920,0
+1922,1921,0
+1923,1922,0
+1924,1923,0
+1925,1924,0
+1926,1925,0
+1927,1926,0
+1928,1927,0
+1929,1928,0
+1930,1929,0
+1931,1930,0
+1932,1931,0
+1933,1932,0
+1934,1933,0
+1935,1934,0
+1936,1935,0
+1937,1936,0
+1938,1937,0
+1939,1938,0
+1940,1939,0
+1941,1940,0
+1942,1941,0
+1943,1942,0
+1944,1943,0
+1945,1944,0
+1946,1945,0
+1947,1946,0
+1948,1947,0
+1949,1948,0
+1950,1949,0
+1951,1950,0
+1952,1951,0
+1953,1952,0
+1954,1953,0
+1955,1954,0
+1956,1955,0
+1957,1956,0
+1958,1957,0
+1959,1958,0
+1960,1959,0
+1961,1960,0
+1962,1961,0
+1963,1962,0
+1964,1963,0
+1965,1964,0
+1966,1965,0
+1967,1966,0
+1968,1967,0
+1969,1968,0
+1970,1969,0
+1971,1970,0
+1972,1971,0
+1973,1972,0
+1974,1973,0
+1975,1974,0
+1976,1975,0
+1977,1976,0
+1978,1977,0
+1979,1978,0
+1980,1979,0
+1981,1980,0
+1982,1981,0
+1983,1982,0
+1984,1983,0
+1985,1984,0
+1986,1985,0
+1987,1986,0
+1988,1987,0
+1989,1988,0
+1990,1989,0
+1991,1990,0
+1992,1991,0
+1993,1992,0
+1994,1993,0
+1995,1994,0
+1996,1995,0
+1997,1996,0
+1998,1997,0
+1999,1998,0
+2000,1999,0
+2001,2000,0
+2002,2001,0
+2003,2002,0
+2004,2003,0
+2005,2004,0
+2006,2005,0
+2007,2006,0
+2008,2007,0
+2009,2008,0
+2010,2009,0
+2011,2010,0
+2012,2011,0
+2013,2012,0
+2014,2013,0
+2015,2014,0
+2016,2015,0
+2017,2016,0
+2018,2017,0
+2019,2018,0
+2020,2019,0
+2021,2020,0
+2022,2021,0
+2023,2022,0
+2024,2023,0
+2025,2024,0
+2026,2025,0
+2027,2026,0
+2028,2027,0
+2029,2028,0
+2030,2029,0
+2031,2030,0
+2032,2031,0
+2033,2032,0
+2034,2033,0
+2035,2034,0
+2036,2035,0
+2037,2036,0
+2038,2037,0
+2039,2038,0
+2040,2039,0
+2041,2040,0
+2042,2041,0
+2043,2042,0
+2044,2043,0
+2045,2044,0
+2046,2045,0
+2047,2046,0
+2048,2047,0
+2049,2048,0
+2050,2049,0
+2051,2050,0
+2052,2051,0
+2053,2052,0
+2054,2053,0
+2055,2054,0
+2056,2055,0
+2057,2056,0
+2058,2057,0
+2059,2058,0
+2060,2059,0
+2061,2060,0
+2062,2061,0
+2063,2062,0
+2064,2063,0
+2065,2064,0
+2066,2065,0
+2067,2066,0
+2068,2067,0
+2069,2068,0
+2070,2069,0
+2071,2070,0
+2072,2071,0
+2073,2072,0
+2074,2073,0
+2075,2074,0
+2076,2075,0
+2077,2076,0
+2078,2077,0
+2079,2078,0
+2080,2079,0
+2081,2080,0
+2082,2081,0
+2083,2082,0
+2084,2083,0
+2085,2084,0
+2086,2085,0
+2087,2086,0
+2088,2087,0
+2089,2088,0
+2090,2089,0
+2091,2090,0
+2092,2091,0
+2093,2092,0
+2094,2093,0
+2095,2094,0
+2096,2095,0
+2097,2096,0
+2098,2097,0
+2099,2098,0
+2100,2099,0

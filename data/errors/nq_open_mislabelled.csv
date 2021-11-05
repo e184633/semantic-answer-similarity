@@ -1,61 +1,56 @@
 ,question,answer1,answer2,label,sas,f1,bertvanilla,berttrained,bi_encoder,bleu,rouge_L,meteor,answer_encoded_twice
-23,how many players can an nfl team have,53-member main roster,a maximum of 53,0,0.78060019,0,0.422931373,0.751268983,0.776787043,0,0.25,0,a maximum of 53
-168,comprehensive written version of the jewish oral law,Oral Torah,the Mishnah,0,0.678307235,0,0.285953403,0.413106859,0.41042605,0,0,0,the Mishnah
-370,when was the last time dallas went to the superbowl,1995,"1993, 1995",0,0.557823718,0.666666667,0.82995379,0.793042719,0.802332222,0,0.666666667,0.178571429,"1993, 1995"
-372,when was the last time dallas cowboys won a superbowl,1995,"1993, 1995",0,0.557823718,0.666666667,0.82995379,0.793042719,0.802332222,0,0.666666667,0.178571429,"1993, 1995"
-385,how does the narrator describe perverseness in the black cat,the spirit of perverseness,The Imp of the Perverse,0,0.792507529,0.333333333,0.761131048,0.321002513,0.33743,0,0.444444444,0.306122449,The Imp of the Perverse
-744,how many games do you need to play to get a stanley cup ring,best-of-seven,best - of - seven,2,0.965016305,0,1,0.926061153,0.941476047,0,1,0,best - of - seven
-745,how many games do you need to play to get a stanley cup ring,best-of-seven,four - of - seven - games,2,0.607979596,0,0.786201715,0.634365797,0.634637535,0,0.571428571,0,four - of - seven - games
-783,where is the story of the talking donkey in the bible,Numbers 22:28,Numbers 22\u201324,0,0.541583002,0.5,0.544860661,0.682750881,0.665935397,0,0.666666667,0.25,Numbers 22â24
-844,where does the scent of vanilla come from,orchids of the genus Vanilla,vanillin,0,0.520849764,0,0.286853254,0.444980621,0.445816308,0,0,0,vanillin
-855,where did the pilgrims land in the americas,"Plymouth, Massachusetts",Plymouth Colony,2,0.636835277,0.5,0.60284996,0.728605688,0.700540125,0,0.5,0.238095238,Plymouth Colony
-1071,sabzi mandi railway station near by metro station,Pratap Nagar Metro Station,Partap Nagar,2,0.609321475,0.333333333,0.415701002,0.714841843,0.741244018,0,0.333333333,0.227272727,Partap Nagar
-1286,what kind of steak has a round bone in it,a T-bone,t - bone steak,2,0.661306679,0,0.783733785,0.458033204,0.428681552,0,0.666666667,0,t - bone steak
-1415,what city in america has the highest population,New York,southeastern new york state,0,0.540907025,0.666666667,0.671592236,0.637777209,0.618654788,0,0.666666667,0.493421053,southeastern new york state
-1427,in which us state is new york city located,New York,southeastern new york state,0,0.540907025,0.666666667,0.671592236,0.637777209,0.618654788,0,0.666666667,0.493421053,southeastern new york state
-1439,where is bedford falls located in it's a wonderful life,New York,southeastern new york state,0,0.540907025,0.666666667,0.671592236,0.637777209,0.618654788,0,0.666666667,0.493421053,southeastern new york state
-1451,where is the most populated place in america,New York,southeastern new york state,0,0.540907025,0.666666667,0.671592236,0.637777209,0.618654788,0,0.666666667,0.493421053,southeastern new york state
-1465,when does a star is born movie come out on dvd,Feb-19,"February 19, 2018",0,0.811428845,0.8,0.775902331,0.859989643,0.858388305,0,0.8,0.493421053,"February 19, 2018"
-1922,who does bradley cooper play in the a team,"Templeton ""Face"" Peck","faceman \"" peck",0,0.756433129,0.4,0.665721655,0.600169122,0.631855309,0,0.4,0.457317073,"faceman "" peck"
-1927,who built shaukat khanum memorial cancer hospital pakistan,Imran Khan,azim khan,0,0.602615356,0.5,0.538959146,0.666442811,0.702118337,0,0.5,0.25,azim khan
-1932,who is the only u s president to hold a phd,Woodrow Wilson,Thomas Woodrow Wilson,1,0.827739894,0.8,0.854217112,0.924231291,0.93079412,0,0.8,0.646551724,Thomas Woodrow Wilson
-2091,what is the lingua franca of west africa,English,West African Pidgin English,2,0.552957892,0.4,0.492231905,0.492462784,0.48800078,0,0.4,0.135135135,West African Pidgin English
-2097,what is the most popular language in canada,English,West African Pidgin English,0,0.552957892,0.4,0.492231905,0.492462784,0.48800078,0,0.4,0.135135135,West African Pidgin English
-2315,worst case time complexity for insertion in bst,O(n),o( n ),2,0.960331738,0,1.000000477,0.809754014,0.817405879,0,1,0.9921875,o( n )
-2316,worst case time complexity for insertion in bst,O(n),O,1,0.857122421,0,0.642206967,0.753424168,0.756335974,0,0.666666667,0.384615385,O
-2318,worst case time complexity for insertion in bst,O(n),O(log n),2,0.745973229,0,0.884191751,0.744768441,0.728198528,0,0.8,0.765306122,O(log n)
-2471,who did sarah paulson play in bird box,Jessica,Jessica Shannon,0,0.540656447,0.666666667,0.785076737,0.657449365,0.615070224,0,0.666666667,0.263157895,Jessica Shannon
-2522,who has coached the most afl/vfl games,Mick Malthouse,michael malthouse,2,0.877538502,0.5,0.832282186,0.778448284,0.81396693,0,0.5,0.25,michael malthouse
-2541,where did the grimm brothers get their stories,German folktales,German,0,0.574755847,0.666666667,0.571560025,0.686733246,0.700094044,0,0.666666667,0.454545455,German
-2551,what are the chicken nuggets at mcdonald's made of,processed boneless chicken meat,Chicken McNuggets,0,0.514984012,0.333333333,0.364204109,0.498541206,0.49007377,0,0.333333333,0.227272727,Chicken McNuggets
-2658,who is the secretary of agriculture 2018 philippines,Emmanuel Piñol,emmanuel piol,2,0.940305769,0.5,0.743722916,0.51998812,0.545831382,0,0.4,0.25,emmanuel piol
-2737,what is the enzyme that helps in atp synthesis,ATP synthase,f - type atpase,2,0.670596361,0,0.618280888,0.208097115,0.201182589,0,0,0,f - type atpase
-2893,what was the population of earth in 1800ad,"978,000,000",1000,0,0.514093518,0,0.491593987,0.352740735,0.395390689,0,0,0,1000
-2903,what is the year on the jewish calendar,5779,5778,0,0.952162206,0,0.955948532,0.711067438,0.705812514,0,0,0,5778
-2908,what is the year on the jewish calendar,5779,AM 5778,0,0.606075525,0,0.827420652,0.620168388,0.611503005,0,0,0,AM 5778
-2945,according to the general theory of crime self-control must be instilled in the juvenile by age,ten,before the age of ten,0,0.646511912,0.4,0.618420184,0.617257595,0.588026404,0,0.333333333,0.108695652,before the age of ten
-3011,what is the scientific name for marburg virus,Marburg marburgvirus,lake victoria marburgvirus,0,0.758384943,0.4,0.785054147,0.76157409,0.72697401,0,0.4,0.172413793,lake victoria marburgvirus
-3017,what was the name of boss tweeds political machine,Tammany Hall,Tammany Society,0,0.766915441,0.5,0.834711432,0.707212865,0.687713921,0,0.5,0.25,Tammany Society
-3243,1998 volvo s70 front or rear wheel drive,front-wheel drive,FWD,0,0.847728968,0,0.248455301,0.317523658,0.344370425,0,0,0,FWD
-3282,who played james on little house on the prairie,Jason Bateman,Bateman,0,0.778932512,0.666666667,0.817162693,0.902374148,0.900904953,0,0.666666667,0.454545455,Bateman
-3300,how long have dallas and detroit played on thanksgiving,Since 1978,1978,0,0.867691875,0.666666667,0.710699916,0.849989653,0.842874348,0,0.666666667,0.454545455,1978
-3440,where is area code 339 located in us,Boston suburbs,Boston,0,0.608316064,0.666666667,0.71503365,0.703459144,0.670935988,0,0.666666667,0.454545455,Boston
-3510,what is the state tree of new york,Sugar maple,The sycamore,0,0.617587686,0,0.301376671,0.195354164,0.214318752,0,0,0,The sycamore
-3514,who said preamble is a key to the constitution of india,The Supreme Court of India,Supreme Court,0,0.685441017,0.666666667,0.751472414,0.684463263,0.659177363,0,0.571428571,0.815217391,Supreme Court
-3546,how many people died from the spanish flu,50 to 100Â million,50\\u2013100 million,0,0.835802019,0.333333333,0.51763916,0.793367207,0.807451487,0,0.571428571,0.227272727,50–100 million
-3609,what does it mean to cross over the rainbow bridge,Heaven,to heaven,0,0.891080797,0.666666667,0.810687602,0.582140148,0.621020317,0,0.666666667,0.263157895,to heaven
-3652,who discovered the source of the congo river,Portuguese explorer Diogo Cão,diogo co,0,0.567138433,0.333333333,0.633138239,0.453106523,0.425821632,0,0.285714286,0.227272727,diogo co
-3678,who was indias president when it was first nuclear test were conducted,Dr. Abdul Kalam,Dr.Abdul Kalam,0,0.963685095,0.4,1,0.925635755,0.952266574,0,1,0.238095238,Dr.Abdul Kalam
-3824,what is the crocodile called in punch and judy,The Crocodile,a hungry crocodile,0,0.614863157,0.666666667,0.728370309,0.779024541,0.776382387,0,0.4,0.172413793,a hungry crocodile
-3826,what is the crocodile called in punch and judy,The Crocodile,nile crocodile,0,0.75589484,0.666666667,0.694808841,0.870318294,0.878678024,0,0.5,0.25,nile crocodile
-3933,who played the title role in killing eve,Sandra Oh,Sandra Miju Oh,0,0.839653194,0.8,0.684205592,0.794835925,0.782060742,0,0.8,0.344827586,Sandra Miju Oh
-3942,what is the sign for distance in physics,meter,metre,0,0.961413085,0,0.746493995,0.923279524,0.93036449,0,0,0,metre
-4087,how do you know what cherokee clan you are,through the maternal line,the mother's,0,0.549979687,0,0.513065398,0.57797718,0.545548081,0,0.285714286,0.161290323,the mother's
-4199,how many districts are there in the tennessee house of representatives,9,nine,0,0.935235798,0,0.745849252,0.896634698,0.90862298,0,0,0.5,nine
-4250,el salvador's archbishop murdered as he celebrates mass,Óscar Arnulfo Romero y Galdámez,scar arnulfo romero,0,0.787084699,0.5,0.705368638,0.47618106,0.420808375,0,0.666666667,0.5859375,scar arnulfo romero
-4251,el salvador's archbishop murdered as he celebrates mass,Óscar Arnulfo Romero y Galdámez,scar Romero,0,0.782302797,0.285714286,0.318301648,0.55100292,0.553209066,0,0.5,0.217391304,scar Romero
-4322,who is the father of zero based budget system,Peter Pyrrh,peter pyrh,0,0.966158807,0.5,0.825227857,0.790362537,0.818145156,0,0.5,0.25,peter pyrh
-4371,slip ring of an induction motor is usually made up of,graphite or metal,a stationary graphite or metal contact,0,0.737793863,0.75,0.803464293,0.772795975,0.726936638,0,0.666666667,0.516569201,a stationary graphite or metal contact
-4376,what category was hurricane matthew when it made landfall in florida,Category 3,3,2,0.862672627,0.666666667,0.681512892,0.744433284,0.723968148,0,0.666666667,0.454545455,3
-4416,who was the last king to live in versailles,Louis XVI,Louis XIV,0,0.96212399,0.5,0.845217943,0.8006742,0.810516298,0,0.5,0.25,Louis XIV
-4433,who claimed the mississippi river valley for france,Robert de La Salle,la salle,0,0.737764478,0.666666667,0.758892357,0.230314419,0.245274752,0,0.666666667,0.852272727,la salle
+22,how many players can an nfl team have,53-member main roster,a maximum of 53,0.0,0.7806001901626587,0.0,0.4229313731193543,0.7512689828872681,0.7767870426177979,0.0,0.25,0.0,a maximum of 53
+99,comprehensive written version of the jewish oral law,Oral Torah,the Mishnah,0.0,0.6783072352409363,0.0,0.2859534025192261,0.4131068587303161,0.4104260504245758,0.0,0.0,0.0,the Mishnah
+276,when was the last time dallas went to the superbowl,1995,"1993, 1995",0.0,0.5578237175941467,0.6666666666666666,0.8299537897109985,0.7930427193641663,0.8023322224617004,0.0,0.6666666666666666,0.1785714285714285,"1993, 1995"
+289,how does the narrator describe perverseness in the black cat,the spirit of perverseness,The Imp of the Perverse,0.0,0.792507529258728,0.3333333333333333,0.7611310482025146,0.3210025131702423,0.3374300003051758,0.0,0.4444444444444445,0.3061224489795918,The Imp of the Perverse
+437,how many games do you need to play to get a stanley cup ring,best-of-seven,best - of - seven,0.0,0.9650163054466248,0.0,1.0,0.9260611534118652,0.941476047039032,0.0,1.0,0.0,best - of - seven
+438,how many games do you need to play to get a stanley cup ring,best-of-seven,four - of - seven - games,0.0,0.6079795956611633,0.0,0.7862017154693604,0.6343657970428467,0.6346375346183777,0.0,0.5714285714285715,0.0,four - of - seven - games
+476,where is the story of the talking donkey in the bible,Numbers 22:28,Numbers 22\u201324,0.0,0.5415830016136169,0.5,0.5448606610298157,0.6827508807182312,0.6659353971481323,0.0,0.6666666666666666,0.25,Numbers 22â24
+513,where does the scent of vanilla come from,orchids of the genus Vanilla,vanillin,0.0,0.5208497643470764,0.0,0.2868532538414001,0.4449806213378906,0.445816308259964,0.0,0.0,0.0,vanillin
+524,where did the pilgrims land in the americas,"Plymouth, Massachusetts",Plymouth Colony,0.0,0.6368352770805359,0.5,0.6028499603271484,0.7286056876182556,0.7005401253700256,0.0,0.5,0.2380952380952381,Plymouth Colony
+683,sabzi mandi railway station near by metro station,Pratap Nagar Metro Station,Partap Nagar,0.0,0.6093214750289917,0.3333333333333333,0.4157010018825531,0.7148418426513672,0.7412440180778503,0.0,0.3333333333333333,0.2272727272727272,Partap Nagar
+828,what kind of steak has a round bone in it,a T-bone,t - bone steak,0.0,0.6613066792488098,0.0,0.7837337851524353,0.4580332040786743,0.4286815524101257,0.0,0.6666666666666666,0.0,t - bone steak
+937,what city in america has the highest population,New York,southeastern new york state,0.0,0.5409070253372192,0.6666666666666666,0.6715922355651855,0.6377772092819214,0.6186547875404358,0.0,0.6666666666666666,0.4934210526315789,southeastern new york state
+950,when does a star is born movie come out on dvd,February 19,"February 19, 2018",0.0,0.8114288449287415,0.8,0.7759023308753967,0.8599896430969238,0.8583883047103882,0.0,0.8,0.4934210526315789,"February 19, 2018"
+1347,who does bradley cooper play in the a team,"Templeton ""Face"" Peck","faceman \"" peck",0.0,0.7564331293106079,0.4,0.6657216548919678,0.6001691222190857,0.631855309009552,0.0,0.4,0.4573170731707316,"faceman "" peck"
+1352,who built shaukat khanum memorial cancer hospital pakistan,Imran Khan,azim khan,0.0,0.6026153564453125,0.5,0.5389591455459595,0.6664428114891052,0.7021183371543884,0.0,0.5,0.25,azim khan
+1357,who is the only u s president to hold a phd,Woodrow Wilson,Thomas Woodrow Wilson,0.0,0.8277398943901062,0.8,0.8542171120643616,0.9242312908172609,0.9307941198349,0.0,0.8,0.6465517241379309,Thomas Woodrow Wilson
+1468,what is the lingua franca of west africa,English,West African Pidgin English,0.0,0.5529578924179077,0.4,0.4922319054603577,0.4924627840518951,0.4880007803440094,0.0,0.4,0.1351351351351351,West African Pidgin English
+1674,worst case time complexity for insertion in bst,O(n),o( n ),0.0,0.9603317379951476,0.0,1.0000004768371582,0.8097540140151978,0.8174058794975281,0.0,1.0,0.9921875,o( n )
+1675,worst case time complexity for insertion in bst,O(n),O,0.0,0.8571224212646484,0.0,0.6422069668769836,0.7534241676330566,0.756335973739624,0.0,0.6666666666666666,0.3846153846153847,O
+1677,worst case time complexity for insertion in bst,O(n),O(log n),0.0,0.7459732294082642,0.0,0.8841917514801025,0.7447684407234192,0.7281985282897949,0.0,0.8,0.7653061224489797,O(log n)
+1798,who did sarah paulson play in bird box,Jessica,Jessica Shannon,0.0,0.5406564474105835,0.6666666666666666,0.7850767374038696,0.6574493646621704,0.6150702238082886,0.0,0.6666666666666666,0.2631578947368421,Jessica Shannon
+1849,who has coached the most afl/vfl games,Mick Malthouse,michael malthouse,0.0,0.8775385022163391,0.5,0.8322821855545044,0.7784482836723328,0.8139669299125671,0.0,0.5,0.25,michael malthouse
+1868,where did the grimm brothers get their stories,German folktales,German,0.0,0.574755847454071,0.6666666666666666,0.5715600252151489,0.6867332458496094,0.7000940442085266,0.0,0.6666666666666666,0.4545454545454545,German
+1878,what are the chicken nuggets at mcdonald's made of,processed boneless chicken meat,Chicken McNuggets,0.0,0.5149840116500854,0.3333333333333333,0.3642041087150574,0.4985412061214447,0.4900737702846527,0.0,0.3333333333333333,0.2272727272727272,Chicken McNuggets
+1939,who is the secretary of agriculture 2018 philippines,Emmanuel Piñol,emmanuel piol,0.0,0.940305769443512,0.5,0.7437229156494141,0.5199881196022034,0.5458313822746277,0.0,0.4,0.25,emmanuel piol
+2016,what is the enzyme that helps in atp synthesis,ATP synthase,f - type atpase,0.0,0.6705963611602783,0.0,0.6182808876037598,0.2080971151590347,0.2011825889348984,0.0,0.0,0.0,f - type atpase
+2172,what was the population of earth in 1800ad,"978,000,000",1000,0.0,0.5140935182571411,0.0,0.491593986749649,0.3527407348155975,0.3953906893730164,0.0,0.0,0.0,1000
+2182,what is the year on the jewish calendar,5779,5778,0.0,0.9521622061729432,0.0,0.955948531627655,0.7110674381256104,0.7058125138282776,0.0,0.0,0.0,5778
+2187,what is the year on the jewish calendar,5779,AM 5778,0.0,0.6060755252838135,0.0,0.8274206519126892,0.6201683878898621,0.611503005027771,0.0,0.0,0.0,AM 5778
+2224,according to the general theory of crime self-control must be instilled in the juvenile by age,ten,before the age of ten,0.0,0.6465119123458862,0.4,0.6184201836585999,0.6172575950622559,0.5880264043807983,0.0,0.3333333333333333,0.108695652173913,before the age of ten
+2287,what is the scientific name for marburg virus,Marburg marburgvirus,lake victoria marburgvirus,0.0,0.7583849430084229,0.4,0.7850541472434998,0.7615740895271301,0.7269740104675293,0.0,0.4,0.1724137931034482,lake victoria marburgvirus
+2293,what was the name of boss tweeds political machine,Tammany Hall,Tammany Society,0.0,0.7669154405593872,0.5,0.8347114324569702,0.7072128653526306,0.6877139210700989,0.0,0.5,0.25,Tammany Society
+2493,1998 volvo s70 front or rear wheel drive,front-wheel drive,FWD,0.0,0.847728967666626,0.0,0.2484553009271621,0.3175236582756042,0.344370424747467,0.0,0.0,0.0,FWD
+2532,who played james on little house on the prairie,Jason Bateman,Bateman,0.0,0.7789325118064879,0.6666666666666666,0.8171626925468445,0.9023741483688354,0.9009049534797668,0.0,0.6666666666666666,0.4545454545454545,Bateman
+2550,how long have dallas and detroit played on thanksgiving,Since 1978,1978,0.0,0.8676918745040894,0.6666666666666666,0.7106999158859253,0.849989652633667,0.8428743481636047,0.0,0.6666666666666666,0.4545454545454545,1978
+2669,where is area code 339 located in us,Boston suburbs,Boston,0.0,0.6083160638809204,0.6666666666666666,0.7150336503982544,0.7034591436386108,0.6709359884262085,0.0,0.6666666666666666,0.4545454545454545,Boston
+2739,what is the state tree of new york,Sugar maple,The sycamore,0.0,0.617587685585022,0.0,0.3013766705989837,0.195354163646698,0.2143187522888184,0.0,0.0,0.0,The sycamore
+2743,who said preamble is a key to the constitution of india,The Supreme Court of India,Supreme Court,0.0,0.6854410171508789,0.6666666666666666,0.7514724135398865,0.6844632625579834,0.6591773629188538,0.0,0.5714285714285715,0.8152173913043478,Supreme Court
+2775,how many people died from the spanish flu,50 to 100Â million,50\\u2013100 million,0.0,0.8358020186424255,0.3333333333333333,0.51763916015625,0.7933672070503235,0.8074514865875244,0.0,0.5714285714285715,0.2272727272727272,50–100 million
+2838,what does it mean to cross over the rainbow bridge,Heaven,to heaven,0.0,0.8910807967185974,0.6666666666666666,0.8106876015663147,0.5821401476860046,0.6210203170776367,0.0,0.6666666666666666,0.2631578947368421,to heaven
+2881,who discovered the source of the congo river,Portuguese explorer Diogo Cão,diogo co,0.0,0.5671384334564209,0.3333333333333333,0.6331382393836975,0.4531065225601196,0.4258216321468353,0.0,0.2857142857142857,0.2272727272727272,diogo co
+2907,who was indias president when it was first nuclear test were conducted,Dr. Abdul Kalam,Dr.Abdul Kalam,0.0,0.9636850953102112,0.4,1.0,0.9256357550621032,0.9522665739059448,0.0,1.0,0.2380952380952381,Dr.Abdul Kalam
+3035,what is the crocodile called in punch and judy,The Crocodile,a hungry crocodile,0.0,0.6148631572723389,0.6666666666666666,0.7283703088760376,0.7790245413780212,0.7763823866844177,0.0,0.4,0.1724137931034482,a hungry crocodile
+3037,what is the crocodile called in punch and judy,The Crocodile,nile crocodile,0.0,0.7558948397636414,0.6666666666666666,0.694808840751648,0.8703182935714722,0.878678023815155,0.0,0.5,0.25,nile crocodile
+3138,who played the title role in killing eve,Sandra Oh,Sandra Miju Oh,0.0,0.8396531939506531,0.8,0.6842055916786194,0.7948359251022339,0.7820607423782349,0.0,0.8,0.3448275862068965,Sandra Miju Oh
+3147,what is the sign for distance in physics,meter,metre,0.0,0.9614130854606628,0.0,0.7464939951896667,0.9232795238494872,0.9303644895553588,0.0,0.0,0.0,metre
+3284,how do you know what cherokee clan you are,through the maternal line,the mother's,0.0,0.5499796867370605,0.0,0.5130653977394104,0.577977180480957,0.5455480813980103,0.0,0.2857142857142857,0.1612903225806451,the mother's
+3396,how many districts are there in the tennessee house of representatives,9,nine,0.0,0.9352357983589172,0.0,0.7458492517471313,0.8966346979141235,0.908622980117798,0.0,0.0,0.5,nine
+3447,el salvador's archbishop murdered as he celebrates mass,Óscar Arnulfo Romero y Galdámez,scar arnulfo romero,0.0,0.787084698677063,0.5,0.7053686380386353,0.4761810600757599,0.4208083748817444,0.0,0.6666666666666666,0.5859375,scar arnulfo romero
+3448,el salvador's archbishop murdered as he celebrates mass,Óscar Arnulfo Romero y Galdámez,scar Romero,0.0,0.7823027968406677,0.2857142857142857,0.318301647901535,0.5510029196739197,0.5532090663909912,0.0,0.5,0.217391304347826,scar Romero
+3519,who is the father of zero based budget system,Peter Pyrrh,peter pyrh,0.0,0.9661588072776794,0.5,0.8252278566360474,0.790362536907196,0.8181451559066772,0.0,0.5,0.25,peter pyrh
+3568,slip ring of an induction motor is usually made up of,graphite or metal,a stationary graphite or metal contact,0.0,0.7377938628196716,0.7499999999999999,0.8034642934799194,0.7727959752082825,0.7269366383552551,0.0,0.6666666666666666,0.5165692007797271,a stationary graphite or metal contact
+3573,what category was hurricane matthew when it made landfall in florida,Category 3,3,0.0,0.8626726269721985,0.6666666666666666,0.6815128922462463,0.7444332838058472,0.7239681482315063,0.0,0.6666666666666666,0.4545454545454545,3
+3613,who was the last king to live in versailles,Louis XVI,Louis XIV,0.0,0.9621239900588988,0.5,0.8452179431915283,0.8006742000579834,0.8105162978172302,0.0,0.5,0.25,Louis XIV
+3630,who claimed the mississippi river valley for france,Robert de La Salle,la salle,0.0,0.7377644777297974,0.6666666666666666,0.7588923573493958,0.2303144186735153,0.2452747523784637,0.0,0.6666666666666666,0.8522727272727273,la salle
