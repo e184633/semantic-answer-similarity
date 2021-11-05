@@ -1,2 +1,2 @@
-# semantic-answer_similarity
+# semantic-answer-similarity
  XCS224U Final Project
